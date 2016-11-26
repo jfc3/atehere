@@ -1,0 +1,40 @@
+{
+    "result": {
+        "city": "Delaware",
+		"posts": [
+            {
+                "name": "The Dog House - New Castle, DE",
+				"add1": "1200 N Dupont Hwy",
+				"add2": "",
+				"cty": "New Castle",
+				"stt": "DE",
+				"zpcd": "19720",
+				"phn": "(302) 328-5380",
+				"url": "",
+				"note": "No-frills, cash-only eatery with counter seating, offering hot dogs, burgers, pizza and cheesesteaks."
+            },
+            {
+                "name": "Go Fish! - Rehoboth Beach, DE",
+				"add1": "24 Rehoboth Ave",
+				"add2": "",
+				"cty": "Rehoboth Beach",
+				"stt": "DE",
+				"zpcd": "19971",
+				"phn": "(302) 226-1044",
+				"url": "http://www.gofishrehoboth.com/",
+				"note": "Casual 40-seat restaurant with British theme featuring fish 'n' chips, toffee pudding and other eats."
+            },
+            {
+                "name": "Hopkins Farm Creamery - Lewes, DE",
+				"add1": "18186 Dairy Farm Rd",
+				"add2": "",
+				"cty": "Lewes",
+				"stt": "DE",
+				"zpcd": "19958",
+				"phn": "(302) 645-7163",
+				"url": "http://hopkinsfarmcreamery.com/",
+				"note": "Ice cream made with local ingredients and sold from walk-up windows on a working dairy farm."
+            }
+        ]
+    }
+}

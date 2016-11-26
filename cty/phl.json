@@ -1,0 +1,85 @@
+{
+    "result": {
+        "city": "Philadelphia, PA",
+		"posts": [
+            {
+                "name": "Beck's Cajun Cafe - Reading Terminal Market",
+				"add1": "51 N 12th St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19107",
+				"phn": "(267) 318-7480",
+				"url": "http://www.beckscajuncafe.com/",
+				"note": "Bustling counter serve dishing up Cajun & Creole comfort food to the farmer's-market crowd. You need to make sure order a train wreck."
+            },
+            {
+                "name": "Beiler's Bakery - Reading Terminal Market",
+				"add1": "51 N 12th St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19107",
+				"phn": "(267) 318-7480",
+				"url": "",
+				"note": "Destination for baked goods, including Pennsylvania Dutch classics & a variety of housemade donuts. Blueberry or apple fritter are a must have."
+            },
+            {
+                "name": "D'Angelo Brothers",
+				"add1": "909 S 9th St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19147",
+				"phn": "(215) 923-5637",
+				"url": "http://www.dangelobros.com/",
+				"note": "Area institution specializing in house made exotic sausages, sustainable game, specialty pâtés and roasts."
+            },
+            {
+                "name": "Di Bruno Brothers - South Philly location",
+				"add1": "930 S 9th St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19147",
+				"phn": "(215) 922-2876",
+				"url": "http://www.dibruno.com/",
+				"note": "Acclaimed gourmet destination supplying meats, cheeses & prepared foods, plus specialty items."
+            },
+            {
+                "name": "Isgro's Bakery",
+				"add1": "1009 Christian St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19147",
+				"phn": "(215) 923-3092",
+				"url": "http://www.bestcannoli.com/",
+				"note": "Venerable bake shop turning out cannoli, cakes, cookies, custards, tarts and other Italian pastries."
+            },
+            {
+                "name": "Reading Terminal Market",
+				"add1": "51 N 12th St,",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19107",
+				"phn": "(215) 922-2317",
+				"url": "http://www.readingterminalmarket.org/",
+				"note": "Famous indoor farmer's market offering diverse fare, housewares and area specialties since 1892."
+            },
+            {
+                "name": "Tommy Di Nic's - Reading Terminal Market",
+				"add1": "51 North 12th Street",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19107",
+				"phn": "(215) 923-6175",
+				"url": "http://tommydinics.com/",
+				"note": "Crowds pack this venerable Reading Terminal Market sandwich counter celebrated for its roast pork and make sure to get sharp provolone on your snadwich."
+            }
+
+        ]
+    }
+}

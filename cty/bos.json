@@ -1,0 +1,40 @@
+{
+    "result": {
+        "city": "Boston, MA",
+		"posts": [
+            {
+                "name": "Maria's Pastry Shop",
+				"add1": "46 Cross St",
+				"add2": "",
+				"cty": "Boston",
+				"stt": "MA",
+				"zpcd": "02113",
+				"phn": "(617) 523-1196",
+				"url": "http://mariaspastry.com/",
+				"note": "Go for the pasta but more importantly for tennis ball sized meatballs.Unassuming Italian baker offering acclaimed sweets such as cannoli, torrone, and marzipan."
+			},
+            {
+                "name": "Mike's Pastry",
+				"add1": "300 Hanover St",
+				"add2": "",
+				"cty": "Boston",
+				"stt": "MA",
+				"zpcd": "02113",
+				"phn": "(617) 742-3050",
+				"url": "https://www.mikespastry.com/",
+				"note": "Renowned Italian bake shop providing cannoli in multiple flavors, gelati, and biscotti since 1946."
+            },
+            {
+                "name": "Veggie Galaxy",
+				"add1": "450 Massachusetts Ave",
+				"add2": "",
+				"cty": "Cambridge",
+				"stt": "MA",
+				"zpcd": "02139",
+				"phn": "(617) 497-1513",
+				"url": "http://www.veggiegalaxy.com/",
+				"note": "Imaginative twist on an old-school diner specializing in from-scratch vegan and vegetarian options. I ordered the Pearl Street Redhead Omelet (Portobellos, Caramelized Onion, Feta, Roasted Red Pepper Sauce) and don't forget to ask for home-made hot sauce."
+            }
+        ]
+    }
+}

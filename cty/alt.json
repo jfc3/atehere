@@ -1,0 +1,62 @@
+{
+    "result": {
+        "city": "Atlanta, GA",
+		"posts": [
+            {
+                "name": "Buford Highway Farmers Market *",
+				"add1": "5600 Buford Hwy NE",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30340",
+				"phn": "(770) 455-0770",
+				"url": "http://www.aofwc.com/",
+				"note": "Spacious market with a global and ethnic focus in the selection of produce, meats and seafood."
+            },
+            {
+                "name": "El Taco Veloz *",
+				"add1": "5084 Buford Hwy NE",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30340",
+				"phn": "(770) 936-9094",
+				"url": "http://tacoveloz.com/",
+				"note": "El Taco Veloz strives to deliver the best in high-value, low-priced authentic Mexican food."
+            },
+            {
+                "name": "Fat Matt's Rib Shack *",
+				"add1": "1811 Piedmont Rd NE",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30324",
+				"phn": "(404) 607-1622",
+				"url": "http://www.fatmattsribshack.com/",
+				"note": "No-frills counter-service beer and BBQ joint with nightly live blues music."
+            },
+            {
+                "name": "Heirloom Market BBQ *",
+				"add1": "2243 Akers Mill Rd SE",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30339",
+				"phn": "(770) 850-1008",
+				"url": "http://www.heirloommarketbbq.com/",
+				"note": "Tiny eatery with a single communal table offering BBQ and burgers with a slight Asian accent. You should get the spicy BBQ sandwich."
+            },
+            {
+                "name": "Holeman and Finch *",
+				"add1": "2277 Peachtree Rd NW",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30309",
+				"phn": "(404) 948-1175",
+				"url": "http://www.holeman-finch.com/",
+				"note": "Modern gastropub with new takes on vintage eats such as deviled eggs, plus custom cocktails. At 10:00 PM they serve a limited amount number of  cheeseburgers."
+			}
+		]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "result": {
+        "city": "Austin, TX",
+		"posts": [
+            {
+                "name": "Amy's Ice Cream - South Congress Ave",
+				"add1": "1301 S Congress Ave",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "(512) 440-7488",
+				"url": "http://amysicecreams.com/",
+				"note": "Local chain serving inventive ice creams, milkshakes, ices and frozen yogurts with clever fixings."
+            },
+            {
+                "name": "Franklins BBQ",
+				"add1": "900 E 11th St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78702",
+				"phn": "(512) 653-1187",
+				"url": "https://franklinbarbecue.com/",
+				"note": "Long lines form early for brisket, pulled pork and other smoked meats at this lunch-only spot."
+            },
+            {
+                "name": "G'Raj Mahal Cafe and Lounge",
+				"add1": "73 Rainey St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 480-2255",
+				"url": "http://grajmahalaustin.com/",
+				"note": "This brick-and-mortar outpost of a former food truck serves Indian fare and has a tented space outdoors."
+            },
+            {
+                "name": "Gourdoughs Doughnuts",
+				"add1": "1503 S 1st St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "",
+				"url": "http://gourdoughs.com/",
+				"note": "Ironic names and unique toppings on fried-dough treats served until late-night from a vintage trailer."
+            },
+            {
+                "name": "Güero's Taco Bar",
+				"add1": "1412 S Congress Ave",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "(512) 447-7688",
+				"url": "http://gueros.com/",
+				"note": "A large menu, salsa bar & hand-shaken margaritas in a landmark building with a patio."
+            },
+            {
+                "name": "Ironworks BBQ",
+				"add1": "100 Red River St,",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 478-4855",
+				"url": "http://ironworksbbq.com/",
+				"note": "Barbecued meats, including signature beef ribs, and specialty sauces in a historic former iron shop."
+            },
+            {
+                "name": "Moonshine Patio Bar and Grill",
+				"add1": "303 Red River St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 236-9599",
+				"url": "http://moonshinegrill.com/",
+				"note": "Contemporary comfort food and cocktails in a historic home with a patio."
+            },
+            {
+                "name": "Noble Pig",
+				"add1": "4805 Burnet Rd",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78756",
+				"phn": "(512) 666-5124",
+				"url": "http://noblesandwiches.com/",
+				"note": "A farm-to-table slant applies to big breakfast & lunch in casual, counter-service digs with a patio."
+            },
+            {
+                "name": "Salt Lick BBQ",
+				"add1": "18300 Farm to Market Rd 1826",
+				"add2": "",
+				"cty": "Driftwood",
+				"stt": "TX",
+				"zpcd": "78619",
+				"phn": "(512) 858-4959",
+				"url": "http://saltlickbbq.com/",
+				"note": "It's BYOB at this venerable cash-only, BBQ spot with a rustic setting and live music outdoors."
+            },
+            {
+                "name": "Smitty's Market - BBQ - Lockhart, TX",
+				"add1": "208 S Commerce St",
+				"add2": "",
+				"cty": "Lockhart",
+				"stt": "TX",
+				"zpcd": "78644",
+				"phn": "(512) 398-9344",
+				"url": "http://smittysmarket.com/",
+				"note": "Acclaimed BBQ spot offering meats fresh from the smoker in a no-frills space with communal tables."
+            },
+            {
+                "name": "South Congress Cafe",
+				"add1": "1600 S Congress Ave",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "(512) 447-3905",
+				"url": "http://www.southcongresscafe.com/",
+				"note": "Known for its Bloody Mary, carrot-cake French toast & daily brunch & dinner in a retro-modern room."
+            },
+            {
+                "name": "Stubbs BBQ",
+				"add1": "801 Red River St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 480-8341",
+				"url": "http://www.stubbsaustin.com/",
+				"note": "Beer, brisket and music Downtown with a renowned Sunday gospel brunch."
+            },
+            {
+                "name": "Torchy's Tacos",
+				"add1": "1311 S 1st St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "(512) 366-0537",
+				"url": "http://torchystacos.com/",
+				"note": "Local chain serving Mexican-street-food-style tacos in inventive varieties, including for breakfast."
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "result": {
+        "city": "Ocean City, NJ",
+		"posts": [
+            {
+                "name": "Piccini Wood Fired Brick Oven Pizza",
+				"add1": "1260 West Ave",
+				"add2": "",
+				"cty": "Ocean City",
+				"stt": "NJ",
+				"zpcd": "08226",
+				"phn": "(609) 525-0767",
+				"url": "http://www.picciniocnj.com/",
+				"note": "Homey, cash-only eatery serving a wide-ranging menu of Italian staples, from pastas to sandwiches. Make sure to get a side of meatballs if nothing else."
+			},
+            {
+                "name": "Smitty's Clam Bar",
+				"add1": "910 Bay Ave",
+				"add2": "",
+				"cty": "Somers Point",
+				"stt": "NJ",
+				"zpcd": "08244",
+				"phn": "(609) 927-8783",
+				"url": "",
+				"note": "Snug veteran clam shack preparing no-frills seafood dishes with a surfer vibe."
+            }
+        ]
+    }
+}

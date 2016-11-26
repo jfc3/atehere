@@ -1,0 +1,107 @@
+{
+    "result": {
+        "city": "San Diego, CA",
+		"posts": [
+            {
+                "name": "El Puesto - on Prospect",
+				"add1": "789 W Harbor Dr",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92101",
+				"phn": "(619) 233-8880",
+				"url": "http://eatpuesto.com/",
+				"note": "Bi-level eatery with floor-to-ceiling windows serving an innovative, locally sourced Mexican menu."
+            },
+            {
+                "name": "Fat Sal's - Pacific Beach, CA *",
+				"add1": "956 Garnet Ave",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92109",
+				"phn": "(855) 682-4373",
+				"url": "http://fatsalsdeli.com/",
+				"note": "Counter-serve chain featuring creative heroes, wraps burgers, hot dogs and sides in a hip space. The sandwich t get is the Fat Sal sandwich."
+            },
+            {
+                "name": "Georges at the Cove - La Jolla, CA *",
+				"add1": "1250 Prospect St",
+				"add2": "",
+				"cty": "La Jolla",
+				"stt": "CA",
+				"zpcd": "92037",
+				"phn": "(858) 454-4244",
+				"url": "http://www.georgesatthecove.com/",
+				"note": "Renowned chef Trey Foshee's seafood-centric cuisine served in an elegant setting with ocean views."
+            },
+            {
+                "name": "Hodad's - Ocean Beach, CA *",
+				"add1": "5010 Newport Ave,",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92107",
+				"phn": "(619) 224-4623",
+				"url": "http://hodadies.com/",
+				"note": "At this burger joint patrons can dine inside restored cars or amid license plate-covered walls."
+            },
+            {
+                "name": "Karl Strauss Brewery",
+				"add1": "1157 Columbia St",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92101",
+				"phn": "(619) 234-2739",
+				"url": "https://www.karlstrauss.com/",
+				"note": ""
+            },
+            {
+                "name": "Las Cuatro Milpas",
+				"add1": "1857 Logan Ave",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92113",
+				"phn": "(619) 234-4460",
+				"url": "",
+				"note": "Old-school Mexican joint earning fans with its homemade tortillas and picnic-table decor since 1933. Pork tamales with rice and beans are the dish to get."
+            },
+            {
+                "name": "Lion's Share",
+				"add1": "629 Kettner Blvd",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92101",
+				"phn": "(619) 564-6924",
+				"url": "http://lionssharesd.com/",
+				"note": "Intimate, moody bar pairing handcrafted drinks with New American plates featuring exotic meats."
+            },
+
+            {
+                "name": "Phil's BBQ - San Marcos, CA *",
+				"add1": "579 Grand Ave,",
+				"add2": "",
+				"cty": "San Marcos",
+				"stt": "CA",
+				"zpcd": "92078",
+				"phn": "(760) 759-1400",
+				"url": "https://www.philsbbq.net/",
+				"note": "Casual eatery and bar for signature mesquite-barbecued baby-back & beef ribs, plus sandwiches and sides."
+            },
+            {
+                "name": "Tajima Ramen Bar - Hillcrest",
+				"add1": "3739 Sixth Ave",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92103",
+				"phn": "(619) 269-5050",
+				"url": "http://tajimasandiego.com/",
+				"note": "Ramen restaurant with an industrial-chic design has several toppings to choose from and rice bowls."
+            }
+        ]
+    }
+}

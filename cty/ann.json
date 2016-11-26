@@ -1,0 +1,51 @@
+{
+    "result": {
+        "city": "Annapolis, MD",
+		"posts": [
+            {
+                "name": "Chick and Ruth's",
+				"add1": "165 Main St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 269-6737",
+				"url": "http://chickandruths.com/",
+				"note": "Lively landmark diner featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs."
+            },
+            {
+                "name": "Davis's Pub *",
+				"add1": "400 Chester Ave",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21403",
+				"phn": "(410) 268-7432",
+				"url": "http://davispub.com",
+				"note": "Long-running (since the 1920s) neighborhood joint known for its crab cakes and creative pub fare."
+			},
+            {
+                "name": "Double T Diner",
+				"add1": "12 Defense St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 571-9070",
+				"url": "http://www.doubletdiner.com/restaurants/24-hour-diners/annapolis-restaurant.aspx",
+				"note": "Local diner chain with a retro vibe and a menu of comfort-food classics (some are open 24 hours)."
+            },
+            {
+                "name": "Storm Brothers Ice Cream Factory",
+				"add1": "130 Dock St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 263-3376",
+				"url": "http://www.stormbros.com/",
+				"note": "Neighborhood ice cream parlor serving cones, shakes, flurries, sundaes and more since 1976."
+            }
+        ]
+    }
+}

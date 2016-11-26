@@ -1,0 +1,73 @@
+{
+    "result": {
+        "city": "Baltimore, MD",
+		"posts": [
+            {
+                "name": "Baltimore Farmers' Market and Bazaar",
+				"add1": "E Saratoga St and Holliday St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21202",
+				"phn": "",
+				"url": "http://www.promotionandarts.org/events-festivals/baltimore-farmers-market-bazaar",
+				"note": "NOTE - Only open Sunday from mid-April to Mid-Deceber. While strolling through Maryland's largest producers-only market (producers-only meaning all vendors make what they sell), shoppers can revel at the sight of a vast quantity of foods, including crisp seasonal fruits and vegetables, poultry, seafood, beef, pork, lamb, rabbit, fresh baked goods, flavorful herbs and organically raised and produced milk, yogurt, butter, eggs and cheese products. Additionally, dozens of food vendors add spice to the market with multicultural cuisine such as popular pit beef sandwiches, omelets and breakfast burritos, crepes, wood fired pizzas, pies and quiches, soups, noodles and dumplings."
+            },
+            {
+                "name": "Blue Moon Cafe",
+				"add1": "1621 Aliceanna St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21231",
+				"phn": "(410) 522-3940",
+				"url": "http://bluemoonbaltimore.com/",
+				"note": "Popular cafe serving American breakfast meals in a bright, funky setting, open 24 hours on weekends. The dish to get from what I'm told is the Captain Crunch French Toast with homemade whipcream and fresh seasonal berries."
+            },
+            {
+                "name": "Chaps Pit Beef",
+				"add1": "5801 Pulaski Hwy",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21205",
+				"phn": "(410) 483-2379",
+				"url": "http://www.chapspitbeef.com/",
+				"note": "Popular pit-beef outlet serving namesake sandwiches and homestyle sides in a strip-club parking lot."
+            },
+            {
+                "name": "G & A Restaurant *",
+				"add1": "3802 Eastern Ave",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21224",
+				"phn": "(410) 276-9422",
+				"url": "http://www.gandarestaurant.com/",
+				"note": "Iconic diner known for hot dogs, burgers and other casual eats served in classic digs with a counter."
+            },
+            {
+                "name": "Golden West Cafe",
+				"add1": "1105 W 36th St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21211",
+				"phn": "(410) 889-8891",
+				"url": "http://www.goldenwestcafe.com/",
+				"note": "Funky Hampden roadhouse offering New Mexican dishes and eclectic comfort grub in unpretentious digs."
+            },
+            {
+                "name": "One-Eyed Mike's",
+				"add1": "708 S Bond St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21231",
+				"phn": "(410) 327-0445",
+				"url": "http://www.oneeyedmikes.com/",
+				"note": "Local gastropub in a historic former tavern with a hand-carved bar, tin ceiling and courtyard."
+            }
+        ]
+    }
+}

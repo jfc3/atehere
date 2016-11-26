@@ -1,0 +1,18 @@
+{
+    "result": {
+        "city": "Nashville, TN",
+		"posts": [
+            {
+                "name": "Prince's Hot Chicken Shack",
+				"add1": "123 Ewing Dr",
+				"add2": "",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37207",
+				"phn": "(615) 226-9442",
+				"url": "",
+				"note": "Known for Nashville's unique deep-fried poultry specialty, spiced from mild to ultrahot levels."
+            }
+        ]
+    }
+}

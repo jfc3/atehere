@@ -1,0 +1,29 @@
+{
+    "result": {
+        "city": "Syracuse, NY",
+		"posts": [
+            {
+                "name": "Heid's of Liverpool",
+				"add1": "305 Oswego St",
+				"add2": "",
+				"cty": "Liverpool",
+				"stt": "NY",
+				"zpcd": "13088",
+				"phn": "(315) 451-0786",
+				"url": "http://heidsofliverpool.com/",
+				"note": "Standby for hot dogs, sausages and other quick serve fare in nostalgic digs and adjacent ice cream shop."
+            },
+            {
+                "name": "Market Diner",
+				"add1": "2100 Park St",
+				"add2": "",
+				"cty": "Syracuse",
+				"stt": "NY",
+				"zpcd": "13208",
+				"phn": "(315) 474-5247",
+				"url": "http://themarketdiner.com/",
+				"note": "Family-owned vintage diner with a mural of '50s-era stars serves up American comfort food."
+            }
+        ]
+    }
+}

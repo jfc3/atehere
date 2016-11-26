@@ -1,0 +1,29 @@
+{
+    "result": {
+        "city": "Rochester, NY",
+		"posts": [
+            {
+                "name": "Mamasan's Noodle Caboodle Restaurant",
+				"add1": "2800 Monroe Ave",
+				"add2": "",
+				"cty": "Rochester",
+				"stt": "NY",
+				"zpcd": "14618",
+				"phn": "(585) 461-3290",
+				"url": "http://mamasans.com/",
+				"note": "Hearty Thai and Vietnamese noodle and rice dishes spiced to taste in a friendly, family-run eatery."
+            },
+            {
+                "name": "Parkside Diner",
+				"add1": "4353 Culver Rd",
+				"add2": "",
+				"cty": "Rochester",
+				"stt": "NY",
+				"zpcd": "14622",
+				"phn": "(585) 323-2710",
+				"url": "http://parksidediner.com/",
+				"note": "Classic, unpretentious American restaurant with outdoor seating and an attached mini-golf course."
+            }
+        ]
+    }
+}
