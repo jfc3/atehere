@@ -136,7 +136,7 @@ if ($slct != "" && $slct != "xxx") {
 	<?php	}	?>
 	</div>
 	<div id="ftr" role="contentinfo">
-		<p role="contentinfo">&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>		
+		<p role="contentinfo">&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a> <a href="https://github.com/jfc3/atehere">GitHub</a></p>		
 	</div>
 </div>
 <script src="../js/google.js"></script>
