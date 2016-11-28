@@ -69,6 +69,17 @@
 				"note": "Old-school diner serving American comfort food 24/7 to everyone from hipsters to families."
             },
             {
+                "name": "Boccato Gelato and Espresso",
+				"add1": "2719 Wilson Blvd",
+				"add2": "",
+				"cty": "Arlington",
+				"stt": "VA",
+				"zpcd": "22201",
+				"phn": "(703) 869-6522",
+				"url": "http://gelatoarlingtonva.wixsite.com/boccato",
+				"note": "Occasional live music plays at this coffee shop with an espresso bar, gelato and other desserts."
+            },
+            {
                 "name": "Bombay Curry - Del Ray, VA",
 				"add1": "2607 Mt Vernon Ave",
 				"add2": "",
@@ -177,6 +188,17 @@
 				"phn": "(703) 684-0372",
 				"url": "",
 				"note": "Pint-size nook that lures locals for straightforward hot & cold sandwiches plus breakfast bites."
+            },
+            {
+                "name": "The Java Shack",
+				"add1": "2507 Franklin Rd",
+				"add2": "",
+				"cty": "Arlington",
+				"stt": "VA",
+				"zpcd": "22201",
+				"phn": "703) 527-9556",
+				"url": "http://commonwealthjoe.com/pages/the-java-shack",
+				"note": "Neighborhood coffee shop featuring hot and cold brews made with locally roasted beans and a patio."
             },
             {
                 "name": "Knotty Pine Restaurant - Front Royal, VA",
