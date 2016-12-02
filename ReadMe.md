@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.3.0
+* Release Number:  v.0.3.2
 * Release Date: 09-27-2016
 
 ## Overview
@@ -57,7 +57,9 @@ Enhancements:
 * Added Boston, MA, to drop down list and created necessary JSON.
 * Added code to check INPUT field for special characters.
 * Added error message for when people submit the FORM without selecting a location.
-
+* Added link to project on GitHub.
+* Added e-mail link for questions.
+* 
 ## Installation
 Please have the following installed before running:
 * You will need a server with at least PHP 5.6
