@@ -1,6 +1,7 @@
 <?php
 $slct = htmlspecialchars($_GET['slct']);
-if ($slct != "" && $slct != "xxx") {
+$locs = array("ann", "alt", "aus", "bal","bna", "bos", "buf", "cle", "col", "de", "ky", "las", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
+if (in_array($slct, $locs)) {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
 	// convert the string to a json object
@@ -74,13 +75,13 @@ if ($slct != "" && $slct != "xxx") {
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
 		<?php		
-		 if ($slct == "xxx") {
+		 if (!in_array($slct, $locs)) {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
 		<form name="RequestForm" method="get" action="index.php" role="form">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
-				<option value="xxx">Select a location</option>
+				<option value="">Select a location</option>
 				<option value="ann">Annapolis, MD</option>
 				<option value="alt">Atlanta, GA</option>
 				<option value="aus">Austin, TX</option>
