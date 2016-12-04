@@ -111,7 +111,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<input class="submit" type="submit" value="Submit">
 		</form>
 	<?php
-	if ($_GET['slct'] == "" || $_GET['slct'] == "xxx") {
+	if (!in_array($slct, $locs) || $slct == "") {
 	?>
 		<h2>Welcome</h2>
 		<p>You've found a small website <a href="http://jfciii.com">John F Croston III</a> (<a href="https://twitter.com/jfc3">@jfc3</a>) built to allow myself and others to select a city, state, or location and find restaurants in those places to eat.</p>
