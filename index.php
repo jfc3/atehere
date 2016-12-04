@@ -1,7 +1,7 @@
 <?php
 $slct = htmlspecialchars($_GET['slct']);
 $locs = array("", "ann", "alt", "aus", "bal","bna", "bos", "buf", "cle", "col", "de", "ky", "las", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
-if (in_array($slct, $locs)) {
+if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
 	// convert the string to a json object
