@@ -75,7 +75,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
 		<?php		
-		 if (!in_array($slct, $locs)) {
+		 if (!in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
 		<form name="RequestForm" method="get" action="index.php" role="form">
