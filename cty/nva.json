@@ -342,6 +342,18 @@
 				"phn": "",
 				"url": "",
 				"note": "You can get authentic Mexican tacos with contents like lengua (tongue), tripe, pork, beef, chicken, tortas, and many other things."
+            },
+            {
+                "name": "Vaso's Kitchen",
+				"add1": "1225 Powhatan St",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22314",
+				"phn": "(703) 548-2747",
+				"url": "",
+				"note": "Homey neighborhood staple with a cozy dining room and patio seating serving Greek comfort food. You need to order Artichoke Florentina for an appetizer and the Lamb Shank for dinner."
+
             }
         ]
     }
