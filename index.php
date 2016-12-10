@@ -43,13 +43,13 @@ if (in_array($slct, $locs) && $slct != "") {
 		hr { margin: .75em 0 .5em 0;}
 		
 		form { margin: 1em 0;}
-		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.5em;}
+		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
 		label { position: relative; display: block;}
 		select { width: 100%; margin: 0 .5em 0 0;}
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
 
 		.scrn-rdr { position: absolute; left: -10000px; top: auto;}		
-		.error-msg { color: #f00; font-weight: bold; font-size: 1.375em;}	
+		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}	
 		
 		/* tablet and larger */	
 		@media screen and (min-width: 520px) {
