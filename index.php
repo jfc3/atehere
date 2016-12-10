@@ -19,7 +19,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0" /> 
 	<style>
-		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline;}
+		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
 		select, input[type="submit"] { border: solid 1px #000; }
 		select:focus, select:active, input[type="submit"]:focus, input[type="submit"]:active { outline: solid 2px #000;}
 		
@@ -49,7 +49,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
 
 		.scrn-rdr { position: absolute; left: -10000px; top: auto;}		
-		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}	
+		.error-msg { color: #f00; font-weight: bold; font-size: 1.375em;}	
 		
 		/* tablet and larger */	
 		@media screen and (min-width: 520px) {
