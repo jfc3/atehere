@@ -9,7 +9,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	// read the title value
 	$city = $jfo->result->city;
 	// copy the posts array to a php var
-	$posts = $jfo->result->posts;	
+	$posts = $jfo->result->posts;
 }
 ?>
 <!DOCTYPE html>
@@ -17,8 +17,48 @@ if (in_array($slct, $locs) && $slct != "") {
 <head>
 	<title>John F Croston III Ate Here<?php if ($city != "") { echo " in ".$city;} ?></title>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width; initial-scale=1.0" /> 
-	<link rel="stylesheet" href="css/basic.css" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<style>
+		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
+		select, input[type="submit"] { border: solid 1px #000;}
+		select:focus, select:active, input[type="submit"]:focus, input[type="submit"]:active { outline: solid 2px #000;}
+		body { background: #BEFF9E; color: #000; font-family: Helvetica, Verdana, Arial, sans-serif; line-height: 1;}
+		#wrap { margin: 0 auto;}
+		#hdr { background: #ACC7FF;}
+		#cntnt, #ftr { padding: 1em; background: #fff;}
+		#cntnt, #ftr , #ftr { border-top: 1px solid #000;}
+		a, h1, h2, h3, strong { font-weight: bold;}
+		h2, h3 { margin: .5em 0;}
+		h1 { font-size: 2em; padding: .25em .5em;}
+		h1 a { text-decoration: none;}
+		h1 a:hover, h1 a:focus, h1 a:active { text-decoration: underline;}
+		h2 { font-size: 1.75em;}
+		h3 { font-size: 1.5em;}
+		a:hover, a:focus, a:active { text-decoration: none;}
+		p { margin: 1em 0; line-height: 1.25em;}
+		a, a:visited { color: #000;}
+		hr { margin: .75em 0 .5em 0;}
+		form { margin: 1em 0;}
+		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
+		label { position: relative; display: block;}
+		select { width: 100%; margin: 0 .5em 0 0;}
+		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
+		.scrn-rdr { position: absolute; left: -10000px; top: auto;}
+		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
+		@media screen and (min-width: 32.5em) {
+			#wrp { width: 100%;}
+			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
+			#cntnt { padding-top: 0;}
+			#hdr, #cntnt { border-bottom: 0;}
+			h2, h3 { padding: .5em 0 0 0;}
+			h1 { font-size: 2.5em; text-align: center; padding: 0;}
+			h2 { font-size: 2em; padding: 0 .5em 0 0;}
+			h3 { font-size: 1.5em;}
+			p { line-height: 1.5em;}
+			label { display: inline;}
+			select { width: 12.5em;}
+		}
+	</style>
 </head>
 <body>
 <div id="wrap">
@@ -26,8 +66,8 @@ if (in_array($slct, $locs) && $slct != "") {
 		<h1><a href="/atehere/index.php">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main" tabindex="0">
-		<?php		
-		 if (!in_array($slct, $locs) && $slct != "") {
+		<?php
+		if (!in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
 		<form name="RequestForm" method="get" action="index.php" role="form">
