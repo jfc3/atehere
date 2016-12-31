@@ -124,6 +124,17 @@
 				"note": "They have wonderful pastries and donuts. My favorites are the blackberry and blueberry turnovers, aong with their glazed yeast leaven donuts."
             },
             {
+                "name": "Dairy Godmother - Del Ray, VA",
+				"add1": "2310 Mt Vernon Ave",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22301",
+				"phn": "(703) 683-7767",
+				"url": "http://www.thedairygodmother.com/",
+				"note": "Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
+            },
+            {
                 "name": "District Taco",
 				"add1": "5723 Lee Highway",
 				"add2": "",
@@ -135,15 +146,15 @@
 				"note": "In 2009, two neighbors got together over some homemade chips, salsa and guacamole and decided to launch District Taco as a food truck."
             },
             {
-                "name": "Dairy Godmother - Del Ray, VA",
-				"add1": "2310 Mt Vernon Ave",
+                "name": "Earl's Sandwiches",
+				"add1": "2605 Wilson Blvd",
 				"add2": "",
-				"cty": "Alexandria",
+				"cty": "Arlington",
 				"stt": "VA",
-				"zpcd": "22301",
-				"phn": "(703) 683-7767",
-				"url": "http://www.thedairygodmother.com/",
-				"note": "Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
+				"zpcd": "22201",
+				"phn": "(703) 248-0150",
+				"url": "http://www.earlsinarlington.com/",
+				"note": "Creative sandwich shop featuring meats slow-roasted in house, with some veggie offerings too."
             },
             {
                 "name": "Four Sisters Restaurant",
