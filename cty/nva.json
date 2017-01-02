@@ -227,11 +227,22 @@
 				"add1": "4711 Lee Highway",
 				"add2": "",
 				"cty": "Arlington",
-				"stt": "DC",
+				"stt": "VA",
 				"zpcd": "22207",
 				"phn": "(703) 528-2464",
 				"url": "http://metro29diner.com/",
 				"note": "Spacious diner with varied American menu (known for its French toast), open from early till late."
+            },
+            {
+                "name": "Momo Sushi",
+				"add1": "212 Queen St",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22314",
+				"phn": "(703) 299-9092",
+				"url": "http://mymomosushi.com/",
+				"note": "Sushi bar and kitchen with fresh rolls, teriyaki and noodles, plus lots of wine, sake and Japanese beers."
             },
             {
                 "name": "Peter Chang - Arlington, VA",
