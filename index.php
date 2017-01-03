@@ -129,7 +129,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<?php	}	?>
 	</div>
 	<div id="ftr" role="contentinfo">
-		<p role="contentinfo">&copy; 2016 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
+		<p role="contentinfo">&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
 		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from 10K Apart Entry">Questions?</a> <a href="https://github.com/jfc3/10kapart">GitHub</a></p>
 	</div>
 </div>
