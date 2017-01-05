@@ -45,6 +45,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
 		.scrn-rdr { position: absolute; left: -10000px; top: auto;}
 		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
+		.rest-addr { font-weight: normal;}
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
@@ -119,8 +120,8 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php } else { ?>
 			<h3 class="fn"><?php echo $post->name; ?></h3>
 	    <?php } ?>
-			<p><strong>Address - </strong><span class="adr"><span class="street-address"><?php echo $post->add1; ?> <?php if ($post->add2 != "") { echo $post->add2.",";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></p>
-			<?php if ($post->phn != "") { echo "<p><strong>Phone - </strong>".$post->phn."</p>";} ?>
+			<p><!--strong>Address - </strong--><a href="https://www.google.com/maps/place/<?php echo $post->add1; ?>, <?php echo $post->cty; ?>, <?php echo $post->stt; ?>, <?php echo $post->zpcd; ?>" class="rest-addr"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<?php if ($post->phn != "") { echo "<p><!--strong>Phone - </strong-->".$post->phn."</p>";} ?>
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 		</div>
 		<hr>
