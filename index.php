@@ -97,7 +97,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="phl">Philadelphia, PA</option>
 				<option value="pdx">Portland, OR</option>
 				<option value="roc">Rochester, NY</option>
-				<option value="san">San Deigo, CA</option>
+				<option value="san">San Diego, CA</option>
 				<option value="syr">Syracuse, NY</option>
 				<option value="dca">Washington, DC</option>
 			</select>
