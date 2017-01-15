@@ -66,12 +66,12 @@ if (in_array($slct, $locs) && $slct != "") {
 	<div id="hdr" role="banner">
 		<h1><a href="/atehere/index.php">jfciii Ate Here</a></h1>
 	</div>
-	<div id="cntnt" role="main" tabindex="0">
+	<div id="cntnt" role="main">
 		<?php
 		if (!in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
-		<form name="RequestForm" method="get" action="index.php" role="form">
+		<form name="RequestForm" method="get" action="index.php">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
 				<option value="xxx">Select a location</option>
@@ -121,7 +121,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php } else { ?>
 			<h3 class="fn"><?php echo $post->name; ?></h3>
 	    <?php } ?>
-			<p><a href="https://www.google.com/maps/place/<?php echo $post->add1; ?>, <?php echo $post->cty; ?>, <?php echo $post->stt; ?>, <?php echo $post->zpcd; ?>" class="rest-addr" aria-labeledby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-labelledby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 		</div>
@@ -131,7 +131,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<?php	}	?>
 	</div>
 	<div id="ftr" role="contentinfo">
-		<p role="contentinfo">&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
+		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
 		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from 10K Apart Entry">Questions?</a> <a href="https://github.com/jfc3/10kapart">GitHub</a></p>
 	</div>
 </div>
