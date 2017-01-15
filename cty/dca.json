@@ -278,6 +278,28 @@
 				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone."
             },
             {
+                "name": "Peregrine Espresso - Eastern Market",
+				"add1": "660 Pennsylvania Ave SE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20003",
+				"phn": "(202) 629-4381",
+				"url": "http://peregrineespresso.com/",
+				"note": "Serious coffee sippers converge on this snug spot for carefully made espresso drinks, snacks and more."
+            },
+            {
+                "name": "Peregrine Espresso - Union Market",
+				"add1": "309 5th St NE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "(202) 629-4381",
+				"url": "http://peregrineespresso.com/",
+				"note": "Considered by coffee connoisseurs as the premier place to go for a cup of delicious, micro brewed coffee."
+            },
+            {
                 "name": "Red Apron - Union Market",
 				"add1": "1309 5th St NE",
 				"add2": "",
