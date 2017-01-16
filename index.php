@@ -121,7 +121,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php } else { ?>
 			<h3 class="fn"><?php echo $post->name; ?></h3>
 	    <?php } ?>
-			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?><br /><?php if ($post->add2 != "") { echo $post->add2."<br />";} ?></span> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 		</div>
