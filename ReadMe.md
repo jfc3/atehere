@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.3.3
-* Release Date: 01-16-2017
+* Release Number:  v.0.3.4
+* Release Date: 01-21-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -20,6 +20,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Columbus, OH - col
 * Delaware - de
 * Las Vegas, NV - las
+* Los Angeles, CA - lax
 * Maryland - md
 * Memphis, TN -  mem
 * Mississippi - ms
