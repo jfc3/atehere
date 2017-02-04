@@ -3,6 +3,17 @@
         "city": "New York City, NY",
 		"posts": [
             {
+                "name": "Ample Hills Creamery",
+				"add1": "600 11th Ave",
+				"add2": "Gotham West Market",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10036",
+				"phn": "(212) 582-9354",
+				"url": "http://www.amplehills.com/",
+				"note": "Ample Hills Creamery offers creative small-batch ice cream made with local ingredients. They use hormone free milk and cream from grass fed cows and organic cane sugar. If you like salted caramel ice cream you need to try their Salted Crack Caramel."
+            },
+            {
                 "name": "Big Gay Ice Cream Shop",
 				"add1": "125 East 7th Street",
 				"add2": "",
