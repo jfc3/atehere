@@ -57,6 +57,17 @@
 				"phn": "(301) 652-3970",
 				"url": "",
 				"note": "Longtime old-school diner serving homestyle American comfort-food classics 24 hours, 7 days a week."
+            },
+            {
+                "name": "Zoe's Chocolate Co.",
+				"add1": "121 N Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 694-5882",
+				"url": "http://zoeschocolate.com/",
+				"note": "Zoe’s Chocolate combines the tradition of past generations and of true artisan chocolatiers, with the modern sophistication of today’s flavors, trends and ingredients. You need to buy yourself a roasted almond and dark chocolate bar."
             }
         ]
     }
