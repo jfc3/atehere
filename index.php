@@ -115,12 +115,15 @@ if (in_array($slct, $locs) && $slct != "") {
 			<h2><?php echo $city; ?></h2>
 			<p>All the restaurants with an asterisk (<strong>*</strong>) next to them are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 			<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
-    <?php foreach ($posts as $post) { ?>
+    <?php
+		foreach ($posts as $post) {
+			$rest_name = strtolower(preg_replace("/[^A-Za-z0-9]/", "", $post->name)); 
+	?>
 		<div class="vcard">
 		<?php if ($post->url != "") { ;?>
-			<h3 class="fn"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?></a></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?></a></h3>
 			<?php } else { ?>
-			<h3 class="fn"><?php echo $post->name; ?></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?></h3>
 	    <?php } ?>
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
