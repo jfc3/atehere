@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.3.4
-* Release Date: 01-21-2017
+* Release Number:  v.0.3.5
+* Release Date: 02-06-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -65,6 +65,7 @@ Enhancements:
 * Added note with an ID tied to the aria-described by so screen reader users know the address link goes to Google Maps.
 * Added "extended-address" SPAN to address for additional address alogn with moving <BR /> after the SPAN instead of inside.
 * Added a few more restaurants to the DCA and NVA JSON files, along with notes to the a few palces that were missing them.
+* Created in page anchor by using the restaurant's name and removing the blank spaces along with special characters, making it all lowercase, and adding a tab index of negative one ( tabindex="-1" ). I did this so people can link directly to a given restaurant on a particular page.
 
 ## Installation
 Please have the following installed before running:
