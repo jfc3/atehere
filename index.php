@@ -1,6 +1,6 @@
 <?php
 $slct = htmlspecialchars($_GET['slct']);
-$locs = array("", "ann", "alt", "aus", "bal","bna", "bos", "buf", "cle", "col", "de", "ky", "las", "lax", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
+$locs = array("", "ann", "atl", "aus", "bal","bna", "bos", "buf", "cle", "col", "de", "ky", "las", "lax", "md", "mem", "ms", "msy", "nyc","nva", "ocnj", "phl","pdx", "roc", "san", "syr", "dca");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -76,7 +76,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<select id="slct" name="slct">
 				<option value="xxx">Select a location</option>
 				<option value="ann">Annapolis, MD</option>
-				<option value="alt">Atlanta, GA</option>
+				<option value="atl">Atlanta, GA</option>
 				<option value="aus">Austin, TX</option>
 				<option value="bal">Baltimore, MD</option>
 				<option value="bos">Boston, MA</option>
