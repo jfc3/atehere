@@ -25,7 +25,7 @@
 				"note": "Old-school Italian grocery store and deli drawing foodies for meatball subs, homemade sausages and more."
             },
             {
-                "name": "Amsterdam Falafel - Adams Morgan",
+                "name": "Amsterdam Falafel",
 				"add1": "2425 18th St NW",
 				"add2": "",
 				"cty": "Washington",
@@ -36,7 +36,7 @@
 				"note": "Falafel on pita bread plus Middle Eastern salads and Belgian fries at a late-night quick-serve eatery."
             },
             {
-                "name": "Baked and Wired - Georgetown",
+                "name": "Baked and Wired",
 				"add1": "1052 Thomas Jefferson St NW",
 				"add2": "",
 				"cty": "Washington",
@@ -80,9 +80,9 @@
 				"note": "New American restaurant with a casual interior and patio serving breakfast, lunch and candlelit dinners. I've been there on weekends for breakfast and tea."
             },
             {
-                "name": "Buffalo and Bergen - Union Market",
+                "name": "Buffalo and Bergen",
 				"add1": "1309 5th St NE",
-				"add2": "",
+				"add2": "Union Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20002",
@@ -168,7 +168,7 @@
 				"note": "Large Latin-style sandwiches are served until late at this counter at a gas station."
             },
             {
-                "name": "Good Stuff Eatery - Capitol Hill",
+                "name": "Good Stuff Eatery",
 				"add1": "303 Pennsylvania Ave SE",
 				"add2": "",
 				"cty": "Washington",
@@ -234,9 +234,9 @@
 				"note": "Food and fashion marketplace featuring java, street food and fashion from DC-based businesses."
             },
             {
-                "name": "Market Lunch - DC (Eastern Market)",
+                "name": "Market Lunch",
 				"add1": "225 7th St SE",
-				"add2": "",
+				"add2": "Eastern Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20003",
@@ -247,7 +247,7 @@
             {
                 "name": "Mason Dixie Biscuit Co.",
 				"add1": "1309 5th Street NE",
-				"add2": "",
+				"add2": "Union Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20002",
@@ -267,9 +267,9 @@
 				"note": "Grilled sausage sandwiches and chili served in a small storefront with a retail market component."
             },
             {
-                "name": "Momofuku CCDC (City Center DC)",
+                "name": "Momofuku CCDC",
 				"add1": "1090 I St NW",
-				"add2": "",
+				"add2": "City Center DC",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20001",
@@ -311,9 +311,9 @@
 				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone."
             },
             {
-                "name": "Peregrine Espresso - Eastern Market",
+                "name": "Peregrine Espresso",
 				"add1": "660 Pennsylvania Ave SE",
-				"add2": "",
+				"add2": "Eastern Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20003",
@@ -322,9 +322,9 @@
 				"note": "Serious coffee sippers converge on this snug spot for carefully made espresso drinks, snacks and more."
             },
             {
-                "name": "Peregrine Espresso - Union Market",
+                "name": "Peregrine Espresso",
 				"add1": "309 5th St NE",
-				"add2": "",
+				"add2": "Union Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20002",
@@ -333,9 +333,9 @@
 				"note": "Considered by coffee connoisseurs as the premier place to go for a cup of delicious, micro brewed coffee."
             },
             {
-                "name": "Red Apron - Union Market",
+                "name": "Red Apron",
 				"add1": "1309 5th St NE",
-				"add2": "",
+				"add2": "Union Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20002",
@@ -366,9 +366,9 @@
 				"note": "Customers belly up to the counter or sit outside at this no-frills 24/7 breakfast and burger spot."
             },
             {
-                "name": "Takorean - Union Market",
+                "name": "Takorean",
 				"add1": "1309 5th St NE",
-				"add2": "",
+				"add2": "Union Market",
 				"cty": "Washington",
 				"stt": "DC",
 				"zpcd": "20002",
@@ -377,7 +377,7 @@
 				"note": "Union Market vendor providing fusion tacos and bowls with Korean-style BBQ fillings."
             },
             {
-                "name": "The Pig - 14th St.",
+                "name": "The Pig",
 				"add1": "1320 14th St NW",
 				"add2": "",
 				"cty": "Washington",
@@ -399,7 +399,7 @@
 				"note": "This small Thai spot uses traditional recipes and offers chef's choice menus and vegetarian specials. Plu, you need to make a reservation because they don't take walk-ins"
             },
             {
-                "name": "Thomas Sweets - Georgetown",
+                "name": "Thomas Sweets",
 				"add1": "3214 P St NW",
 				"add2": "",
 				"cty": "Washington",

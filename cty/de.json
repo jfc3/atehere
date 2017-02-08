@@ -3,7 +3,7 @@
         "city": "Delaware",
 		"posts": [
             {
-                "name": "The Dog House - New Castle, DE",
+                "name": "The Dog House",
 				"add1": "1200 N Dupont Hwy",
 				"add2": "",
 				"cty": "New Castle",
@@ -14,7 +14,7 @@
 				"note": "No-frills, cash-only eatery with counter seating, offering hot dogs, burgers, pizza and cheesesteaks."
             },
             {
-                "name": "Go Fish! - Rehoboth Beach, DE",
+                "name": "Go Fish!",
 				"add1": "24 Rehoboth Ave",
 				"add2": "",
 				"cty": "Rehoboth Beach",
@@ -25,7 +25,7 @@
 				"note": "Casual 40-seat restaurant with British theme featuring fish 'n' chips, toffee pudding and other eats."
             },
             {
-                "name": "Hopkins Farm Creamery - Lewes, DE",
+                "name": "Hopkins Farm Creamery",
 				"add1": "18186 Dairy Farm Rd",
 				"add2": "",
 				"cty": "Lewes",
