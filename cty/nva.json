@@ -3,7 +3,7 @@
         "city": "Northern Virginia",
 		"posts": [
             {
-                "name": "29 Diner - Fairfax,VA",
+                "name": "29 Diner",
 				"add1": "10536 Fairfax Blvd",
 				"add2": "",
 				"cty": "Fairfax",
@@ -25,7 +25,7 @@
 				"note": "Chef Jose Andres riffs on classics from America's culinary heritage in a homey, art-filled setting. You need to go with a few people so you can try most of the menu. If you like ham get the five ham sampler plate."
             },
             {
-                "name": "Bangkok Golden - Falls Church, VA",
+                "name": "Bangkok Golden",
 				"add1": "6395 Seven Corners Center",
 				"add2": "",
 				"cty": "Falls Church",
@@ -47,7 +47,7 @@
 				"note": "Vietnamese market has a variety of banh mi sandwiches and other snacks, plus a handful of tables."
             },
             {
-                "name": "Blue and White Carry Out - Alexandria",
+                "name": "Blue and White Carry Out",
 				"add1": "1024 Wythe St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -58,7 +58,7 @@
 				"note": "The Blue and White Carry Out only shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50."
             },
             {
-                "name": "Bob and Edith's - Columbia Pike",
+                "name": "Bob and Edith's",
 				"add1": "2310 Columbia Pike",
 				"add2": "",
 				"cty": "Arlington",
@@ -80,7 +80,7 @@
 				"note": "Occasional live music plays at this coffee shop with an espresso bar, gelato and other desserts."
             },
             {
-                "name": "Bombay Curry - Del Ray, VA",
+                "name": "Bombay Curry",
 				"add1": "2607 Mt Vernon Ave",
 				"add2": "",
 				"cty": "Alexandria",
@@ -91,7 +91,7 @@
 				"note": "Casual Indian eatery with traditional dishes such as curries and kebabs, plus a Sunday lunch buffet."
             },
             {
-                "name": "Caphe Banh Mi - Alexandria, VA",
+                "name": "Caphe Banh Mi",
 				"add1": "407 Cameron St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -124,7 +124,7 @@
 				"note": "They have wonderful pastries and donuts. My favorites are the blackberry and blueberry turnovers, aong with their glazed yeast leaven donuts."
             },
             {
-                "name": "Dairy Godmother - Del Ray, VA (Temporarily Closed)",
+                "name": "Dairy Godmother",
 				"add1": "2310 Mt Vernon Ave",
 				"add2": "",
 				"cty": "Alexandria",
@@ -132,7 +132,7 @@
 				"zpcd": "22301",
 				"phn": "(703) 683-7767",
 				"url": "http://www.thedairygodmother.com/",
-				"note": "Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
+				"note": "NOTE - Temporarily Closed. Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
             },
             {
                 "name": "District Taco",
@@ -191,7 +191,7 @@
 				"note": "Pasta samplers and trendy cocktails are big draws at this rustic-chic Italian with a classy lounge."
             },
             {
-                "name": "Haute Dogs and Fries - Alexandria, VA",
+                "name": "Haute Dogs and Fries",
 				"add1": "610 Montgomery St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -202,7 +202,7 @@
 				"note": "Gourmet hot dogs with housemade onion relish and locally sourced sausages in a modern, brick space."
             },
             {
-                "name": "Jack's Place - Old Town",
+                "name": "Jack's Place",
 				"add1": "222 N Lee St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -224,7 +224,7 @@
 				"note": "Neighborhood coffee shop featuring hot and cold brews made with locally roasted beans and a patio."
             },
             {
-                "name": "Knotty Pine Restaurant - Front Royal, VA",
+                "name": "Knotty Pine Restaurant",
 				"add1": "801 N Royal Ave",
 				"add2": "",
 				"cty": "Front Royal",
@@ -235,7 +235,7 @@
 				"note": "Longtime local haunt offering classic American grub, including breakfast, plus a back bar area."
             },
             {
-                "name": "Metro 29 Diner - Arlington, VA",
+                "name": "Metro 29 Diner",
 				"add1": "4711 Lee Highway",
 				"add2": "",
 				"cty": "Arlington",
@@ -257,7 +257,7 @@
 				"note": "Sushi bar and kitchen with fresh rolls, teriyaki and noodles, plus lots of wine, sake and Japanese beers."
             },
             {
-                "name": "Peter Chang - Arlington, VA",
+                "name": "Peter Chang",
 				"add1": "2503 N Harrison St",
 				"add2": "",
 				"cty": "Arlington",
@@ -268,7 +268,7 @@
 				"note": "Cult chef Peter Chang serves his Sichuan playbook and special dishes at this spiffed-up storefront."
             },
             {
-                "name": "Pho 75 Arlington, VA",
+                "name": "Pho 75",
 				"add1": "1721 Wilson Blvd",
 				"add2": "",
 				"cty": "Arlington",
@@ -279,7 +279,7 @@
 				"note": "Traditional pho with a wide choice of add-ons served in a modest setting. Cash only."
             },
             {
-                "name": "Pho  Viet Flare - Alexandria, VA",
+                "name": "Pho  Viet Flare",
 				"add1": "514 S Van Dorn St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -345,7 +345,7 @@
 				"note": "Souvlaki Bar, they bring authentic traditional recipes for you to enjoy the delicious Greek flavors of fresh-tasting combinations of lemon juice, garlic, oregano, sea salt and olive oil. You need to try the chicken Souvlaki and the pork Yeero along with a side of Greek roasted potatoes."
             },
             {
-                "name": "Sugar Shack Donuts - Alexandria, VA",
+                "name": "Sugar Shack Donuts",
 				"add1": "804 N Henry St",
 				"add2": "",
 				"cty": "Alexandria",
@@ -367,7 +367,7 @@
 				"note": "This relaxed joint offers traditional smoked barbecue with familiar sides, plus a full bar. he sandwich to get is the 'Bubba Mike' an oversized sandwich with 1/2 lb. of pulled pork and a Texas sausage link, topped with cheese sauce, creamy coleslaw, and original BBQ sauce."
             },
             {
-                "name": "Taco Bamba - Falls Church, VA",
+                "name": "Taco Bamba",
 				"add1": "2190 Pimmit Dr",
 				"add2": "",
 				"cty": "Falls Church",
@@ -378,7 +378,7 @@
 				"note": "Colorful, counter-serve storefront dishing up Mexican eats for takeout or quick stand-up dining."
             },
             {
-                "name": "Taqueria el Poblano - Del Ray, VA",
+                "name": "Taqueria el Poblano",
 				"add1": "2400 Mt Vernon Ave",
 				"add2": "",
 				"cty": "Alexandria",
@@ -389,9 +389,9 @@
 				"note": "Family-friendly dining featuring south-of-the-border favorites and made-from-scratch margaritas."
             },
             {
-                "name": "Taqueria Mexicana - Shen-valley Flea Market (White Post, VA)",
+                "name": "Taqueria Mexicana",
 				"add1": "2163 Fairfax Pike",
-				"add2": "",
+				"add2": "Shen-valley Flea Market",
 				"cty": "White Post",
 				"stt": "VA",
 				"zpcd": "22663",
