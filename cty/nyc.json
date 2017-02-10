@@ -168,7 +168,7 @@
 				"note": "No-frills deli with theatrically cranky service serving mile-high sandwiches since 1888."
             },
             {
-                "name": "Kunjip (24 hrs) *",
+                "name": "Kunjip *",
 				"add1": "32W 32nd Street",
 				"add2": "",
 				"cty": "New York",
@@ -176,7 +176,7 @@
 				"zpcd": "10001",
 				"phn": "(212) 564-8238",
 				"url": "http://kunjip.com",
-				"note": "Bustling, 24/7 staple doling out seafood pancakes, bibimbop and other Korean items in a basic setting."
+				"note": "Bustling, 24/7 staple doling out seafood pancakes, bibimbop and other Korean items in a basic setting. Open 24 hours a day."
             },
             {
                 "name": "Levain Bakery *",
@@ -201,7 +201,7 @@
 				"note": "Fast casual service restaurant specializing in meatballs with 6 locations in New York City."
             },
             {
-                "name": "Miss KOREA MEE (24 hrs) *",
+                "name": "Miss KOREA MEE *",
 				"add1": "10 West 32nd Street",
 				"add2": "",
 				"cty": "New York",
@@ -209,10 +209,10 @@
 				"zpcd": "10001",
 				"phn": "(212) 594-7766",
 				"url": "http://misskoreabbq.com‎",
-				"note": "Chic, zen-like Koreatown restaurant for barbecue, bulgogi and hot pots."
+				"note": "Chic, zen-like Koreatown restaurant for barbecue, bulgogi and hot pots. Open 24 hours a day."
             },
             {
-                "name": "New Wonjo (24 hrs)",
+                "name": "New Wonjo",
 				"add1": "23 West 32nd Street",
 				"add2": "",
 				"cty": "New York",
@@ -220,7 +220,7 @@
 				"zpcd": "10001",
 				"phn": "(212) 695-5815",
 				"url": "http://newwonjo.com‎",
-				"note": "Always-open Korean BBQ mainstay distinguishing itself with charcoal-fueled grills."
+				"note": "Always-open Korean BBQ mainstay distinguishing itself with charcoal-fueled grills. Open 24 hours a day."
             },
             {
                 "name": "Russ & Daughters *",
