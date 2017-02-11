@@ -3,9 +3,9 @@
         "city": "Philadelphia, PA",
 		"posts": [
             {
-                "name": "Beck's Cajun Cafe - Reading Terminal Market",
+                "name": "Beck's Cajun Cafe",
 				"add1": "51 N 12th St",
-				"add2": "",
+				"add2": "Reading Terminal Market",
 				"cty": "Philadelphia",
 				"stt": "PA",
 				"zpcd": "19107",
@@ -14,9 +14,9 @@
 				"note": "Bustling counter serve dishing up Cajun & Creole comfort food to the farmer's-market crowd. You need to make sure order a train wreck."
             },
             {
-                "name": "Beiler's Bakery - Reading Terminal Market",
+                "name": "Beiler's Bakery",
 				"add1": "51 N 12th St",
-				"add2": "",
+				"add2": "Reading Terminal Market",
 				"cty": "Philadelphia",
 				"stt": "PA",
 				"zpcd": "19107",
@@ -36,7 +36,7 @@
 				"note": "Area institution specializing in house made exotic sausages, sustainable game, specialty pâtés and roasts."
             },
             {
-                "name": "Di Bruno Brothers - South Philly location",
+                "name": "Di Bruno Brothers",
 				"add1": "930 S 9th St",
 				"add2": "",
 				"cty": "Philadelphia",
@@ -69,9 +69,9 @@
 				"note": "Famous indoor farmer's market offering diverse fare, housewares and area specialties since 1892."
             },
             {
-                "name": "Tommy Di Nic's - Reading Terminal Market",
+                "name": "Tommy Di Nic's",
 				"add1": "51 North 12th Street",
-				"add2": "",
+				"add2": "Reading Terminal Market",
 				"cty": "Philadelphia",
 				"stt": "PA",
 				"zpcd": "19107",
