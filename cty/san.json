@@ -3,7 +3,7 @@
         "city": "San Diego, CA",
 		"posts": [
             {
-                "name": "El Puesto - on Prospect",
+                "name": "El Puesto",
 				"add1": "789 W Harbor Dr",
 				"add2": "",
 				"cty": "San Diego",
@@ -14,7 +14,7 @@
 				"note": "Bi-level eatery with floor-to-ceiling windows serving an innovative, locally sourced Mexican menu."
             },
             {
-                "name": "Fat Sal's - Pacific Beach, CA *",
+                "name": "Fat Sal's *",
 				"add1": "956 Garnet Ave",
 				"add2": "",
 				"cty": "San Diego",
@@ -25,7 +25,7 @@
 				"note": "Counter-serve chain featuring creative heroes, wraps burgers, hot dogs and sides in a hip space. The sandwich t get is the Fat Sal sandwich."
             },
             {
-                "name": "Georges at the Cove - La Jolla, CA *",
+                "name": "Georges at the Cove *",
 				"add1": "1250 Prospect St",
 				"add2": "",
 				"cty": "La Jolla",
@@ -36,10 +36,10 @@
 				"note": "Renowned chef Trey Foshee's seafood-centric cuisine served in an elegant setting with ocean views."
             },
             {
-                "name": "Hodad's - Ocean Beach, CA *",
+                "name": "Hodad's *",
 				"add1": "5010 Newport Ave,",
 				"add2": "",
-				"cty": "San Diego",
+				"cty": "Ocean Beach",
 				"stt": "CA",
 				"zpcd": "92107",
 				"phn": "(619) 224-4623",
@@ -81,7 +81,7 @@
             },
 
             {
-                "name": "Phil's BBQ - San Marcos, CA *",
+                "name": "Phil's BBQ *",
 				"add1": "579 Grand Ave,",
 				"add2": "",
 				"cty": "San Marcos",
@@ -92,7 +92,7 @@
 				"note": "Casual eatery and bar for signature mesquite-barbecued baby-back & beef ribs, plus sandwiches and sides."
             },
             {
-                "name": "Tajima Ramen Bar - Hillcrest",
+                "name": "Tajima Ramen Bar",
 				"add1": "3739 Sixth Ave",
 				"add2": "",
 				"cty": "San Diego",
