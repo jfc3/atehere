@@ -25,6 +25,17 @@
 				"note": "Casual, cheery counter-serve with small tables specializing in vegan renditions of Ethiopian dishes."
             },
             {
+                "name": "chi SPACCA *",
+				"add1": "6610 Melrose Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90038",
+				"phn": "(323) 297-1133",
+				"url": "http://chispacca.com/",
+				"note": "Meaty, upscale Italian fare from a trio of star chefs in a Tuscan atmosphere with worn-wood tables."
+            },
+            {
                 "name": "Kogi BBQ *",
 				"add1": "12236 W Washington Blvd",
 				"add2": "",
@@ -34,6 +45,17 @@
 				"phn": "",
 				"url": "http://kogibbq.com/",
 				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget."
+            },
+            {
+                "name": "La Brea Bakery Cafe *",
+				"add1": "468 S La Brea Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 939-6813",
+				"url": "https://www.labreabakery.com/",
+				"note": "Popular for its handmade bread, this casual cafe serves sandwiches, soup and other light fare."
             },
             {
                 "name": "Monti Carlo *",
@@ -56,6 +78,28 @@
 				"phn": "(213) 381-3568",
 				"url": "http://myungin-dumplings.com/",
 				"note": "Traditional Korean buns and dumplings offered in a simple, subdued eatery with a pictorial menu."
+            },
+            {
+                "name": "Osteria Mozza *",
+				"add1": "6602 Melrose Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90038",
+				"phn": "(323) 297-0100",
+				"url": "http://la.osteriamozza.com/",
+				"note": "Lauded upscale Italian cuisine from chefs Nancy Silverton and Mario Batali in a bustling atmosphere."
+            },
+            {
+                "name": "Pizzeria Mozza *",
+				"add1": "641 N. Highland Avenu",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 297-0101",
+				"url": "http://la.pizzeriamozza.com/",
+				"note": "Nancy Silverton and Mario Batali turn out acclaimed wood-burning-oven pizzas and antipasti in busy digs."
             },
             {
                 "name": "Swadeah *",
