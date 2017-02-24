@@ -58,6 +58,17 @@
 				"note": "Popular for its handmade bread, this casual cafe serves sandwiches, soup and other light fare."
             },
             {
+                "name": "Locol *",
+				"add1": "1950 E 103rd St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90002",
+				"phn": "",
+				"url": "http://www.welocol.com/",
+				"note": "Conscientious fast-food spot with simple design for breakfast, burgers and health-oriented options."
+            },
+            {
                 "name": "Monti Carlo *",
 				"add1": "3514 W 3rd St",
 				"add2": "",
