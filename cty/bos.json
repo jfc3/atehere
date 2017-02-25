@@ -3,6 +3,17 @@
         "city": "Boston, MA",
 		"posts": [
             {
+                "name": "Belle Isle Seafood",
+				"add1": "1 Main St",
+				"add2": "",
+				"cty": "Winthrop",
+				"stt": "MA",
+				"zpcd": "02152",
+				"phn": "(617) 567-1619",
+				"url": "",
+				"note": "Local seafood, including chowder and lobster rolls, in a spare, industrial space with inlet views."
+            },
+            {
                 "name": "Blunch",
 				"add1": "59 E Springfield St",
 				"add2": "",
