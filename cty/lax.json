@@ -47,17 +47,6 @@
 				"note": "Meaty, upscale Italian fare from a trio of star chefs in a Tuscan atmosphere with worn-wood tables."
             },
             {
-                "name": "Kogi BBQ *",
-				"add1": "12236 W Washington Blvd",
-				"add2": "",
-				"cty": "Los Angeles",
-				"stt": "CA",
-				"zpcd": "90066",
-				"phn": "",
-				"url": "http://kogibbq.com/",
-				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget."
-            },
-            {
                 "name": "Intelligentsia Coffee",
 				"add1": "1331 Abbot Kinney Blvd",
 				"add2": "",
@@ -67,6 +56,17 @@
 				"phn": "(310) 399-1233",
 				"url": "https://www.intelligentsiacoffee.com/venice-coffeebar",
 				"note": "High-end coffee bar chain serving daily roasted brews in an industrial-chic setting. They have a great dark chocolate hot chocolate and espresso (four shots)."
+            },
+            {
+                "name": "Kogi BBQ *",
+				"add1": "12236 W Washington Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90066",
+				"phn": "",
+				"url": "http://kogibbq.com/",
+				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget."
             },
             {
                 "name": "La Brea Bakery Cafe *",
