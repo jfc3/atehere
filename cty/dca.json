@@ -91,6 +91,17 @@
 				"note": "From bagels to Knishes to egg creams this place has them."
             },
             {
+                "name": "Carving Room *",
+				"add1": "300 Massachusetts Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "(202) 525-2116",
+				"url": "http://carvingroom.com/",
+				"note": "Hip joint with a patio serving cured and carved meat sandwiches, craft beers and innovative cocktails. The items you need to order are the pastrami sandwich, chorizo cigars or the cigar sampler plate."
+            },
+            {
                 "name": "Chaia",
 				"add1": "3207 Grace St NW",
 				"add2": "",
