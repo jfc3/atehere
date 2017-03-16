@@ -3,6 +3,17 @@
         "city": "San Diego, CA",
 		"posts": [
             {
+                "name": "BeShock Ramen and Sake Bar *",
+				"add1": "1288 Market St",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92101",
+				"phn": "(619) 501-9612",
+				"url": "http://www.beshockrestaurantsandiego.com/",
+				"note": "BeShock Ramen and Sake Bar's light yet flavorful meals are quickly becoming a neighborhood hit. The broth is made from scratch and full of delicious vegetables - perfect for those looking to stay on the healthier side of dining out. Ramen, sushi roll, and even fried chicken--we have just what you need to satisfy any kind of craving."
+            },
+            {
                 "name": "El Puesto",
 				"add1": "789 W Harbor Dr",
 				"add2": "",
