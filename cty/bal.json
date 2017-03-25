@@ -3,6 +3,17 @@
         "city": "Baltimore, MD",
 		"posts": [
             {
+                "name": "Alewife *",
+				"add1": "21 N Eutaw St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21201",
+				"phn": "(410) 545-5112",
+				"url": "http://www.alewifebmore.com/",
+				"note": "Stylish gastropub featuring updated American fare and many craft beers in a re-imagined 1800s bank. You need to order the wild boar sliders or duck fat fries with porky belly on top."
+            },
+            {
                 "name": "Baltimore Farmers' Market and Bazaar",
 				"add1": "E Saratoga St and Holliday St",
 				"add2": "",
