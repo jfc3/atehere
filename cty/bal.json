@@ -67,6 +67,17 @@
 				"phn": "(410) 327-0445",
 				"url": "http://www.oneeyedmikes.com/",
 				"note": "Local gastropub in a historic former tavern with a hand-carved bar, tin ceiling and courtyard."
+            },
+            {
+                "name": "Woodberry Kitchen *",
+				"add1": "2010 Clipper Park Rd",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21211",
+				"phn": "(410) 464-8000",
+				"url": "http://www.woodberrykitchen.com/",
+				"note": "Old factory turned hip, rustic-chic place for refined New American fare with a farm-to-table bent."
             }
         ]
     }
