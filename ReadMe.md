@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.3.5
-* Release Date: 02-06-2017
+* Release Number:  v.0.3.6
+* Release Date: 03-26-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -51,6 +51,8 @@ Features:
 * Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
 * Add a way to check that people are not attempting to change the URL to find places not listed. Most likely to use an ARRAY so we can loop through the list to look for matches.
 * Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
+* Have the ability to add photo and ALT text.
+* Remove asterisk from name and add field that denotes I ahve eaten there.
 
 Enhancements:
 
@@ -66,6 +68,7 @@ Enhancements:
 * Added "extended-address" SPAN to address for additional address alogn with moving <BR /> after the SPAN instead of inside.
 * Added a few more restaurants to the DCA and NVA JSON files, along with notes to the a few palces that were missing them.
 * Created in page anchor by using the restaurant's name and removing the blank spaces along with special characters, making it all lowercase, and adding a tab index of negative one ( tabindex="-1" ). I did this so people can link directly to a given restaurant on a particular page.
+* Added Los Angles, CA, to drop down lsit and created a JSON file too.
 
 ## Installation
 Please have the following installed before running:
