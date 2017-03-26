@@ -179,6 +179,17 @@
 				"note": "Bustling marketplace since 1873 featuring a variety of produce, handmade crafts and prepared foods."
             },
             {
+                "name": "Ebenezers Coffeehouse *",
+				"add1": "201 F St NE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "(202) 558-6900",
+				"url": "http://ebenezerscoffeehouse.com/",
+				"note": "Casual, church-owned coffeehouse featuring fair-trade coffee and tea plus live music on some evenings."
+            },
+            {
                 "name": "Fast Gourmet",
 				"add1": "1400 W St NW",
 				"add2": "",
