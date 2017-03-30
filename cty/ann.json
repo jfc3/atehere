@@ -11,7 +11,10 @@
 				"zpcd": "21401",
 				"phn": "(410) 269-6737",
 				"url": "http://chickandruths.com/",
-				"note": "Lively landmark diner featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs."
+				"note": "Lively landmark diner featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Davis's Pub *",
@@ -22,7 +25,10 @@
 				"zpcd": "21403",
 				"phn": "(410) 268-7432",
 				"url": "http://davispub.com",
-				"note": "Long-running (since the 1920s) neighborhood joint known for its crab cakes and creative pub fare."
+				"note": "Long-running (since the 1920s) neighborhood joint known for its crab cakes and creative pub fare.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
 			},
             {
                 "name": "Double T Diner",
@@ -33,7 +39,10 @@
 				"zpcd": "21401",
 				"phn": "(410) 571-9070",
 				"url": "http://www.doubletdiner.com/restaurants/24-hour-diners/annapolis-restaurant.aspx",
-				"note": "Local diner chain with a retro vibe and a menu of comfort-food classics (some are open 24 hours)."
+				"note": "Local diner chain with a retro vibe and a menu of comfort-food classics (some are open 24 hours).",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Storm Brothers Ice Cream Factory",
@@ -44,7 +53,10 @@
 				"zpcd": "21401",
 				"phn": "(410) 263-3376",
 				"url": "http://www.stormbros.com/",
-				"note": "Neighborhood ice cream parlor serving cones, shakes, flurries, sundaes and more since 1976."
+				"note": "Neighborhood ice cream parlor serving cones, shakes, flurries, sundaes and more since 1976.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
