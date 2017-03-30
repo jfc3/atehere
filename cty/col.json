@@ -11,7 +11,10 @@
 				"zpcd": "43081",
 				"phn": "(614) 895-0553",
 				"url": "http://www.graeters.com/",
-				"note": "Longtime ice cream parlor chain serving small-batch scoops plus baked goods at some locations."
+				"note": "Longtime ice cream parlor chain serving small-batch scoops plus baked goods at some locations.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Schmidt's Sausage Shop",
@@ -22,7 +25,10 @@
 				"zpcd": "43206",
 				"phn": "(717) 939-0501",
 				"url": "http://www.schmidthaus.com/",
-				"note": "All-you-can-eat sausage buffet and don't forget to order the huge chocolate cream puffs."
+				"note": "All-you-can-eat sausage buffet and don't forget to order the huge chocolate cream puffs.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Thurman Cafe",
@@ -33,7 +39,10 @@
 				"zpcd": "43206",
 				"phn": "(614) 443-1570",
 				"url": "https://thethurmancafe.com/",
-				"note": "Bustling, rustic American haunt with oversized, toppings-loaded burgers and a full bar."
+				"note": "Bustling, rustic American haunt with oversized, toppings-loaded burgers and a full bar.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
