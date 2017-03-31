@@ -11,7 +11,10 @@
 				"zpcd": "20016",
 				"phn": "(202) 885-5700",
 				"url": "http://www.2amysdc.com/",
-				"note": "Bustling wood-oven pizzeria serves innovative Neapolitan-style pies and Italian wine by the glass."
+				"note": "Bustling wood-oven pizzeria serves innovative Neapolitan-style pies and Italian wine by the glass.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "A. Litteri's",
@@ -22,7 +25,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 544-0183",
 				"url": "http://alitteri.com/",
-				"note": "Old-school Italian grocery store and deli drawing foodies for meatball subs, homemade sausages and more."
+				"note": "Old-school Italian grocery store and deli drawing foodies for meatball subs, homemade sausages and more.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Amsterdam Falafel",
@@ -33,7 +39,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 234-1969",
 				"url": "http://falafelshop.com/",
-				"note": "Falafel on pita bread plus Middle Eastern salads and Belgian fries at a late-night quick-serve eatery."
+				"note": "Falafel on pita bread plus Middle Eastern salads and Belgian fries at a late-night quick-serve eatery.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Baked and Wired",
@@ -44,7 +53,10 @@
 				"zpcd": "20007",
 				"phn": "(703) 663-8727",
 				"url": "http://bakedandwired.com/",
-				"note": "Artsy neighborhood bakery & coffeehouse supplying espresso drinks, big cupcakes and signature granola."
+				"note": "Artsy neighborhood bakery & coffeehouse supplying espresso drinks, big cupcakes and signature granola.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Beefsteak",
@@ -55,7 +67,10 @@
 				"zpcd": "20052",
 				"phn": "(202) 296-1421",
 				"url": "http://beefsteakveggies.com/",
-				"note": "Fast-casual chain from José Andrés' restaurant group specializing in flavorful veggie and grain bowls. If more restaurants made vegetables like this I would eat more of them."
+				"note": "Fast-casual chain from José Andrés' restaurant group specializing in flavorful veggie and grain bowls. If more restaurants made vegetables like this I would eat more of them.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ben's Chili Bowl",
@@ -66,7 +81,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 667-0909",
 				"url": "http://benschilibowl.com/",
-				"note": "Historic spot attracts locals and celebrities for the spicy hot dogs, chili-cheese fries and milkshakes."
+				"note": "Historic spot attracts locals and celebrities for the spicy hot dogs, chili-cheese fries and milkshakes.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Big Bear Cafe",
@@ -77,7 +95,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 643-9222",
 				"url": "http://www.bigbearcafe-dc.com/",
-				"note": "New American restaurant with a casual interior and patio serving breakfast, lunch and candlelit dinners. I've been there on weekends for breakfast and tea."
+				"note": "New American restaurant with a casual interior and patio serving breakfast, lunch and candlelit dinners. I've been there on weekends for breakfast and tea.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Buffalo and Bergen",
@@ -88,7 +109,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 543-2549",
 				"url": "http://www.buffalobergendc.com/",
-				"note": "From bagels to Knishes to egg creams this place has them."
+				"note": "From bagels to Knishes to egg creams this place has them.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Carving Room *",
@@ -99,7 +123,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 525-2116",
 				"url": "http://carvingroom.com/",
-				"note": "Hip joint with a patio serving cured and carved meat sandwiches, craft beers and innovative cocktails. The items you need to order are the pastrami sandwich, chorizo cigars or the cigar sampler plate."
+				"note": "Hip joint with a patio serving cured and carved meat sandwiches, craft beers and innovative cocktails. The items you need to order are the pastrami sandwich, chorizo cigars or the cigar sampler plate.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Chaia",
@@ -110,7 +137,10 @@
 				"zpcd": "20007",
 				"phn": "(202) 333-5222",
 				"url": "http://www.chaiadc.com/",
-				"note": "Chaia's 'farm to taco' is a unique relationship between farmers and urban street-style food. Chaia offers seasonal, plant-based tacos, sides and natural drinks in a stylish, casual setting."
+				"note": "Chaia's 'farm to taco' is a unique relationship between farmers and urban street-style food. Chaia offers seasonal, plant-based tacos, sides and natural drinks in a stylish, casual setting.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Chinatown Express",
@@ -121,7 +151,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 638-0424",
 				"url": "http://www.chinatownexpressdc.com/",
-				"note": "Family-run Chinese joint serving handmade noodles (spun in front of the window) and dumplings."
+				"note": "Family-run Chinese joint serving handmade noodles (spun in front of the window) and dumplings.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Cucina Al Volo",
@@ -132,7 +165,10 @@
 				"zpcd": "20002",
 				"phn": "",
 				"url": "https://alvolodc.net/cucina-al-volo/",
-				"note": "Pick your pasta. Pick your sauce. To eat in or take home. Everything is handmade, from scratch. You need to try the lamb ragu or the rabbit ragu if they have them available."
+				"note": "Pick your pasta. Pick your sauce. To eat in or take home. Everything is handmade, from scratch. You need to try the lamb ragu or the rabbit ragu if they have them available.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Daikaya - Izakaya",
@@ -143,7 +179,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 589-1600",
 				"url": "http://www.daikaya.com/",
-				"note": "Japanese noodle soups ladled out in casual, funky digs with yellow and blue walls and rustic tables."
+				"note": "Japanese noodle soups ladled out in casual, funky digs with yellow and blue walls and rustic tables.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Dangerously Delicious Pies",
@@ -154,7 +193,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 398-7437",
 				"url": "http://www.dangerouspiesdc.com/",
-				"note": "Tiny, hip bakery serving sweet & savory pies and quiches (including vegetarian/vegan options)."
+				"note": "Tiny, hip bakery serving sweet & savory pies and quiches (including vegetarian/vegan options).",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "DC Noodles *",
@@ -165,7 +207,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 232-8424",
 				"url": "http://dcnoodles.com/",
-				"note": "A vast variety of classic noodle and other Thai dishes are featured at this contemporary neighborhood fixture."
+				"note": "A vast variety of classic noodle and other Thai dishes are featured at this contemporary neighborhood fixture.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "DCity Smokehouse *",
@@ -176,7 +221,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 733-1919",
 				"url": "https://www.dcitysmokehouse.com/",
-				"note": "Hip BBQ spot serving sandwiches and combo platters. Plus, veggie sides, beer, wine, and bourbon drinks."
+				"note": "Hip BBQ spot serving sandwiches and combo platters. Plus, veggie sides, beer, wine, and bourbon drinks.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Eastern Market",
@@ -187,7 +235,10 @@
 				"zpcd": "20003",
 				"phn": "(202) 698-5253",
 				"url": "http://easternmarket-dc.org/",
-				"note": "Bustling marketplace since 1873 featuring a variety of produce, handmade crafts and prepared foods."
+				"note": "Bustling marketplace since 1873 featuring a variety of produce, handmade crafts and prepared foods.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ebenezers Coffeehouse *",
@@ -198,7 +249,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 558-6900",
 				"url": "http://ebenezerscoffeehouse.com/",
-				"note": "Casual, church-owned coffeehouse featuring fair-trade coffee and tea plus live music on some evenings."
+				"note": "Casual, church-owned coffeehouse featuring fair-trade coffee and tea plus live music on some evenings.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Fast Gourmet",
@@ -209,7 +263,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 448-9217",
 				"url": "http://www.fastgourmetdc.com/",
-				"note": "Large Latin-style sandwiches are served until late at this counter at a gas station."
+				"note": "Large Latin-style sandwiches are served until late at this counter at a gas station.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Good Stuff Eatery",
@@ -220,7 +277,10 @@
 				"zpcd": "20003",
 				"phn": "(202) 543-8222",
 				"url": "http://goodstuffeatery.com/",
-				"note": "Casual, multilevel upscale-industrial spot serving gourmet burgers, fries, shakes and salads."
+				"note": "Casual, multilevel upscale-industrial spot serving gourmet burgers, fries, shakes and salads.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Granville Moore's",
@@ -231,7 +291,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 399-2546",
 				"url": "http://www.granvillemoores.com/",
-				"note": "Gourmet bar food like Mussels and Frites (French fries) along with a diverse beer list served in a pocket-sized space. You need to try the blue cheese mussels or the tomato sauce and sausage mussels. Plus, make sure to order Frites and different types of mussels so you can share."
+				"note": "Gourmet bar food like Mussels and Frites (French fries) along with a diverse beer list served in a pocket-sized space. You need to try the blue cheese mussels or the tomato sauce and sausage mussels. Plus, make sure to order Frites and different types of mussels so you can share.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Great Wall Szechuan House *",
@@ -242,7 +305,10 @@
 				"zpcd": "20005",
 				"phn": "(202) 797-8888",
 				"url": "http://greatwallszechuanhouse.com/",
-				"note": "Pan-Chinese fare with a spicy Sichuan focus in a no-frills storefront."
+				"note": "Pan-Chinese fare with a spicy Sichuan focus in a no-frills storefront.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Hill Country Barbecue Market",
@@ -253,7 +319,10 @@
 				"zpcd": "20004",
 				"phn": "(202) 556-2050",
 				"url": "http://hillcountry.com/dc/",
-				"note": "Texas BBQ and beer served in a rustic-chic, cafeteria-style setup, with nightly live music downstairs."
+				"note": "Texas BBQ and beer served in a rustic-chic, cafeteria-style setup, with nightly live music downstairs.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Indigo *",
@@ -264,7 +333,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 544-4777",
 				"url": "http://www.indigowdc.com/",
-				"note": "Bold flavors and Indian favorites are served in a kitschy, cozy space with a large patio."
+				"note": "Bold flavors and Indian favorites are served in a kitschy, cozy space with a large patio.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Izakaya Seki",
@@ -275,7 +347,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 588-5841",
 				"url": "https://www.sekidc.com/",
-				"note": "Trendy option for Japanese small plates and noodle dishes, plus sizable beer list in minimalist digs. Try the monkfish liver if they have any it's like Foie gras."
+				"note": "Trendy option for Japanese small plates and noodle dishes, plus sizable beer list in minimalist digs. Try the monkfish liver if they have any it's like Foie gras.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Jimmy T's Place *",
@@ -286,7 +361,10 @@
 				"zpcd": "20003",
 				"phn": "(202) 546-3646",
 				"url": "",
-				"note": "Quirky, no-frills dining room serving American breakfast and lunch inside a Victorian structure."
+				"note": "Quirky, no-frills dining room serving American breakfast and lunch inside a Victorian structure.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Keren Restaurant and Coffee Shop *",
@@ -297,7 +375,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 265-5764",
 				"url": "",
-				"note": "East African cuisine draws expats and locals to this upbeat hangout from breakfast until night."
+				"note": "East African cuisine draws expats and locals to this upbeat hangout from breakfast until night.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Maketto",
@@ -308,7 +389,10 @@
 				"zpcd": "20002",
 				"phn": " (202) 838-9972",
 				"url": "http://maketto1351.com/restaurant/",
-				"note": "Food and fashion marketplace featuring java, street food and fashion from DC-based businesses."
+				"note": "Food and fashion marketplace featuring java, street food and fashion from DC-based businesses.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Market Lunch",
@@ -319,7 +403,10 @@
 				"zpcd": "20003",
 				"phn": "(202) 547-8444",
 				"url": "",
-				"note": "Famous for the blue buck blueberry pancakes and a breakfast sandwich called the brick (fried egg, cheese, potatoes, and meat on a soft roll.)"
+				"note": "Famous for the blue buck blueberry pancakes and a breakfast sandwich called the brick (fried egg, cheese, potatoes, and meat on a soft roll.)",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Mason Dixie Biscuit Co.",
@@ -330,7 +417,10 @@
 				"zpcd": "20002",
 				"phn": "",
 				"url": "http://www.masondixiebiscuits.com/",
-				"note": "Mason Dixie offers homestyle mains, such as our signature fried chicken biscuits; Benton's bacon, egg and cheddar biscuits; rich, traditional country-style sausage gravy; mouth-watering chicken pot pie gravy; nectarine, pink peppercorn jam and cracklin’ butter spreads; as well as low-country sides, like collard greens and Hoppin’ John."
+				"note": "Mason Dixie offers homestyle mains, such as our signature fried chicken biscuits; Benton's bacon, egg and cheddar biscuits; rich, traditional country-style sausage gravy; mouth-watering chicken pot pie gravy; nectarine, pink peppercorn jam and cracklin’ butter spreads; as well as low-country sides, like collard greens and Hoppin’ John.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Meats and Foods *",
@@ -341,7 +431,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 505-1384",
 				"url": "http://www.meatsandfoods.com/",
-				"note": "Grilled sausage sandwiches and chili served in a small storefront with a retail market component."
+				"note": "Grilled sausage sandwiches and chili served in a small storefront with a retail market component.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Momofuku CCDC",
@@ -352,7 +445,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 602-1832",
 				"url": "https://ccdc.momofuku.com/",
-				"note": "David Chang offers his inventive takes on Asian fare at this airy, modern outpost next to Milk Bar."
+				"note": "David Chang offers his inventive takes on Asian fare at this airy, modern outpost next to Milk Bar.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Naan and Beyond",
@@ -363,7 +459,10 @@
 				"zpcd": "20036",
 				"phn": "(202) 466-6404",
 				"url": "http://www.naan-and-beyond.com/",
-				"note": "Takeaway and counter-service Indian meals draw fans to this popular, bare-bones spot. Make sure to get the veggie samosas with your meal or as a meal on their own."
+				"note": "Takeaway and counter-service Indian meals draw fans to this popular, bare-bones spot. Make sure to get the veggie samosas with your meal or as a meal on their own.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Panda Gourmet *",
@@ -374,7 +473,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 534-1620",
 				"url": "",
-				"note": "Basic cafe surroundings with a full bar where spicy Sichuan fare comes from a big menu."
+				"note": "Basic cafe surroundings with a full bar where spicy Sichuan fare comes from a big menu.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pearl Dive Oyster Palace *",
@@ -385,7 +487,10 @@
 				"zpcd": "20009",
 				"phn": "(202) 319-1612",
 				"url": "http://www.pearldivedc.com/",
-				"note": "Popular spot for seafood dishes with boardwalk decor and a lively upstairs bar and bocce court. Friends say the best Bloody Mary in DC."
+				"note": "Popular spot for seafood dishes with boardwalk decor and a lively upstairs bar and bocce court. Friends say the best Bloody Mary in DC.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pho Viet",
@@ -396,7 +501,10 @@
 				"zpcd": "20010",
 				"phn": "(202) 629-2839",
 				"url": "http://www.phovietwdc.com/",
-				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone."
+				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Peregrine Espresso",
@@ -407,7 +515,10 @@
 				"zpcd": "20003",
 				"phn": "(202) 629-4381",
 				"url": "http://peregrineespresso.com/",
-				"note": "Serious coffee sippers converge on this snug spot for carefully made espresso drinks, snacks and more."
+				"note": "Serious coffee sippers converge on this snug spot for carefully made espresso drinks, snacks and more.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Peregrine Espresso",
@@ -418,7 +529,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 629-4381",
 				"url": "http://peregrineespresso.com/",
-				"note": "Considered by coffee connoisseurs as the premier place to go for a cup of delicious, micro brewed coffee."
+				"note": "Considered by coffee connoisseurs as the premier place to go for a cup of delicious, micro brewed coffee.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Red Apron",
@@ -429,7 +543,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 524-6807",
 				"url": "http://redapronbutchery.com/",
-				"note": "Counter-service spot in Union Market practicing whole-animal butchery to make charcuterie and more."
+				"note": "Counter-service spot in Union Market practicing whole-animal butchery to make charcuterie and more.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Right Proper Brewing Company Shaw Brewpub and Kitchen",
@@ -440,7 +557,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 607-2337",
 				"url": "http://www.rightproperbrewing.com/",
-				"note": "House-made brews and Southern-influenced American eats in an industrial-chic space lined with murals. You should try the trout mousse appetizer or the deep fried chicken livers with smoked bacon, mashed potatotes, and green beans or the pasta bolognese with chopped veg and sausage."
+				"note": "House-made brews and Southern-influenced American eats in an industrial-chic space lined with murals. You should try the trout mousse appetizer or the deep fried chicken livers with smoked bacon, mashed potatotes, and green beans or the pasta bolognese with chopped veg and sausage.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Stachowski's Market",
@@ -451,7 +571,10 @@
 				"zpcd": "20007",
 				"phn": "(202) 506-3125",
 				"url": "http://www.stachowskimarket.com/",
-				"note": "Butcher shop offering fresh and cured meats and cheeses, plus sandwiches along with roast chicken to go. You need to get the four meat grinder or the Braunschweiger: house made liverwurst on rye with onions, mustard, and sweet pickles."
+				"note": "Butcher shop offering fresh and cured meats and cheeses, plus sandwiches along with roast chicken to go. You need to get the four meat grinder or the Braunschweiger: house made liverwurst on rye with onions, mustard, and sweet pickles.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Steak and Egg Kitchen",
@@ -462,7 +585,10 @@
 				"zpcd": "20016",
 				"phn": "(202) 686-1201",
 				"url": "",
-				"note": "Customers belly up to the counter or sit outside at this no-frills 24/7 breakfast and burger spot."
+				"note": "Customers belly up to the counter or sit outside at this no-frills 24/7 breakfast and burger spot.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Takorean",
@@ -473,7 +599,10 @@
 				"zpcd": "20002",
 				"phn": "",
 				"url": "http://takorean.com/",
-				"note": "Union Market vendor providing fusion tacos and bowls with Korean-style BBQ fillings."
+				"note": "Union Market vendor providing fusion tacos and bowls with Korean-style BBQ fillings. Get there Korean taco bowl with half rice and half salad along with a soft boiled egg on top.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "The Pig",
@@ -484,7 +613,10 @@
 				"zpcd": "20005",
 				"phn": "(202) 290-2821",
 				"url": "http://www.thepigdc.com/",
-				"note": "Barn wood on the walls matches the hearty barnyard cuisine at this pork-centric New American eatery."
+				"note": "Barn wood on the walls matches the hearty barnyard cuisine at this pork-centric New American eatery.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Thai X-ing",
@@ -495,7 +627,10 @@
 				"zpcd": "20001",
 				"phn": "(202) 332-4322",
 				"url": "http://www.thaix-ing.com/",
-				"note": "This small Thai spot uses traditional recipes and offers chef's choice menus and vegetarian specials. Plu, you need to make a reservation because they don't take walk-ins"
+				"note": "This small Thai spot uses traditional recipes and offers chef's choice menus and vegetarian specials. Plu, you need to make a reservation because they don't take walk-ins",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Thomas Sweets",
@@ -506,7 +641,10 @@
 				"zpcd": "20007",
 				"phn": "(202) 337-0616",
 				"url": "http://www.thomassweet.com/locations/washington-dc",
-				"note": "Well-known dessert shop dishing up small-batch ice cream plus frozen yogurt and handmade chocolates."
+				"note": "Well-known dessert shop dishing up small-batch ice cream plus frozen yogurt and handmade chocolates.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Toki Underground",
@@ -517,7 +655,10 @@
 				"zpcd": "20002",
 				"phn": "(202) 388-3086",
 				"url": "tokiunderground.com/",
-				"note": "Popular but snug Asian-fusion eatery known for ramen noodle soups, dumplings, sake and cocktails."
+				"note": "Popular but snug Asian-fusion eatery known for ramen noodle soups, dumplings, sake and cocktails. My favorite is to get the curry chicken Ramen with extra noodles and if you're extra hungry also get the pork belly.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Union Market",
@@ -528,7 +669,10 @@
 				"zpcd": "20002",
 				"phn": "(301) 347-3998",
 				"url": "http://unionmarketdc.com/",
-				"note": "Warehouse-like food market with a host of artisans offering charcuterie, empanadas, gelato and more."
+				"note": "Warehouse-like food market with a host of artisans offering charcuterie, empanadas, gelato and more.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
