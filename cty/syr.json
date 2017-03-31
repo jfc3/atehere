@@ -11,7 +11,10 @@
 				"zpcd": "13202",
 				"phn": "(315) 476-4937",
 				"url": "http://www.dinosaurbarbque.com/bbq-syracuse",
-				"note": "Barbecue chain serving Southern-style meats & draft brews in a retro setting (most have live music)."
+				"note": "Barbecue chain serving Southern-style meats & draft brews in a retro setting (most have live music).",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Heid's of Liverpool",
@@ -22,7 +25,10 @@
 				"zpcd": "13088",
 				"phn": "(315) 451-0786",
 				"url": "http://heidsofliverpool.com/",
-				"note": "Standby for hot dogs, sausages and other quick serve fare in nostalgic digs and adjacent ice cream shop."
+				"note": "Standby for hot dogs, sausages and other quick serve fare in nostalgic digs and adjacent ice cream shop.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Market Diner",
@@ -33,7 +39,10 @@
 				"zpcd": "13208",
 				"phn": "(315) 474-5247",
 				"url": "http://themarketdiner.com/",
-				"note": "Family-owned vintage diner with a mural of '50s-era stars serves up American comfort food."
+				"note": "Family-owned vintage diner with a mural of '50s-era stars serves up American comfort food.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pastabilities *",
@@ -44,7 +53,10 @@
 				"zpcd": "13202",
 				"phn": "(315) 474-1153",
 				"url": "http://www.pastabilities.com/",
-				"note": "Contemporary eatery serves homemade pasta dishes and Italian-American fare in a warm, brick interior."
+				"note": "Contemporary eatery serves homemade pasta dishes and Italian-American fare in a warm, brick interior.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
