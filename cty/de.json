@@ -11,7 +11,10 @@
 				"zpcd": "19720",
 				"phn": "(302) 328-5380",
 				"url": "",
-				"note": "No-frills, cash-only eatery with counter seating, offering hot dogs, burgers, pizza and cheesesteaks."
+				"note": "No-frills, cash-only eatery with counter seating, offering hot dogs, burgers, pizza and cheesesteaks. Their foot long hot dags or two in a soft roll with some tooth and an order of French fires will fill you right up",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Go Fish!",
@@ -22,7 +25,10 @@
 				"zpcd": "19971",
 				"phn": "(302) 226-1044",
 				"url": "http://www.gofishrehoboth.com/",
-				"note": "Casual 40-seat restaurant with British theme featuring fish 'n' chips, toffee pudding and other eats."
+				"note": "Casual 40-seat restaurant with British theme featuring fish 'n' chips, toffee pudding and other eats.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Hopkins Farm Creamery",
@@ -33,7 +39,10 @@
 				"zpcd": "19958",
 				"phn": "(302) 645-7163",
 				"url": "http://hopkinsfarmcreamery.com/",
-				"note": "Ice cream made with local ingredients and sold from walk-up windows on a working dairy farm."
+				"note": "Ice cream made with local ingredients and sold from walk-up windows on a working dairy farm. You should get their salted carmel crunch which has nuts and large chocolate chip hunks.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
