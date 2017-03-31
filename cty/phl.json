@@ -11,7 +11,10 @@
 				"zpcd": "19107",
 				"phn": "(267) 318-7480",
 				"url": "http://www.beckscajuncafe.com/",
-				"note": "Bustling counter serve dishing up Cajun & Creole comfort food to the farmer's-market crowd. You need to make sure order a train wreck."
+				"note": "Bustling counter serve dishing up Cajun & Creole comfort food to the farmer's-market crowd. You need to make sure order a train wreck.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Beiler's Bakery",
@@ -22,7 +25,10 @@
 				"zpcd": "19107",
 				"phn": "(267) 318-7480",
 				"url": "",
-				"note": "Destination for baked goods, including Pennsylvania Dutch classics & a variety of housemade donuts. Blueberry or apple fritter are a must have."
+				"note": "Destination for baked goods, including Pennsylvania Dutch classics and a variety of housemade donuts. Blueberry or apple fritter are a must have.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Cheu Noodle Bar *",
@@ -33,7 +39,10 @@
 				"zpcd": "19107",
 				"phn": "(267) 639-4136",
 				"url": "https://www.cheunoodlebar.com/",
-				"note": "Hip ramen bar with graffiti-covered walls serves noodles and Asian bites plus beer, wine and cocktails."
+				"note": "Hip ramen bar with graffiti-covered walls serves noodles and Asian bites plus beer, wine and cocktails.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "D'Angelo Brothers",
@@ -44,7 +53,10 @@
 				"zpcd": "19147",
 				"phn": "(215) 923-5637",
 				"url": "http://www.dangelobros.com/",
-				"note": "Area institution specializing in house made exotic sausages, sustainable game, specialty pâtés and roasts."
+				"note": "Area institution specializing in house made exotic sausages, sustainable game, specialty pâtés and roasts.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Di Bruno Brothers",
@@ -55,7 +67,10 @@
 				"zpcd": "19147",
 				"phn": "(215) 922-2876",
 				"url": "http://www.dibruno.com/",
-				"note": "Acclaimed gourmet destination supplying meats, cheeses & prepared foods, plus specialty items."
+				"note": "Acclaimed gourmet destination supplying meats, cheeses & prepared foods, plus specialty items.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Isgro's Bakery",
@@ -66,7 +81,10 @@
 				"zpcd": "19147",
 				"phn": "(215) 923-3092",
 				"url": "http://www.bestcannoli.com/",
-				"note": "Venerable bake shop turning out cannoli, cakes, cookies, custards, tarts and other Italian pastries."
+				"note": "Venerable bake shop turning out cannoli, cakes, cookies, custards, tarts and other Italian pastries.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Reading Terminal Market",
@@ -77,7 +95,10 @@
 				"zpcd": "19107",
 				"phn": "(215) 922-2317",
 				"url": "http://www.readingterminalmarket.org/",
-				"note": "Famous indoor farmer's market offering diverse fare, housewares and area specialties since 1892."
+				"note": "Famous indoor farmer's market offering diverse fare, housewares and area specialties since 1892.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Tommy Di Nic's",
@@ -88,7 +109,10 @@
 				"zpcd": "19107",
 				"phn": "(215) 923-6175",
 				"url": "http://tommydinics.com/",
-				"note": "Crowds pack this venerable Reading Terminal Market sandwich counter celebrated for its roast pork and make sure to get sharp provolone on your snadwich."
+				"note": "Crowds pack this venerable Reading Terminal Market sandwich counter celebrated for its roast pork and make sure to get sharp provolone on your snadwich.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
 
         ]
