@@ -11,7 +11,10 @@
 				"zpcd": "38122",
 				"phn": "(901) 324-7494",
 				"url": "http://bryantsmemphis.com/",
-				"note": "Bustling, counter-serve eatery dishing out classic Southern breakfast and lunch fare."
+				"note": "Bustling, counter-serve eatery dishing out classic Southern breakfast and lunch fare.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Dyer's Burgers *",
@@ -22,7 +25,10 @@
 				"zpcd": "38103",
 				"phn": "(901) 527-3937",
 				"url": "http://dyersonbeale.com",
-				"note": "Popular diner known for using the same grease to deep-fry their burgers and fries for over a century."
+				"note": "Popular diner known for using the same grease to deep-fry their burgers and fries for over a century.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Charlie Vergos' Rendezvous",
@@ -33,7 +39,10 @@
 				"zpcd": "38103",
 				"phn": "(901) 523-2746",
 				"url": "http://hogsfly.com/",
-				"note": "BBQ spot with upstairs beer hall serving up racks of smoked ribs and sausages dusted with dry rub. Need to order the lamb riblets, which is hte sleeper dish."
+				"note": "BBQ spot with upstairs beer hall serving up racks of smoked ribs and sausages dusted with dry rub. Need to order the lamb riblets, which is hte sleeper dish.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
