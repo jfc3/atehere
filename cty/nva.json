@@ -11,7 +11,10 @@
 				"zpcd": "22030",
 				"phn": "(703) 352-0029",
 				"url": "",
-				"note": "Old-school 1940s-era diner serving up comfort food faves like cheeseburgers and fountain sodas. Great breakfast place."
+				"note": "Old-school 1940s-era diner serving up comfort food faves like cheeseburgers and fountain sodas. Great breakfast place.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "America Eats Tavern",
@@ -22,7 +25,10 @@
 				"zpcd": "22102",
 				"phn": "(703) 744-3999",
 				"url": "http://www.americaeatstavern.com/",
-				"note": "Chef Jose Andres riffs on classics from America's culinary heritage in a homey, art-filled setting. You need to go with a few people so you can try most of the menu. If you like ham get the five ham sampler plate."
+				"note": "Chef Jose Andres riffs on classics from America's culinary heritage in a homey, art-filled setting. You need to go with a few people so you can try most of the menu. If you like ham get the five ham sampler plate.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Bangkok Golden",
@@ -33,7 +39,10 @@
 				"zpcd": "22044",
 				"phn": "(703) 533-9480",
 				"url": "http://www.bangkokgoldenva.com/",
-				"note": "No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets."
+				"note": "No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Banh Mi DC Sandwich",
@@ -44,7 +53,10 @@
 				"zpcd": "22042",
 				"phn": "(703) 205-9300",
 				"url": "",
-				"note": "Vietnamese market has a variety of banh mi sandwiches and other snacks, plus a handful of tables."
+				"note": "Vietnamese market has a variety of banh mi sandwiches and other snacks, plus a handful of tables.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Blue and White Carry Out",
@@ -55,7 +67,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 548-3867",
 				"url": "hhh",
-				"note": "The Blue and White Carry Out only shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50."
+				"note": "The Blue and White Carry Out only shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Bob and Edith's",
@@ -66,7 +81,10 @@
 				"zpcd": "22204",
 				"phn": "(703) 920-6103",
 				"url": "http://www.bobandedithsdiner.com/",
-				"note": "Old-school diner serving American comfort food 24/7 to everyone from hipsters to families."
+				"note": "Old-school diner serving American comfort food 24/7 to everyone from hipsters to families.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Boccato Gelato and Espresso",
@@ -77,7 +95,10 @@
 				"zpcd": "22201",
 				"phn": "(703) 869-6522",
 				"url": "http://gelatoarlingtonva.wixsite.com/boccato",
-				"note": "Occasional live music plays at this coffee shop with an espresso bar, gelato and other desserts."
+				"note": "Occasional live music plays at this coffee shop with an espresso bar, gelato and other desserts.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Bombay Curry",
@@ -88,7 +109,10 @@
 				"zpcd": "22305",
 				"phn": "(703) 836-6363",
 				"url": "http://www.bombaycurrycompany.com/",
-				"note": "Casual Indian eatery with traditional dishes such as curries and kebabs, plus a Sunday lunch buffet."
+				"note": "Casual Indian eatery with traditional dishes such as curries and kebabs, plus a Sunday lunch buffet.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Caphe Banh Mi",
@@ -99,7 +123,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 549-0800",
 				"url": "http://caphebanhmi.com/",
-				"note": "Casual Vietnamese eatery cooking up classics like pho noodle soups and banh mi sandwiches."
+				"note": "Casual Vietnamese eatery cooking up classics like pho noodle soups and banh mi sandwiches.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Cerritos Pupuseria",
@@ -110,7 +137,10 @@
 				"zpcd": "20152",
 				"phn": "(703) 327-0052",
 				"url": "hhh",
-				"note": "You need to order the chicken tamales and any of the pupusa's."
+				"note": "You need to order the chicken tamales and any of the pupusa's.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Creekside Bakery and Deli",
@@ -121,7 +151,10 @@
 				"zpcd": "22740",
 				"phn": "(540) 987-8568",
 				"url": "",
-				"note": "They have wonderful pastries and donuts. My favorites are the blackberry and blueberry turnovers, aong with their glazed yeast leaven donuts."
+				"note": "They have wonderful pastries and donuts. My favorites are the blackberry and blueberry turnovers, aong with their glazed yeast leaven donuts.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Dairy Godmother",
@@ -132,7 +165,10 @@
 				"zpcd": "22301",
 				"phn": "(703) 683-7767",
 				"url": "http://www.thedairygodmother.com/",
-				"note": "NOTE - Temporarily Closed. Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet."
+				"note": "NOTE - Temporarily Closed. Retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "District Taco",
@@ -143,7 +179,10 @@
 				"zpcd": "22207",
 				"phn": "(703) 237-1204",
 				"url": "http://www.districttaco.com/",
-				"note": "In 2009, two neighbors got together over some homemade chips, salsa and guacamole and decided to launch District Taco as a food truck."
+				"note": "In 2009, two neighbors got together over some homemade chips, salsa and guacamole and decided to launch District Taco as a food truck.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Earl's Sandwiches",
@@ -154,7 +193,10 @@
 				"zpcd": "22201",
 				"phn": "(703) 248-0150",
 				"url": "http://www.earlsinarlington.com/",
-				"note": "Creative sandwich shop featuring meats slow-roasted in house, with some veggie offerings too."
+				"note": "Creative sandwich shop featuring meats slow-roasted in house, with some veggie offerings too.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Four Sisters Restaurant",
@@ -165,7 +207,10 @@
 				"zpcd": "22042",
 				"phn": "(703) 539-8566",
 				"url": "http://www.foursistersrestaurant.com/",
-				"note": "We look forward to sharing with you our delightful, savory and distinctive home-style dishes reminiscent of our native country — all served with the charm and hospitality of the Four Sisters family. Great Vietnamese cuisine."
+				"note": "We look forward to sharing with you our delightful, savory and distinctive home-style dishes reminiscent of our native country — all served with the charm and hospitality of the Four Sisters family. Great Vietnamese cuisine.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Green Fare Organic Cafe *",
@@ -176,7 +221,10 @@
 				"zpcd": "20170",
 				"phn": "(703) 689-0506",
 				"url": "http://www.greenfare.com/",
-				"note": "GreenFare offers delicious organic, whole plant food lovingly prepared oil free and with no added salt for those seeking a refuge from the ordinary. I had their black bean burger at TEDxMidAtlantic after party and oyu need to give it a try."
+				"note": "GreenFare offers delicious organic, whole plant food lovingly prepared oil free and with no added salt for those seeking a refuge from the ordinary. I had their black bean burger at TEDxMidAtlantic after party and oyu need to give it a try.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Hank's Pasta Bar *",
@@ -188,7 +236,10 @@
 				"zpcd": "22314",
 				"phn": "(571) 312-4117",
 				"url": "http://www.hankspastabar.com/",
-				"note": "Pasta samplers and trendy cocktails are big draws at this rustic-chic Italian with a classy lounge."
+				"note": "Pasta samplers and trendy cocktails are big draws at this rustic-chic Italian with a classy lounge.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Haute Dogs and Fries",
@@ -199,7 +250,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 548-3891",
 				"url": "http://www.hautedogsandfries.com/",
-				"note": "Gourmet hot dogs with housemade onion relish and locally sourced sausages in a modern, brick space."
+				"note": "Gourmet hot dogs with housemade onion relish and locally sourced sausages in a modern, brick space.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Jack's Place",
@@ -210,7 +264,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 684-0372",
 				"url": "",
-				"note": "Pint-size nook that lures locals for straightforward hot & cold sandwiches plus breakfast bites."
+				"note": "Pint-size nook that lures locals for straightforward hot & cold sandwiches plus breakfast bites.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "The Java Shack",
@@ -221,7 +278,10 @@
 				"zpcd": "22201",
 				"phn": "(703) 527-9556",
 				"url": "http://commonwealthjoe.com/pages/the-java-shack",
-				"note": "Neighborhood coffee shop featuring hot and cold brews made with locally roasted beans and a patio."
+				"note": "Neighborhood coffee shop featuring hot and cold brews made with locally roasted beans and a patio.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Kabob Palace",
@@ -232,7 +292,10 @@
 				"zpcd": "22202",
 				"phn": "(703) 486-3535",
 				"url": "http://www.kabobpalaceusa.com/",
-				"note": "Counter-service spot that's open 24/7 and serves up Middle Eastern fare like kebabs and curries. The lamb kabob and Kubideh  with rice and curry chickpeas is wonderful."
+				"note": "Counter-service spot that's open 24/7 and serves up Middle Eastern fare like kebabs and curries. The lamb kabob and Kubideh  with rice and curry chickpeas is wonderful.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Knotty Pine Restaurant",
@@ -243,7 +306,10 @@
 				"zpcd": "22630",
 				"phn": "(540) 635-3064",
 				"url": "",
-				"note": "Longtime local haunt offering classic American grub, including breakfast, plus a back bar area."
+				"note": "Longtime local haunt offering classic American grub, including breakfast, plus a back bar area.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Metro 29 Diner",
@@ -254,7 +320,10 @@
 				"zpcd": "22207",
 				"phn": "(703) 528-2464",
 				"url": "http://metro29diner.com/",
-				"note": "Spacious diner with varied American menu (known for its French toast), open from early till late."
+				"note": "Spacious diner with varied American menu (known for its French toast), open from early till late.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Momo Sushi",
@@ -265,7 +334,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 299-9092",
 				"url": "http://mymomosushi.com/",
-				"note": "Sushi bar and kitchen with fresh rolls, teriyaki and noodles, plus lots of wine, sake and Japanese beers."
+				"note": "Sushi bar and kitchen with fresh rolls, teriyaki and noodles, plus lots of wine, sake and Japanese beers.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Peter Chang",
@@ -276,7 +348,10 @@
 				"zpcd": "22207",
 				"phn": "(703) 538-6688",
 				"url": "http://peterchangarlington.com/",
-				"note": "Cult chef Peter Chang serves his Sichuan playbook and special dishes at this spiffed-up storefront."
+				"note": "Cult chef Peter Chang serves his Sichuan playbook and special dishes at this spiffed-up storefront.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pho 75",
@@ -287,7 +362,10 @@
 				"zpcd": "22209",
 				"phn": "(703) 525-7355",
 				"url": "hhh",
-				"note": "Traditional pho with a wide choice of add-ons served in a modest setting. Cash only."
+				"note": "Traditional pho with a wide choice of add-ons served in a modest setting. Cash only.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pho  Viet Flare",
@@ -298,7 +376,10 @@
 				"zpcd": "22304",
 				"phn": "(703) 370-9279",
 				"url": "",
-				"note": "Unassuming strip-mall restaurant ladling out bowls of pho and other Vietnamese staples."
+				"note": "Unassuming strip-mall restaurant ladling out bowls of pho and other Vietnamese staples.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Punjabi by Nature",
@@ -309,7 +390,10 @@
 				"zpcd": "20176",
 				"phn": "(571) 333-3300",
 				"url": "http://www.punjabibynature.us/",
-				"note": "True to its name, Punjabi By Nature has created a wonderful and authentic aroma of high quality indian cuisine, bringing its best from the capital of India(Delhi) to the heart of Virginia in Lansdowne."
+				"note": "True to its name, Punjabi By Nature has created a wonderful and authentic aroma of high quality indian cuisine, bringing its best from the capital of India(Delhi) to the heart of Virginia in Lansdowne.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ravi Kabob House *",
@@ -320,7 +404,10 @@
 				"zpcd": "22203",
 				"phn": "(703) 522-6666",
 				"url": "",
-				"note": "No-frills restaurant offering kebabs and other Pakistani staples at super-cheap prices."
+				"note": "No-frills restaurant offering kebabs and other Pakistani staples at super-cheap prices.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ray's Hell Burger",
@@ -331,7 +418,10 @@
 				"zpcd": "22209",
 				"phn": "(703) 841-0001",
 				"url": "http://www.rayshellburger.com/",
-				"note": "Unassuming spot for hamburgers with gourmet add-ons, steak & cheese sandwiches, boozy shakes and more."
+				"note": "Unassuming spot for hamburgers with gourmet add-ons, steak & cheese sandwiches, boozy shakes and more.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ray's the Steaks",
@@ -342,7 +432,10 @@
 				"zpcd": "22201",
 				"phn": "(703) 841-7297",
 				"url": "http://www.raysthesteaks.com/",
-				"note": "Steaks served with family-style sides of mashed potatoes and creamed spinach in a minimalist space."
+				"note": "Steaks served with family-style sides of mashed potatoes and creamed spinach in a minimalist space.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Souvlaki Bar",
@@ -353,7 +446,10 @@
 				"zpcd": "22301",
 				"phn": "(571) 312-4202",
 				"url": "https://www.souvlakibar.com/",
-				"note": "Souvlaki Bar, they bring authentic traditional recipes for you to enjoy the delicious Greek flavors of fresh-tasting combinations of lemon juice, garlic, oregano, sea salt and olive oil. You need to try the chicken Souvlaki and the pork Yeero along with a side of Greek roasted potatoes."
+				"note": "Souvlaki Bar, they bring authentic traditional recipes for you to enjoy the delicious Greek flavors of fresh-tasting combinations of lemon juice, garlic, oregano, sea salt and olive oil. You need to try the chicken Souvlaki and the pork Yeero along with a side of Greek roasted potatoes.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Sugar Shack Donuts",
@@ -364,7 +460,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 577-9023",
 				"url": "http://www.sugarshackdonuts.com/",
-				"note": "This offshoot of the Richmond original specializes in handmade donuts with unique glazes and toppings."
+				"note": "This offshoot of the Richmond original specializes in handmade donuts with unique glazes and toppings.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Sweet Fire Donna's *",
@@ -375,7 +474,10 @@
 				"zpcd": "22314",
 				"phn": "(571) 312-7960",
 				"url": "http://www.sweetfiredonnas.com/",
-				"note": "This relaxed joint offers traditional smoked barbecue with familiar sides, plus a full bar. he sandwich to get is the 'Bubba Mike' an oversized sandwich with 1/2 lb. of pulled pork and a Texas sausage link, topped with cheese sauce, creamy coleslaw, and original BBQ sauce."
+				"note": "This relaxed joint offers traditional smoked barbecue with familiar sides, plus a full bar. he sandwich to get is the 'Bubba Mike' an oversized sandwich with 1/2 lb. of pulled pork and a Texas sausage link, topped with cheese sauce, creamy coleslaw, and original BBQ sauce.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Taco Bamba",
@@ -386,7 +488,10 @@
 				"zpcd": "22043",
 				"phn": "(703) 639-0505",
 				"url": "http://tacobambarestaurant.com/",
-				"note": "Colorful, counter-serve storefront dishing up Mexican eats for takeout or quick stand-up dining."
+				"note": "Colorful, counter-serve storefront dishing up Mexican eats for takeout or quick stand-up dining.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Taqueria el Poblano",
@@ -397,7 +502,10 @@
 				"zpcd": "22301",
 				"phn": "(703) 548-8226",
 				"url": "http://www.taqueriapoblano.com/",
-				"note": "Family-friendly dining featuring south-of-the-border favorites and made-from-scratch margaritas."
+				"note": "Family-friendly dining featuring south-of-the-border favorites and made-from-scratch margaritas.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Taqueria Mexicana",
@@ -408,7 +516,10 @@
 				"zpcd": "22663",
 				"phn": "",
 				"url": "",
-				"note": "You can get authentic Mexican tacos with contents like lengua (tongue), tripe, pork, beef, chicken, tortas, and many other things."
+				"note": "You can get authentic Mexican tacos with contents like lengua (tongue), tripe, pork, beef, chicken, tortas, and many other things.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Vaso's Kitchen",
@@ -419,7 +530,10 @@
 				"zpcd": "22314",
 				"phn": "(703) 548-2747",
 				"url": "",
-				"note": "Homey neighborhood staple with a cozy dining room and patio seating serving Greek comfort food. You need to order Artichoke Florentina for an appetizer and the Lamb Shank for dinner."
+				"note": "Homey neighborhood staple with a cozy dining room and patio seating serving Greek comfort food. You need to order Artichoke Florentina for an appetizer and the Lamb Shank for dinner.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Virtue Feed and Grain",
@@ -430,7 +544,10 @@
 				"zpcd": "22314",
 				"phn": "(571) 970-3669",
 				"url": "http://virtuefeedgrain.com/",
-				"note": "In a revamped 18th-century granary, this hip tavern offers elevated pub grub and a lively bar scene. The Last time I was there they had a bunch of parts/offal appetizers or main dishes."
+				"note": "In a revamped 18th-century granary, this hip tavern offers elevated pub grub and a lively bar scene. The Last time I was there they had a bunch of parts/offal appetizers or main dishes.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
