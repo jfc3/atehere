@@ -11,7 +11,10 @@
 				"zpcd": "08226",
 				"phn": "(609) 525-0767",
 				"url": "http://www.picciniocnj.com/",
-				"note": "Homey, cash-only eatery serving a wide-ranging menu of Italian staples, from pastas to sandwiches. Make sure to get a side of meatballs if nothing else."
+				"note": "Homey, cash-only eatery serving a wide-ranging menu of Italian staples, from pastas to sandwiches. Make sure to get a side of meatballs if nothing else.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
 			},
             {
                 "name": "Smitty's Clam Bar",
@@ -22,7 +25,10 @@
 				"zpcd": "08244",
 				"phn": "(609) 927-8783",
 				"url": "",
-				"note": "Snug veteran clam shack preparing no-frills seafood dishes with a surfer vibe."
+				"note": "Snug veteran clam shack preparing no-frills seafood dishes with a surfer vibe.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
