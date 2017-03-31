@@ -11,7 +11,10 @@
 				"zpcd": "97205",
 				"phn": "(503) 265-8410",
 				"url": "http://www.bluestardonuts.com/",
-				"note": "This upmarket brioche-donut bakery features creative flavors and organic, locally sourced ingredients."
+				"note": "This upmarket brioche-donut bakery features creative flavors and organic, locally sourced ingredients.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Bunk Sandwiches",
@@ -22,7 +25,10 @@
 				"zpcd": "97204",
 				"phn": "(503) 328-2865",
 				"url": "http://www.bunksandwiches.com/",
-				"note": "Bunk's signature sandwiches  - such as the Pork Belly Cubano, the Meatball Parmiagano Hero, and the Pulled Pork with Apple Cabbage Slaw - have garnered national media attention."
+				"note": "Bunk's signature sandwiches  - such as the Pork Belly Cubano, the Meatball Parmiagano Hero, and the Pulled Pork with Apple Cabbage Slaw - have garnered national media attention.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Chicken and Guns",
@@ -33,7 +39,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 234-7236",
 				"url": "http://www.chickenandguns.com/",
-				"note": "They serve Oak Fired Latin Chicken.  We only use naturally raised chicken from Scratch Farms in Canby, OR."
+				"note": "They serve Oak Fired Latin Chicken.  We only use naturally raised chicken from Scratch Farms in Canby, OR.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "The Fried Onion *",
@@ -44,7 +53,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 961-2534",
 				"url": "http://thefriedonion.com/",
-				"note": "NYC street food - Moussa is a fried onions, roasted red peppers, buffalo chicken, and pastrami sandwich."
+				"note": "NYC street food - Moussa is a fried onions, roasted red peppers, buffalo chicken, and pastrami sandwich.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Grilled Cheese Grill *",
@@ -55,7 +67,10 @@
 				"zpcd": "97211",
 				"phn": "(503) 206-8959",
 				"url": "http://grilledcheesegrill.com",
-				"note": "Hopping eatery housed in a converted school bus serving creative spins on the grilled cheese."
+				"note": "Hopping eatery housed in a converted school bus serving creative spins on the grilled cheese.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Interurban *",
@@ -66,7 +81,10 @@
 				"zpcd": "97227",
 				"phn": "(503) 284-6669",
 				"url": "http://www.interurbanpdx.com/",
-				"note": "Bustling 2-story saloon with retro hardwood decor serving craft cocktails and upscale bar snacks."
+				"note": "Bustling 2-story saloon with retro hardwood decor serving craft cocktails and upscale bar snacks.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Kenny & Zuke's Delicatessen *",
@@ -77,7 +95,10 @@
 				"zpcd": "97205",
 				"phn": "(503) 222-3354",
 				"url": "http://www.kennyandzukes.com/",
-				"note": "Bustling spot serving a signature pastrami, bagels and other deli fare in a roomy, light-filled space. You need to order the Jeremy which is Mac and cheese with pastrami."
+				"note": "Bustling spot serving a signature pastrami, bagels and other deli fare in a roomy, light-filled space. You need to order the Jeremy which is Mac and cheese with pastrami.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Kim Jong Grillin’",
@@ -88,7 +109,10 @@
 				"zpcd": "97206",
 				"phn": "(503) 929-0522",
 				"url": "http://kimjonggrillin.com/",
-				"note": "Possibly the best-named cart ever, with addictive Korean street food."
+				"note": "Possibly the best-named cart ever, with addictive Korean street food.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Lardo",
@@ -99,7 +123,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 234-7786",
 				"url": "http://lardosandwiches.com",
-				"note": "Former food truck turned small, hip pork-centered sandwich shop, with draft beers and outdoor patio."
+				"note": "Former food truck turned small, hip pork-centered sandwich shop, with draft beers and outdoor patio.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Laurelhurst Market *",
@@ -110,7 +137,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 206-3097",
 				"url": "http://laurelhurstmarket.com",
-				"note": "Butcher shop/steakhouse providing unusual cuts, house-cured meats and craft drinks in industrial digs."
+				"note": "Butcher shop/steakhouse providing unusual cuts, house-cured meats and craft drinks in industrial digs.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Le Pigeon *",
@@ -121,7 +151,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 546-8796",
 				"url": "http://lepigeon.com/",
-				"note": "Rotating menu of creative French-inspired fare served at communal tables or the bar in a snug room."
+				"note": "Rotating menu of creative French-inspired fare served at communal tables or the bar in a snug room.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Lincoln Restaurant *",
@@ -132,7 +165,10 @@
 				"zpcd": "97227",
 				"phn": "(503) 288-6200",
 				"url": "http://lincolnpdx.com",
-				"note": "Spare, polished bistro bar serving locally sourced dishes from an open kitchen. You need to order the elk if it's available."
+				"note": "Spare, polished bistro bar serving locally sourced dishes from an open kitchen. You need to order the elk if it's available.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "The Meadow",
@@ -143,7 +179,10 @@
 				"zpcd": "97227",
 				"phn": "(503) 974-8349",
 				"url": "http://themeadow.com/",
-				"note": "The Meadow, salt, chocolate, bitters, and salt blocks."
+				"note": "The Meadow, salt, chocolate, bitters, and salt blocks.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Michael's Italian Beef & Sausage Co. *",
@@ -154,7 +193,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 230-1899",
 				"url": "http://michaelsitalianbeef.com/",
-				"note": "Quick-serve destination for Chicago-style sandwiches plus Italian sausage and other casual fare such as hot dogs."
+				"note": "Quick-serve destination for Chicago-style sandwiches plus Italian sausage and other casual fare such as hot dogs.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Ned Ludd *",
@@ -165,7 +207,10 @@
 				"zpcd": "97212",
 				"phn": "(503) 288-6900",
 				"url": "http://nedluddpdx.com",
-				"note": "Inventive New American dishes cooked in wood-fired oven and served in small, elegantly rustic room. Monday night only 100 wood oven pizza's."
+				"note": "Inventive New American dishes cooked in wood-fired oven and served in small, elegantly rustic room. Monday night only 100 wood oven pizza's.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Nong’s Khao Man Gai",
@@ -176,7 +221,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 740-2907",
 				"url": "http://khaomangai.com/",
-				"note": "The namesake Khao Man Gai (Thai chicken and rice wrapped in butcher paper) draws crowds to this cart."
+				"note": "The namesake Khao Man Gai (Thai chicken and rice wrapped in butcher paper) draws crowds to this cart.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Olympic Provisions *",
@@ -187,7 +235,10 @@
 				"zpcd": "97214",
 				"phn": "(503) 954-3663",
 				"url": "http://www.olympiaprovisions.com/",
-				"note": "House-made charcuterie and European-style meals provided in an industrial space with a to-go counter."
+				"note": "House-made charcuterie and European-style meals provided in an industrial space with a to-go counter.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Podnah's Pit Barbecue *",
@@ -198,7 +249,10 @@
 				"zpcd": "97211",
 				"phn": "(503) 281-3700",
 				"url": "http://podnahspit.com",
-				"note": "Smoked Texas-style barbecue and sides served in a simple, spacious restaurant with wood tables & bar. Been told you need to get a sampler platter."
+				"note": "Smoked Texas-style barbecue and sides served in a simple, spacious restaurant with wood tables & bar. Been told you need to get a sampler platter.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Pok Pok",
@@ -209,7 +263,10 @@
 				"zpcd": "97202",
 				"phn": "(503) 232-1387",
 				"url": "http://pokpokpdx.com/",
-				"note": "Creative Thai street food like fish-sauce wings and unique beverages served at a small, modern spot."
+				"note": "Creative Thai street food like fish-sauce wings and unique beverages served at a small, modern spot.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Salt & Straw",
@@ -220,7 +277,10 @@
 				"zpcd": "97211",
 				"phn": "(503) 208-3867",
 				"url": "http://saltandstraw.com/",
-				"note": "They love exploring fun, interesting new ice cream flavors and my favorite so far is the salted Carmel."
+				"note": "They love exploring fun, interesting new ice cream flavors and my favorite so far is the salted Carmel.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Swiss Hibiscus *",
@@ -231,7 +291,10 @@
 				"zpcd": "97211",
 				"phn": "(503) 477-9224",
 				"url": "https://swisshibiscus.com/",
-				"note": "Classic Swiss dishes and other European eats whipped up in a petite, low-key bistro with a patio."
+				"note": "Classic Swiss dishes and other European eats whipped up in a petite, low-key bistro with a patio.",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
