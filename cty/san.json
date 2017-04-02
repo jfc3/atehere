@@ -3,7 +3,7 @@
         "city": "San Diego, CA",
 		"posts": [
             {
-                "name": "BeShock Ramen and Sake Bar *",
+                "name": "BeShock Ramen and Sake Bar",
 				"add1": "1288 Market St",
 				"add2": "",
 				"cty": "San Diego",
@@ -26,12 +26,12 @@
 				"phn": "(619) 233-8880",
 				"url": "http://eatpuesto.com/",
 				"note": "Bi-level eatery with floor-to-ceiling windows serving an innovative, locally sourced Mexican menu.",
-				"eaten": "no",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
             {
-                "name": "Fat Sal's *",
+                "name": "Fat Sal's",
 				"add1": "956 Garnet Ave",
 				"add2": "",
 				"cty": "San Diego",
@@ -45,7 +45,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Georges at the Cove *",
+                "name": "Georges at the Cove",
 				"add1": "1250 Prospect St",
 				"add2": "",
 				"cty": "La Jolla",
@@ -129,7 +129,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Lucha Libre Taco Shop *",
+                "name": "Lucha Libre Taco Shop",
 				"add1": "1810 W Washington St",
 				"add2": "",
 				"cty": "San Diego",
@@ -143,7 +143,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "OB Noodle House and Sake Bar *",
+                "name": "OB Noodle House and Sake Bar",
 				"add1": "2218 Cable St",
 				"add2": "",
 				"add2": "",
@@ -158,7 +158,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Phil's BBQ *",
+                "name": "Phil's BBQ",
 				"add1": "579 Grand Ave,",
 				"add2": "",
 				"cty": "San Marcos",
@@ -172,7 +172,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Richard Walker's Pancake House *",
+                "name": "Richard Walker's Pancake House",
 				"add1": "520 Front St",
 				"add2": "",
 				"cty": "San Diego",
