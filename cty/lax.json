@@ -12,7 +12,7 @@
 				"phn": "(310) 398-7700",
 				"url": "http://www.aframela.com/",
 				"note": "Creative Asian and international flavors mix at this hip eatery with communal tables and patio dining. You need to try the baby back ribs and beer can chicken. If you're there on Sunday get the all-you-can-eat chicken which consists of three types of chicken, fries, corn, and Hawaiian buns.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "(213) 745-7455",
 				"url": "http://azlavegan.com/",
 				"note": "Casual, cheery counter-serve with small tables specializing in vegan renditions of Ethiopian dishes.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(310) 450-5630",
 				"url": "http://www.bluestardonuts.com/",
 				"note": "Minimalist cafe for grab-and-go brioche donuts in grown-up flavors such as blueberry-bourbon-basil and the best apple fritter I have ever had in my life and I'm in my mid 50's.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -54,7 +54,7 @@
 				"phn": "(323) 297-1133",
 				"url": "http://chispacca.com/",
 				"note": "Meaty, upscale Italian fare from a trio of star chefs in a Tuscan atmosphere with worn-wood tables.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -68,7 +68,7 @@
 				"phn": "(310) 399-1233",
 				"url": "https://www.intelligentsiacoffee.com/venice-coffeebar",
 				"note": "High-end coffee bar chain serving daily roasted brews in an industrial-chic setting. They have a great dark chocolate hot chocolate and espresso (four shots).",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -82,7 +82,7 @@
 				"phn": "",
 				"url": "http://kogibbq.com/",
 				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -96,7 +96,7 @@
 				"phn": "(323) 939-6813",
 				"url": "https://www.labreabakery.com/",
 				"note": "Popular for its handmade bread, this casual cafe serves sandwiches, soup and other light fare.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -110,7 +110,7 @@
 				"phn": "(323) 346-2001",
 				"url": "http://www.leostacostruck.com/",
 				"note": "Leo's Tacos Truck has delicious Al Pastor tacos are better than ever with a taste that will leave you wanting more. You can order them by the plate full which most people do. The beef head, Tripe, etc. are outstanding.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -124,7 +124,7 @@
 				"phn": "",
 				"url": "http://www.welocol.com/",
 				"note": "Conscientious fast-food spot with simple design for breakfast, burgers and health-oriented options.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -137,7 +137,10 @@
 				"zpcd": "90020",
 				"phn": "",
 				"url": "",
-				"note": "Dive Bar in Koreatown."
+				"note": "Dive Bar in Koreatown.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             },
             {
                 "name": "Myung in Dumplings",
@@ -149,7 +152,7 @@
 				"phn": "(213) 381-3568",
 				"url": "http://myungin-dumplings.com/",
 				"note": "Traditional Korean buns and dumplings offered in a simple, subdued eatery with a pictorial menu.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -177,7 +180,7 @@
 				"phn": "(323) 297-0100",
 				"url": "http://la.osteriamozza.com/",
 				"note": "Lauded upscale Italian cuisine from chefs Nancy Silverton and Mario Batali in a bustling atmosphere.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -191,7 +194,7 @@
 				"phn": "(323) 297-0101",
 				"url": "http://la.pizzeriamozza.com/",
 				"note": "Nancy Silverton and Mario Batali turn out acclaimed wood-burning-oven pizzas and antipasti in busy digs.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -205,7 +208,7 @@
 				"phn": "(310) 310-8429",
 				"url": "http://saltandstraw.com/",
 				"note": "Popular ice cream chain out of Oregon known for inventive flavors and farm-sourced ingredients.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -219,7 +222,7 @@
 				"phn": "(424) 835-6580",
 				"url": "http://www.simmzys.com/",
 				"note": "Bustling, open-air pub with a rotating selection of craft beers and American eats, including burgers.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -233,7 +236,7 @@
 				"phn": "(323) 351-8379",
 				"url": "",
 				"note": "No-frills mobile eatery doling out Mexican tortas stuffed with layers of meats, cheese, and eggs. Found out about htis place while standing line for spit roasted al pastor.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -247,7 +250,7 @@
 				"phn": "(213) 386-7799",
 				"url": "",
 				"note": "Bare-bones establishment offering South Asian groceries and cafeteria-style Bangladeshi eats.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -261,7 +264,7 @@
 				"phn": "(562) 856-4000",
 				"url": "http://www.tavernon2.com/",
 				"note": "Lively gastropub offering farm-fresh bites and a rotating menu of 50 craft beers and wines in warm digs. The dish to order is pig tails.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -275,7 +278,7 @@
 				"phn": "213) 380-1113",
 				"url": "http://beverlysoontofu.com/",
 				"note": "Traditional Korean dishes including more than 10 combinations of flavors of soon tofu, barbecued galbi, bulgogi, spicy chicken, spicy squid, tofu steak, and the stone plate bibimbap. You need to get the spicy tofu soup to put over rice.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -289,7 +292,7 @@
 				"phn": "(310) 448-8886",
 				"url": "",
 				"note": "Compact, simple Japanese eatery for housemade noodles in a range of broths, plus other specialties. No need for extra noodles since they give you so many to start with. The two types of dumplings are great too.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             }
