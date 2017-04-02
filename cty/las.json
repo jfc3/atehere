@@ -12,7 +12,7 @@
 				"phn": "(702) 698-7900",
 				"url": "http://www.chinapoblano.com/",
 				"note": "Chef José Andrés' inventive mix of Chinese and Mexican cuisines.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -27,7 +27,7 @@
 				"url": "http://www.johnmullsmeats.com/",
 				"note": "Unfussy BBQ joint with covered outdoor seating offering Southern-style smoked meats and country sides.",
 				"eaten": "jjj",
-				"photo": "kkk",
+				"photo": "yes",
 				"cptn": "lll"
             },
             {
@@ -40,7 +40,7 @@
 				"phn": "(702) 735-3033",
 				"url": "http://lotusofsiamlv.com/",
 				"note": "Revered, owner-operated Thai eatery in Commercial Center offering family recipes and a vast wine list. NOTE - Order from northern Thai section of the menu.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -54,7 +54,7 @@
 				"phn": "(702) 641-8228",
 				"url": "http://tacoselgordobc.com/",
 				"note": "Tacos El Gordo has a passion for delivering great-tasting Mexican Tacos. We have been in the food service industry for over 40 years, opening our first restaurant in 1972.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             }
