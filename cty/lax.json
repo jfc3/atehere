@@ -17,7 +17,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Azla Ethiopian Vegan *",
+                "name": "Azla Ethiopian Vegan",
 				"add1": "3655 S Grand Ave",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -45,7 +45,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "chi SPACCA *",
+                "name": "chi SPACCA",
 				"add1": "6610 Melrose Ave",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -73,7 +73,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Kogi BBQ *",
+                "name": "Kogi BBQ",
 				"add1": "12236 W Washington Blvd",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -87,7 +87,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "La Brea Bakery Cafe *",
+                "name": "La Brea Bakery Cafe",
 				"add1": "468 S La Brea Ave",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -115,7 +115,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Locol *",
+                "name": "Locol",
 				"add1": "1950 E 103rd St",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -129,7 +129,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Monti Carlo *",
+                "name": "Monti Carlo",
 				"add1": "3514 W 3rd St",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -166,12 +166,12 @@
 				"phn": "(213) 972-9279",
 				"url": "http://www.pantrycafe.com/",
 				"note": "Casual cash-only diner, open since 1924, dishes up ample portions of American eats around the clock. You need to try the chicken fried steak or the pork chop breakfast specials if they have them.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
             {
-                "name": "Osteria Mozza *",
+                "name": "Osteria Mozza",
 				"add1": "6602 Melrose Ave",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -185,7 +185,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Pizzeria Mozza *",
+                "name": "Pizzeria Mozza",
 				"add1": "641 N. Highland Avenu",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -213,7 +213,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Simmzy's *",
+                "name": "Simmzy's",
 				"add1": "37 W Washington Blvd",
 				"add2": "",
 				"cty": "Venice",
@@ -227,7 +227,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Super Tortas D.F. *",
+                "name": "Super Tortas D.F.",
 				"add1": "1098 E 41st St",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -241,7 +241,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Swadeah *",
+                "name": "Swadeah",
 				"add1": "4153 W 3rd St",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -255,7 +255,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Tavern On 2 *",
+                "name": "Tavern On 2",
 				"add1": "5110 E 2nd St",
 				"add2": "",
 				"cty": "Long Beach",
@@ -269,7 +269,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Tofu House (Beverly Soon Tofu) *",
+                "name": "Tofu House (Beverly Soon Tofu)",
 				"add1": "2717 W. Olympic Blvd.",
 				"add2": "#108",
 				"cty": "Los Angeles",
