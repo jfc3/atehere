@@ -12,7 +12,7 @@
 				"phn": "(614) 895-0553",
 				"url": "http://www.graeters.com/",
 				"note": "Longtime ice cream parlor chain serving small-batch scoops plus baked goods at some locations.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "(717) 939-0501",
 				"url": "http://www.schmidthaus.com/",
 				"note": "All-you-can-eat sausage buffet and don't forget to order the huge chocolate cream puffs.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(614) 443-1570",
 				"url": "https://thethurmancafe.com/",
 				"note": "Bustling, rustic American haunt with oversized, toppings-loaded burgers and a full bar.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             }
