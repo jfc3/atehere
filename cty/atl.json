@@ -3,7 +3,7 @@
         "city": "Atlanta, GA",
 		"posts": [
             {
-                "name": "Buford Highway Farmers Market *",
+                "name": "Buford Highway Farmers Market",
 				"add1": "5600 Buford Hwy NE",
 				"add2": "",
 				"cty": "Atlanta",
@@ -17,7 +17,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "El Taco Veloz *",
+                "name": "El Taco Veloz",
 				"add1": "5084 Buford Hwy NE",
 				"add2": "",
 				"cty": "Atlanta",
@@ -31,7 +31,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Fat Matt's Rib Shack *",
+                "name": "Fat Matt's Rib Shack",
 				"add1": "1811 Piedmont Rd NE",
 				"add2": "",
 				"cty": "Atlanta",
@@ -45,7 +45,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Heirloom Market BBQ *",
+                "name": "Heirloom Market BBQ",
 				"add1": "2243 Akers Mill Rd SE",
 				"add2": "",
 				"cty": "Atlanta",
@@ -59,7 +59,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Holeman and Finch *",
+                "name": "Holeman and Finch",
 				"add1": "2277 Peachtree Rd NW",
 				"add2": "",
 				"cty": "Atlanta",
