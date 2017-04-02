@@ -115,7 +115,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Carving Room *",
+                "name": "Carving Room",
 				"add1": "300 Massachusetts Ave NW",
 				"add2": "",
 				"cty": "Washington",
@@ -199,7 +199,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "DC Noodles *",
+                "name": "DC Noodles",
 				"add1": "1412 U St NW",
 				"add2": "",
 				"cty": "Washington",
@@ -213,7 +213,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "DCity Smokehouse *",
+                "name": "DCity Smokehouse",
 				"add1": "203 Florida Ave NW",
 				"add2": "",
 				"cty": "Washington",
@@ -236,12 +236,12 @@
 				"phn": "(202) 698-5253",
 				"url": "http://easternmarket-dc.org/",
 				"note": "Bustling marketplace since 1873 featuring a variety of produce, handmade crafts and prepared foods.",
-				"eaten": "no",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
             {
-                "name": "Ebenezers Coffeehouse *",
+                "name": "Ebenezers Coffeehouse",
 				"add1": "201 F St NE",
 				"add2": "",
 				"cty": "Washington",
@@ -297,7 +297,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Great Wall Szechuan House *",
+                "name": "Great Wall Szechuan House",
 				"add1": "1527 14th St NW",
 				"add2": "",
 				"cty": "Washington",
@@ -325,7 +325,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Indigo *",
+                "name": "Indigo",
 				"add1": "243 K St NE,",
 				"add2": "",
 				"cty": "Washington",
@@ -353,7 +353,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Jimmy T's Place *",
+                "name": "Jimmy T's Place",
 				"add1": "501 5th St SE",
 				"add2": "",
 				"cty": "Washington",
@@ -367,7 +367,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Keren Restaurant and Coffee Shop *",
+                "name": "Keren Restaurant and Coffee Shop",
 				"add1": "1780 Florida Ave NW",
 				"add2": "",
 				"cty": "Washington",
@@ -423,7 +423,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Meats and Foods *",
+                "name": "Meats and Foods",
 				"add1": "247 Florida Ave NW",
 				"add2": "",
 				"cty": "Washington",
@@ -446,7 +446,7 @@
 				"phn": "(202) 602-1832",
 				"url": "https://ccdc.momofuku.com/",
 				"note": "David Chang offers his inventive takes on Asian fare at this airy, modern outpost next to Milk Bar.",
-				"eaten": "no",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -465,7 +465,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Panda Gourmet *",
+                "name": "Panda Gourmet",
 				"add1": "2700 New York Ave NE",
 				"add2": "",
 				"cty": "Washington",
@@ -479,7 +479,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Pearl Dive Oyster Palace *",
+                "name": "Pearl Dive Oyster Palace",
 				"add1": "1612 14th St NW",
 				"add2": "",
 				"cty": "Washington",
