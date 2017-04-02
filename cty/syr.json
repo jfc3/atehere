@@ -3,7 +3,7 @@
         "city": "Syracuse, NY",
 		"posts": [
             {
-                "name": "Dinosaur Bar-B-Que *",
+                "name": "Dinosaur Bar-B-Que",
 				"add1": "246 W Willow St",
 				"add2": "",
 				"cty": "Liverpool",
@@ -45,7 +45,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Pastabilities *",
+                "name": "Pastabilities",
 				"add1": "311 S Franklin St",
 				"add2": "",
 				"cty": "Syracuse",
