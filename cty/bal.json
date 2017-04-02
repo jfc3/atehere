@@ -3,7 +3,7 @@
         "city": "Baltimore, MD",
 		"posts": [
             {
-                "name": "Alewife *",
+                "name": "Alewife",
 				"add1": "21 N Eutaw St",
 				"add2": "",
 				"cty": "Baltimore",
@@ -31,7 +31,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Bar Clavel *",
+                "name": "Bar Clavel",
 				"add1": "225 W 23rd St",
 				"add2": "",
 				"cty": "Baltimore",
@@ -45,7 +45,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Bertha's Mussels *",
+                "name": "Bertha's Mussels",
 				"add1": "734 S Broadway",
 				"add2": "",
 				"add2": "",
@@ -74,7 +74,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "The Bun Shop *",
+                "name": "The Bun Shop",
 				"add1": "239 W Read St",
 				"add2": "",
 				"cty": "Baltimore",
@@ -102,7 +102,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "The Charmery *",
+                "name": "The Charmery",
 				"add1": "801 W 36th St",
 				"add2": "",
 				"cty": "Baltimore",
@@ -116,7 +116,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "G & A Restaurant *",
+                "name": "G & A Restaurant",
 				"add1": "3802 Eastern Ave",
 				"add2": "",
 				"cty": "Baltimore",
@@ -144,7 +144,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Maggie's Farm *",
+                "name": "Maggie's Farm",
 				"add1": "4341 Harford Rd",
 				"add2": "",
 				"cty": "Baltimore",
@@ -172,7 +172,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Woodberry Kitchen *",
+                "name": "Woodberry Kitchen",
 				"add1": "2010 Clipper Park Rd",
 				"add2": "",
 				"cty": "Baltimore",
