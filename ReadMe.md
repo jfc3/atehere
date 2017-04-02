@@ -49,7 +49,6 @@ Features:
 * Travel more to be able to add more cities and more restaurants.
 * Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants so people don't have to load a second page.
 * Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
-* Add a way to check that people are not attempting to change the URL to find places not listed. Most likely to use an ARRAY so we can loop through the list to look for matches.
 * Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
 * Have the ability to add photo and ALT text.
 
@@ -68,6 +67,7 @@ Enhancements:
 * Added a few more restaurants to the DCA and NVA JSON files, along with notes to the a few palces that were missing them.
 * Created in page anchor by using the restaurant's name and removing the blank spaces along with special characters, making it all lowercase, and adding a tab index of negative one ( tabindex="-1" ). I did this so people can link directly to a given restaurant on a particular page.
 * Added Los Angles, CA, to drop down lsit and created a JSON file too.
+* Added a way to check that people are not attempting to change the URL to find places not listed. Used an ARRAY that loops through the list of valid cities to look for matches. If it finds onethen it creates the page if JSON file exsts.
 * Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
 * Added two firleds to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
 
