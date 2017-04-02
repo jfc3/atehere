@@ -12,7 +12,7 @@
 				"phn": "(267) 318-7480",
 				"url": "http://www.beckscajuncafe.com/",
 				"note": "Bustling counter serve dishing up Cajun & Creole comfort food to the farmer's-market crowd. You need to make sure order a train wreck.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "(267) 318-7480",
 				"url": "",
 				"note": "Destination for baked goods, including Pennsylvania Dutch classics and a variety of housemade donuts. Blueberry or apple fritter are a must have.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(267) 639-4136",
 				"url": "https://www.cheunoodlebar.com/",
 				"note": "Hip ramen bar with graffiti-covered walls serves noodles and Asian bites plus beer, wine and cocktails.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -54,7 +54,7 @@
 				"phn": "(215) 923-5637",
 				"url": "http://www.dangelobros.com/",
 				"note": "Area institution specializing in house made exotic sausages, sustainable game, specialty pâtés and roasts.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -68,7 +68,7 @@
 				"phn": "(215) 922-2876",
 				"url": "http://www.dibruno.com/",
 				"note": "Acclaimed gourmet destination supplying meats, cheeses & prepared foods, plus specialty items.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -82,7 +82,7 @@
 				"phn": "(215) 923-3092",
 				"url": "http://www.bestcannoli.com/",
 				"note": "Venerable bake shop turning out cannoli, cakes, cookies, custards, tarts and other Italian pastries.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -96,7 +96,7 @@
 				"phn": "(215) 922-2317",
 				"url": "http://www.readingterminalmarket.org/",
 				"note": "Famous indoor farmer's market offering diverse fare, housewares and area specialties since 1892.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -110,7 +110,7 @@
 				"phn": "(215) 923-6175",
 				"url": "http://tommydinics.com/",
 				"note": "Crowds pack this venerable Reading Terminal Market sandwich counter celebrated for its roast pork and make sure to get sharp provolone on your snadwich.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             }
