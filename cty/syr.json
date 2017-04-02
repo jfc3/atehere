@@ -12,7 +12,7 @@
 				"phn": "(315) 476-4937",
 				"url": "http://www.dinosaurbarbque.com/bbq-syracuse",
 				"note": "Barbecue chain serving Southern-style meats & draft brews in a retro setting (most have live music).",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "(315) 451-0786",
 				"url": "http://heidsofliverpool.com/",
 				"note": "Standby for hot dogs, sausages and other quick serve fare in nostalgic digs and adjacent ice cream shop.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(315) 474-5247",
 				"url": "http://themarketdiner.com/",
 				"note": "Family-owned vintage diner with a mural of '50s-era stars serves up American comfort food.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -54,7 +54,7 @@
 				"phn": "(315) 474-1153",
 				"url": "http://www.pastabilities.com/",
 				"note": "Contemporary eatery serves homemade pasta dishes and Italian-American fare in a warm, brick interior.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             }
