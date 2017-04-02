@@ -12,7 +12,7 @@
 				"phn": "(410) 545-5112",
 				"url": "http://www.alewifebmore.com/",
 				"note": "Stylish gastropub featuring updated American fare and many craft beers in a re-imagined 1800s bank. You need to order the wild boar sliders or duck fat fries with porky belly on top.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "",
 				"url": "http://www.promotionandarts.org/events-festivals/baltimore-farmers-market-bazaar",
 				"note": "NOTE - Only open Sunday from mid-April to Mid-Deceber. While strolling through Maryland's largest producers-only market (producers-only meaning all vendors make what they sell), shoppers can revel at the sight of a vast quantity of foods, including crisp seasonal fruits and vegetables, poultry, seafood, beef, pork, lamb, rabbit, fresh baked goods, flavorful herbs and organically raised and produced milk, yogurt, butter, eggs and cheese products. Additionally, dozens of food vendors add spice to the market with multicultural cuisine such as popular pit beef sandwiches, omelets and breakfast burritos, crepes, wood fired pizzas, pies and quiches, soups, noodles and dumplings.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(443) 900-8983",
 				"url": "http://www.barclavel.com/",
 				"note": "Mexican-inspired cocktails and elevated cuisine are served in a simple room with hip hanging lights.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -55,7 +55,7 @@
 				"phn": "(410) 327-5795",
 				"url": "http://www.berthas.com/",
 				"note": "Quirky seafood joint and tavern since 1972, known for mussels and regularly scheduled live music.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -69,7 +69,7 @@
 				"phn": "(410) 522-3940",
 				"url": "http://bluemoonbaltimore.com/",
 				"note": "Popular cafe serving American breakfast meals in a bright, funky setting, open 24 hours on weekends. The dish to get from what I'm told is the Captain Crunch French Toast with homemade whipcream and fresh seasonal berries.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -83,7 +83,7 @@
 				"phn": "(410) 989-2033",
 				"url": "",
 				"note": "Loftlike, late-night cafe for filled buns like piroshki and empanadas, plus Vietnamese coffee. BYOB.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -97,7 +97,7 @@
 				"phn": "(410) 483-2379",
 				"url": "http://www.chapspitbeef.com/",
 				"note": "Popular pit-beef outlet serving namesake sandwiches and homestyle sides in a strip-club parking lot.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -111,7 +111,7 @@
 				"phn": "(410) 814-0493",
 				"url": "http://www.thecharmery.com/",
 				"note": "Quirky, family-owned ice cream shop offering innovative and seasonal flavors in a cheery space.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -125,7 +125,7 @@
 				"phn": "(410) 276-9422",
 				"url": "http://www.gandarestaurant.com/",
 				"note": "Iconic diner known for hot dogs, burgers and other casual eats served in classic digs with a cxounter.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -139,7 +139,7 @@
 				"phn": "(410) 889-8891",
 				"url": "http://www.goldenwestcafe.com/",
 				"note": "Funky Hampden roadhouse offering New Mexican dishes and eclectic comfort grub in unpretentious digs.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -153,7 +153,7 @@
 				"phn": "(410) 254-2376",
 				"url": "http://www.maggiesfarmmd.com/",
 				"note": "Intimate bar and restaurant showcasing thoughtfully sourced, globally inspired provisions and cocktails.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -167,7 +167,7 @@
 				"phn": "(410) 327-0445",
 				"url": "http://www.oneeyedmikes.com/",
 				"note": "Local gastropub in a historic former tavern with a hand-carved bar, tin ceiling and courtyard.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -181,7 +181,7 @@
 				"phn": "(410) 464-8000",
 				"url": "http://www.woodberrykitchen.com/",
 				"note": "Old factory turned hip, rustic-chic place for refined New American fare with a farm-to-table bent.",
-				"eaten": "jjj",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
             }
