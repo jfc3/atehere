@@ -12,7 +12,7 @@
 				"phn": "(504) 523-5433",
 				"url": "https://www.arnaudsrestaurant.com/",
 				"note": "Tin-ceilinged 'grande dame' of Creole dining since 1918, featuring seafood classics and a jazz brunch.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -26,7 +26,7 @@
 				"phn": "(504) 524-3386",
 				"url": "http://thebontoncafe.com/",
 				"note": "Nostalgic, brick-walled spot serving classic Cajun dishes since 1953, except on weekends.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -40,7 +40,7 @@
 				"phn": "(504) 525-4544",
 				"url": "http://www.cafedumonde.com/",
 				"note": "Iconic New Orleans cafe known for café au laits, chicory coffee and beignets since 1862.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -54,7 +54,7 @@
 				"phn": "(504) 523-0120",
 				"url": "http://portofcallnola.com",
 				"note": "Hefty burgers, loaded baked potatoes, cocktails and a jukebox draw lines at this 50-year-old dive.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             }
