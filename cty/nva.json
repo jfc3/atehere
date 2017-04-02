@@ -68,7 +68,7 @@
 				"phn": "(703) 548-3867",
 				"url": "yes",
 				"note": "The Blue and White Carry Out only shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50.",
-				"eaten": "jjj",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
@@ -213,7 +213,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Green Fare Organic Cafe *",
+                "name": "Green Fare Organic Cafe",
 				"add1": "408 Elden St",
 				"add2": "",
 				"cty": "Herndon",
@@ -227,7 +227,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Hank's Pasta Bar *",
+                "name": "Hank's Pasta Bar",
 				"add1": "600 Montgomery St",
 				"add2": "",
 				"add2": "",
@@ -396,7 +396,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Ravi Kabob House *",
+                "name": "Ravi Kabob House",
 				"add1": "305 N Glebe Rd",
 				"add2": "",
 				"cty": "Arlington",
@@ -466,7 +466,7 @@
 				"cptn": "lll"
             },
             {
-                "name": "Sweet Fire Donna's *",
+                "name": "Sweet Fire Donna's",
 				"add1": "510 John Carlyle St",
 				"add2": "",
 				"cty": "Alexandria",
