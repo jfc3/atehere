@@ -19,7 +19,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
 	<style>
-		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
+		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select, img { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
 		select, input[type="submit"] { border: solid 1px #000;}
 		select:focus, select:active, input[type="submit"]:focus, input[type="submit"]:active { outline: solid 2px #000;}
 		body { background: #BEFF9E; color: #000; font-family: Helvetica, Verdana, Arial, sans-serif; line-height: 1;}
@@ -38,6 +38,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		p { margin: 1em 0; line-height: 1.25em;}
 		a, a:visited { color: #000;}
 		hr { margin: .75em 0 .5em 0;}
+		img { width: 100%;}
 		form { margin: 1em 0;}
 		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
 		label { position: relative; display: block;}
@@ -128,6 +129,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
+			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 		</div>
 		<hr>
     <?php	}	?>
