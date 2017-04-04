@@ -70,7 +70,7 @@ Enhancements:
 * Added Los Angles, CA, to drop down lsit and created a JSON file too.
 * Added a way to check that people are not attempting to change the URL to find places not listed. Used an ARRAY that loops through the list of valid cities to look for matches. If it finds onethen it creates the page if JSON file exsts.
 * Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
-* Added two firleds to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
+* Added two fields to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
 * Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
 
 ## Installation
