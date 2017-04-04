@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "burger joint",
+				"add1": "119 W 56th St",
+				"add2": "Le Parker Meridien",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10019",
+				"phn": "(212) 708-7414",
+				"url": "http://www.parkermeridien.com/eat/burger-joint/",
+				"note": "No-frills, cash-only burger counter hidden inside an upscale hotel. The best burger in New York City, hidden behind the curtain in the atrium lobby of Le Parker Meridien Hotel.",
+				"eaten": "yes",
+				"photo": "https://c2.staticflickr.com/6/5666/20619550032_732d9ff2fa_n.jpg",
+				"cptn": "Cheese burger with lettece, tomatoe, and mustard along with an order of fries at the Burger Joint in the Le Parker Meridian Hotel NYC"
+            },
+            {
                 "name": "Cafe Orlin",
 				"add1": "41 Saint Marks Place",
 				"add2": "",
