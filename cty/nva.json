@@ -125,8 +125,8 @@
 				"url": "http://caphebanhmi.com/",
 				"note": "Casual Vietnamese eatery cooking up classics like pho noodle soups and banh mi sandwiches.",
 				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll"
+				"photo": "https://c1.staticflickr.com/1/609/21637990916_f96c34ba91_n.jpg",
+				"cptn": "Lemongrass chicken, with noodles, mint, and veggies in a bowl with a light fish sauce along and a veggie egg roll."
             },
             {
                 "name": "Cerritos Pupuseria",
@@ -548,6 +548,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Yona by Mike Isabella",
+				"add1": "4000 Wilson Blvd",
+				"add2": "Suite C - Entrance on N. Quincy St.",
+				"cty": "Arlington",
+				"stt": "VA",
+				"zpcd": "22203",
+				"phn": "(703) 465-1100",
+				"url": "http://yonava.com/",
+				"note": "Original ramen, Japanese and Korean small plates and creative cocktails. You need to order the Oxtail steamed buns which uses deep fried oxtail patties.",
+				"eaten": "yes",
+				"photo": "https://c1.staticflickr.com/1/576/22941235744_6d04eaee32_n.jpg",
+				"cptn": "Oxtail steamed buns which contains an oxtail deep fried patty with caramelized onions and an additional sauce."
             }
         ]
     }
