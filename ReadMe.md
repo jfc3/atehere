@@ -1,13 +1,15 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.4.0
-* Release Date: 04-02-2017
+* Release Number:  v.0.5.0
+* Release Date: 04-03-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
 
 When I started this project, I had been thinking about a more involved version of this application that a person could keep track of all the places they wanted to eat when they travel. More of a personal recommendation or list of places to eat. So this was a way to try a few ideas out and make it quick and easy to display restaurant information, along with being a place online for me to keep them for now.
+
+To see this application in action go to [John F Croston III Ate Here](http://jfciii.com/atehere/).
 
 This project uses hand-coded JSON files of cities, states, and nearby locations, which currently are the following with their JSON file name after the name:
 
@@ -50,7 +52,6 @@ Features:
 * Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants so people don't have to load a second page.
 * Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
 * Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
-* Have the ability to add photo and ALT text.
 
 Enhancements:
 
@@ -70,6 +71,7 @@ Enhancements:
 * Added a way to check that people are not attempting to change the URL to find places not listed. Used an ARRAY that loops through the list of valid cities to look for matches. If it finds onethen it creates the page if JSON file exsts.
 * Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
 * Added two firleds to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
+* Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
 
 ## Installation
 Please have the following installed before running:
