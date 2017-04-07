@@ -47,6 +47,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		.scrn-rdr { position: absolute; left: -10000px; top: auto;}
 		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
 		.rest-addr { font-weight: normal;}
+		.vcard { border-bottom: solid 2px #000;}
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
@@ -131,7 +132,6 @@ if (in_array($slct, $locs) && $slct != "") {
 			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 		</div>
-		<hr>
     <?php	}	?>
 		<p><a href="#cntnt">Return to Top of Page</a></p>
 	<?php	}	?>
