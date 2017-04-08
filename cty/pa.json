@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "Pennsylvania",
+		"posts": [
+            {
+                "name": "Summit Diner",
+				"add1": "791 N Center Ave",
+				"add2": "",
+				"cty": "Somerset",
+				"stt": "PA",
+				"zpcd": "15501",
+				"phn": "(814) 445-7154",
+				"url": "",
+				"note": "The Summit Diner is a retro diner with a vintage vibe dishing up comfort food favorites such as burgers and fries. You need to try their breakfasts which are huge. Their cheese, mushroom, and green pepper omelette, with hash browns, wheat toast, along with a side of scrapple is filling and then some.",
+				"eaten": "yes",
+				"photo": "https://c2.staticflickr.com/8/7514/16112662450_7e1ef3c0b6_n.jpg",
+				"cptn": "Cheese, mushroom, green pepper omelette, with hash browns, wheat toast, scrapple for $10.04 in Somerset, PA, at the Summit Diner."
+            }
+        ]
+    }
+}
