@@ -53,6 +53,7 @@ Features:
 * Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants so people don't have to load a second page.
 * Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
 * Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
+* Add the ability to review a city, state, or location when offline for those times when you have no internet.
 
 Enhancements:
 
