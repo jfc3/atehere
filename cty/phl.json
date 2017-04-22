@@ -101,6 +101,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Standard Tap",
+				"add1": "901 N 2nd St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19123",
+				"phn": "(215) 238-0630",
+				"url": "http://news.standardtap.com.s86406.gridserver.com/",
+				"note": "Mutlilevel spot featuring a rotating menu of American eats and a variety of local beers on tap.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Tommy Di Nic's",
 				"add1": "51 North 12th Street",
 				"add2": "Reading Terminal Market",
