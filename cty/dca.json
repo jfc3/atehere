@@ -673,6 +673,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+			},
+            {
+                "name": "The Well Dressed Burrito",
+				"add1": "1220 19th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "22036",
+				"phn": "(202) 293-0515",
+				"url": "http://cnfcatering.com/the-well-dressed-burrito/",
+				"note": "Compact space with limited hours turning out classic Mexican fare for the weekday to-go lunch crowd. Hope to get here one day since they are only open Monday through Friday and from 11:45 AM to 2:15 PM.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
