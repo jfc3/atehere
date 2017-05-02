@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Bludso's Bar & Que",
+				"add1": "609 N La Brea Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 931-2583",
+				"url": "http://www.barandque.com/",
+				"note": "Sit-down outpost of a local Texas BBQ joint offering classic meats and sides, plus creative cocktails.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Blue Star Donuts",
 				"add1": "1142 Abbot Kinney Blvd",
 				"add2": "",
