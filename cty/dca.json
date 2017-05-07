@@ -101,6 +101,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Bread Furst",
+				"add1": "4434 Connecticut Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20008",
+				"phn": "(202) 765-1200",
+				"url": "http://www.breadfurst.com/",
+				"note": "Bustling bakery and kid-friendly hangout offering gourmet bread, pastries, cakes, coffee and light fare. Bread Furst, is committed to offering you breads, desserts, and foods with character. Food that they love and are proud to share with everyone.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Buffalo and Bergen",
 				"add1": "1309 5th St NE",
 				"add2": "Union Market",
