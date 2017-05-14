@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Old Town Ale House",
+				"add1": "219 W North Ave",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60610",
+				"phn": "(312) 944-7020",
+				"url": "http://www.theoldtownalehouse.com/",
+				"note": "Laid-back, cash-only dive bar near Second City with a storied past, old-school jukebox and funky art.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "RPM Steak",
 				"add1": "66 W Kinzie St",
 				"add2": "",
