@@ -3,6 +3,20 @@
         "city": "Chicago, IL",
 		"posts": [
             {
+                "name": "Al's Italian Beef",
+				"add1": "1079 W Taylor St",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60607",
+				"phn": "(312) 226-4017",
+				"url": "http://www.alsbeef.com/",
+				"note": "Chicago-based chain known for overstuffed Italian beef sandwiches and hot dogs in a bare-bones space.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Billy Goat Tavern",
 				"add1": "430 N Michigan Ave",
 				"add2": "",
