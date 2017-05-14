@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "The Publican",
+				"add1": "837 W Fulton Market",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60607",
+				"phn": "(312) 733-9555",
+				"url": "http://www.thepublicanrestaurant.com/",
+				"note": "A creative seafood and pork-focused menu plus global brews in a hip setting with communal tables.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "RPM Steak",
 				"add1": "66 W Kinzie St",
 				"add2": "",
