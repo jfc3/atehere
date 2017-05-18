@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Doughnut Vault",
+				"add1": "401 N Franklin St",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60654",
+				"phn": "",
+				"url": "http://doughnutvault.com/",
+				"note": "Tiny bakery selling a handful of donut choices each day until the stock runs out.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "The Mutiny",
 				"add1": "2428 N Western Ave",
 				"add2": "",
