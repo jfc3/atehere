@@ -115,6 +115,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Sweet Maple Cafe",
+				"add1": "1339 W Taylor St",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60607",
+				"phn": "(312) 243-8908",
+				"url": "http://www.sweetmaplecafe.com/",
+				"note": "Country-style comfort food including all-day breakfasts and hearty lunches served in a homey space.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "urbanbelly",
 				"add1": "1400 W Randolph St",
 				"add2": "",
