@@ -73,6 +73,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Johnnie's Beef",
+				"add1": "7500 W North Ave,",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60707",
+				"phn": "(708) 452-6000",
+				"url": "",
+				"note": "Tiny, no-frills, cash-only hot dog stand serving sausage and beef plus Italian ice, fries and shakes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "The Mutiny",
 				"add1": "2428 N Western Ave",
 				"add2": "",
