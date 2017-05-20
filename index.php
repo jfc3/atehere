@@ -25,8 +25,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		body { background: #BEFF9E; color: #000; font-family: Helvetica, Verdana, Arial, sans-serif; line-height: 1;}
 		#wrap { margin: 0 auto;}
 		#hdr { background: #ACC7FF;}
-		#cntnt, #ftr { padding: 1em; background: #fff;}
-		#cntnt, #ftr , #ftr { border-top: 1px solid #000;}
+		#cntnt, #ftr { padding: 1em; background: #fff; border-top: 1px solid #000;}
 		a, h1, h2, h3, strong { font-weight: bold;}
 		h2, h3 { margin: .5em 0;}
 		h1 { font-size: 2em; padding: .25em .5em;}
@@ -36,8 +35,8 @@ if (in_array($slct, $locs) && $slct != "") {
 		h3 { font-size: 1.5em;}
 		a:hover, a:focus, a:active { text-decoration: none;}
 		p { margin: 1em 0; line-height: 1.25em;}
+		#ftr p { margin: .75em 0;}
 		a, a:visited { color: #000;}
-		hr { margin: .75em 0 .5em 0;}
 		img { width: 100%;}
 		form { margin: 1em 0;}
 		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
@@ -53,7 +52,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
 			#cntnt { padding-top: 0;}
 			#hdr, #cntnt { border-bottom: 0;}
-			h2, h3 { padding: .5em 0 0 0;}
+			h2, h3 { padding: .25em 0 0 0;}
 			h1 { font-size: 2.5em; text-align: center; padding: 0;}
 			h2 { font-size: 2em; padding: 0 .5em 0 0;}
 			h3 { font-size: 1.5em;}
