@@ -59,6 +59,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Jim's Original",
+				"add1": "1250 S Union Ave",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60607",
+				"phn": "(312) 733-7820",
+				"url": "http://jimsoriginal.com/",
+				"note": "Old-school 24/7 hotdog stand (started in 1939) boasting the original Maxwell Street Polish sausage. You need to order a pork chop sandwich too.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Jimmy's Red Hots",
 				"add1": "4000 W Grand Ave",
 				"add2": "",
