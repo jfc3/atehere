@@ -197,6 +197,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Valois Restaurant",
+				"add1": "1518 E 53rd St",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60615",
+				"phn": "(773) 667-0647",
+				"url": "http://www.valoisrestaurant.com/",
+				"note": "A counter-service smorgasbord of American comfort food served in a casual, muraled space. Cash only.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
