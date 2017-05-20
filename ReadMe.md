@@ -2,7 +2,7 @@
 
 * John F Croston III Ate Here
 * Release Number:  v.0.5.1
-* Release Date: 05-15-2017
+* Release Date: 05-20-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -75,8 +75,9 @@ Enhancements:
 * Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
 * Added two fields to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
 * Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
-* Added Pennsylvania to drop down list and created necessary JSON.
-* Added Chicago, IL, to drop down list and created necessary JSON.
+* Added Pennsylvania to drop down list and created necessary JSON file.
+* Added Chicago, IL, to drop down list and created necessary JSON file.
+* Added Florida to drop down list and created necessary JSON file.
 
 ## Installation
 Please have the following installed before running:
