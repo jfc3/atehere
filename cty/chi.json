@@ -115,6 +115,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Kuma's Corner",
+				"add1": "2900 W Belmont Ave",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60618",
+				"phn": "(773) 604-8769",
+				"url": "https://kumascorner.com/",
+				"note": "Busy, hopping pub known for its long list of creative burgers and its rock 'n' roll soundtrack. I have heard you need to order one of there burgers.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "The Mutiny",
 				"add1": "2428 N Western Ave",
 				"add2": "",
