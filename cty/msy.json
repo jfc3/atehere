@@ -71,6 +71,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Walker's BBQ",
+				"add1": "10828 Hayne Blvd",
+				"add2": "",
+				"cty": "New Orleans",
+				"stt": "LA",
+				"zpcd": "70127",
+				"phn": "(504) 241-8227",
+				"url": "http://www.cochondelaitpoboys.com/",
+				"note": "Cash-only counter-serve smokehouse serves famed po' boys plus BBQ standards till they run out.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
