@@ -241,6 +241,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Sunny Spot",
+				"add1": "822 Washington Blvd",
+				"add2": "",
+				"cty": "Marina Del Rey",
+				"stt": "CA",
+				"zpcd": "90292",
+				"phn": "(310)-448-8884",
+				"url": "http://www.sunnyspotvenice.com/",
+				"note": "Colorful, funky, modern Caribbean joint, crafting inventive cocktails and jerk wings. It's another Roy Cho place.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Super Tortas D.F.",
 				"add1": "1098 E 41st St",
 				"add2": "",
