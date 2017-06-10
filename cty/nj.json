@@ -1,0 +1,50 @@
+{
+    "result": {
+        "city": "New Jersey",
+		"posts": [
+
+            {
+                "name": "Hamburgao",
+				"add1": "288 Lafayette St",
+				"add2": "",
+				"cty": "Newark",
+				"stt": "NJ",
+				"zpcd": "07105",
+				"phn": "(973) 465-1776",
+				"url": "http://www.hamburgaonewark.com/",
+				"note": "Corner cafe for Brazilian-style burgers and casual comfort food in a no-frills space and the go to spot for Brazilian-style burgers in the Newark, NJ.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Rossi's Bar And Grill",
+				"add1": "2110 Whitehorse Mercerville Rd",
+				"add2": "",
+				"cty": "Hamilton Township",
+				"stt": "NJ",
+				"zpcd": "08619",
+				"phn": "(609) 890-2004",
+				"url": "http://www.rossisbarandgrill.com/",
+				"note": "Hefty hamburgers, Italian pastas and cocktails served in a classic tavern with nostalgic decor.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "White Manna",
+				"add1": "358 River St",
+				"add2": "",
+				"cty": "Hackensack",
+				"stt": "NJ",
+				"zpcd": "07601",
+				"phn": "(201) 342-0914",
+				"url": "",
+				"note": "This prominent, pint-sized burger joint draws crowds with its sliders, fries and shakes. The White Mana is a historical landmark, as well as the first Manna to open and was the 1939 World's Fair building. When originally introduced, it was called the 'diner of the future' and an 'Introduction to Fast Food.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
