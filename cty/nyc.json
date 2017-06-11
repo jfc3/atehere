@@ -59,20 +59,6 @@
 				"cptn": "lll"
             },
             {
-                "name": "Carnegie Deli (Closed)",
-				"add1": "854 7th Avenue",
-				"add2": "",
-				"cty": "New York",
-				"stt": "NY",
-				"zpcd": "10019",
-				"phn": "(212) 757-2245",
-				"url": "http://carnegiedeli.com",
-				"note": "At this old-school deli, diners fill up on pastrami, corned beef, matzoh balls and other staples. Go with someone else so you can order both a corned beef and a pastrami sandhich. Doing so is lets you try both meats separately without having to have both meats in one sandwich.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll"
-            },
-            {
                 "name": "Chelsea Market",
 				"add1": "75 9th Avenue",
 				"add2": "",
