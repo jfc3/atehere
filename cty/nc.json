@@ -3,6 +3,20 @@
         "city": "North Carolina",
 		"posts": [
             {
+                "name": "Brook's Sandwich House",
+				"add1": "2710 N Brevard St",
+				"add2": "",
+				"cty": "Charlotte",
+				"stt": "NC",
+				"zpcd": "28205",
+				"phn": "(704) 375-7808",
+				"url": "http://www.eatbrookschili.com/",
+				"note": "Tiny roadside stop with a walk-up window serving burgers, chili and simple sandwiches for 40+ years. You need to order the cheese burger all the way with chili.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Diamond Restaurant",
 				"add1": "1901 Commonwealth Ave",
 				"add2": "",
