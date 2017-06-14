@@ -3,6 +3,20 @@
         "city": "North Carolina",
 		"posts": [
             {
+                "name": "Diamond Restaurant",
+				"add1": "1901 Commonwealth Ave",
+				"add2": "",
+				"cty": "Charlotte",
+				"stt": "NC",
+				"zpcd": "28205",
+				"phn": "(704) 375-8959",
+				"url": "http://diamondcharlotte.com/",
+				"note": "Hipster-friendly Greek diner serves a vast comfort-food menu with Greek, Italian and Southern accents. You need to order the big block burger with pimento cheese.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Duke's Grill",
 				"add1": "1114 Concord Ave",
 				"add2": "",
