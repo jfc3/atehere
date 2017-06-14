@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "North Carolina",
+		"posts": [
+            {
+                "name": "Duke's Grill",
+				"add1": "1114 Concord Ave",
+				"add2": "",
+				"cty": "Monroe",
+				"stt": "NC",
+				"zpcd": "28110",
+				"phn": "(704) 283-4960",
+				"url": "",
+				"note": "Duke's Grill has been around since 1951 in the Five Points area of Monroe before moving to its current location. From what I have heard you need to get chili, slaw, and onions.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
