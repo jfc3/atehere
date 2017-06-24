@@ -171,6 +171,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Comet Ping Pong",
+				"add1": "5037 Connecticut Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20008",
+				"phn": "(202) 364-0404",
+				"url": "https://www.cometpingpong.com/",
+				"note": "A hip crowd eats pizza & wings while playing Ping-Pong and listening to bands in warehouse-chic digs. You need to order the wood-fired meatballs as an appetizer.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Cucina Al Volo",
 				"add1": "1309 5th St. NE",
 				"add2": "",
