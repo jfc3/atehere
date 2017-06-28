@@ -83,7 +83,7 @@ Enhancements:
 * Added Florida to drop down list and created necessary JSON file.
 * Added New Jersey to drop down list and created necessary JSON file.
 * Added North Carolina to drop down list and created necessary JSON file.
-* Added Califorani to drop down list and created necessary JSON file.
+* Added California to drop down list and created necessary JSON file.
 
 ## Installation
 Please have the following installed before running:
