@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "Califorina",
+		"posts": [
+            {
+                "name": "Sherman's Deli & Bakery",
+				"add1": "73161 Country Club Dr",
+				"add2": "",
+				"cty": "Palm Desert",
+				"stt": "CA",
+				"zpcd": "92260",
+				"phn": "(760) 568-1350",
+				"url": "http://shermansdeli.com/",
+				"note": "New York City style deli serving kosher fare from morning to night, with specialty cakes and other baked goods. Their famous sandwich board offers more than 40 favorites including 'Hot Corned Beef' piled high on rye bread served with potato salad or cole slaw.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
