@@ -18,6 +18,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Baltimore, MD - bal
 * Buffalo, NY - buf
 * Boston, MA - bos
+* Califorani - ca
 * Chicago, IL - chi
 * Cleveland, PA - cle
 * Columbus, OH - col
@@ -82,6 +83,7 @@ Enhancements:
 * Added Florida to drop down list and created necessary JSON file.
 * Added New Jersey to drop down list and created necessary JSON file.
 * Added North Carolina to drop down list and created necessary JSON file.
+* Added Califorani to drop down list and created necessary JSON file.
 
 ## Installation
 Please have the following installed before running:
