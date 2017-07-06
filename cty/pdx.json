@@ -255,6 +255,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "PDX671",
+				"add1": "5235 NE Sandy Blvd",
+				"add2": "",
+				"cty": "Portland",
+				"stt": "OR",
+				"zpcd": "97213",
+				"phn": "(971) 570-0945",
+				"url": "http://www.pdx671.com/",
+				"note": "Taking its name from Portland's airport code and the island of Guam's area code, PDX671 is a food cart that fuses seasonal ingredients of the Pacific Northwest with flavors and cooking techniques of Guam. You need to order yourself some Shrimp Fritters as an appetizer and then for your meal the chicken and rice.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Podnah's Pit Barbecue",
 				"add1": "1625 NE Killingsworth St",
 				"add2": "",
