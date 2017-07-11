@@ -25,7 +25,7 @@
 				"zpcd": "21202",
 				"phn": "",
 				"url": "http://www.promotionandarts.org/events-festivals/baltimore-farmers-market-bazaar",
-				"note": "NOTE - Only open Sunday from mid-April to Mid-Deceber. While strolling through Maryland's largest producers-only market (producers-only meaning all vendors make what they sell), shoppers can revel at the sight of a vast quantity of foods, including crisp seasonal fruits and vegetables, poultry, seafood, beef, pork, lamb, rabbit, fresh baked goods, flavorful herbs and organically raised and produced milk, yogurt, butter, eggs and cheese products. Additionally, dozens of food vendors add spice to the market with multicultural cuisine such as popular pit beef sandwiches, omelets and breakfast burritos, crepes, wood fired pizzas, pies and quiches, soups, noodles and dumplings. If you like fresh horse radish find the guy near the information both it will clean out your sinuses it's that strong.",
+				"note": "<strong>NOTE</strong> - Only open Sunday from mid-April to Mid-Deceber. While strolling through Maryland's largest producers-only market (producers-only meaning all vendors make what they sell), shoppers can revel at the sight of a vast quantity of foods, including crisp seasonal fruits and vegetables, poultry, seafood, beef, pork, lamb, rabbit, fresh baked goods, flavorful herbs and organically raised and produced milk, yogurt, butter, eggs and cheese products. Additionally, dozens of food vendors add spice to the market with multicultural cuisine such as popular pit beef sandwiches, omelets and breakfast burritos, crepes, wood fired pizzas, pies and quiches, soups, noodles and dumplings. If you like fresh horse radish find the guy near the information both it will clean out your sinuses it's that strong.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
@@ -154,6 +154,20 @@
 				"url": "http://www.maggiesfarmmd.com/",
 				"note": "Intimate bar and restaurant showcasing thoughtfully sourced, globally inspired provisions and cocktails.",
 				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "The Mushroom Stand",
+				"add1": "E Saratoga St and Holliday St",
+				"add2": "Baltimore Farmers' Market and Bazaar",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21202",
+				"phn": "",
+				"url": "http://www.promotionandarts.org/events-festivals/baltimore-farmers-market-bazaar",
+				"note": "You need to order the King Oyster Mushroom Fritters with fresh feta and some hot sauce with salad greens. The were worth the wait. They only sell 200 orders and when there gone there gone. Their grilled/roasted portabella mushroom sandwich or salad looked great too while waiting for my food.",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
