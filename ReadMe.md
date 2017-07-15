@@ -2,7 +2,7 @@
 
 * John F Croston III Ate Here
 * Release Number:  v.0.5.1
-* Release Date: 06-13-2017
+* Release Date: 07-14-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -54,10 +54,15 @@ So in the near future, I plan on creating an application that people can keep tr
 Features:
 
 * Travel more to be able to add more cities and more restaurants.
-* Break the larger files of ten restaurants or more into multiple files so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants so people don't have to load a second page.
-* Add an accessible SVG map of the Unites States that will allow people to see places to eat in the nearby location.
-* Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share there information with others.
+* Break the larger files of ten restaurants or more into multiple files, so people don't have to scroll as much to see places to eat for one city or location. Maybe make it 25 restaurants, so people don't have to load the second page.
+* Add an accessible SVG map of the United States that will allow people to see places to eat in the nearby location.
+* Look into adding social media for at least Twitter and Facebook so people can point their friends to the website or share their information with others.
 * Add the ability to review a city, state, or location when offline for those times when you have no internet.
+* List restaurants by city and by a state in case you're driving through a state on a road trip you can see what might be along your way. Not sure if that makes sense and will require making double updates when using JSON file to control page information.
+* Improve way to update the list of cities and the array that keeps track of valid locations. Currently. Done in one file which needs to be updated and then deployed to the server and GitHub instead of multiple files.
+* Create ability see places near you. Most likely use Google maps and geolocation.
+* Add restaurant and food types/categories.
+* Have the ability to narrow down choices by food type or category of food.
 
 Enhancements:
 
