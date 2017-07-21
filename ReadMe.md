@@ -2,7 +2,7 @@
 
 * John F Croston III Ate Here
 * Release Number:  v.0.5.1
-* Release Date: 07-14-2017
+* Release Date: 07-20-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -32,6 +32,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * New Orleans, LA - msy
 * New York, NY - nyc
 * North Carolina - nc
+* Northern California - nocal
 * Northern Virginia - nva
 * Ocean City, NJ - ocnj
 * Pennsylvania - pa
@@ -39,6 +40,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Portland, OR - pdx
 * Rochester, NY - roc
 * San Deigo, CA - san
+* San Francisco, CA - sfo
 * Syracuse, NY - syr
 * Washington, DC - dca
 
@@ -89,6 +91,8 @@ Enhancements:
 * Added New Jersey to drop down list and created necessary JSON file.
 * Added North Carolina to drop down list and created necessary JSON file.
 * Added California to drop down list and created necessary JSON file.
+* Added San Francisco, CA to drop down list and created necessary JSON file.
+* Northern California to drop down list and created necessary JSON file.
 
 ## Installation
 Please have the following installed before running:
