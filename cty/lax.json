@@ -101,6 +101,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Grand Central Market",
+				"add1": "317 S Broadway",
+				"add2": "Homer Laughlin Building",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90013",
+				"phn": "(213) 624-2378",
+				"url": "http://www.grandcentralmarket.com/",
+				"note": "Emporium hosting food vendors and florists, plus game nights, movies and other events, since 1917.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Horse Thief BBQ",
 				"add1": "324 Hill St",
 				"add2": "",
