@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "Oakland, CA",
+		"posts": [
+            {
+                "name": "Tamales Mi Lupita",
+				"add1": "3340 Foothill Blvd",
+				"add2": "",
+				"cty": "Oakland",
+				"stt": "CA",
+				"zpcd": "94601",
+				"phn": "(510) 436-3851",
+				"url": "",
+				"note": "Acclaimed food truck serving Mexican tacos, tamales, Salvadoran pupusas, and empanadas.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
