@@ -116,6 +116,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Clementine",
+				"add1": "5402 Harford Rd",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21214",
+				"phn": "(410) 444-1497",
+				"url": "http://www.clementinebaltimore.com/",
+				"note": "Refined New American food and house-made charcuterie in a casual setting with pressed-tin ceilings. Two of the dishes you need to order are the pork cheeks or the home-made bacon wrapped meatloaf with greens and mashed potatoes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "G & A Restaurant",
 				"add1": "3802 Eastern Ave",
 				"add2": "",
