@@ -31,20 +31,6 @@
 				"cptn": "lll"
             },
             {
-                "name": "Padaek (formerly Bangkok Golden)",
-				"add1": "6395 Seven Corners Center",
-				"add2": "",
-				"cty": "Falls Church",
-				"stt": "VA",
-				"zpcd": "22044",
-				"phn": "(703) 533-9480",
-				"url": "http://www.bangkokgoldenva.com/",
-				"note": "Padaek was formerly Bangkok Golden. The website might change at some point. No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets. The dishes we order the most here are the veggie Crispy Rice Salad, the Duck Laab, and the Drunken Pork Noodles. They are known for their Laotian dishes so look at those if you want other things to eat.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll"
-            },
-            {
                 "name": "Banh Mi DC Sandwich",
 				"add1": "3103 Graham Rd",
 				"add2": "",
@@ -377,6 +363,20 @@
 				"phn": "(703) 299-9092",
 				"url": "http://mymomosushi.com/",
 				"note": "Sushi bar and kitchen with fresh rolls, teriyaki and noodles, plus lots of wine, sake and Japanese beers. They have great simple and fresh inexpnsive sushi.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Padaek (formerly Bangkok Golden)",
+				"add1": "6395 Seven Corners Center",
+				"add2": "",
+				"cty": "Falls Church",
+				"stt": "VA",
+				"zpcd": "22044",
+				"phn": "(703) 533-9480",
+				"url": "http://www.bangkokgoldenva.com/",
+				"note": "Padaek was formerly Bangkok Golden. The website might change at some point. No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets. The dishes we order the most here are the veggie Crispy Rice Salad, the Duck Laab, and the Drunken Pork Noodles. They are known for their Laotian dishes so look at those if you want other things to eat.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
