@@ -297,6 +297,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Florida Avenue Grill",
+				"add1": "1100 Florida Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20009",
+				"phn": "(202) 265-1586",
+				"url": "http://floridaavenuegrill.com/",
+				"note": "The Florida Avenue Grill has been open since 1944. It's a no-frills diner slinging large portions of down-home Southern classics.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Good Stuff Eatery",
 				"add1": "303 Pennsylvania Ave SE",
 				"add2": "",
