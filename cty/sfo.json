@@ -17,6 +17,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Cockscomb",
+				"add1": "564 4th St",
+				"add2": "",
+				"cty": "San Francisco",
+				"stt": "CA",
+				"zpcd": "94107",
+				"phn": "(415) 974-0700",
+				"url": "http://cockscombsf.com/",
+				"note": "Cockscomb is an upscale California fare served in a buzzy, 2-floor space with an open kitchen and farm-animal decor. Cockscomb's head chef is Chris Cosentino who is famous for his offal dishes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Ferry Building Marketplace",
 				"add1": "1 Sausalito",
 				"add2": "San Francisco Ferry Bldg #21",
