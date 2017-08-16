@@ -200,6 +200,20 @@
 				"cptn": "Metal tray with our sliders from Soda and Swine in San Diego which are Banh-mi, beef meatball, chorizo, and pork."
             },
             {
+                "name": "Studio Diner",
+				"add1": "4701 Ruffin Rd",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92123",
+				"phn": "(858) 715-6400 ext. 2",
+				"url": "http://studiodiner.com/",
+				"note": "Studio Diner is on a TV studio lot; this spot serves up American classics anytime amid 1940s-era movie decor.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Tajima Ramen Bar",
 				"add1": "3739 Sixth Ave",
 				"add2": "",
