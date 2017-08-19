@@ -185,6 +185,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "The Little Jewel of New Orleans",
+				"add1": "207 Ord St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90012",
+				"phn": "(213) 620-0461",
+				"url": "http://littlejewel.la/",
+				"note": "The Little Jewel of New Orleans is part grocery store, part deli, this laid back spot imports culinary treats from New Orleans located in Los Angles Chinatown. You need to order the pork Po' Boy sandwich or the crawfish mac and cheese.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Locol",
 				"add1": "1950 E 103rd St",
 				"add2": "",
