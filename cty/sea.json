@@ -15,6 +15,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Salumi",
+				"add1": "309 3rd Ave S",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": "(206) 621-8772",
+				"url": "http://www.salumicuredmeats.com/",
+				"note": "Salumi is a tiny storefront offering artisanal Italian cured meats in sandwiches and by the pound. Salumi is owned and operated by Mario Batali's father. <strong>NOTE</strong>: Last time I was there they closed when they ran out of bread, but things could have changed it's been a few years.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
