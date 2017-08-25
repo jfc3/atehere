@@ -17,6 +17,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Mee Sum Pastry",
+				"add1": "1526 Pike Pl",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "(206) 682-6780",
+				"url": "http://www.meesumseattle.com/",
+				"note": "Mee Sum Pastry is a no-frills food stand offering buns, pastries and other Chinese grub in digs by the Pike Place Market.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Pike Place Market",
 				"add1": "85 Pike Street",
 				"add2": "",
