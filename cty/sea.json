@@ -88,6 +88,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Paseo Caribbean Restaurant",
+				"add1": "4225 Fremont Ave N",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 545-7440",
+				"url": "http://www.paseorestaurants.com/",
+				"note": "Paseo Caribbean Restaurant is counter-service Caribbean joint serving sandwiches and entrees in a simple setting. The item to order is the pork sandwich.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Quinn's Pub",
 				"add1": "1001 E Pike St",
 				"add2": "",
