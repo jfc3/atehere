@@ -3,6 +3,20 @@
         "city": "Seattle, WA",
 		"posts": [
             {
+                "name": "Marination Station",
+				"add1": "1412 Harvard Ave",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98122",
+				"phn": "(206) 325-8226",
+				"url": "http://marinationmobile.com/",
+				"note": "Marination Station is a cool Hawaiian-Korean spot doling out tacos, sliders, and kimchi rice bowls.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Pike Place Market",
 				"add1": "85 Pike Street",
 				"add2": "",
