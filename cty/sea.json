@@ -59,6 +59,21 @@
 				"cptn": "lll"
             },
             {
+                "name": "Melrose Market",
+				"add1": "1532 Minor Ave",
+				"add2": "",
+				"cty": "ddd",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98122",
+				"phn": "(206) 661-7979",
+				"url": "http://www.melrosemarketseattle.com/",
+				"note": "Situated at the west end of the Pike-Pine neighborhood, Melrose Market is an indoor food and retail market on Capitol Hill in Seattle. It occupies a set of historic automotive buildings constructed between 1919 and 1926, which were ultimately converted into the Melrose Market.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Pike Place Market",
 				"add1": "85 Pike Street",
 				"add2": "",
