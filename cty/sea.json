@@ -29,6 +29,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Sea Breeze Farms - La Boucherie",
+				"add1": "17635 100th Ave SW",
+				"add2": "",
+				"cty": "Vashon",
+				"stt": "WA",
+				"zpcd": "98070",
+				"phn": "",
+				"url": "http://www.seabreezefarm.net/",
+				"note": "Sea Breeze Farms - La Boucherie is a rural destination offering farm-to-table dinners from seasonal ingredients in a cozy environment.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
