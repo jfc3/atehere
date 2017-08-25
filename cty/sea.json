@@ -3,6 +3,20 @@
         "city": "Seattle, WA",
 		"posts": [
             {
+                "name": "Maneki",
+				"add1": "304 6th Ave S",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": " (206) 622-2631",
+				"url": "http://www.manekirestaurant.com/",
+				"note": "Maneki is a landmark Japanese spot dating back to 1904 with tatami rooms, a bar and classic fare including sushi.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Marination Station",
 				"add1": "1412 Harvard Ave",
 				"add2": "",
