@@ -3,6 +3,20 @@
         "city": "Seattle, WA",
 		"posts": [
             {
+                "name": "Bizzarro Italian Cafe",
+				"add1": "1307 N 46th St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 632-7277",
+				"url": "https://www.bizzarroitaliancafe.com/",
+				"note": "Bizzarro Italian Cafe is a lively, long-running Italian eatery serving trattoria fare in a funky space with eclectic decor. The items ot order are the pasta and seafood or the elk in ravioli.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Fair Start Restaurant",
 				"add1": "700 Virginia St",
 				"add2": "",
