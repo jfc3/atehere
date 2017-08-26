@@ -17,6 +17,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Ivar's Seafood Restaurant",
+				"add1": "17801 International Blvd",
+				"add2": "",
+				"cty": "SeaTac",
+				"stt": "WA",
+				"zpcd": "98158",
+				"phn": "(206) 248-0012",
+				"url": "http://www.ivars.com/",
+				"note": "Ivar's Seafood Restaurant is a local chain dishing up fried fish and chowders in casual quarters with nautical accents and this one s located in the Seattle-Tacoma International Airport.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Maneki",
 				"add1": "304 6th Ave S",
 				"add2": "",
