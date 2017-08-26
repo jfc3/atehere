@@ -212,6 +212,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "The Walrus and the Carpenter",
+				"add1": "4743 Ballard Ave NW",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98107",
+				"phn": "(206) 395-9227",
+				"url": "http://www.thewalrusbar.com/",
+				"note": "The Walrus and the Carpenter serves oysters and other seafood plus American plates along with specialty cocktails in a small, simple space.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
