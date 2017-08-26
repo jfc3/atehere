@@ -170,6 +170,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Shorty's",
+				"add1": "2222 2nd Ave",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98121",
+				"phn": "(206) 441-5449",
+				"url": "http://www.shortydog.com/",
+				"note": "Shorty's is a bit of dive bar that is Coney Island-themed and a favorite hangout, offering hot dogs, nachos, pinball, and arcade games.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
