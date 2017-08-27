@@ -42,6 +42,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Rochester, NY - roc
 * San Deigo, CA - san
 * San Francisco, CA - sfo
+* Seattle, WA - sea
 * Syracuse, NY - syr
 * Washington, DC - dca
 
@@ -95,6 +96,7 @@ Enhancements:
 * Added San Francisco, CA to drop down list and created necessary JSON file.
 * Northern California to drop down list and created necessary JSON file.
 * Oakland, CA to drop down list and created necessary JSON file.
+* Seattle, WA to drop down list and created necessary JSON file.
 
 ## Installation
 Please have the following installed before running:
