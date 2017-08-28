@@ -297,6 +297,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Falafel Inc",
+				"add1": "1210 Potomac St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20007",
+				"phn": "(202) 333-4265",
+				"url": "http://www.falafelinc.org/",
+				"note": "Falafel Inc is the world's first quick service restaurant (QSR) social enterprise, serving up authentic falafel, hummus, bowls and sides for under $5. Every meal is shared to help refugees world wide. The restaurant is the brainchild of Ahmad Ashkar; an investment banker turned social entrepreneur, who grew up as a barbecue-loving son of Palestinian immigrants in the Midwest. He always thought a falafel shop would be in his future — just maybe not this way.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Florida Avenue Grill",
 				"add1": "1100 Florida Ave NW",
 				"add2": "",
