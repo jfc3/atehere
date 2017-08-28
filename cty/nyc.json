@@ -115,6 +115,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Ducks Eatery",
+				"add1": "351 E 12th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "(212) 432-3825",
+				"url": "http://www.duckseatery.com/",
+				"note": "Ducks Eatery is a diverse, meat-centric menu and has creative cocktails served in a rustic barn setting until late. You need to order the goat neck over rice with dried cherries.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Eataly",
 				"add1": "200 5th Avenue",
 				"add2": "",
