@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Folk Art",
+				"add1": "465 North Highland Avenue Northeast",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30307",
+				"phn": "(404) 537-4493",
+				"url": "http://www.folkartrestaurant.com/",
+				"note": "Folk Art is a brick-walled spot with vintage decor whipping up home-style fare and cocktails with a stylish twist. You should order the meatball burger which comes with three patties, sauteed onions, and mushrooms.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Heirloom Market BBQ",
 				"add1": "2243 Akers Mill Rd SE",
 				"add2": "",
