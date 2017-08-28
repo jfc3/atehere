@@ -213,6 +213,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "John's on 12th Street",
+				"add1": "302 E 12th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "212) 475-9531",
+				"url": "https://www.johnsof12thstreet.com/",
+				"note": "John's on 12th Street has classic red-sauce specialties, and vegan versions are served at this vintage-1908 Italian eatery. You need to order the meatballs in some fashion or other.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Katz’s Delicatessen",
 				"add1": "205 East Houston Street",
 				"add2": "",
