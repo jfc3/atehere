@@ -60,6 +60,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Blue Agave",
+				"add1": "1032 Light St",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21230",
+				"phn": "(410) 576-3938",
+				"url": "http://www.blueagaverestaurant.com/",
+				"note": "Blue Agave is a festive Mexican eatery and tequila bar (more than 130 labels) with classic ceramic-tiled tabletops. If you're starving or have a large group order the four-pound burrito with chicken and skirt steak.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Blue Moon Cafe",
 				"add1": "1621 Aliceanna St",
 				"add2": "",
