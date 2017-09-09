@@ -284,6 +284,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Junction Bakery & Bistro",
+				"add1": "1508 Mt Vernon Ave,",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22301",
+				"phn": "(703) 436-0025",
+				"url": "https://www.junctionbakery.com/",
+				"note": "Junction Bakery and Bistro has a local draw for breakfast, sandwiches on house-made bread and baked goods, with creative dinner fare.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Kabob Bazaar",
 				"add1": "3133 Wilson Blvd",
 				"add2": "",
