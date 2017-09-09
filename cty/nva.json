@@ -494,6 +494,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Stomping Ground",
+				"add1": "2309 Mt Vernon Ave",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22301",
+				"phn": "(703) 567-6616",
+				"url": "https://www.stompdelray.com/",
+				"note": "Stomping Ground is a down-home destination for coffee, biscuit sandwiches, seasonal salads, and pastries, along with wine and beer. You need to order the Farmer's Market Frittata biscuit along with the cheesy Anson Mills Gouda grits.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Sugar Shack Donuts",
 				"add1": "804 N Henry St",
 				"add2": "",
