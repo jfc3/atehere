@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Little Donkey",
+				"add1": "505 Massachusetts Ave",
+				"add2": "",
+				"cty": "Cambridge",
+				"stt": "MA",
+				"zpcd": "02139",
+				"phn": "(617) 945-1008",
+				"url": "http://www.littledonkeybos.com/",
+				"note": "Little Donkey is a chef-driven spot with cool vibe serving international small plates, along with craft beers and cocktails.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Maria's Pastry Shop",
 				"add1": "46 Cross St",
 				"add2": "",
