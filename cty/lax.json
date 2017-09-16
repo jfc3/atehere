@@ -73,6 +73,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Cassell's Hamburgers",
+				"add1": "3600 W 6th St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90020",
+				"phn": "(213) 387-5502",
+				"url": "https://www.cassellshamburgers.com/",
+				"note": "Cassell's Hamburgers is a burger joint in the Hotel Normandie offering breakfast and classic American fare in a diner setting. You need to order the patty melt or the breakfast sandwich which is between two hash brown patties with avocado.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Chego West",
 				"add1": "12236 Washington Blvd",
 				"add2": "Alibi Room in Culver City",
