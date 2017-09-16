@@ -59,6 +59,20 @@
 				"cptn": "Chocolate mouse with chocolate chip cannoli and a ricotta cannoli from Mike!s Pastry in Boston's North End."
             },
             {
+                "name": "Salumeria Italiana",
+				"add1": "151 Richmond St",
+				"add2": "",
+				"cty": "Boston",
+				"stt": "MA",
+				"zpcd": "02109",
+				"phn": "(617) 523-8743",
+				"url": "https://salumeriaitaliana.com/",
+				"note": "Salumeria Italiana is a quaint fixture selling a range of Italian groceries, including meats, cheeses, pasta, and sauces. They supposedly have the best head cheese/Coppa di Testa in the country.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Veggie Galaxy",
 				"add1": "450 Massachusetts Ave",
 				"add2": "",
