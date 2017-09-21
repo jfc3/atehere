@@ -549,20 +549,6 @@
 				"cptn": "lll"
             },
             {
-                "name": "Pho Viet",
-				"add1": "3513 14th St NW",
-				"add2": "",
-				"cty": "Washington",
-				"stt": "DC",
-				"zpcd": "20010",
-				"phn": "(202) 629-2839",
-				"url": "http://www.phovietwdc.com/",
-				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone. If you like dishes spicy you should order the lemongrass Pho that comes with additional chili oil.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll"
-            },
-            {
                 "name": "Peregrine Espresso",
 				"add1": "660 Pennsylvania Ave SE",
 				"add2": "Eastern Market",
@@ -586,6 +572,20 @@
 				"phn": "(202) 629-4381",
 				"url": "http://peregrineespresso.com/",
 				"note": "Considered by coffee connoisseurs as the premier place to go for a cup of delicious, micro brewed coffee. A wonderful place to grab a coffee, espresso, or hot chocolate to go with your food from the dozens of food choices in Union Market.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Pho Viet",
+				"add1": "3513 14th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20010",
+				"phn": "(202) 629-2839",
+				"url": "http://www.phovietwdc.com/",
+				"note": "Neighborhood eatery serving classic Vietnamese fare on the ground floor of a brownstone. If you like dishes spicy you should order the lemongrass Pho that comes with additional chili oil.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
