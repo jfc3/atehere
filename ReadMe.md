@@ -2,7 +2,7 @@
 
 * John F Croston III Ate Here
 * Release Number:  v.0.5.1
-* Release Date: 07-28-2017
+* Release Date: 09-22-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -45,6 +45,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Seattle, WA - sea
 * Syracuse, NY - syr
 * Washington, DC - dca
+* Washington - wa
 
 If you look in the CTY folder, you will find the full version of the city or location. There is a city.josn file that you can use as a tempalte to create other city files.
 
@@ -87,16 +88,17 @@ Enhancements:
 * Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
 * Added two fields to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
 * Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
-* Added Pennsylvania to drop down list and created necessary JSON file.
-* Added Chicago, IL, to drop down list and created necessary JSON file.
-* Added Florida to drop down list and created necessary JSON file.
-* Added New Jersey to drop down list and created necessary JSON file.
-* Added North Carolina to drop down list and created necessary JSON file.
-* Added California to drop down list and created necessary JSON file.
-* Added San Francisco, CA to drop down list and created necessary JSON file.
-* Northern California to drop down list and created necessary JSON file.
-* Oakland, CA to drop down list and created necessary JSON file.
-* Seattle, WA to drop down list and created necessary JSON file.
+* Added Pennsylvania to drop down list and created necessary PA JSON file.
+* Added Chicago, IL, to drop down list and created necessary CHI JSON file.
+* Added Florida to drop down list and created necessary FL JSON file.
+* Added New Jersey to drop down list and created necessary NJ JSON file.
+* Added North Carolina to drop down list and created necessary NC JSON file.
+* Added California to drop down list and created necessary CA JSON file.
+* Added San Francisco, CA to drop down list and created necessary SFO JSON file.
+* Northern California to drop down list and created necessary NOCAL JSON file.
+* Oakland, CA to drop down list and created necessary OAK JSON file.
+* Seattle, WA to drop down list and created necessary SEA JSON file.
+* Wasingoton to drop down list and created necessary WA JSON file.
 
 ## Installation
 Please have the following installed before running:
