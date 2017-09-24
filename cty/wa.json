@@ -3,6 +3,20 @@
         "city": "Washington",
 		"posts": [
             {
+                "name": "Harris Avenue Cafe",
+				"add1": "1101 Harris Ave",
+				"add2": "",
+				"cty": "Bellingham",
+				"stt": "WA",
+				"zpcd": "98225",
+				"phn": "(360) 738-0802",
+				"url": "http://theharrisave.com/",
+				"note": "Harris Avenue Cafe is a compact breakfast/lunch venue serving upmarket diner fare, plus veggie options in comfy surrounds. Their chorizo, eggs, cheese, and chili peppers with a side of home-made English muffin and sausage were wonderful.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Good To Go Meat Pies",
 				"add1": "128 W Main St",
 				"add2": "",
