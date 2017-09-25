@@ -3,6 +3,20 @@
         "city": "Washington",
 		"posts": [
             {
+                "name": "Avenue Bread and Deli",
+				"add1": "444 Front St",
+				"add2": "",
+				"cty": "Lynden",
+				"stt": "WA",
+				"zpcd": "98264",
+				"phn": "(360) 715-3354",
+				"url": "https://avenuebread.com/",
+				"note": "Avenue Bread is the neighborhood café and bakery that creates community around authentic eats for the people of Whatcom County and its visitors who want a nourishing experience for the mind, body and soul in an era of increasingly conscious consumption. Their home-made sage sausage was wonderful along with the toasted Rosemary bread. Wish I had been there on the weekend because some of their weekend only specials looked great.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Harris Avenue Cafe",
 				"add1": "1101 Harris Ave",
 				"add2": "",
