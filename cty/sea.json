@@ -45,15 +45,15 @@
 				"cptn": "lll"
             },
             {
-                "name": "Ivar's Seafood Restaurant",
-				"add1": "17801 International Blvd",
-				"add2": "",
-				"cty": "SeaTac",
+                "name": "Ivar's Acres of Clams",
+				"add1": "1001 Alaskan Way",
+				"add2": "Pier 54",
+				"cty": "Seattle",
 				"stt": "WA",
-				"zpcd": "98158",
-				"phn": "(206) 248-0012",
+				"zpcd": "98104",
+				"phn": "(206) 624-6852",
 				"url": "http://www.ivars.com/",
-				"note": "Ivar's Seafood Restaurant is a local chain dishing up fried fish and chowders in casual quarters with nautical accents. NOTE: This one is located in the Seattle-Tacoma International Airport. They have several other locations",
+				"note": "Ivar's Acres of Clams is a local chain dishing up fried fish and chowders in casual quarters with nautical accents. <strong>NOTE</strong>: They have several other locations even one located in the Seattle-Tacoma International Airport.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
