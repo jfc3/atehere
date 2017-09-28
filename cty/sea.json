@@ -17,6 +17,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "DeLaurenti Food and Wine",
+				"add1": "1435 1st Ave",
+				"add2": "Pike's Place Market",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "(206) 622-0141",
+				"url": "http://www.delaurenti.com/",
+				"note": "DeLaurenti Food and Wine is an Italian food & wine shop selling cheeses, meats and imported groceries plus a cafe for light bites. You need to grab some cured meats to take home with you along with grabbing one or both of their meat cones to snack on for $8.00 a piece. They have a Skillet's Balsamic and brown sugar bacon jam",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Dong Thap Noodles",
 				"add1": "303 12th Ave S",
 				"add2": "",
