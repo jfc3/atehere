@@ -59,6 +59,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Harbor City Restaurant",
+				"add1": "707 S King St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": "(206) 621-2228",
+				"url": "",
+				"note": "Harbor City Restaurant is a casual family-owned Chinese restaurant serving dim sum, Peking duck, congee and other favorites. I ordered five different types of dumplings along with some wide noodles with beef and a quarter of a roast duck.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Ivar's Acres of Clams",
 				"add1": "1001 Alaskan Way",
 				"add2": "Pier 54",
