@@ -3,6 +3,20 @@
         "city": "Seattle, WA",
 		"posts": [
             {
+                "name": "Beecher's Handmade Cheese",
+				"add1": "1600 Pike Pl",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "(206) 956-1964",
+				"url": "http://www.beechershandmadecheese.com/",
+				"note": "Beecher's Handmade Cheese is where you can view of cheese-making plus quick comfort food like mac 'n' cheese in a snug space with eating bar. I liked their cheese curd that is squeaky when you chew it.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Bizzarro Italian Cafe",
 				"add1": "1307 N 46th St",
 				"add2": "",
