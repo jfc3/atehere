@@ -173,6 +173,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Owl and Thistle",
+				"add1": "808 Post Ave",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": "(206) 621-7777",
+				"url": "http://www.owlnthistle.com/",
+				"note": "Owl and Thistle is a Dublin-style pub with live music most nights and a house band playing Irish music most weekends. It's truly a dive bar near the ferry station and a way from Pike's Place Market.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Pike Place Market",
 				"add1": "85 Pike Street",
 				"add2": "",
