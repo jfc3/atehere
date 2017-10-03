@@ -241,6 +241,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "DC Dosa",
+				"add1": "1309 5th St NE",
+				"add2": "Union Market",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20002",
+				"phn": "",
+				"url": "http://www.dcdosa.com/",
+				"note": "DC Dosa serves dosas which are South Indian lentil crepes typically stuffed with a variety of fillings and toppings. South India has over 80 varieties of dosas with each family putting their spin on traditional recipes. They are an immensely popular street food staple in most of India. Dosas are vegan and gluten-free, as well as delicious and nutritious.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "DC Noodles",
 				"add1": "1412 U St NW",
 				"add2": "",
