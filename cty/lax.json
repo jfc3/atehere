@@ -115,6 +115,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Church and State",
+				"add1": "1850 Industrial St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90021",
+				"phn": "(213) 405-1434",
+				"url": "http://churchandstatebistro.com/",
+				"note": "Church and State is a rustic-chic bistro serves house-made charcuterie and other French classics, plus creative cocktails. When you're there, you should order a charcuterie plate. The more people you have, the more variety or items you will get on the plate.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Grand Central Market",
 				"add1": "317 S Broadway",
 				"add2": "Homer Laughlin Building",
