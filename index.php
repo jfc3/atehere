@@ -139,8 +139,8 @@ if (in_array($slct, $locs) && $slct != "") {
 			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
 	    <?php } ?>
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
-			<?php if ($post->phn != "") { echo "<p>".$post->phn."</p>";} ?>
-			<p><?php if ($post->note != "") { echo $post->note;} ?></p>
+			<?php if ($post->phn != "") { echo "<p class='tel'>".$post->phn."</p>";} ?>
+			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 		</div>
     <?php	}	?>
