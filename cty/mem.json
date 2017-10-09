@@ -43,6 +43,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Payne's Bar-B-Que",
+				"add1": "1762 Lamar Ave",
+				"add2": "",
+				"cty": "Memphis",
+				"stt": "TN",
+				"zpcd": "38114",
+				"phn": "(901) 272-1523",
+				"url": "",
+				"note": "Payne's Bar-B-Que is a simple cinder block building serving acclaimed chopped and pulled pork sandwiches along with smoked sausage too.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
