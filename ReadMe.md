@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.1
-* Release Date: 09-22-2017
+* Release Number:  v.0.5.2
+* Release Date: 10-09-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -99,6 +99,7 @@ Enhancements:
 * Oakland, CA to drop down list and created necessary OAK JSON file.
 * Seattle, WA to drop down list and created necessary SEA JSON file.
 * Wasingoton to drop down list and created necessary WA JSON file.
+* Updated code with Microformats for the phone number and notes/description.
 
 ## Installation
 Please have the following installed before running:
