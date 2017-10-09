@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Frank's Noodle House",
+				"add1": "822 NE Broadway St",
+				"add2": "",
+				"cty": "Portland",
+				"stt": "OR",
+				"zpcd": "97232",
+				"phn": "(503) 288-1007",
+				"url": "https://www.franksnoodlehousepdx.com/",
+				"note": "Frank's Noodle House is a homey, family-run joint with Chinese hand-pulled noodle mains and Korean BBQ plates, plus beer and wine. The thing to order is any of their hand-pulled noodle dishes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "The Fried Onion",
 				"add1": "3rd & SE Alder St",
 				"add2": "",
