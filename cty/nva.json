@@ -578,6 +578,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Swing's Coffee",
+				"add1": "501 E Monroe Ave",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22301",
+				"phn": "(703) 370-5050",
+				"url": "https://swingscoffee.com/",
+				"note": "Swing's Coffee is an airy, industrial coffee bar and roastery featuring huge windows along with reclaimed furniture. The make a great cup of hot chocolate and some unusual tea choices. <strong>NOTE</strong>: During youth baseball and soccer seasons they can be busier than usual until noon or a bit later.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Taco Bamba",
 				"add1": "2190 Pimmit Dr",
 				"add2": "",
