@@ -15,6 +15,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+			},
+            {
+                "name": "Ted Drewes Frozen Custard",
+				"add1": "6726 Chippewa St",
+				"add2": "",
+				"cty": "St. Louis",
+				"stt": "MO",
+				"zpcd": "63109",
+				"phn": "(314) 481-2652",
+				"url": "http://teddrewes.com/",
+				"note": "Ted Drewes Frozen Custard is a popular take-out spot with a variety of frozen custards dished out through a walk-up window.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
