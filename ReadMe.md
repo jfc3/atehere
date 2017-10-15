@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.3
+* Release Number:  v.0.5.4
 * Release Date: 10-15-2017
 
 ## Overview
@@ -44,6 +44,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * San Deigo, CA - san
 * San Francisco, CA - sfo
 * Seattle, WA - sea
+* St. Louis, MO - stl
 * Syracuse, NY - syr
 * Washington, DC - dca
 * Washington - wa
@@ -102,6 +103,7 @@ Enhancements:
 * Washington to the drop down list and created necessary WA JSON file.
 * Updated code with Microformats for the phone number and notes/description.
 * Louisville, KY to the drop down list and created necessary LOU JSON file.
+* St. Louis, MO to the drop down list and created necessary STL JSON file.
 
 ## Installation
 Please have the following installed before running:
