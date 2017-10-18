@@ -311,6 +311,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Rutt's Hawaiian Cafe",
+				"add1": "11707 Washington Pl",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90066",
+				"phn": "(310) 398-6326",
+				"url": "http://www.ruttscafe.com/",
+				"note": "Rutt's Hawaiian Cafe is a restaurant with sidewalk seating serving traditional comfort eats plus Hawaiian menu options.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Salt and Straw",
 				"add1": "1357 Abbot Kinney Blvd",
 				"add2": "",
