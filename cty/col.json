@@ -3,6 +3,20 @@
         "city": "Columbus, OH",
 		"posts": [
             {
+                "name": "Fox in the Snow Cafe",
+				"add1": "1031 N 4th St",
+				"add2": "",
+				"cty": "Columbus",
+				"stt": "OH",
+				"zpcd": "43201",
+				"phn": "",
+				"url": "http://www.foxinthesnow.com/",
+				"note": "Fox in the Snow Cafe is an airy coffee shop featuring java drinks, baked goods, tarts & biscuits in a modernized garage space.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Graeter's Ice Cream",
 				"add1": "1 N State St",
 				"add2": "",
