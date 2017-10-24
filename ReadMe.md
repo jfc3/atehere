@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.4
-* Release Date: 10-15-2017
+* Release Number:  v.0.5.5
+* Release Date: 10-23-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -71,39 +71,39 @@ Features:
 * Add restaurant and food types/categories.
 * Have the ability to narrow down choices by food type or category of food.
 
-Enhancements:
+Enhancements with most recent on top:
 
-* Added Boston, MA, to the drop down list and created necessary JSON.
-* Added Google Analytics to see if the website is getting any traffic besides myself.
-* Added code to check INPUT field for special characters.
-* Added error message for when people submit the FORM without selecting a location.
-* Added link to project on GitHub in the footer.
-* Added e-mail link for questions in the footer.
-* Removed the "Address" and Phone" text from screen.
-* Made address a link to Goolge Maps.
-* Added note with an ID tied to the aria-described by so screen reader users know the address link goes to Google Maps.
-* Added "extended-address" SPAN to address for additional address alogn with moving <BR /> after the SPAN instead of inside.
-* Added a few more restaurants to the DCA and NVA JSON files, along with notes to the a few palces that were missing them.
-* Created in page anchor by using the restaurant's name and removing the blank spaces along with special characters, making it all lowercase, and adding a tab index of negative one ( tabindex="-1" ). I did this so people can link directly to a given restaurant on a particular page.
+* St. Louis, MO to the drop down list and created necessary STL JSON file.
+* Louisville, KY to the drop down list and created necessary LOU JSON file.
+* Updated code with Microformats for the phone number and notes/description.
+* Washington to the drop down list and created necessary WA JSON file.
+* Seattle, WA to the drop down list and created necessary SEA JSON file.
+* Oakland, CA to the drop down list and created necessary OAK JSON file.
+* Northern California to the drop down list and created necessary NOCAL JSON file.
+* Added San Francisco, CA to the drop down list and created necessary SFO JSON file.
+* Added California to the drop down list and created necessary CA JSON file.
+* Added North Carolina to the drop down list and created necessary NC JSON file.
+* Added New Jersey to the drop down list and created necessary NJ JSON file.
+* Added Florida to the drop down list and created necessary FL JSON file.
+* Added Chicago, IL, to the drop down list and created necessary CHI JSON file.
+* Added Pennsylvania to the drop down list and created necessary PA JSON file.
+* Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
+* Added two fields to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
+* Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
 * Added Los Angles, CA, to the drop down lsit and created a JSON file too.
 * Added a way to check that people are not attempting to change the URL to find places not listed. Used an ARRAY that loops through the list of valid cities to look for matches. If it finds onethen it creates the page if JSON file exsts.
-* Removed asterisk from name and added field that denotes I have eaten there or not. Wrote code to make this work.
-* Added two fields to allow people to have a photo (url) and ALT text. Haven't written code to make this work yet.
-* Added ability to add photos and ALT text to restaurants. Now need to do some more testing before rolling it out to everyone.
-* Added Pennsylvania to the drop down list and created necessary PA JSON file.
-* Added Chicago, IL, to the drop down list and created necessary CHI JSON file.
-* Added Florida to the drop down list and created necessary FL JSON file.
-* Added New Jersey to the drop down list and created necessary NJ JSON file.
-* Added North Carolina to the drop down list and created necessary NC JSON file.
-* Added California to the drop down list and created necessary CA JSON file.
-* Added San Francisco, CA to the drop down list and created necessary SFO JSON file.
-* Northern California to the drop down list and created necessary NOCAL JSON file.
-* Oakland, CA to the drop down list and created necessary OAK JSON file.
-* Seattle, WA to the drop down list and created necessary SEA JSON file.
-* Washington to the drop down list and created necessary WA JSON file.
-* Updated code with Microformats for the phone number and notes/description.
-* Louisville, KY to the drop down list and created necessary LOU JSON file.
-* St. Louis, MO to the drop down list and created necessary STL JSON file.
+* Created in page anchor by using the restaurant's name and removing the blank spaces along with special characters, making it all lowercase, and adding a tab index of negative one ( tabindex="-1" ). I did this so people can link directly to a given restaurant on a particular page.
+* Added a few more restaurants to the DCA and NVA JSON files, along with notes to the a few palces that were missing them.
+* Added "extended-address" SPAN to address for additional address alogn with moving <BR /> after the SPAN instead of inside.
+* Added note with an ID tied to the aria-described by so screen reader users know the address link goes to Google Maps.
+* Made address a link to Goolge Maps.
+* Removed the "Address" and Phone" text from screen.
+* Added e-mail link for questions in the footer.
+* Added link to project on GitHub in the footer.
+* Added error message for when people submit the FORM without selecting a location.
+* Added code to check INPUT field for special characters.
+* Added Google Analytics to see if the website is getting any traffic besides myself.
+* Added Boston, MA, to the drop down list and created necessary JSON.
 
 ## Installation
 Please have the following installed before running:
