@@ -675,6 +675,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "SUNdeVICH",
+				"add1": "1314 9th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 319-1086",
+				"url": "http://sundevich.com/",
+				"note": "SUNdeVICH is a converted garage which houses a counter-serve shop for creative sandwiches made from local ingredients. I have eaten their Madrid which is a chorizo sausage with chimichurri sauce a perfect roll. <strong>NOTE</strong>: They're located in the alley between N and O St. NW. They also have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Takorean",
 				"add1": "1309 5th St NE",
 				"add2": "Union Market",
