@@ -3,6 +3,20 @@
         "city": "Maryland",
 		"posts": [
             {
+                "name": "Brewer's Alley",
+				"add1": "124 N Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 631-0089",
+				"url": "https://www.brewers-alley.com/",
+				"note": "Brewer's Alley is a kid friendly and invites you to visit and enjoy the house beers at their distinctive bar as well as some of the Finest Culinary Creations in one of their beautiful dining rooms. In the heart of Historic Frederick, Maryland, Brewer's Alley has become a favorite destination for residents and worldwide travelers alike.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Bruster's",
 				"add1": "18519 N. Frederick Ave",
 				"add2": "",
