@@ -297,6 +297,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "District Doughnut",
+				"add1": "749 8th St SE",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20003",
+				"phn": "(202) 750-1955",
+				"url": "https://www.districtdoughnut.com/",
+				"note": "District Doughnut is a cute bakery specializing in classic and unique flavors of gourmet yeast donuts. The hand-craft their doughnuts from scratch daily without preservatives, using high-end ingredients like King Arthur Flour and Argentine Dulce de Leche. They prepare their dough, toppings, glazes, fillings, and batters in-house. The menu is carefully curated by Chef Christine and features a mix of our signature flavors and creative seasonal twists. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Duke's Grocery",
 				"add1": "1513 17th St NW",
 				"add2": "",
