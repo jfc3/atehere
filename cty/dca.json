@@ -115,6 +115,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Billy Goat Tavern",
+				"add1": "500 New Jersey Ave NW",
+				"add2": "#1",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 783-2123",
+				"url": "http://www.billygoattavern.com/",
+				"note": "Billy Goat Tavern is the DC outpost of a famed chain of pubs founded in Chicago in 1934 known for its burgers and breakfasts. The Chicago one is famous for being part of the recurring SNL skit Cheezeborger, cheezeborger'.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Bread Furst",
 				"add1": "4434 Connecticut Ave NW",
 				"add2": "",
