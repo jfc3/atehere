@@ -215,6 +215,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Pacific Inn Pub",
+				"add1": "3501 Stone Way N",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 547-2967",
+				"url": "",
+				"note": "Pacific Inn Pub serves microbrews and bar food offered in a compact diner with modest decor along with a pool table. You need to order the fish n chips.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Paseo Caribbean Restaurant",
 				"add1": "4225 Fremont Ave N",
 				"add2": "",
