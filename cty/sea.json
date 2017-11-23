@@ -285,6 +285,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Revel",
+				"add1": "403 N 36th St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 547-2040",
+				"url": "http://www.relayrestaurantgroup.com/restaurants/revel/",
+				"note": "Revel serves Korean dishes prepared with French technique in a modern industrial-design space with a hopping bar. You need to try the Short rib, pickled shallot, scallion dumplings",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Salumi",
 				"add1": "309 3rd Ave S",
 				"add2": "",
