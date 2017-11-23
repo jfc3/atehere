@@ -341,6 +341,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Taylor Oyster Bar",
+				"add1": "124 Republican St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98109",
+				"phn": "(206) 501-4442",
+				"url": "https://www.taylorshellfishfarms.com/",
+				"note": "Taylor Shellfish Oyster Bar is a casual seafood specialist known for fresh shellfish offers a full bar with craft brews on tap. You should order the deep fried smelt.  <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Top Pot Doughnuts",
 				"add1": "609 Summit Ave E",
 				"add2": "",
