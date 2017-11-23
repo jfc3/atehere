@@ -215,20 +215,6 @@
 				"cptn": "lll"
             },
             {
-                "name": "Pike Place Market",
-				"add1": "85 Pike Street",
-				"add2": "",
-				"cty": "Seattle",
-				"stt": "WA",
-				"zpcd": "98101",
-				"phn": "(206) 682-7453",
-				"url": "http://pikeplacemarket.org/",
-				"note": "Pike Place Market is a public market overlooking the Elliott Bay waterfront in Seattle, Washington, United States. The Market opened August 17, 1907, and is one of the oldest continuously operated public farmers' markets in the United States.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll"
-            },
-            {
                 "name": "Paseo Caribbean Restaurant",
 				"add1": "4225 Fremont Ave N",
 				"add2": "",
@@ -239,6 +225,20 @@
 				"url": "http://www.paseorestaurants.com/",
 				"note": "Paseo Caribbean Restaurant is counter-service Caribbean joint serving sandwiches and entrees in a simple setting. The item to order is the pork sandwich.",
 				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Pike Place Market",
+				"add1": "85 Pike Street",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "(206) 682-7453",
+				"url": "http://pikeplacemarket.org/",
+				"note": "Pike Place Market is a public market overlooking the Elliott Bay waterfront in Seattle, Washington, United States. The Market opened August 17, 1907, and is one of the oldest continuously operated public farmers' markets in the United States.",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
             },
