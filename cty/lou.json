@@ -43,6 +43,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "The Table",
+				"add1": "1800 Portland Ave",
+				"add2": "",
+				"cty": "Louisville",
+				"stt": "KY",
+				"zpcd": "40203",
+				"phn": "(502) 708-2505",
+				"url": "http://www.tablecafe.org/",
+				"note": "The Table's mission is to provide a restaurant that serves locally grown food with amazing taste, at an affordable price, where all can enjoy the flavor of community where you pay what you can. Get smoked chicken with bacon jam sandwich or the pulled pork chow chow sandwich.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
