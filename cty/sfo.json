@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Mission Chinese Food",
+				"add1": "2234 Mission St",
+				"add2": "",
+				"cty": "San Francisco",
+				"stt": "CA",
+				"zpcd": "94110",
+				"phn": "(415) 863-2800",
+				"url": "https://www.missionchinesefood.com/sfo/",
+				"note": "Mission Chinese Food is a trendy place where crowds line up for the imaginative Chinese eats at this casual, nationally known destination. Order the Tingling lamb which is lamb and soup.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Radio Africa and Kitchen",
 				"add1": "4800 3rd St",
 				"add2": "",
