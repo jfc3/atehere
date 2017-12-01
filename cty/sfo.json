@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "El Tonayense",
+				"add1": "1719 Harrison St",
+				"add2": "",
+				"cty": "San Francisco",
+				"stt": "CA",
+				"zpcd": "94103",
+				"phn": "(415) 559-0404",
+				"url": "http://www.tonayense.com/",
+				"note": "El Tonayense has been in the Mission District for over 20 years. They wanted to bring authentic Mexican foods to the United States. You need to order the chicken and tripe tacos.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Ferry Building Marketplace",
 				"add1": "1 Sausalito",
 				"add2": "San Francisco Ferry Bldg #21",
