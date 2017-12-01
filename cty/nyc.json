@@ -283,6 +283,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Mission Chinese Food",
+				"add1": "171 E Broadway",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10002",
+				"phn": "",
+				"url": "https://www.missionchinesefood.com/nyc/",
+				"note": "Mission Chinese Food is a New York outpost of the San Francisco eatery serving fiery, innovative takes on Sichuan cuisine. Order the Tingling lamb which is lamb and soup.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "New Wonjo",
 				"add1": "23 West 32nd Street",
 				"add2": "",
