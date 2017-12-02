@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Cutty’s",
+				"add1": "284 Washington St",
+				"add2": "",
+				"cty": "Brookline",
+				"stt": "MA",
+				"zpcd": "02445",
+				"phn": "(617) 505-1844",
+				"url": "http://www.cuttyfoods.com/",
+				"note": "Cutty’s uses locally sourced, and made-in-house ingredients define this busy breakfast-lunch soup and sandwich joint. You need to get one of the pork sandwiches. Cutty's makes home-made pickled fennel for the pork fennel sandwich.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Little Donkey",
 				"add1": "505 Massachusetts Ave",
 				"add2": "",
