@@ -2,6 +2,20 @@
     "result": {
         "city": "Maryland",
 		"posts": [
+			{
+                "name": "Black Hog BBQ Bar",
+				"add1": "118 South Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 662-9090",
+				"url": "http://blackhogbbq.com/company/",
+				"note": "Black Hog BBQ Bar is a local chain offering Carolina and Arkansas-style 'cue, with ribs, wings, sides, and drinks. You need to order the Carolina Chopped smoked pork shoulder with vinegar sauce or the Arkansas Brisket which double smoked, rough cut, smoked again with some sweet and smoky sauce.  <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
             {
                 "name": "Brewer's Alley",
 				"add1": "124 N Market St",
