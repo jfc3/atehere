@@ -87,6 +87,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Duck Duck Goat",
+				"add1": "857 W Fulton Market",
+				"add2": "",
+				"cty": "Chicago",
+				"stt": "IL",
+				"zpcd": "60607",
+				"phn": "(312) 902-3825",
+				"url": "http://duckduckgoatchicago.com/",
+				"note": "Duck Duck Goat is a creative Chinese fare from celeb chef Stephanie Izard served in buzzy, ornately decorated surrounds.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Girl & the Goat",
 				"add1": "809 W Randolph St",
 				"add2": "",
