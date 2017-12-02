@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Commonwealth",
+				"add1": "1022 11th St",
+				"add2": "",
+				"cty": "Modesto",
+				"stt": "CA",
+				"zpcd": "95354",
+				"phn": "(209) 248-7451",
+				"url": "http://www.commonwealthmodesto.com/",
+				"note": "Commonwealth is an urban haunt with seasonal grub, many West Coast beers, and global wines, along with a weekend brunch and a patio. You should order the taco trio of grilled Buffalo chicken, pulled pork, and the Banh Mi or the waffle sandwich with egg, ham, and cheese with a side of potatoes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "The French Laundry",
 				"add1": "6640 Washington St",
 				"add2": "",
