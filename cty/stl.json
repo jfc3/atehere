@@ -17,6 +17,20 @@
 				"cptn": "lll"
 			},
             {
+                "name": "Iron Barley Eating Establishment",
+				"add1": "3367 High Ridge Blvd",
+				"add2": "",
+				"cty": "High Ridge",
+				"stt": "MO",
+				"zpcd": "63049",
+				"phn": "(314) 351-4500",
+				"url": "http://www.ironbarley.com/",
+				"note": "Iron Barley Eating Establishment does creative takes on American comfort food, a craft-beer focus and a late-night music club out back. You need to order the schnitzel and spaetzle.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Ted Drewes Frozen Custard",
 				"add1": "6726 Chippewa St",
 				"add2": "",
