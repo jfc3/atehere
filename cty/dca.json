@@ -479,6 +479,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Jaco Juice and Taco Bar",
+				"add1": "1614 Wisconsin Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20007",
+				"phn": "(202) 505-2216",
+				"url": "http://jacojuiceandtaco.com/",
+				"note": "Jaco Juice and Taco Bar is a juice bar serving health-minded breakfasts and Mexican street food in upbeat surroundings.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Jimmy T's Place",
 				"add1": "501 5th St SE",
 				"add2": "",
