@@ -129,6 +129,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Delancey Pizzeria and Bar",
+				"add1": "5936 Sunset Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90028",
+				"phn": "(323) 469-2100",
+				"url": "http://delanceyhollywood.com/",
+				"note": "Delancey Pizzeria and Bar is a vibrant late-night spot for thin-crust pies and craft beer which has an outdoor patio. The items to order are the wild boar gnocchi or the Guanciale pizza.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Grand Central Market",
 				"add1": "317 S Broadway",
 				"add2": "Homer Laughlin Building",
