@@ -353,6 +353,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Primo's Donuts",
+				"add1": "2918 Sawtelle Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90064",
+				"phn": "(310) 478-6930",
+				"url": "http://www.primosdonuts.com/",
+				"note": "Primo's Donuts is a longtime, family-run donut shop offering a variety of flavors, plus muffins, scones, and turnovers.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Rutt's Hawaiian Cafe",
 				"add1": "11707 Washington Pl",
 				"add2": "",
