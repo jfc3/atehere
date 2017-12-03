@@ -507,6 +507,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Trois Familia",
+				"add1": "3510 Sunset Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90026",
+				"phn": "(323) 725-7800",
+				"url": "https://www.troisfamilia.com/",
+				"note": "Trois Familia serves small daytime-only spot for chef-driven French-Mexican brunch fare and smoothies from celebrity chefs. Trois Familia is the third restaurant collaboration between chefs Ludo Lefebvre, Jon Shook, and Vinny Dotolo.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Venice Ramen",
 				"add1": "515 Washington Blvd",
 				"add2": "",
