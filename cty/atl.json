@@ -85,7 +85,21 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
-			}
+			},
+            {
+                "name": "Sublime Doughnuts",
+				"add1": "535 10th St NW",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30318",
+				"phn": "(404) 897-1801",
+				"url": "http://www.sublimedoughnuts.com/",
+				"note": "Sublime Doughnuts is a quaint shop doing donuts in a variety of adventurous flavors like maple-bacon-cheddar and red velvet. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
 		]
     }
 }
