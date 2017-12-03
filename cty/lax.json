@@ -269,6 +269,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "LudoBird",
+				"add1": "100 Universal City Plaza",
+				"add2": "",
+				"cty": "Universal City",
+				"stt": "CA",
+				"zpcd": "91608",
+				"phn": "(818) 622-8801",
+				"url": "https://www.ludolefebvre.com/restaurants/ludobird/",
+				"note": "LudoBird is owned by celebrity Chef Ludo Lefebvre and has a CityWalk stand dishing out fried chicken and side dishes with a French twist. LudoBird is quickly becoming known as a master of an American favorite, fried chicken.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Mario's Peruvian and Seafood",
 				"add1": "5786 Melrose Ave",
 				"add2": "",
