@@ -395,6 +395,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Underwest Donuts",
+				"add1": "638 W 47th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10036",
+				"phn": "(212) 317-2359",
+				"url": "https://www.underwestdonuts.com/",
+				"note": "Underwest Donuts serves coffee, and baked treats with unique flavors served in a no-frills take-out joint inside a car wash. It's the brainchild of a former Chanterelle sous chef; this innovative shop popped up in the old school Westside Highway Car Wash with flavors like maple waffle and cocoa-raspberry. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Village Yokocho",
 				"add1": "8 Stuyvesant Street",
 				"add2": "Second floor",
