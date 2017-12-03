@@ -827,6 +827,20 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Zaytinya",
+				"add1": "701 9th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 638-0800",
+				"url": "http://www.zaytinya.com/",
+				"note": "Zaytinya is another Chef José Andrés' that offers an innovative mezze menu inspired by Turkish, Greek and Lebanese cuisines served up in a sleek and modern setting. Building on Jose’s deep knowledge of Mediterranean cooking and years of research and travel, the menu features shared small plates of authentic and innovative fare, creative cocktails, and unique Mediterranean wines.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
