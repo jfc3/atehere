@@ -353,6 +353,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Petit Trois",
+				"add1": "718 N Highland Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90038",
+				"phn": "(323) 468-8916",
+				"url": "http://petittrois.com/",
+				"note": "Petit Trois is a cozy spot with Parisian flare offers classic French fare and a full bar from the team behind Trois Mec.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Pizzeria Mozza",
 				"add1": "641 N. Highland Avenu",
 				"add2": "",
