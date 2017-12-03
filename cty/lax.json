@@ -73,6 +73,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "The Bun Shop",
+				"add1": "151 N Western Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90004",
+				"phn": "(323) 468-1031",
+				"url": "http://www.thebunshopla.com/",
+				"note": "The Bun Shop is a chic, brick-and-mortar outpost of a popular food truck, serving steamed bao buns and other bites. The Bun shop takes fluffy bao buns sourced from a Chinese baker, then stuff them with fillings inspired by classic Korean cuisine. Another standout is the Kalbi. A marinade that features sesame oil and soy sauce, as well as apple cider vinegar and cola, lends sweet and tangy notes to the beef, which comes piled on an aioli-slicked bun along with fresh greens and a tempura fried onion. You also need to order yourself an order of the Ba'Corn Cheese.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Cassell's Hamburgers",
 				"add1": "3600 W 6th St",
 				"add2": "",
