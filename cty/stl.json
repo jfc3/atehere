@@ -17,6 +17,20 @@
 				"cptn": "lll"
 			},
             {
+                "name": "The Donut Stop",
+				"add1": "1101 Lemay Ferry Rd",
+				"add2": "",
+				"cty": "St. Louis",
+				"stt": "MO",
+				"zpcd": "63125",
+				"phn": "(314) 631-3333",
+				"url": "http://thedonutstopinc.net/",
+				"note": "The Donut Stop's glass cases reveal all sorts of flavors at this old-school bakery: glazed, sugar, cake, twists and French doughnuts—otherwise known as beignets. Also for sale is a Donut Stop exclusive: Cinnamon Globs. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Iron Barley Eating Establishment",
 				"add1": "3367 High Ridge Blvd",
 				"add2": "",
