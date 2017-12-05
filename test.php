@@ -150,8 +150,8 @@ if (in_array($slct, $locs) && $slct != "") {
 	<?php	}	?>
 	</div>
 	<div id="ftr" role="contentinfo">
-		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com">@jfc3</a></p>
-		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from 10K Apart Entry">Questions?</a> <a href="https://github.com/jfc3/10kapart">GitHub</a></p>
+		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com/jfc3">@jfc3</a></p>
+		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from Ate Here<?php if ($slct != "" && $slct != "xxx") { echo " - ".$city." ($slct)";} ?>">Questions?</a> <a href="https://github.com/jfc3/atehere">GitHub</a></p>
 	</div>
 </div>
 <script src="../js/google.js"></script>
