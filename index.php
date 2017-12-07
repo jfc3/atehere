@@ -1,5 +1,5 @@
 <?php
-$slct = htmlspecialchars($_GET['slct']);
+$slct = strtolower(htmlspecialchars($_GET['slct']));
 $locs = array("", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "dca", "de", "fl", "ky", "las", "lax", "lou", "md", "mem", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "roc", "san", "sea", "sfo", "stl", "syr", "wa");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
