@@ -31,6 +31,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Fiddlehead Fern Cafe",
+				"add1": "4066 Russell Blvd",
+				"add2": "",
+				"cty": "St. Louis",
+				"stt": "MO",
+				"zpcd": "63110",
+				"phn": "(314) 972-2637",
+				"url": "http://fiddleheadferncafe.com/",
+				"note": "Fiddlehead Fern serves elevated café fare in a trendy, minimalist space built on the renovated lot of an old gas station at the corner of Russell and Thurman.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Iron Barley Eating Establishment",
 				"add1": "3367 High Ridge Blvd",
 				"add2": "",
