@@ -59,6 +59,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Chick and Ruth's",
+				"add1": "165 Main St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 269-6737",
+				"url": "http://chickandruths.com/",
+				"note": "Chick and Ruth's is a lively landmark diner is featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs. You need to try their breakfast items or one of their other meals named after famous people.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Crab Deck",
 				"add1": "3032 Kent Narrow Way S",
 				"add2": "",
@@ -68,6 +82,34 @@
 				"phn": "(410) 827-6666",
 				"url": "http://www.fishermansinn.com/crab_deck.htm",
 				"note": "The Crab Deck is a full service, waterfront dining, inside and outside on the Kent Narrows with lunch, dinner, happy hour, kids menu, and steamed crabs. When I'm here, I get an order of steamed shrimp, three or four of their largest crabs, and a side of corn on the cob, so I at least ate one vegetable.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Davis's Pub",
+				"add1": "400 Chester Ave",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21403",
+				"phn": "(410) 268-7432",
+				"url": "http://davispub.com",
+				"note": "Davis's Pub is a long-running (since the 1920s) neighborhood joint known for its crab cakes and creative pub fare.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+			},
+            {
+                "name": "Double T Diner",
+				"add1": "12 Defense St",
+				"add2": "",
+				"cty": "Annapolis",
+				"stt": "MD",
+				"zpcd": "21401",
+				"phn": "(410) 571-9070",
+				"url": "http://www.doubletdiner.com/restaurants/24-hour-diners/annapolis-restaurant.aspx",
+				"note": "Double T Diner is a Local diner chain with a retro vibe and a menu of comfort-food classics (some are open 24 hours). You need to try some of their great desserts along with the substantial breakfasts. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll"
