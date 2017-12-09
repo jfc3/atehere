@@ -1,0 +1,91 @@
+{
+    "result": {
+        "city": "Frederick, MD",
+		"posts": [
+			{
+                "name": "Black Hog BBQ Bar",
+				"add1": "118 South Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 662-9090",
+				"url": "http://blackhogbbq.com/company/",
+				"note": "Black Hog BBQ Bar is a local chain offering Carolina and Arkansas-style 'cue, with ribs, wings, sides, and drinks. You need to order the Carolina Chopped smoked pork shoulder with vinegar sauce or the Arkansas Brisket which double smoked, rough cut, smoked again with some sweet and smoky sauce.  <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Brewer's Alley",
+				"add1": "124 N Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 631-0089",
+				"url": "https://www.brewers-alley.com/",
+				"note": "Brewer's Alley is a kid friendly and invites you to visit and enjoy the house beers at their distinctive bar as well as some of the Finest Culinary Creations in one of their beautiful dining rooms. In the heart of Historic Frederick, Maryland, Brewer's Alley has become a favorite destination for residents and worldwide travelers alike.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Bushwaller's",
+				"add1": "209 N Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 695-6988",
+				"url": "http://www.bushwallers.com/",
+				"note": "Bushwaller’s prides themselves on serving fresh, house-made cuisine in the warmth and comfort of an Irish Pub. For over 30 years, Bushwaller’s has been one of downtown Frederick’s most popular restaurants. They specialize in serving savory Irish and American comfort dishes such as Fish ‘n Chips, Shepherd’s Pie, Bangers ‘n Mash, Guinness Beef Stew, and Burgers. Bushwaller’s likes to think of themselves as the community living room, so they strive to create a casual, inviting, flavorful dining experience at affordable prices Great, quite a local bar to relax, talk, eat, and drink or at least the day we were there.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Family Meal Restaurant",
+				"add1": "880 N East St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 378-2895",
+				"url": "http://www.voltfamilymeal.com/",
+				"note": "Family Meal Restaurant is a modern, all-day diner from 'Top Chef' runner-up Bryan Voltaggio, set in a former car dealership. You could eat only appetizers and still walk away happy. I have ordered their hoecakes with pimento cheese, and pickled carrots, their Korean BBQ wings, duck fat fried potatoes, and their deviled eggs with applewood smoked bacon and chives.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Thai Tanium Restaurant",
+				"add1": "657 Center Point Way",
+				"add2": "",
+				"cty": "Gaithersburg",
+				"stt": "MD",
+				"zpcd": "20878",
+				"phn": "(301) 990-3699",
+				"url": "http://www.thaitaniumrestaurant.com/",
+				"note": "Thai Tanium Restaurant serves Thai specialties, has a full bar and lunch deals in a glossy space at Kentlands Market Square. You need to order the Larb Gai (minced chicken with a spicy lime sauce) along with the Pad Mee chicken (Drunken noodles) and the Thai Tanium Star which is shrimp with minced chicken, watercress, veggies, and a Thai shrimp cake.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
+                "name": "Zoe's Chocolate Co.",
+				"add1": "121 N Market St",
+				"add2": "",
+				"cty": "Frederick",
+				"stt": "MD",
+				"zpcd": "21701",
+				"phn": "(301) 694-5882",
+				"url": "http://zoeschocolate.com/",
+				"note": "Zoe’s Chocolate combines the tradition of past generations and true artisan chocolatiers, with the modern sophistication of today’s flavors, trends, and ingredients. You need to buy yourself a roasted almond and dark chocolate bar.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
