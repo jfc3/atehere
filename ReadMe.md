@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.9
+* Release Number:  v.0.5.10
 * Release Date: 12-10-2017
 
 ## Overview
@@ -13,6 +13,7 @@ To see this application in action go to [John F Croston III Ate Here](http://jfc
 
 This project uses hand-coded JSON files of cities, states, and nearby locations, which currently are the following with their JSON file name after the name:
 
+* Alabama - al
 * Annapolis, MD - ann
 * Austin, TX - aus
 * Baltimore, MD - bal
@@ -74,6 +75,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Alabama to the drop down list and created necessary AL JSON file.
 * Added Tennessee to the drop down list and created necessary TN JSON file.
 * Added three Annapolis, MD (ANN) to the MD JSON file.
 * Frederick, MD to the drop down list and created necessary FDK JSON file.
