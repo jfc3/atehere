@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "dca", "de", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "roc", "san", "sea", "sfo", "stl", "syr", "tn", "wa", "wi");
+$locs = array("", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "dca", "de", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "roc", "san", "sea", "sfo", "stl", "syr", "tn", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -109,6 +109,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="ocnj">Ocean City, NJ</option>
 				<option value="pa">Pennsylvania</option>
 				<option value="phl">Philadelphia, PA</option>
+				<option value="phx">Phoenix, AZ</option>
 				<option value="pdx">Portland, OR</option>
 				<option value="roc">Rochester, NY</option>
 				<option value="san">San Diego, CA</option>
