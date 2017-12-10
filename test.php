@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "de", "dca", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "roc", "san", "sea", "sfo", "stl", "syr", "wa");
+$locs = array("", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "dca", "de", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "roc", "san", "sea", "sfo", "stl", "syr", "tn", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -76,6 +76,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
 				<option value="xxx">Select a location</option>
+				<option value="al">Alabama</option>
 				<option value="ann">Annapolis, MD</option>
 				<option value="atl">Atlanta, GA</option>
 				<option value="aus">Austin, TX</option>
@@ -108,6 +109,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="ocnj">Ocean City, NJ</option>
 				<option value="pa">Pennsylvania</option>
 				<option value="phl">Philadelphia, PA</option>
+				<option value="phx">Phoenix, AZ</option>
 				<option value="pdx">Portland, OR</option>
 				<option value="roc">Rochester, NY</option>
 				<option value="san">San Diego, CA</option>
@@ -115,8 +117,10 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="sea">Seattle, WA</option>
 				<option value="stl">St. Louis, MO</option>
 				<option value="syr">Syracuse, NY</option>
+				<option value="tn">Tennessee</option>
 				<option value="wa">Washington</option>
 				<option value="dca">Washington, DC</option>
+				<option value="wi">Wisconsin</option>
 			</select>
 			<input class="submit" type="submit" value="Submit">
 		</form>
