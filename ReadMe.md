@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.11
+* Release Number:  v.0.5.12
 * Release Date: 12-10-2017
 
 ## Overview
@@ -40,6 +40,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Ocean City, NJ - ocnj
 * Pennsylvania - pa
 * Philadelphia, PA - phl
+* Phoenix, AZ - phx
 * Portland, OR - pdx
 * Rochester, NY - roc
 * San Deigo, CA - san
@@ -76,6 +77,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Phoenix, AZ to the drop down list and created necessary PHX JSON file.
 * Added Wisconsin to the drop down list and created necessary WI JSON file.
 * Added Alabama to the drop down list and created necessary AL JSON file.
 * Added Tennessee to the drop down list and created necessary TN JSON file.
