@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.8
-* Release Date: 12-09-2017
+* Release Number:  v.0.5.9
+* Release Date: 12-10-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -46,6 +46,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Seattle, WA - sea
 * St. Louis, MO - stl
 * Syracuse, NY - syr
+* Tennessee - tn
 * Washington, DC - dca
 * Washington - wa
 
@@ -73,6 +74,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Tennessee to the drop down list and created necessary TN JSON file.
 * Added three Annapolis, MD (ANN) to the MD JSON file.
 * Frederick, MD to the drop down list and created necessary FDK JSON file.
 * Made the SLCT (city/state) from the URL lowercase so it can be checked correctly against the array and not throw an error if they match besides the case.
