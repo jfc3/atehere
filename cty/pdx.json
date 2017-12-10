@@ -87,6 +87,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Han Oak Restaurant",
+				"add1": "511 NE 24th Ave",
+				"add2": "",
+				"cty": "Portland",
+				"stt": "OR",
+				"zpcd": "97232",
+				"phn": "(971) 255-0032",
+				"url": "http://hanoakpdx.com/",
+				"note": "Han Oak Restaurant is a minimal-chic Korean spot with upscale tasting menus and drink pairings, along with noodle and dumpling nights.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Interurban",
 				"add1": "4057 N Mississippi Ave",
 				"add2": "",
