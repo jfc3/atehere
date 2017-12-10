@@ -270,6 +270,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Heebeen Restaurant",
+				"add1": "6231 Little River Turnpike",
+				"add2": "",
+				"cty": "Alexandria",
+				"stt": "VA",
+				"zpcd": "22312",
+				"phn": "(703) 941-3737",
+				"url": "http://heebeen.com/",
+				"note": "Heebeen Restaurant is a Korean barbecue meets Japanese fare. They feature tabletop grilling along with other buffet items. I enjoyed a few pieces of sushi since I was there for their Korean barbecued meats and spicy sides. Managed to try the Bulgogi marinated beef and pork, along with the spicy chicken and spicy pork belly.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Jack's Place",
 				"add1": "222 N Lee St",
 				"add2": "",
