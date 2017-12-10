@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "Phoenix, AZ",
+		"posts": [
+            {
+                "name": "Mrs White's Golden Rule Cafe",
+				"add1": "808 E Jefferson St",
+				"add2": "",
+				"cty": "Phoenix",
+				"stt": "AZ",
+				"zpcd": "85034",
+				"phn": "(602) 262-9256",
+				"url": "",
+				"note": "Mrs. White's Golden Rule Cafe is a modest, family-owned eatery serving home-style Southern and soul food seven days a week since the '60s. The dish to order from what I've heard is the smothered chicken fried steak along with the mac and cheese or deep-fried pork chops.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
