@@ -227,6 +227,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Compass Coffee",
+				"add1": "1535 7th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 838-3139",
+				"url": "http://compasscoffee.com/",
+				"note": "Compass Coffee is an airy, modern, industrial cafe and roaster offering artisanal brews, pastries, sandwiches and more. They have excellent wifi and wonderful hot chocolate. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Cucina Al Volo",
 				"add1": "1309 5th St. NE",
 				"add2": "",
