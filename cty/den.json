@@ -15,6 +15,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "Steuben's Food Service",
+				"add1": "523 E 17th Ave",
+				"add2": "",
+				"cty": "Denver",
+				"stt": "CO",
+				"zpcd": "80203",
+				"phn": "(303) 830-1001",
+				"url": "http://www.steubens.com/",
+				"note": "Steuben's Food Service is a classic regional American favorite's place, and cocktails make up the menu at this buzzing, retro-style diner. You need to order the fried chicken with mashed potatoes, gravy, and biscuit.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
