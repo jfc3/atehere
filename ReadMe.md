@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.12
-* Release Date: 12-10-2017
+* Release Number:  v.0.5.13
+* Release Date: 12-13-2017
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -24,6 +24,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Cleveland, PA - cle
 * Columbus, OH - col
 * Delaware - de
+* Denver, CO - den
 * Las Vegas, NV - las
 * Los Angeles, CA - lax
 * Louisville, KY - lou
@@ -77,6 +78,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Denver, CO to the drop down list and created necessary DEN JSON file.
 * Added Phoenix, AZ to the drop down list and created necessary PHX JSON file.
 * Added Wisconsin to the drop down list and created necessary WI JSON file.
 * Added Alabama to the drop down list and created necessary AL JSON file.
