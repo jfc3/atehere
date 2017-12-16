@@ -99,6 +99,20 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll"
+            },
+            {
+                "name": "World's Fair Donuts",
+				"add1": "1904 S Vandeventer Ave",
+				"add2": "",
+				"cty": "St. Louis",
+				"stt": "MO",
+				"zpcd": "63110",
+				"phn": "(314) 776-9975",
+				"url": "",
+				"note": "World's Fair Donuts is a small, mom and pop spot is a popular place for donuts, fritters, and coffee. <strong>NOTE</strong>: Cash only.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
             }
         ]
     }
