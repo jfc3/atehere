@@ -535,6 +535,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "La Colombe Coffee Roasters",
+				"add1": "924 Blagden Alley NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 289-4850",
+				"url": "https://www.lacolombe.com/",
+				"note": "La Colombe Coffee Roasters is a trendy cafe serving house-brand artisanal coffee, pastries, and snacks in a sleek space. <strong>NOTE</strong>: You will probably have to walk in because there is not much if any parking back in the alley. They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Maketto",
 				"add1": "1351 H St NE",
 				"add2": "",
