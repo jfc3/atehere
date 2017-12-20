@@ -171,6 +171,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Buttercream Bake Shop",
+				"add1": "1250 9th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 735-0102",
+				"url": "http://www.buttercreamdc.com/",
+				"note": "Buttercream Bake Shop is a popular pastry chef's lovely pink haven for artistic baked goods and decorative cakes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Carving Room",
 				"add1": "300 Massachusetts Ave NW",
 				"add2": "",
