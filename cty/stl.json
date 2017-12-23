@@ -73,6 +73,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Sugarfire Smoke House",
+				"add1": "9200 Olive Blvd",
+				"add2": "",
+				"cty": "St. Louis",
+				"stt": "MO",
+				"zpcd": "63132",
+				"phn": "(314) 997-2301",
+				"url": "http://www.sugarfiresmokehouse.com/",
+				"note": "Sugarfire Smoke House is a rustic local BBQ chain serving ribs, salmon, brisket cheesesteaks, spiked shakes and more. You need to check out their sandwiches. <strong>NOTE</strong>: They have multiple locations, and they open at 11:00 AM and close when they sell out.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Ted Drewes Frozen Custard",
 				"add1": "6726 Chippewa St",
 				"add2": "",
