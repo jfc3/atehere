@@ -1,0 +1,21 @@
+{
+    "result": {
+        "city": "Michigan",
+		"posts": [
+            {
+                "name": "Union Woodshop",
+				"add1": "18 S Main St",
+				"add2": "",
+				"cty": "Village of Clarkston",
+				"stt": "MI",
+				"zpcd": "48346",
+				"phn": "(248) 625-5660",
+				"url": "http://www.unionwoodshop.com/",
+				"note": "Union Woodshop serves slow-smoked BBQ, wood-fired pizza, and craft beers draw crowds to this hip rustic space. You need to order the Porker, which has a house-ground pork patty, house-made Michigan maple bacon and house-made hotlinks or any of their other BBQ: brisket, chicken, and pork.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            }
+        ]
+    }
+}
