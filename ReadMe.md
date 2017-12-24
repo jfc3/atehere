@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.14
+* Release Number:  v.0.5.15
 * Release Date: 12-24-2017
 
 ## Overview
@@ -48,6 +48,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * San Deigo, CA - san
 * San Francisco, CA - sfo
 * Seattle, WA - sea
+* South Carolina - sc
 * St. Louis, MO - stl
 * Syracuse, NY - syr
 * Tennessee - tn
@@ -79,6 +80,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added South Carolina to the drop down list and created necessary S JSON file.
 * Added Michigan to the drop down list and created necessary MI JSON file.
 * Added Denver, CO to the drop down list and created necessary DEN JSON file.
 * Added Phoenix, AZ to the drop down list and created necessary PHX JSON file.
