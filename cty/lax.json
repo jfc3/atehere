@@ -325,6 +325,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Nickel Diner",
+				"add1": "524 S Main St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90013",
+				"phn": "(213) 623-8301",
+				"url": "http://www.nickeldiner.com/",
+				"note": "Nickel Diner is a cozy vintage-style diner serves updated versions of old-school comfort fare, plus creative desserts. While you are there, you should order the bacon donut.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Nighthawk: Breakfast Bar",
 				"add1": "417 Washington Blvd",
 				"add2": "",
