@@ -45,6 +45,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Mas Tacos Por Favor",
+				"add1": "732 Mcferrin Ave",
+				"add2": "",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37206",
+				"phn": "(615) 543-6271",
+				"url": "",
+				"note": "Mas Tacos Por Favor is a snug, no-frills Mexican restaurant fixing up an array of tacos and other standards. You need to order the holiday tamales and quinoa veggie tacos or the Pozole Verde soup.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Prince's Hot Chicken Shack",
 				"add1": "123 Ewing Dr",
 				"add2": "",
