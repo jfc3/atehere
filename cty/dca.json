@@ -731,6 +731,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Slim’s Diner",
+				"add1": "4201 Georgia Ave NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20011",
+				"phn": "(202) 783-0699",
+				"url": "http://www.slimsdiner.com/",
+				"note": "Slim's Diner is a family restaurant and diner located in the historic Murrell building in Washington DC's close-knit Petworth neighborhood. Slim’s Diner has cherry red booths, counter stools in sunlit, brick, and tiled space backdrop which serves classic diner fare.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Stachowski's Market",
 				"add1": "1425 28th St NW,",
 				"add2": "",
