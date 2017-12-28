@@ -339,6 +339,20 @@
 				"cptn": "Ox tail and ox blood soup along with spicy pork and a bunch of other veggie condiments and steamed eggs at New Wonjo in New York City"
             },
             {
+                "name": "Pastrami Queen",
+				"add1": "1125 Lexington Ave",
+				"add2": "# 2",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10075",
+				"phn": "(212) 734-1500",
+				"url": "http://pastramiqueen.com/",
+				"note": "Pastrami Queen is a Kosher deli preparing overstuffed sandwiches of pastrami, smoked turkey, and along with soups and sides.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Punjabi Grocery and Deli",
 				"add1": "114 E 1st St",
 				"add2": "",
