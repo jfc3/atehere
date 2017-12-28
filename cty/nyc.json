@@ -311,6 +311,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Motorino",
+				"add1": "349 E 12th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "(212) 777-2644",
+				"url": "https://www.motorinopizza.com/",
+				"note": "Motorino serves brick-oven pizzas with gourmet toppings like Brussels sprouts draw crowds in the East Village.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "New Wonjo",
 				"add1": "23 West 32nd Street",
 				"add2": "",
