@@ -465,6 +465,20 @@
 				"cptn": "lll"
             },
             {
+                "name": "Union Square Cafe",
+				"add1": "101 E 19th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "(212) 243-4020",
+				"url": "https://www.unionsquarecafe.com/",
+				"note": "Union Square Cafe is Danny Meyer's first restaurant that serves seasonal New American fare in a casually refined setting.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll"
+            },
+            {
                 "name": "Village Yokocho",
 				"add1": "8 Stuyvesant Street",
 				"add2": "Second floor",
