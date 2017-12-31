@@ -14,7 +14,11 @@
 				"note": "Amy's Ice Cream is a local chain is serving inventive ice creams, milkshakes, ices and frozen yogurts with clever fixings. They have all kinds of exotic flavors that seem to change all the time. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Café No Sé",
@@ -28,7 +32,11 @@
 				"note": "Café No Sé is a bright spot in the South Congress Hotel for seasonal menus in a chic, rustic-modern space. Café No Sé is an all-day café featuring seasonal breakfast, lunch, and dinner fare, as well as weekend brunch. If you're into burgers, I hear the classic beef cheeseburger, and the shrimp burger is the best.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Franklins BBQ",
@@ -42,7 +50,11 @@
 				"note": "Franklins BBQ has long lines form early for brisket, pulled pork and other smoked meats at this lunch-only spot. I consider this the best BBQ in the country. You truly need to get the smoked brisket, smoked turkey, and the hot link sausage along with a few sides.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/9/8248/8536733855_f49d8ebd46_n.jpg",
-				"cptn": "An order of beans, brisket, smoked turkey, sausage, and side cole slaw at Franklins BBQ in Austin, TX"
+				"cptn": "An order of beans, brisket, smoked turkey, sausage, and side cole slaw at Franklins BBQ in Austin, TX",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "G'Raj Mahal Cafe and Lounge",
@@ -56,7 +68,11 @@
 				"note": "G'Raj Mahal Cafe and Lounge is a brick-and-mortar outpost of a former food truck serves Indian fare and has a tented space outdoors. Went with friends and ordered a bunch of dishes to share and pass. The place has a great relaxing atmosphere under canopies and trees lit by Christmas lights.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Gourdoughs Doughnuts",
@@ -70,7 +86,11 @@
 				"note": "Gourdoughs Doughnuts has ironic names and unique toppings on fried-dough treats served until late-night from a vintage trailer. They have some of the coolest donuts I have ever had. I've seen a few donuts in my day. I ordered a Heavenly Hash doughnut with marshmallow fluff, chocolate chips, hot fudge icing topped with a fudge brownie. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Gourdough's Public House",
@@ -84,7 +104,11 @@
 				"note": "Gourdough's Public House started from 'humble beginnings as a food trailer' to its current brick-and-mortar iteration on South Lamar, this 'guilty pleasure' is known for eclectic, elaborate, gourmet donuts (both 'sweet and savory'). They come à la carte or with meals like burgers, chicken-fried steak, and even salads; cold 'beers on draft' and 'killer cocktails' round out the menu and boost the 'chill' atmosphere.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Güero's Taco Bar",
@@ -98,7 +122,11 @@
 				"note": "Güero's Taco Bar is aån extensive menu, salsa bar and hand-shaken margaritas in a landmark building with a patio. They make some of the best breakfast tacos I have had in the state of Texas.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ironworks BBQ",
@@ -112,7 +140,11 @@
 				"note": "Ironworks BBQ serves Barbecued meats, including signature beef ribs, and specialty sauces in a historic former iron shop. Another wonderful Texas BBQ place in downtown Austin and this one's hidden behind the convention center.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Moonshine Patio Bar and Grill",
@@ -126,7 +158,11 @@
 				"note": "Moonshine Patio Bar and Grill is a contemporary comfort food and cocktails in a historic home with a patio. I have never been wrong ordering their pork chop dinner and a side of cornbread.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Noble Sandwich Co.",
@@ -140,7 +176,11 @@
 				"note": "Noble Sandwich Co. is a farm-to-table slant applies to big breakfast and lunch in casual, counter-service digs with a patio. You need to order a Smoked Duck Pastrami and a Noble Pig or any of their other gourmet sandwiches, but those two are my favorite.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Salt Lick BBQ",
@@ -154,7 +194,11 @@
 				"note": "Salt Lick BBQ is a BYOB at this venerable cash-only, BBQ spot with a rustic setting and live music outdoors. You need to drive out the original one in Driftwood in the dry county so don't forget to bring your own beer, etc. You need to get the all-you-can-eat BBQ platter which is brisket, smoked sausages, pork ribs, potato salad, cole slaw, and beans along with bread, pickles, and onions. <strong>NOTE</strong>: They have multiple locations even one at the airport.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Smitty's Market",
@@ -168,7 +212,11 @@
 				"note": "Smitty's Market is an acclaimed BBQ spot is offering meats fresh from the smoker in a no-frills space with communal tables. You will need to order yourself some smoked brisket and Jalapeno sausages along with a few sides so you some veggies now and again.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "South Congress Cafe",
@@ -182,7 +230,11 @@
 				"note": "South Congress Cafe is known for its Bloody Mary, carrot-cake French toast and daily brunch and dinner in a retro-modern room. They have hardy breakfast items and a great brunch from what others have told me.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Stubbs BBQ",
@@ -196,7 +248,11 @@
 				"note": "Stubbs BBQ has beer, brisket and music downtown with a renowned Sunday gospel brunch. Again another can't miss BQQ place that has excellent brisket and sausage in downtown Austin.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Torchy's Tacos",
@@ -210,7 +266,11 @@
 				"note": "Torchy's Tacos is a local chain is serving Mexican-street-food-style tacos in inventive varieties, including for breakfast. They make some of the best breakfast tacos I have had anywhere in the country. Plus, it's great sitting at picnic tables with others in a gravel parking lot eating with people you don't know at all times of the day. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
