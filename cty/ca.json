@@ -14,7 +14,11 @@
 				"note": "Sherman's Deli and Bakery is a New York City style deli is serving kosher fare from morning to night, with specialty cakes and other baked goods. Their famous sandwich board offers more than 40 favorites including 'Hot Corned Beef' piled high on rye bread served with potato salad or cole slaw. Another option is to order the turkey pastrami sandwich on rye. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
