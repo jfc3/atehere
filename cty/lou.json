@@ -14,7 +14,11 @@
 				"note": "Gralehaus is an eclectic nook in a Victorian house with seasonal breakfast and lunch bites, along with craft beers and coffee. You need to order the fried bologna sandwich with a fried egg on top or lamb and grits.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Grind Burger Kitchen",
@@ -28,7 +32,11 @@
 				"note": "Grind Burger Kitchen serves burgers piled high with toppings served in a chill, modern space with craft beer on tap. The items to order are the Cubano with fries or the veggie burger.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Momma's Mustard, Pickles, and BBQ",
@@ -42,7 +50,11 @@
 				"note": "Momma's Mustard, Pickles, and BBQ serves Kansas City-style BBQ ribs and other meats, plus many sides, are served in comfy, old-school quarters. The item to order is the beef ribs. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Table",
@@ -56,7 +68,11 @@
 				"note": "The Table's mission is to provide a restaurant that serves locally grown food with amazing taste, at an affordable price, where all can enjoy the flavor of community where you pay what you can. Get smoked chicken with bacon jam sandwich or the pulled pork chow chow sandwich.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
