@@ -14,7 +14,11 @@
 				"note": "The Dog House is a no-frills, cash-only eatery with counter seating, offering hot dogs, burgers, pizza, and cheesesteaks. Their foot long hot dogs or two in a soft roll with some tooth and an order of French fries will fill you right up.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Go Fish!",
@@ -28,7 +32,11 @@
 				"note": "Go Fish! is a casual 40-seat restaurant with British theme featuring fish 'n' chips, toffee pudding, and other eats. The dish to order is the fish and chips (French fries) with a side order of curry sauce.",
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/6/5496/9397745894_3f331dae70_n.jpg",
-				"cptn": "Fish and chips (french fries for the Americans) with a side of curry sauce. Well worth the long drive home from Go Fish in Rehobooth Beach, DE"
+				"cptn": "Fish and chips (french fries for the Americans) with a side of curry sauce. Well worth the long drive home from Go Fish in Rehobooth Beach, DE",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hopkins Farm Creamery",
@@ -42,7 +50,11 @@
 				"note": "Hopkins Farm Creamery's ice cream is made with local ingredients and sold from walk-up windows on a working dairy farm. You should get their salted caramel crunch which has nuts and large chocolate chip chunks.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
