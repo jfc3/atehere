@@ -14,7 +14,11 @@
 				"note": "Big Al's Diner is a compact diner is dishing up generous portions of breakfast all day and hearty American fare at lunch. When I was at Big Al's Diner, I ordered the cheese omelette with rye toast and corned beef hash. It was a huge plate of food.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/9/8575/16121431258_9c111d4afc_n.jpg",
-				"cptn": "Cheese omelette, rye toast, and corned beef hash at Big Al's Diner in Cleveland, Ohio"
+				"cptn": "Cheese omelette, rye toast, and corned beef hash at Big Al's Diner in Cleveland, Ohio",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Crop Bistro & Bar",
@@ -28,7 +32,11 @@
 				"note": "Crop Bistro and Bar is a bank turned sleek, upscale New American eatery with a chef's table and a focus on local ingredients.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Frank's Bratwurst",
@@ -42,7 +50,11 @@
 				"note": "Frank's Bratwurst has been serving bratwurst that is like no other, derived from a secret recipe that has gone through rigorous research and development. Franks' Bratwurst makes some of the best bratwurst sandwiches and other sausages too. You need to order a few different kinds with friends so you can try them all.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Great Lakes Brewing Company",
@@ -56,7 +68,11 @@
 				"note": "Great Lakes Brewing Company is an iconic microbrewery with house suds, an updated American menu, free tours and a patio.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
 	            "name": "The Greenhouse Tavern",
@@ -70,7 +86,11 @@
 				"note": "The Greenhouse Tavern is a hip haunt with locally driven New American fare, a rooftop patio, and creative cocktails.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
 	        },
             {
                 "name": "Happy Dog East",
@@ -84,7 +104,11 @@
 				"note": "Happy Dog East serves quarter-pound hot dogs with creative toppings plus live music and 75+ tap beers in a convivial space. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hot Sauce Williams",
@@ -98,7 +122,11 @@
 				"note": "Hot Sauce Williams is a family-friendly barbecue joint is known for its Polish Boy sandwich, fried chicken and mac 'n' cheese.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Lola Bistro",
@@ -112,7 +140,11 @@
 				"note": "Michael Symon's Lola Bistro serves New American eatery serves rustic fare in a sleek, bustling setting.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sokolowski's University Inn",
@@ -126,7 +158,11 @@
 				"note": "Sokolowski's University Inn is a family-owned landmark serves cafeteria-style Polish classics in homey surroundings.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Steve's Gyro's",
@@ -140,7 +176,11 @@
 				"note": "If you’re craving a gyro, Steve's Gyro's asks that you arrive early. Steve's Gyro's do sell out early every day, and because of that, they do close earlier than scheduled Market hours. I liked it so much I went back the next day to get one to have for lunch for the road trip home to DC.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Slyman's Restaurant",
@@ -154,7 +194,11 @@
 				"note": "Slyman's Restaurant is a retro breakfast and lunch deli known for corned beef sandwiches served in simple diner digs.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "West Side Market",
@@ -168,7 +212,11 @@
 				"note": "West Side Market is a grand, bustling public market from 1912 featuring vendors for meat, produce, bread and hot food.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "West Side Market Cafe",
@@ -182,7 +230,11 @@
 				"note": "The West Side Market Cafe is a casual eatery in the historic market, dishing up down-home American eats for breakfast and lunch. I ended up ordering an omelette with home fries, rye toast, and a side sausage.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
