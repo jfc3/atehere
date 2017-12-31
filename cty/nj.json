@@ -14,7 +14,11 @@
 				"note": "Jammin’ Crepes has a counter-serve operation known for sweet, savory, and breakfast crêpes made with local ingredients. Need to order the Thanksgiving crepe and the 20 layer lemon crepe dessert.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hamburgao",
@@ -28,7 +32,11 @@
 				"note": "Hamburgao is a corner cafe for Brazilian-style burgers and casual comfort food in a no-frills space and the go to spot for Brazilian-style burgers in the Newark, NJ. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Rossi's Bar And Grill",
@@ -42,7 +50,11 @@
 				"note": "Rossi's Bar And Grill serves hefty hamburgers, Italian pasta's, and cocktails in a classic tavern with nostalgic decor.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "White Manna",
@@ -56,7 +68,11 @@
 				"note": "White Manna is a prominent, pint-sized burger joint draws crowds with its sliders, fries, and shakes. The White Mana is a historical landmark, as well as the first Manna to open and was the 1939 World's Fair building. When originally introduced, it was called the 'diner of the future' and an 'Introduction to Fast Food.''",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
