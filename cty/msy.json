@@ -14,7 +14,11 @@
 				"note": "Arnaud's is a tin-ceilinged 'grande dame' of Creole dining since 1918, featuring seafood classics and a jazz brunch. For dinner, I ordered the 'Alligator Sausage' appetizer, and for my main meal, I ordered the 'Crawfish O’Connor' which is baked in a Brandy-infused classic Creole tomato based sauce and served with Jasmine rice.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bon Ton Café",
@@ -28,7 +32,11 @@
 				"note": "Bon Ton Café is a nostalgic, brick-walled spot is serving classic Cajun dishes since 1953, except on weekends. For an appetizer, I had the turtle soup and was great, but saltier than I thought it would be because the salt cuts down on the gaminess is what I read later. For my dinner, I had the 'Red Fish Bon Ton' which is red fish with crab on top.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bourrée at Boucherie",
@@ -42,7 +50,11 @@
 				"note": "Bourrée at Boucherie was a onetime food truck dispenses frozen daiquiris, spiced wings and Cajun specialties from a meat counter. You need to order the meat pie and spicy shrimp boudin with beef fat fries.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Cafe Du Monde",
@@ -56,7 +68,11 @@
 				"note": "Cafe Du Monde is an iconic New Orleans cafe known for café au laits, chicory coffee and beignets since 1862. Like everyone else, I order a larger order of beignets with a hot chocolate because it was a cold day. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Kermit's Treme Mother in Law Lounge",
@@ -70,7 +86,11 @@
 				"note": "Kermit's Treme Mother in Law Lounge has a catchy, warm environment. When you walk in you will always be greeted with a hot meal and a cold drink. Kermit's Treme Mother in Law Lounge has been host to many musicians from all over the world. We will continue to do so as the word spreads of the remarkable environment of Kermit's Treme Mother in Law Lounge. Come in and enjoy our cozy backyard with some of the best tasting BBQ or deep fried catfish in the city of Kenner, LA.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Parkway Bakery and Tavern",
@@ -84,7 +104,11 @@
 				"note": "Longtime (since 1911) neighborhood hangout with a patio known for classic-style po' boys. You have to get yourself one of their 'Shrimp Po Boy' with lettuce, tomato, and special sauce.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/3/2836/10041557536_3ce4d19f96_n.jpg",
-				"cptn": "Shrimp Po Boy with lettece, tomatoe, and special sauce from Parkway Bakery and Tavern in New Orleans, LA"
+				"cptn": "Shrimp Po Boy with lettece, tomatoe, and special sauce from Parkway Bakery and Tavern in New Orleans, LA",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Port of Call",
@@ -98,7 +122,11 @@
 				"note": "Port of Call has hefty burgers, loaded baked potatoes, cocktails and a jukebox draw lines at this 50-year-old dive. The thing my friend that suggested Port of Call told me to order one of their burgers which are what they are known for.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Walker's BBQ",
@@ -112,7 +140,11 @@
 				"note": "Walker's BBQ is a cash-only counter-serve smokehouse serves famed po' boys plus BBQ standards till they run out. Walker's Southern Style BBQ is serving all your bbq favorites, ribs, chicken, brisket, and pork, along with delicious sides, like smothered mustard greens and potato salad, made in-house daily.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
