@@ -14,7 +14,11 @@
 				"note": "China Poblano is Chef José Andrés' inventive mix of Chinese and Mexican cuisines. We ordered a bunch of different things from Shrimp Mojo to lamb potstickers, along with 'When Pigs Fly' (Chinese barbecue pork steamed buns) and a few other things.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "John Mull's Road Kill Grill - BBQ",
@@ -28,7 +32,11 @@
 				"note": "John Mull's Road Kill Grill us an unfussy BBQ joint with covered outdoor seating offering Southern-style smoked meats and country sides. You wouldn't expect to find an awesome BBQ joint in the middle of a neighborhood. You can wait over an hour on a good day to get your food. I ordered the hot link and brisket with two sides. <strong>NOTE</strong>: Don't forget they close at 6 PM.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Lotus of Siam",
@@ -42,7 +50,11 @@
 				"note": "Lotus of Siam is a revered, owner-operated Thai eatery in Commercial Center offering family recipes and a vast wine list. <strong>NOTE</strong>: Order from Northern Thai section of the menu it's what they are known for, and it's their specialty.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Tacos El Gordo",
@@ -56,7 +68,11 @@
 				"note": "Tacos El Gordo has a passion for delivering great-tasting Mexican Tacos. We have been in the food service industry for over 40 years, opening our first restaurant in 1972. You need to try all the odd cuts of meat such as tripe, Lengua (tongue), and seso (brains). The tacos are small, so you can order a half dozen and still be hungry. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
