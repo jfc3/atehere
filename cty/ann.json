@@ -14,7 +14,11 @@
 				"note": "Chick and Ruth's is a lively landmark diner is featuring greasy-spoon breakfasts and piled-high sandwiches in kitschy environs. You need to try their breakfast items or one of their other meals named after famous people.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Davis's Pub",
@@ -28,7 +32,11 @@
 				"note": "Davis's Pub is a long-running (since the 1920s) neighborhood joint known for its crab cakes and creative pub fare.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
 			},
             {
                 "name": "Double T Diner",
@@ -42,7 +50,11 @@
 				"note": "Double T Diner is a Local diner chain with a retro vibe and a menu of comfort-food classics (some are open 24 hours). You need to try some of their great desserts along with the substantial breakfasts. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Storm Brothers Ice Cream Factory",
@@ -56,7 +68,11 @@
 				"note": "Storm Brothers Ice Cream Factory is a neighborhood ice cream parlor is serving cones, shakes, flurries, sundaes and more since 1976. I once drove 50 miles each way with friends to have ice cream here that tells you how good the ice cream is.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
