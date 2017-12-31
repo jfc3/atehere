@@ -14,7 +14,11 @@
 				"note": "Union Woodshop serves slow-smoked BBQ, wood-fired pizza, and craft beers draw crowds to this hip rustic space. You need to order the Porker, which has a house-ground pork patty, house-made Michigan maple bacon and house-made hotlinks or any of their other BBQ: brisket, chicken, and pork.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
