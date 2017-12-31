@@ -14,7 +14,11 @@
 				"note": "Cafe Bourbon Street is an alternative, and independent music acts perform at this intimate, laid-back bar with an edgy vibe. At this punk bar, you need to order the perogies.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Fox in the Snow Cafe",
@@ -28,7 +32,11 @@
 				"note": "Fox in the Snow Cafe is an airy coffee shop featuring java drinks, baked goods, tarts & biscuits in a modernized garage space.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Graeter's Ice Cream",
@@ -42,7 +50,11 @@
 				"note": "Graeter's Ice Cream is a longtime ice cream parlor chain serving small-batch scoops plus baked goods at some locations. They have some of the best ice cream in the country no matter which flavor you try. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ray Ray's Hog Pit",
@@ -56,7 +68,11 @@
 				"note": "Ray Ray's Hog Pit meats are hardwood-smoked and served from the window of this year-round food truck open late-week. You need to order the pork burger.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Schmidt's Sausage Shop",
@@ -70,7 +86,11 @@
 				"note": "Schmidt's Sausage Shop has an all-you-can-eat sausage buffet which typically has four different types of sausage and a few sides of veggies. Most importantly don't forget to order the enormous chocolate filled cream puffs for dessert.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sweet Carrot",
@@ -84,7 +104,11 @@
 				"note": "Sweet Carrot is a counter-serve spot with a rabbit motif serving BBQ and other American comfort foods, along with beer and wine. You should order the Ohio Chicken Meatball Sandwich or the Corn Cake with Brisket.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Thurman Cafe",
@@ -98,7 +122,11 @@
 				"note": "Thurman Cafe is a bustling, rustic American haunt with oversized, toppings-loaded burgers and a full bar. You need to order the 'The Thurman Burger' which contains the following: overloaded with ham, sautéed mushrooms and onions, mozzarella and American cheese, lettuce, tomato, pickle, banana peppers, and mayo with chips and a pickle spear. Plus, you need a side of their French fries. If you're super hungry get 'The Thurmanator' which is the same as the 'The Thurman Burger' but has not one but two three-quarters of a pound burger patties.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
