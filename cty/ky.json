@@ -14,7 +14,11 @@
 				"note": "Old Hickory B-B-Q restaurant is serving mutton, burgoo, fried chicken, and catfish in a cozy, country-style setting.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
