@@ -14,7 +14,11 @@
 				"note": "The Bellevue Diner is an authentic Greek and Mediterranean diner with an emphasis on locally-sourced ingredients from Nashville. They serve up home-cooked, affordable meals in an American diner setting. People have been known to fall in love with their gyros, burgers, Greek omelettes, pasta dishes, eggs Benedict, and wraps.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Grilled Cheeserie",
@@ -28,7 +32,11 @@
 				"note": "The Grilled Cheeserie is a popular food truck is serving up artisanal grilled cheese sandwiches and seasonal bites at the counter. You need to order the pimento cheese grilled mac and cheese.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Martin’s Bar-B-Que Joint",
@@ -42,7 +50,11 @@
 				"note": "Martin’s Bar-B-Que Joint has a pit for cooking whole pigs which dominates the homey dining room at this popular BBQ emporium. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Mas Tacos Por Favor",
@@ -56,7 +68,11 @@
 				"note": "Mas Tacos Por Favor is a snug, no-frills Mexican restaurant fixing up an array of tacos and other standards. You need to order the holiday tamales and quinoa veggie tacos or the Pozole Verde soup.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Prince's Hot Chicken Shack",
@@ -70,7 +86,11 @@
 				"note": "Prince's Hot Chicken Shack is known for Nashville's unique deep-fried poultry specialty, spiced from mild to ultra hot levels. I went with medium spicy because I figured I could go hotter next time instead of burning my mouth off.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
