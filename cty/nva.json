@@ -14,7 +14,11 @@
 				"note": "29 Diner is an old-school 1940s-era diner serving up comfort food faves like cheeseburgers and fountain sodas. Great breakfast place. The cheese omelette with home fries and toast with a side of scrapple works for me.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "A&J",
@@ -28,7 +32,11 @@
 				"note": "A&J is a cash-only northern-style dim sum parlor. Load up on dan-dan noodles and dumplings, such as wontons in chili oil; on weekends, crunchy sesame bread with scrambled egg should be the center of any order. You need to order the soup dumplings (XiaoLongBao).",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Banh Mi DC Sandwich",
@@ -42,7 +50,11 @@
 				"note": "Banh Mi DC Sandwich is a Vietnamese market has a variety of banh mi sandwiches and other snacks, plus a handful of tables. They have over 20 banh mi sandwiches I tend to order the roast pork one, but the sleeper food here is the egg rolls. One time while I was ordering banh mi sandwiches a guy came in with his parents, brother, and sister and ordered eight egg rolls while everyone else was ordering banh mi sandwiches. I asked him about them, and he said they were the best he's eaten and offered me one. I declined but ordered them the next time I was here. The eggrolls were the best eggrolls I had ever had. Sometimes you need to see what others are ordering to find the best things.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Big Bowl Chinese and Sushi",
@@ -56,7 +68,11 @@
 				"note": "If you want something different for breakfast and not necessarily mind-blowing at DCA (Reagon NAtional Airport) and are at Terminal B/C Gates 23 - 34 got to Big Bowl Chinese and Sushi. When there get the spicy sausage, egg, and cheese boa or the bacon, egg, and cheese boa. Big Bowl is an authentic Chinese and Thai restaurant committed to using quality ingredients, including prime beef and fresh seafood, and creating sauces and curries from scratch. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Blue and White Carry Out",
@@ -70,7 +86,11 @@
 				"note": "The Blue and White Carry Out is only a shack where you can get an egg and cheese breakfast sandwich on toasted white bread for under $2 or a pork chop sandwich for about $3.50 and don't forget to ask about the daily beans special.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bob and Edith's",
@@ -84,7 +104,11 @@
 				"note": "Bob and Edith's is an old-school diner serving American comfort food 24/7 to everyone from hipsters to families. The size of the place is tiny and gets busy on the weekends and late night the closer to the closing of the bars you get. My go to order is a cheese omelette with home fries, rye toast and a side order of sausage. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Boccato Gelato and Espresso",
@@ -98,7 +122,11 @@
 				"note": "Boccato Gelato and Espresso occasional plays live music at this coffee shop on Saturday nights around 8:00 PM. As the name implies Boccato Gelato and Espresso has an espresso bar, gelato, great tea selection, and other desserts. Boccato is a great place to go and get work done on your computer or read a book while ordering things like cherry and fig tea or their very dark chocolate gelato.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bombay Curry",
@@ -112,7 +140,11 @@
 				"note": "Bombay Curry is a casual Indian eatery with traditional dishes such as curries and kebabs, plus a Sunday lunch buffet. My go to order here is their vegetable biryani and samosas.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Caphe Banh Mi",
@@ -126,7 +158,11 @@
 				"note": "Caphe Banh Mi is a casual Vietnamese eatery cooking up classics like Pho noodle soups and banh mi sandwiches. My favorite dish to order is their pork, with noodles, mint, and veggies in a bowl with a light fish sauce along and a veggie egg roll.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/1/609/21637990916_f96c34ba91_n.jpg",
-				"cptn": "Lemongrass chicken, with noodles, mint, and veggies in a bowl with a light fish sauce along and a veggie egg roll."
+				"cptn": "Lemongrass chicken, with noodles, mint, and veggies in a bowl with a light fish sauce along and a veggie egg roll.",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Carousel Frozen Treats",
@@ -158,7 +194,11 @@
 				"note": "Cerritos Pupuseria is a place where you need to order the chicken tamales and any of the pupusas. It's a little hole-in-the-wall place along Route 50 on your wait out of DC in the middle of nowhere is a great place for authentic, simple food. They serve fantastic chicken tamales along with pulled pork and cheese or bean and cheese pupusas which makes for great snacks even later because you ordered too much food.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Dairy Godmother",
@@ -172,7 +212,11 @@
 				"note": "Dairy Godmother is a retro-style parlor dishing up unusual flavors of homemade frozen custard and sorbet in the suburbs of Washington, DC. The salted caramel custard is my favorite flavor. If you get a chance try the home-made marshmallows.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "District Taco",
@@ -186,7 +230,11 @@
 				"note": "In 2009, two neighbors got together over some homemade chips, salsa and guacamole and decided to launch District Taco as a food truck. Their breakfast tacos with egg, cheese, and potatoes with chorizo are a perfect dinner. If you're there when they're serving, their fish tacos you need to order a hand full of them with extra chipotle mayo cole slaw. <strong>NOTE</strong>: Now they have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Earl's Sandwiches",
@@ -200,7 +248,11 @@
 				"note": "Earl's Sandwiches is a creative sandwich shop featuring meats slow-roasted in-house, with some veggie offerings too. Any of their hand-carved turkey sandwiches are great along with their pork ones too. <strong>NOTE</strong>: They have another location.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Four Sisters Restaurant",
@@ -214,7 +266,11 @@
 				"note": "Four Sisters Restaurant looks forward to sharing with you their delightful, savory and distinctive home-style dishes reminiscent of our native country — all served with the charm and hospitality of the Four Sisters family. They have many great dishes, but it all depends on what you are in the mood to eat that will tip the scales.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "GreenFare Organic Cafe",
@@ -228,7 +284,11 @@
 				"note": "GreenFare offers delicious organic, whole plant food lovingly prepared oil free and with no added salt for those seeking a refuge from the ordinary. I had their black bean burger at the TEDxMidAtlantic after party, and you need to give it a try.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hanabi Ramen",
@@ -242,7 +302,11 @@
 				"note": "Hanabi Ramen serves Japanese noodle soups, and crisp-skinned dumplings served in a modern storefront setting. Had there traditional Tonkotsu Ramen along with an order of lightly fried tofu with soy and miso sauce and an order of crisp-skinned dumplings.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hank's Pasta Bar",
@@ -257,7 +321,11 @@
 				"note": "Hank's Pasta Bar serves pasta samplers, and trendy cocktails are the big draws at this rustic-chic Italian eatery with a classy lounge.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Haute Dogs and Fries",
@@ -271,7 +339,11 @@
 				"note": "Haute Dogs and Fries is a gourmet hot dogs with house-made onion relish and locally sourced sausages in a modern, brick space. My favorite dish so far is the lamb sausage with mint, chopped onion, and tomato along with their half-smoke split with homemade chili, yellow mustard, and chopped onions. Their fries could use some work and next time I'm there I'm going to ask for them well done to see if they improve.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Heebeen Restaurant",
@@ -285,7 +357,11 @@
 				"note": "Heebeen Restaurant is a Korean barbecue meets Japanese fare. They feature tabletop grilling along with other buffet items. I enjoyed a few pieces of sushi since I was there for their Korean barbecued meats and spicy sides. Managed to try the Bulgogi marinated beef and pork, along with the spicy chicken and spicy pork belly.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Jack's Place",
@@ -299,7 +375,11 @@
 				"note": "Jack's Place is a pint-sized nook that lures locals for straightforward hot and cold sandwiches plus breakfast bites. A quite small place with breakfast basics that are great. I need to eat here more often.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Java Shack",
@@ -313,7 +393,11 @@
 				"note": "The Java Shack is a neighborhood coffee shop featuring hot and cold brews made with locally roasted beans and a patio. They make an excellent hot chocolate and hot apple cider too. It's a tiny place, so if you want to get some work done, you might have to go off hours or get there early.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Junction Bakery & Bistro",
@@ -327,7 +411,11 @@
 				"note": "Junction Bakery and Bistro has a local draw for breakfast, sandwiches on house-made bread and baked goods, with creative dinner fare. I ordered their bacon, egg, and cheese sandwich on a homemade English muffin.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Kabob Bazaar",
@@ -341,7 +429,11 @@
 				"note": "Kabob Bazaar stews, exotic specials, and Persian tea are all hallmarks of this simple, yellow-walled eatery. If you find yourself there on a Tuesday and they still have the lamb shank as a special you should get that with the herbed rice.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Kabob Palace",
@@ -355,7 +447,11 @@
 				"note": "Kabob Palace is a counter-service spot that's open 24/7 and serves up Middle Eastern fare: like kebabs, curries, and daily specials. The lamb kabob and Kubideh with rice and curry chickpeas are excellent. The lamb or chicken curry isn't bad either. They have fantastic vegetables such as their curry chick peas, or their spinach and potatoes, or if you happen to be there when they have stewed okra, you need to order that over rice or as a side dish.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Kampo Restaurant",
@@ -369,7 +465,11 @@
 				"note": "Kampo Restaurant serves Asian and Peruvian fusion with Chinese decor; the music is Spanish, food is delicious and plentiful. You should get the combo Chifa (Chinese fried rice with Peruvian hints) and the Lomo Saltado. Authentic food and very generous portions for the affordable price.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Knotty Pine Restaurant",
@@ -383,7 +483,11 @@
 				"note": "Knotty Pine Restaurant is a longtime local haunt offering classic American grub, including breakfast, plus a back bar area. They make old school diner food at inexpensive prices. My favorite thing to order is the cheese omelette with home fries, rye toast, and a side of sausage.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Market Burger Fries and Shakes",
@@ -397,7 +501,11 @@
 				"note": "Market Burger Fries and Shakes is a compact counter-order restaurant serving local beef hamburgers and old-school milk shakes. You gotta try the mac and cheese balls if they have them on special and their shoestring fries aren't bad either. <strong>NOTE</strong> - Market Burger closes when they run out of buns or 9 PM which ever comes first.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Metro 29 Diner",
@@ -411,7 +519,11 @@
 				"note": "Metro 29 Diner is a spacious diner with varied American menu (known for its French toast), open from early till late. I'm normally here later in the night for desert. I typically get their chocolate mousse cake or the Chocolate Mousse Tart which is chocolate mousse covered in an extremely thick coating of chocolate in the shape of a Christmas tree with a little raspberry jam in the bottom of the pie crust.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/3/2870/9642348808_d0fea52291_n.jpg",
-				"cptn": "Chocolate layer cake with chocolate roses on top from Metro 29 Diner in Arlington, VA"
+				"cptn": "Chocolate layer cake with chocolate roses on top from Metro 29 Diner in Arlington, VA",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Momo Sushi",
@@ -425,7 +537,11 @@
 				"note": "Momo Sushi is a sushi bar and kitchen with fresh rolls, teriyaki, and noodles, plus lots of wine, sake and Japanese beers. They serve excellent straightforward, fresh, and inexpensive sushi. I like ordering their eel roll or the scallops too along with many other things.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Northside Social Coffee & Wine",
@@ -439,7 +555,11 @@
 				"note": "Northside Social Coffee and Wine is a hangout with comfy sofas, java, sandwiches and baked goods with an intimate, 2nd-floor wine bar. You need to order the sausage, poached egg, cheese, with greens on a home-made muffin along with the peach blossom tea for breakfast. It's a great place to get some work done or people watch as you read, it all depends on your mood.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Padaek (formerly Bangkok Golden)",
@@ -453,7 +573,11 @@
 				"note": "Padaek was formerly Bangkok Golden. No-frills spot for Thai and Laotian dishes that also offers lunch and dinner buffets. The dishes we order the most here are the veggie Crispy Rice Salad, the Duck Laab, and the Drunken Pork Noodles. They are known for their Laotian dishes so look at those if you want other things to eat. <strong>NOTE</strong>: The website might change at some point. ",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Peter Chang",
@@ -467,7 +591,11 @@
 				"note": "Cult chef Peter Chang serves his Sichuan playbook and unique dishes at this spiffed-up storefront. The Gold Mountain chicken is great as are the dumplings and the large soup dumpling. If they have the lamb shank special, you need to order that too. Few other things to consider are the Szechuan Chicken or the Mapo Tofu.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Pho 75",
@@ -481,7 +609,11 @@
 				"note": "Pho 75 serves traditional pho with a wide choice of add-ons served in a modest setting. My go to order is a small bowl of raw round eye with fatty brisket and extra noodles and extra fatty brisket. <strong>NOTE</strong>:  It's cash only and they have another loaction.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Pho  Viet Flare",
@@ -495,7 +627,11 @@
 				"note": "Pho Viet Flare is an unassuming strip-mall restaurant ladling out bowls of pho and other Vietnamese staples. They have great broth, and their Pho is one of my favorites in the DC area.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Punjabi by Nature",
@@ -509,7 +645,11 @@
 				"note": "True to its name, Punjabi By Nature has created a wonderful and authentic aroma of high-quality Indian cuisine, bringing its best from the capital of India (Delhi) to the heart of Virginia in Lansdowne. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ravi Kabob House",
@@ -523,7 +663,11 @@
 				"note": "Ravi Kabob House is a no-frills restaurant offering kebabs and other Pakistani staples at super-cheap prices. Finally, got a chance to grab food to go from here over the weekend and enjoyed their curried beef with rice and curried chickpeas with a thick sauce. It was like they pureed some of the chickpeas to have a consistency or a slightly thinned out refried beans. Don't knock it until you try it.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ray's the Steaks",
@@ -537,7 +681,11 @@
 				"note": "Ray's the Steaks serves steaks with family-style sides of mashed potatoes and creamed spinach in a minimalist space. When ever anyone comes to town and wants steak I take them here and order a medium cooked steak with a side of bone marrow.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Souvlaki Bar",
@@ -551,7 +699,11 @@
 				"note": "Souvlaki Bar brings authentic traditional recipes for you to enjoy the delicious Greek flavors of fresh-tasting combinations of lemon juice, garlic, oregano, sea salt, and olive oil. You need to try the chicken Souvlaki and the pork Yeero along with a side of Greek roasted potatoes.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Stomping Ground",
@@ -565,7 +717,11 @@
 				"note": "Stomping Ground is a down-home destination for coffee, biscuit sandwiches, seasonal salads, and pastries, along with wine and beer. You need to order the Farmer's Market Frittata biscuit along with the cheesy Anson Mills Gouda grits.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Stoneybrook Farm Market",
@@ -579,7 +735,11 @@
 				"note": "Stoneybrook Farm Market is a small local store that sells organic items from soaps, baked goods, hot drinks, preserved foods, and meals. From what I can see it's all or mostly organic. They bake their own bread, cookies, etc. You need to order one of their hot sandwiches are great I had the turkey with mustard and horseradish sauce on a great roll with sprouts. If it's a nice day, it's lovely to sit out on their patio to eat and relax in the shade of their trees.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sugar Shack Donuts",
@@ -593,7 +753,11 @@
 				"note": "Sugar Shack Donuts in Alexandria, VA, is an offshoot of the Richmond original specializes in handmade donuts with unique glazes and toppings. Their cake donuts are what keeps bringing me back. If you are lucky enough to get one of their apple fritters you need to order one. The apple fritters are in my top five favorite fritter places in the country. <strong>NOTE</strong>: They have multiple locations around the Northern Virginia and Washington, DC area.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sweet Fire Donna's",
@@ -607,7 +771,11 @@
 				"note": "Sweet Fire Donna's is a relaxed joint that offers traditional smoked barbecue with familiar sides, plus a full bar. I have read the sandwich to get is the 'Bubba Mike' an oversized sandwich with 1/2 lb. of pulled pork and a Texas sausage link, topped with cheese sauce, creamy coleslaw, and original BBQ sauce.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Swing's Coffee",
@@ -621,7 +789,11 @@
 				"note": "Swing's Coffee is an airy, industrial coffee bar and roastery featuring huge windows along with reclaimed furniture. The make a great cup of hot chocolate and some unusual tea choices. <strong>NOTE</strong>: During youth baseball and soccer seasons they can be busier than usual until noon or a bit later. Plus, they have two Washington, DC locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Taco Bamba",
@@ -635,7 +807,11 @@
 				"note": "Taco Bamba is a colorful, counter-serve storefront dishing up Mexican eats for takeout or quick stand-up dining. You need to order the Lengua (tongue), tripe, and if they have it the goat tacos. On the weekends the line can be long. I've found going at  2:30 PM or 3:00 PM or later makes the wait not so long if you can hold out that long to eat lunch that late.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Taco El Chilango",
@@ -649,7 +825,11 @@
 				"note": "Tacos El Chilango parks at the corner of 14th Street N. and N. Quinn Street nearly every day. From the truck, people can see drivers whiz by on Route 50. Before customers get a $2.50 taco (or five), they might stand in a line that goes down the block. The menu is limited to only six kinds of meat tacos and a small selection of drinks, but no one is complaining. You should order the Mixto taco which has both beef and pork sausage in the taco along with some Lengua (tongue) tacos.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Taqueria el Poblano",
@@ -663,7 +843,11 @@
 				"note": "Taqueria el Poblano is a family-friendly dining featuring south-of-the-border favorites and made-from-scratch margaritas. Thier breakfast burrito is huge.  I ask for a plate so I can eat it with a knife and fork. Plus, I get their home-made salsa to which I add a little Cholula for a bit of heat and added flavor. <strong>NOTE</strong>: They have multiple locations in Northern Virginia.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Taqueria Mexicana",
@@ -677,7 +861,11 @@
 				"note": "At Taqueria Mexicana you can get authentic Mexican tacos with contents like Lengua (tongue), tripe, pork, beef, chicken, tortas, and many other things. If you're not in the mood for tacos you need to order a torta with either Lengua (beef tongue), shredded chicken, or even their veggie one is a meal for two people or dinner that night or lunch the next it's that big.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Vaso's Kitchen",
@@ -691,7 +879,11 @@
 				"note": "Vaso's Kitchen is a homey neighborhood staple with a cozy dining room and patio seating serving Greek comfort food. You need to order Artichoke Florentina for an appetizer and the Lamb Shank for dinner. <strong>NOTE</strong>: Vaso's has a neon sign that reads 'The Dixie Pig Bar-B-Q' with a pig and is considered a National Landmark so can't have the sign removed.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Virtue Feed and Grain",
@@ -705,7 +897,11 @@
 				"note": "Virtue Feed and Grain is in a revamped 18th-century granary; this hip tavern offers elevated pub grub and a lively bar scene. The last time I was there, they had a bunch of parts/offal appetizers or main dishes.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Weenie Beenie",
@@ -719,7 +915,11 @@
 				"note": "Weenie Beenie is a long-running snack shop with a walk-up window is known for BBQ sausage sandwiches and hot dogs. I ordered a medium lemonade, wedge French fries, a hot dog and half smoke (half beef and half pork sausage) both with mustard, onions, and chili all for under $12.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Yona by Mike Isabella",
@@ -733,7 +933,11 @@
 				"note": "Yona by Mike Isabella serves original ramen, Japanese and Korean small plates and creative cocktails. You need to order the Oxtail steamed buns which use deep fried oxtail patties in I think panko bread crumbs.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/1/576/22941235744_6d04eaee32_n.jpg",
-				"cptn": "Oxtail steamed buns which contains an oxtail deep fried patty with caramelized onions and an additional sauce."
+				"cptn": "Oxtail steamed buns which contains an oxtail deep fried patty with caramelized onions and an additional sauce.",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
