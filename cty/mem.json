@@ -14,7 +14,11 @@
 				"note": "Bryant's Breakfast is a bustling, counter-serve eatery dishing out classic Southern breakfast and lunch fare. Unless you get to Bryant's Breakfast when they open, plan on having to wait in line for an hour or more. I ordered two breakfast sandwiches, and my favorite was the Bologna with egg and cheese on a biscuit.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Charlie Vergos' Rendezvous",
@@ -28,7 +32,11 @@
 				"note": "Charlie Vergos' Rendezvous is a BBQ spot with upstairs beer hall serving up racks of smoked ribs and sausages dusted with dry rub. Need to order the lamb riblets, which is their sleeper dish. I still think about the lamb riblets when I talk about BBQ to people or Memphis.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Dyer's Burgers",
@@ -42,7 +50,11 @@
 				"note": "Dyer's Burgers is a popular diner known for using the same grease to deep-fry their burgers and fries for over a century.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Payne's Bar-B-Que",
@@ -56,7 +68,11 @@
 				"note": "Payne's Bar-B-Que is a simple cinder block building serving acclaimed chopped and pulled pork sandwiches along with smoked sausage too.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
