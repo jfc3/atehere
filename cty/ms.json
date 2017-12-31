@@ -14,7 +14,11 @@
 				"note": "The Big Apple Inn is an institution of old-school Southern sandwiches from Jackson, MS, which have 'smokes' (sausage), 'ears' (pig ears), and tamales along with a whole lot of history and hospitality. The sausage sandwich and the pig sandwich were great and one of the best things I ate on my 13-day tour of the south. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Doe's Eat Place",
@@ -28,7 +32,11 @@
 				"note": "Doe's Eat Place makes all beef tamales from Doe's original recipe. Made the same way since 1941, they are an authentic taste of the Mississippi Delta.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Latham's Hamburger Inn",
@@ -42,7 +50,11 @@
 				"note": "Latham's Hamburger Inn is a great, tiny burger shop. The type of burgers they serve is called 'slugburgers'. Don't let the name scare you; there are no slugs. According to Wikipedia, a slugburger is unique to the NE Mississippi area, consisting of a patty made from a mixture of beef or pork and an inexpensive extender such as soybeans, it is deep fried in oil.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Phillips Grocery",
@@ -56,7 +68,11 @@
 				"note": "Phillips Grocery is an out-of-the-way place is worth a stop. It's several blocks east of the downtown square of Holly Springs. If you get lost, that's okay; there are all kinds of interesting architecture to see in the neighborhoods of Holly Springs. Phillips Grocery is staffed with the friendliest staff but the burgers are excellent, and the historical atmosphere is worth a stop. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
