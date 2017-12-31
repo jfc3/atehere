@@ -14,7 +14,11 @@
 				"note": "Ad Hoc is an informal, comfortable eatery serving American fare with a set menu, created by chef Thomas Keller. I went for Sunday brunch, and it was wonderful. We had the best pancakes I have ever eaten there.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bouchon Bakery",
@@ -28,7 +32,11 @@
 				"note": "Bouchon Bakery is a French-style bakery where Chef Thomas Keller is offering pastries plus sandwiches, coffee, and a courtyard. Their pastries are some of the best I have ever had.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Chavez Taqueria",
@@ -42,7 +50,11 @@
 				"note": "The Chavez Taqueria is an outpost of a chain of full-service Mexican grocery stores known for baked goods, meat and takeout. You need to go to one of their stores to order tacos from the Chavez Taqueria. When you walk into this small grocery store, you can smell the tacos/Mexican foods as soon as you walk in the door. I remember ordering the Al Pastor and Lengua and a few other Super Tacos. <strong>NOTE</strong>: They have multiple locations and not sure if all have tacos.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Commonwealth",
@@ -56,7 +68,11 @@
 				"note": "Commonwealth is an urban haunt with seasonal grub, many West Coast beers, and global wines, along with a weekend brunch and a patio. You should order the taco trio of grilled Buffalo chicken, pulled pork, and the Banh Mi or the waffle sandwich with egg, ham, and cheese with a side of potatoes.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The French Laundry",
@@ -70,7 +86,11 @@
 				"note": "The French Laundry is Chef Thomas Keller's refined fixed-price meals continually draw food lovers to this stone farmhouse. Have wanted to go here for years and hope to in the future.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Gott’s Roadside",
@@ -84,7 +104,11 @@
 				"note": "Gott’s Roadside is a member of an area fast-food chain with indoor-outdoor seating showcases gourmet burgers and tacos. You need to order the Ahi burger, a cheeseburger, or the fish and chips.  <strong>NOTE</strong>: They have multiple locations, and this one was formerly Taylor's Automatic Refresher.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Mi Pueblo Food Center",
@@ -98,7 +122,11 @@
 				"note": "The Mi Pueblo Food Center is a supermarket with Latin roots stocking meat, seafood, produce and more, plus a cremería and tortillería. We initially stopped for donuts, and I noticed smoke coming out of the smoker at the other end of the shopping plaza. We walked down, where they were cooking half chickens but noticed in the stop they sold tacos so had to get some of those to hold me over until brunch in Napa. <strong>NOTE</strong>: They have multiple locations and not sure if all have tacos.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
