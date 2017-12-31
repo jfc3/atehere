@@ -14,7 +14,11 @@
 				"note": "Brook's Sandwich House is a tiny roadside stop with a walk-up window serving burgers, chili, and simple sandwiches for 40+ years. You need to order the cheese burger all the way with chili.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Diamond Restaurant",
@@ -28,7 +32,11 @@
 				"note": "Diamond Restaurant is a hipster-friendly Greek diner serves a vast comfort-food menu with Greek, Italian and Southern accents. You need to order the big block burger with pimento cheese.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Duke's Grill",
@@ -42,7 +50,11 @@
 				"note": "Duke's Grill has been around since 1951 in the Five Points area of Monroe before moving to its current location. From what I have heard you need to get chili, slaw, and onions.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "South 21 Drive In",
@@ -56,7 +68,11 @@
 				"note": "South 21 Drive In is an old, drive-in stop for classic American comfort food with curb service since 1955. You need to order yourself a Super Boy.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
