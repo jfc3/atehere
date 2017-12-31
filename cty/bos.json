@@ -14,7 +14,11 @@
 				"note": "Belle Isle Seafood is a local seafood, including chowder and lobster rolls, in a spare, industrial space with inlet views. I ordered their fried Seafood Combo which had fried fish, shrimp, scallops, and I think clams along with French fries and cole slaw. No one can eat all the food you get by themselves. I'm glad I had help finishing it off.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Blunch",
@@ -28,7 +32,11 @@
 				"note": "The Blunch breakfast and lunch counter is turning out hearty pressed sandwiches and chocolate chip cookies until late.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Cutty’s",
@@ -42,7 +50,11 @@
 				"note": "Cutty’s uses locally sourced, and made-in-house ingredients define this busy breakfast-lunch soup and sandwich joint. You need to get one of the pork sandwiches. Cutty's makes home-made pickled fennel for the pork fennel sandwich.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Little Donkey",
@@ -56,7 +68,11 @@
 				"note": "Little Donkey is a chef-driven spot with cool vibe serving international small plates, along with craft beers and cocktails.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Maria's Pastry Shop",
@@ -70,7 +86,11 @@
 				"note": "Maria's Pastry Shop is an unassuming Italian baker is offering acclaimed sweets such as cannoli, torrone, and marzipan.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
 			},
             {
                 "name": "Mike's Pastry",
@@ -84,7 +104,11 @@
 				"note": "Mike's Pastry is a renowned Italian bake shop is providing cannoli in multiple flavors, gelati, and biscotti since 1946. Mike's has some of the best cannoli I have ever had. On top of that, they are huge. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/6/5482/13977198540_c59a78c96d_n.jpg",
-				"cptn": "Chocolate mouse with chocolate chip cannoli and a ricotta cannoli from Mike!s Pastry in Boston's North End."
+				"cptn": "Chocolate mouse with chocolate chip cannoli and a ricotta cannoli from Mike!s Pastry in Boston's North End.",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Salumeria Italiana",
@@ -98,7 +122,11 @@
 				"note": "Salumeria Italiana is a quaint fixture selling a range of Italian groceries, including meats, cheeses, pasta, and sauces. They supposedly have the best head cheese/Coppa di Testa in the country.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Red Lentil Vegetarian and Vegan Restaurant",
@@ -112,7 +140,11 @@
 				"note": "Red Lentil Vegetarian and Vegan Restaurant is a destination that serves vegetarian and vegan Indian food with seasonal ingredients with gluten-free options, along with wine, and beer.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Roxy's Grilled Cheese",
@@ -126,7 +158,11 @@
 				"note": "Roxy's Grilled Cheese is a cheery spin-off of a popular food truck with inventive grilled cheese sandwiches, poutine, and burgers. Don't forget to go through walk-in cooler door to the old school pinball arcade. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Veggie Galaxy",
@@ -140,7 +176,11 @@
 				"note": "Veggie Galaxy is an imaginative twist on an old-school diner specializing in from-scratch vegan and vegetarian options. I ordered the Pearl Street Redhead Omelette (Portobellos, Caramelized Onion, Feta, Roasted Red Pepper Sauce) and don't forget to ask for their home-made hot sauce it's got the perfect amount of heat and spice for flavor.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
