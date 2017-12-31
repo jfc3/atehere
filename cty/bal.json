@@ -14,7 +14,11 @@
 				"note": "Alewife is a stylish gastropub is featuring updated American fare and many craft beers in a re-imagined 1800s bank. You need to order the wild boar sliders or duck fat fries with pork belly on top.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Baltimore Farmers' Market and Bazaar",
@@ -28,7 +32,11 @@
 				"note": "While strolling through Maryland's largest producers-only market (producers-only meaning all vendors make what they sell). Shoppers can revel at the sight of a vast quantity of foods, including crisp seasonal fruits and vegetables, poultry, seafood, beef, pork, lamb, rabbit, fresh baked goods, flavorful herbs and organically raised and produced milk, yogurt, butter, eggs and cheese products. Additionally, dozens of food vendors add spice to the market with multi cultural cuisines such as traditional pit beef sandwiches, omelets and breakfast burritos, crepes, wood fired pizzas, pies and quiches, soups, noodles, and dumplings. If you like fresh horse radish, you need to find the guy selling turkey burgers near the information booth. His horseradish will clean out your sinuses. It's that strong. <strong>NOTE</strong> - Only open Sunday's from mid-April to Mid-December.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bar Clavel",
@@ -42,7 +50,11 @@
 				"note": "Bar Clavel serves Mexican-inspired cocktails, and elevated cuisine is served in a simple room with hip hanging lights.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bertha's Mussels",
@@ -57,7 +69,11 @@
 				"note": "Bertha's Mussels is a quirky seafood joint and tavern since 1972, known for mussels and regularly scheduled live music.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Blue Agave",
@@ -71,7 +87,11 @@
 				"note": "Blue Agave is a festive Mexican eatery and tequila bar (more than 130 labels) with classic ceramic-tiled tabletops. If you're starving or have a large group order the four-pound burrito with chicken and skirt steak.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Blue Moon Cafe",
@@ -85,7 +105,11 @@
 				"note": "Blue Moon Cafe is a popular cafe is serving American breakfast meals in a bright, funky setting, open 24 hours on weekends. The dish to get is the Captain Crunch French Toast with homemade whip cream and fresh seasonal berries. Their cheese omelette, home fries, and toast is great too. If you're still hungry, see if you can get yourself one of their enormous cinnamon rolls? <strong>NOTE</strong>: They have a second location called Blue Moon Too in the Federal Hill area of Baltimore.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Bun Shop",
@@ -99,7 +123,11 @@
 				"note": "The Bun Shop is a loft-like, late-night cafe for filled buns like piroshki and empanadas, plus Vietnamese coffee. BYOB.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Chaps Pit Beef",
@@ -113,7 +141,11 @@
 				"note": "Chaps Pit Beef is a popular pit-beef outlet is serving namesake sandwiches and homestyle sides in a strip-club parking lot. You need to order the 'Habbit', which has smoked roast beef, smoked turkey, and smoked ham, along with cheese and a side of French fries.",
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/4/3720/9538216287_6c38902da5_n.jpg",
-				"cptn": "Cross section of the 'Habbit', which has smoked roast beef, smoked turkey and smoked ham, along with cheese and a side of French fries"
+				"cptn": "Cross section of the 'Habbit', which has smoked roast beef, smoked turkey and smoked ham, along with cheese and a side of French fries",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Charmery",
@@ -127,7 +159,11 @@
 				"note": "The Charmery is a quirky, family-owned ice cream shop is offering innovative and seasonal flavors in a cheery space.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "G & A Restaurant",
@@ -141,7 +177,11 @@
 				"note": "G & A Restaurant is an iconic diner known for hot dogs, burgers, and other casual eats served in classic digs with a counter.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Gary’s Grilled Turkey Burgers & Sauces",
@@ -155,7 +195,11 @@
 				"note": "Gary's Grilled Turkey Burgers and Sauces have an Apple Chipotle is available every week. They rotate the Thai Chili, Mango Habanero, and Ginger Teriyaki burgers so that one of them is also available weekly. I haven't yet had one of Gary's burgers but the thing go to his stand for is his horseradish which is really strong and can clean out your head. He also sells a horseradish mustard in a bit larger size than the small horseradish jar.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Golden West Cafe",
@@ -169,7 +213,11 @@
 				"note": "Golden West Cafe is a funky Hampden road-house is offering New Mexican dishes and eclectic comfort grub in unpretentious digs. The one item that has never steered me wrong is the Huevos Montulenos, which is whole kernel corn cakes topped with two sunny-up eggs, pinto -or- black beans, green -or- red chile sauce, feta cheese, salsa fresca, fried banana and a flour tortilla.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Grano Pasta Bar",
@@ -183,7 +231,11 @@
 				"note": "Grano Pasta Bar is a small, homey pick for hearty Italian noodles and sauces with indoor/outdoor seating, It's BYOB (bring your own beer). You should order any of the fresh pasta dishes especially seafood since Baltimore is so close to the ocean.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Jimmy's Famous Seafood",
@@ -197,7 +249,11 @@
 				"note": "If Jimmy's Famous Seafood deserves fame, for one thing, it’s the crab cakes which is 95 percent crab, 5 percent binding. The crab cakes — which are about the size of your hand — are packed with fresh Maryland lump blue-crab meat. Another massive menu item is the Seafood UFO. The oversized slices of bread that hold this sandwich together can barely contain all the fillings: colossal crab cakes and crab-studded mac and cheese balls, along with mounds of fried shrimp, fried oysters, and shrimp salad.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Maggie's Farm",
@@ -211,7 +267,11 @@
 				"note": "Maggie's Farm is an intimate bar and restaurant showcasing thoughtfully sourced, globally inspired provisions and cocktails.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "The Mushroom Stand",
@@ -225,7 +285,11 @@
 				"note": "When you're at The Mushroom Stand, you need to order the King Oyster Mushroom Fritters with fresh feta and some hot sauce with salad greens. They were worth the wait. They only sell 200 orders, and when they're gone, they're gone. Their grilled/roasted portabella mushroom sandwich or salad looked great too while waiting for my food.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "One-Eyed Mike's",
@@ -239,7 +303,11 @@
 				"note": "One-Eyed Mike's is a local gastropub is located in a historic former tavern with a hand-carved bar, tin ceiling, and courtyard. If they have cioppino which is a seafood stew if it's on special you need to order it.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sip and Bite Restaurant",
@@ -253,7 +321,11 @@
 				"note": "Sip and Bite has been a local landmark since 1948 and is known for its crab cakes, and diner fare served 24 hours a day seven days a week, along with their beer and wine selection.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Woodberry Kitchen",
@@ -267,7 +339,11 @@
 				"note": "Woodberry Kitchen is an old factory turned hip, a rustic-chic place for refined New American fare with a farm-to-table bent.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
