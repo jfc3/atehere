@@ -14,7 +14,11 @@
 				"note": "Boccalone Salumeria serves panini and cured meats are on the takeaway menu at this tiny deli in the Ferry Building. If they still sell them, you should get a Salumi Cone which is a sampling of their cured meats.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Cockscomb",
@@ -28,7 +32,11 @@
 				"note": "Cockscomb is an upscale California fare served in a buzzy, 2-floor space with an open kitchen and farm-animal decor. Cockscomb's head chef is Chris Cosentino who is famous for his offal dishes.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Dynamo Donuts",
@@ -42,7 +50,11 @@
 				"note": "Dynamo Donuts's owner, Sara Spearin's menu, changes all the time, with inspired flavors like vanilla-orange zest and chocolate star anise sprinkled with cocoa nibs. The bacon-maple doughnut, with smoky sautéed apples, is now available every day. It's a hip, compact stop for donuts and coffee.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "El Tonayense",
@@ -56,7 +68,11 @@
 				"note": "El Tonayense has been in the Mission District for over 20 years. They wanted to bring authentic Mexican foods to the United States. You need to order the chicken and tripe tacos.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ferry Building Marketplace",
@@ -70,7 +86,11 @@
 				"note": "The Ferry Building Marketplace has vendors that sell produce, cheese, coffee, candy, cured meats, and prepared food in this soaring, restored 1898 space. If you like charcuterie, you need to get to Boccalone Salumeria.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Mission Chinese Food",
@@ -84,7 +104,11 @@
 				"note": "Mission Chinese Food is a trendy place where crowds line up for the imaginative Chinese eats at this casual, nationally known destination. Order the Tingling lamb which is lamb and soup or the Mapo Tofu with beef or Kung Pao Pastrami.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Muguboka",
@@ -98,7 +122,11 @@
 				"note": "Muguboka is a homey, no-frills spot known for large portions of banchan (Korean side dishes) and other hearty fare. According to Danny Bowen, you should order number four and 64.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Radio Africa and Kitchen",
@@ -112,7 +140,11 @@
 				"note": "Radio Africa and Kitchen has market-fresh Ethiopian and American dishes which they serve with beer and wine in cheerful surrounds.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Turtle Tower Restaurant",
@@ -126,7 +158,11 @@
 				"note": "Turtle Tower Restaurant is simply decorated, cash-only spot serving Vietnamese noodles, soups & other classic fare. Order the chicken, giblets, gizzards, etc. pho. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
