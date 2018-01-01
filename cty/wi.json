@@ -14,7 +14,11 @@
 				"note": "Franks Diner is a cash-only lunch-car joint serving up burgers, breakfast and other diner fare since 1926. The unusual lunch car diner is celebrating more than 80 years in business.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
