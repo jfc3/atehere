@@ -14,7 +14,11 @@
 				"note": "Tamales Mi Lupita is an acclaimed food truck serving Mexican tacos, tamales, Salvadoran pupusas, and empanadas.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
