@@ -14,7 +14,11 @@
 				"note": "Nick Tahou Hots is a Rochester, NY landmark restaurant famous for its Garbage Plate. The restaurant was founded by its namesake, Nick Tahou. Despite many regional variants all based on the same theme, Nick's is widely regarded as the original Garbage Plate which usually contains a mash-up of meats (hamburgers, cheese burgers, hot dogs, etc.), fries, salads, and sauces. <strong>NOTE</strong>: My New York State Trooper friends would only go in uniform after dropping people at Rochester's main police station.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Mamasan's Noodle Caboodle Restaurant",
@@ -28,7 +32,11 @@
 				"note": "Mamasan's is a hearty Thai and Vietnamese noodle and rice dishes spiced to taste in a friendly, family-run eatery. They have great Thai and Vietnamese food. I have never ordered a bad dish there.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Parkside Diner",
@@ -42,7 +50,11 @@
 				"note": "Parkside Diner is a classic, unpretentious American restaurant with outdoor seating and an attached mini-golf course. I love ordering their create your own omelette with artichokes and sauteed mushrooms, hash browns, and a side of country toast.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
