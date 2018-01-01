@@ -274,6 +274,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Miss Shirley’s Cafe",
+				"add1": "513 W Cold Spring Ln",
+				"add2": "",
+				"cty": "Baltimore",
+				"stt": "MD",
+				"zpcd": "21210",
+				"phn": "(410) 889-5272",
+				"url": "https://www.missshirleys.com/",
+				"note": "Miss Shirley’s Cafe is a brunch cafe boasting local ingredients, and they have outdoor seating plus a pancake-of-the-month special. <strong>NOTE</strong>: They have multiple Locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "The Mushroom Stand",
 				"add1": "E Saratoga St and Holliday St",
 				"add2": "Baltimore Farmers' Market and Bazaar",
