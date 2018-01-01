@@ -14,7 +14,11 @@
 				"note": "BeShock Ramen and Sake Bar's light yet flavorful meals are quickly becoming a neighborhood hit. The broth is made from scratch and full of delicious vegetables - perfect for those looking to stay on the healthier side of dining out. Ramen, sushi roll, and even fried chicken--we have just what you need to satisfy any craving.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Blue Water Seafood Market & Grill",
@@ -28,7 +32,11 @@
 				"note": "Blue Water Seafood Market and Grill is an authentic Mexican-style seafood taco's with special sauce, served with house-made tortillas. The items to order are the Sea Bass Taco or the Halibut Sandwich.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Bull Taco",
@@ -42,7 +50,11 @@
 				"note": "Bull Taco is a casual eatery serving standard Tex-Mex dishes alongside less traditional menu items. You need to order the fish tacos or the bacon, lobster, chorizo taco. <strong>NOTE</strong>: Temporarily closed.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "El Puesto",
@@ -56,7 +68,11 @@
 				"note": "El Puesto is a bi-level eatery with floor-to-ceiling windows serving an innovative, locally sourced Mexican menu. They serve great upscale tacos of which I usually get the fish tacos. Haven't had a bad meal there yet. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Fat Sal's",
@@ -70,7 +86,11 @@
 				"note": "Fat Sal's is a counter-serve chain featuring creative heroes, wraps burgers, hot dogs, and sides in a hip space. The sandwich to get is the Fat Sal sandwich from the guy next to me on the plane back to San Diego.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Georges at the Cove",
@@ -84,7 +104,11 @@
 				"note": "Georges at the Cove is renowned chef Trey Foshee's seafood-centric cuisine served in an elegant setting with ocean views.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Gold Donut",
@@ -98,7 +122,11 @@
 				"note": "The Gold Donut bakery specializes in classic glazed and filled donuts and is situated in a small shopping plaza. They make one of my top five favorite apple fritters in the country, but any of their donuts will work depending on what you're in the mood to eat.",
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/8/7024/13193356484_8027a454cd_n.jpg",
-				"cptn": "Dispaly case filled with a dozen different types of hand made donuts from Gold Donuts near Kensington area of San Diego."
+				"cptn": "Dispaly case filled with a dozen different types of hand made donuts from Gold Donuts near Kensington area of San Diego.",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Hodad's",
@@ -112,7 +140,11 @@
 				"note": "At this burger joint patrons can dine inside restored cars or amid license plate-covered walls. They make one of the best burgers I have ever had which was the 'Blue Jay Burger' a bacon cheeseburger served with their blue cheese and grilled onions along a side of onion rings. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Karl Strauss Brewery",
@@ -126,7 +158,11 @@
 				"note": "Karl Strauss Brewery is San Diego's first microbrewery, known for its full-flavored, hand-crafted beer and six brewery restaurants. Their bar food menu is great. You should try their pork chop dish which was huge last time I had one. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Las Cuatro Milpas",
@@ -140,7 +176,11 @@
 				"note": "Las Cuatro Milpas is an old-school Mexican joint earning fans with its homemade tortillas and picnic-table decor since 1933. Pork tamales with rice and beans are the dish to get and the one every other pork tamale is compared.",
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/4/3773/13176267915_902e955497_n.jpg",
-				"cptn": "Rice and beans with the best pork tamale I've ever eaten at Las Cuatro Milpas in San Diego, CA"
+				"cptn": "Rice and beans with the best pork tamale I've ever eaten at Las Cuatro Milpas in San Diego, CA",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Lion's Share",
@@ -154,7 +194,11 @@
 				"note": "Lion's Share is an intimate, moody bar pairing handcrafted drinks with New American plates featuring exotic meats. I have ordered many things here from a mixed sausage platter to pork chop to some Charcuterie, and it's all been great.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Lucha Libre Taco Shop",
@@ -168,7 +212,11 @@
 				"note": "Lucha Libre Taco Shop serves authentic street-style Mexican dishes, plus a salsa bar and old wrestling matches on TV. I was waiting at a light to turn on the highway at 12:30 PM and there was a line out the door so figured it might need to be on the list. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "OB Noodle House and Sake Bar",
@@ -183,7 +231,11 @@
 				"note": "OB Noodle House and Sake Bar is a bustling restaurant and bar specializes in pho, beer on tap and has an extensive variety of sake drinks. Saw this place as we drove by heading to Hodad's and there was a line out the door and figured I needed to add it to the list for later.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Phil's BBQ",
@@ -197,7 +249,11 @@
 				"note": "Phil's BBQ is a casual eatery and bar known for their signature mesquite-barbecued baby-back and beef ribs, plus sandwiches and sides. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Richard Walker's Pancake House",
@@ -211,7 +267,11 @@
 				"note": "At Richard Walker's Pancake House diners line up for baked apple pancakes and hearty breakfast staples at this casual daytime eatery.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Soda and Swine",
@@ -225,7 +285,11 @@
 				"note": "Soda and Swine is a hip eatery with an open roof offering meatballs, soft-serve ice cream and a large selection of sodas. Make sure to get the Scotch egg and a variety of meatball sliders. Their classic beef, pork, and lamb sliders are tender and juicy. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/3/2832/13207786883_5d368727e1_n.jpg",
-				"cptn": "Metal tray with our sliders from Soda and Swine in San Diego which are Banh-mi, beef meatball, chorizo, and pork."
+				"cptn": "Metal tray with our sliders from Soda and Swine in San Diego which are Banh-mi, beef meatball, chorizo, and pork.",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Studio Diner",
@@ -239,7 +303,11 @@
 				"note": "Studio Diner is on a TV studio lot; this spot serves up American classics anytime amid 1940s-era movie decor.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Tajima Ramen Bar",
@@ -253,7 +321,11 @@
 				"note": "Tajima Ramen Bar is a ramen restaurant with an industrial-chic design has several toppings to choose from and rice bowls. If you can muster up two more friends, it's well worth your effort to order all four types of Ramen for the three of you can share. That is if your friends don't mind sharing Ramen. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
