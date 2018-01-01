@@ -14,7 +14,11 @@
 				"note": "Bogart's Smokehouse is a down-home barbecue joint where the crowds eat Memphis and St. Louis specialties at Formica tables. You need to order the ribs or their pastrami sandwich.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
 			},
             {
                 "name": "The Donut Stop",
@@ -28,7 +32,11 @@
 				"note": "The Donut Stop's glass cases reveal all sorts of flavors at this old-school bakery: glazed, sugar, cake, twists and French doughnuts—otherwise known as beignets. Also for sale is a Donut Stop exclusive: Cinnamon Globs. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Fiddlehead Fern Cafe",
@@ -42,7 +50,11 @@
 				"note": "Fiddlehead Fern serves elevated café fare in a trendy, minimalist space built on the renovated lot of an old gas station at the corner of Russell and Thurman.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Iron Barley Eating Establishment",
@@ -56,7 +68,11 @@
 				"note": "Iron Barley Eating Establishment does creative takes on American comfort food, a craft-beer focus and a late-night music club out back. You need to order the schnitzel and spaetzle.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Salt and Smoke",
@@ -70,7 +86,11 @@
 				"note": "Salt and Smoke is a hip, relaxed Texas-style BBQ joint with lots of bourbons, artisan cocktails, and craft beer.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Sugarfire Smoke House",
@@ -84,7 +104,11 @@
 				"note": "Sugarfire Smoke House is a rustic local BBQ chain serving ribs, salmon, brisket cheesesteaks, spiked shakes and more. You need to check out their sandwiches. <strong>NOTE</strong>: They have multiple locations, and they open at 11:00 AM and close when they sell out.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Ted Drewes Frozen Custard",
@@ -98,7 +122,11 @@
 				"note": "Ted Drewes Frozen Custard is a popular take-out spot with a variety of frozen custards dished out through a walk-up window. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Vincent Van Doughnut",
@@ -112,7 +140,11 @@
 				"note": "Vincent Van Doughnut is an intimate shop offering donuts in a daily choice of gourmet flavors, plus coffee, and espresso.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "World's Fair Donuts",
@@ -126,7 +158,11 @@
 				"note": "World's Fair Donuts is a small, mom and pop spot is a popular place for donuts, fritters, and coffee. <strong>NOTE</strong>: Cash only.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
