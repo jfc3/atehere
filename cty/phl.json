@@ -165,6 +165,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Silk City",
+				"add1": "435 Spring Garden St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19123",
+				"phn": "(215) 592-8838",
+				"url": "http://www.silkcityphilly.com/",
+				"note": "Silk City is a renovated diner with an outdoor beer garden serves classics like fried chicken and meatloaf. You should order one or all of these: the duck confit egg roll or the pork and crab pot stickers or meatloaf.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Standard Tap",
 				"add1": "901 N 2nd St",
 				"add2": "",
