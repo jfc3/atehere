@@ -14,7 +14,11 @@
 				"note": "Dinosaur Bar-B-Que started here is Syracuse and is now a barbecue chain serving Southern-style meats and draft brews in a retro setting (most have live music).",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Heid's of Liverpool",
@@ -28,7 +32,11 @@
 				"note": "Heid's of Liverpool is a standby for hot dogs, sausages, and other quick serve fare in nostalgic digs and adjacent ice cream shop. If you have never had a white hot (pork and veal hot dog), you need to order one here along with some fries.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Market Diner",
@@ -42,7 +50,11 @@
 				"note": "Market Diner is a family-owned vintage diner with a mural of '50s-era stars serves up American comfort food. They have two eggs, home fries, and toast for $4.99 and for a few dollars more you can get bacon or sausage. It's a deal at such a low price.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Pastabilities",
@@ -56,7 +68,11 @@
 				"note": "Pastabilities is a contemporary eatery which serves homemade pasta dishes and Italian-American fare in a warm, brick interior. You need to get an order of bread with their spicy-hot tomato oil along with their Wicked Chicken Riggies.",
 				"eaten": "no",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
