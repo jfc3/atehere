@@ -14,7 +14,11 @@
 				"note": "Avenue Bread is the neighborhood café and bakery that creates community around authentic eats for the people of Whatcom County and its visitors who want a nourishing experience for the mind, body and soul in an era of increasingly conscious consumption. Their home-made sage sausage was wonderful along with the toasted Rosemary bread. Wish I had been there on the weekend because some of their weekend only specials looked great.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Harris Avenue Cafe",
@@ -28,7 +32,11 @@
 				"note": "Harris Avenue Cafe is a compact breakfast/lunch venue serving upmarket diner fare, plus veggie options in comfy surrounds. Their chorizo, eggs, cheese, and chili peppers with a side of home-made English muffin and sausage were wonderful.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Good To Go Meat Pies",
@@ -42,7 +50,11 @@
 				"note": "Good to Go Meat Pies specializes in honest food for working folks. They make handmade pasties, which are made fresh every day. They also feature soups from scratch: Apple Turnovers, Blackberry Crisps, Pecan Pie Tarts, and a variety of cookies. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Tony's Coffee",
@@ -56,7 +68,11 @@
 				"note": "For more than forty years, Tony's Coffee have been roasting coffee in Bellingham. Nestled along the waters of the Puget Sound, in the shadow of the North Cascades, our work is inspired by the beauty of our surroundings. It's a great place for a coffee, hot chocolate, tea, and to get a bunch of work done. NOTE: There is a two-hour parking limit in town. Not sure how strict they are in enforcing the time limit.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Vashon Island Coffee Roasterie",
@@ -70,7 +86,11 @@
 				"note": "Vashon Island Coffee Roasterie is what you call a coffee house and so much more! It's a clunky-funky, hippy-trippy amalgam of organic grocery store, supplement shop, book store, clothing boutique, herbalist, and of course, coffee roaster, this hodgepodge of counters, tables, rooms, and multiple connected stores on several step-up/step-down levels is simply perfect.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             },
             {
                 "name": "Woods Coffee (Boulevard Park)",
@@ -84,7 +104,11 @@
 				"note": "Woods Coffee (Boulevard Park) is a local coffeehouse chain serves beverages, sweets and cafe fare, plus cold-brewed java in growlers. The view of the Chuckanut Bay from this location in Boulevard Park is awesome even when not siitng at an window seat. <strong>NOTE</strong>: They have many locations around Bellingham and the surrounding area. <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
-				"cptn": "lll"
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
