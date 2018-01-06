@@ -237,6 +237,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Ivan Ramen",
+				"add1": "25 Clinton St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10002",
+				"phn": "(646) 678-3859",
+				"url": "https://www.ivanramen.com/",
+				"note": "Ivan Ramen serves creative homemade noodle soups and izakaya-style small plates served in a colorful space with a patio.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Ivan Ramen Slurp Shop",
 				"add1": "600 11th Avenue",
 				"add2": "",
