@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chi", "cle", "col", "dca", "de", "den", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "mi", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "roc", "san", "sc", "sea", "sfo", "stl", "syr", "tn", "wa", "wi");
+$locs = array("", "test", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chs", "chi", "cle", "col", "dca", "de", "den", "fdk", "fl", "ky", "las", "lax", "lou", "md", "mem", "mi", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "roc", "san", "sc", "sea", "sfo", "stl", "syr", "tn", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -15,7 +15,7 @@ if (in_array($slct, $locs) && $slct != "") {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Test page for John F Croston III's Ate Here<?php if ($city != "") { echo " in ".$city;} ?></title>
+	<title>Test page for John F Croston III's Ate Here<?php if ($city != "" && $city != "123") { echo " in ".$city;} ?></title>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
 	<style>
@@ -85,6 +85,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="bklyn">Brooklyn, NY</option>
 				<option value="buf">Buffalo, NY</option>
 				<option value="ca">California</option>
+				<option value="chs">Charleston, SC</option>
 				<option value="chi">Chicago, IL</option>
 				<option value="cle">Cleveland, PA</option>
 				<option value="col">Columbus, OH</option>
@@ -135,20 +136,20 @@ if (in_array($slct, $locs) && $slct != "") {
 		</p>These are the places I recommend to eat at or ones my friends whose food recommendations I trust, TV shows, blog posts, articles, etc.</p>
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
-			<h2><?php echo $city; ?></h2>
-			<p id="not-eaten">All the restaurants with an asterisk (<strong>*</strong>) next to them are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
-			<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
+		<h2><?php echo $city; ?></h2>
+		<p id="not-eaten">All the restaurants with an asterisk (<strong>*</strong>) next to them are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
     <?php
 		foreach ($posts as $post) {
 			$rest_name = strtolower(preg_replace("/[^A-Za-z0-9]/", "", $post->name)); 
 	?>
 		<div class="vcard">
-		<?php if ($post->url != "") { ;?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></a></h3>
-			<?php } else { ?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
+		<?php if ($post->url != "" && $post->url != "hhh") { ;?>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></a></h3>
+		<?php } else { ?>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
 	    <?php } ?>
-			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p class='tel'>".$post->phn."</p>";} ?>
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
