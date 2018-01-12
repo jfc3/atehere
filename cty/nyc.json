@@ -363,6 +363,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "McSorley's Old Ale House",
+				"add1": "15 E 7th St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "(212) 473-9148",
+				"url": "https://mcsorleysoldalehouse.nyc/",
+				"note": "McSorley's Old Ale House is an old-time bar with Irish bartenders, two kinds of ale (light or dark) and sawdust on the floor.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "The Meatball Shop",
 				"add1": "84 Stanton Street",
 				"add2": "",
