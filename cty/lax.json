@@ -255,6 +255,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Killer Noodle",
+				"add1": "2030 Sawtelle Blvd",
+				"add2": "",
+				"cty": "Los Angeles, CA",
+				"stt": "CA",
+				"zpcd": "90025",
+				"phn": " (424) 293-0474",
+				"url": "http://www.killernoodle.com/",
+				"note": "The Tsujita ramen specialists open a spicy noodle shop called Killer Noodle. The restaurant’s aim is for painful, delicious, and spicy food. Jonathan Gold recommends starting at level three out of six.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Kogi BBQ",
 				"add1": "12236 W Washington Blvd",
 				"add2": "",
