@@ -19,6 +19,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Du's Donuts",
+				"add1": "107 N 12th St",
+				"add2": "",
+				"cty": "Brooklyn",
+				"stt": "NY",
+				"zpcd": "11249",
+				"phn": "(718) 215-8770",
+				"url": "https://www.dusdonuts.com/",
+				"note": "Du's Donuts is a modern stop at The William Vale hotel for inventive cake donuts, and crullers, along with coffee and cold brew. Du’s Donuts & Coffee serves Chef Wylie Dufresne’s recipe for New England-style cake donuts and crullers in classic and imaginative flavors.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
