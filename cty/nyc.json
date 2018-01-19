@@ -741,6 +741,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Yakitori Taisho",
+				"add1": "5 St Marks Place",
+				"add2": "#1",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10003",
+				"phn": "(212) 228-5086",
+				"url": "",
+				"note": "Late-night hours is what keeps Yakitori Taisho a Japanese yakitori (grilled meat on a skewer) joint in the East Village bustling.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Yakitori Totto",
 				"add1": "251 West 55th Street",
 				"add2": "",
