@@ -3,6 +3,24 @@
         "city": "New York City, NY",
 		"posts": [
             {
+                "name": "99 Favor Taste",
+				"add1": "285 Grand St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10002",
+				"phn": "(646) 682-9162",
+				"url": "https://www.99favortaste.com/",
+				"note": "99 Favor Taste is a sizable all-you-can-eat Asian buffet with contemporary decor, and they serve beer, wine, and sake too. Don't forget to try their hot pot. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Ample Hills Creamery",
 				"add1": "600 11th Ave",
 				"add2": "Gotham West Market",
