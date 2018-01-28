@@ -145,6 +145,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Willie Mae's Scotch House",
+				"add1": "2401 St Ann St",
+				"add2": "",
+				"cty": "New Orleans",
+				"stt": "LA",
+				"zpcd": "70119",
+				"phn": "(504) 822-9503",
+				"url": "http://www.williemaesnola.com/",
+				"note": "Willie Mae's Scotch House is a lauded family-owned spot since 1957, famous for fried chicken and other soul food in a humble setting.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
