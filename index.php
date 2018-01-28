@@ -15,7 +15,7 @@ if (in_array($slct, $locs) && $slct != "") {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>John F Croston III Ate Here<?php if ($city != "") { echo " in ".$city;} ?></title>
+	<title>John F Croston III Ate Here<?php if ($city != "" && $city != "123") { echo " in ".$city;} ?></title>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
 	<style>
@@ -129,7 +129,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<input class="submit" type="submit" value="Submit">
 		</form>
 	<?php
-	if (!in_array($slct, $locs) || $slct == "") {
+		if (!in_array($slct, $locs) || $slct == "") {
 	?>
 		<h2>Welcome</h2>
 		<p>You've found a small website <a href="http://jfciii.com">John F Croston III</a> (<a href="https://twitter.com/jfc3">@jfc3</a>) built to allow myself and others to select a city, state, or location and find restaurants in those places to eat.</p>
@@ -144,12 +144,12 @@ if (in_array($slct, $locs) && $slct != "") {
 			$rest_name = strtolower(preg_replace("/[^A-Za-z0-9]/", "", $post->name)); 
 	?>
 		<div class="vcard">
-		<?php if ($post->url != "") { ;?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></a></h3>
+		<?php if ($post->url != "" && $post->url != "hhh") { ;?>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></a></h3>
 		<?php } else { ?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
 	    <?php } ?>
-			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
+			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "") { echo "<p class='tel'>".$post->phn."</p>";} ?>
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
