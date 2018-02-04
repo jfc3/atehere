@@ -39,6 +39,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Peggy Sue's 50's Diner",
+				"add1": "35654 Yermo Rd",
+				"add2": "",
+				"cty": "Yermo",
+				"stt": "CA",
+				"zpcd": "92398",
+				"phn": "(760) 254-3370",
+				"url": "http://www.peggysuesdiner.com/",
+				"note": "Peggy Sue's 50's Diner is a small, 1950s-style diner with American classics such as meatloaf and chicken-fried steak on the menu. I have been told you need to order the pie.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "The Slaw Dogs Cafe",
 				"add1": "720 N Lake Ave",
 				"add2": "",
