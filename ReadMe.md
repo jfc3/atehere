@@ -2,7 +2,7 @@
 
 * John F Croston III Ate Here
 * Release Number:  v.0.5.17
-* Release Date: 01-28-2018
+* Release Date: 02-04-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -49,6 +49,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * San Deigo, CA - san
 * San Francisco, CA - sfo
 * Seattle, WA - sea
+* Southern California - socal
 * South Carolina - sc
 * St. Louis, MO - stl
 * Syracuse, NY - syr
@@ -81,6 +82,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Southern California to the drop down list and created necessary SOCAL JSON file.
 * Updated INDEX.php page not to allow default values for ADD2, CITY, URL, and EATEN.
 * Added Charleston, SC to the drop down list and created necessary CHS JSON file.
 * Added South Carolina to the drop down list and created necessary SC JSON file.
