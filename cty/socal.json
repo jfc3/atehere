@@ -3,6 +3,24 @@
         "city": "Southern California",
 		"posts": [
             {
+                "name": "Cafe 247",
+				"add1": "32866 Old Woman Springs Rd",
+				"add2": "",
+				"cty": "Lucerne Valley",
+				"stt": "CA",
+				"zpcd": "92356",
+				"phn": "(760) 248-6088",
+				"url": "",
+				"note": "Cafe 247 serves chicken fried steak with mashed potatoes and a steamed vegetable medley. Reasonably priced and the portions are enormous, so you get more than you pay for. They also have eggs, potatoes, waffles, sausage, and biscuits and gravy. The atmosphere is modern and very comfortable. The staff is very attentive, professional and friendly. You need to order the BBQ.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Emma Jean's Holland Burger Cafe",
 				"add1": "17143 N D St",
 				"add2": "",
