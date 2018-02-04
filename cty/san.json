@@ -292,6 +292,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "South Beach Bar and Grill",
+				"add1": "5059 Newport Ave",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92107",
+				"phn": "(619) 226-4577",
+				"url": "https://southbeachob.com/",
+				"note": "South Beach Bar and Grill is a lively eatery offering ocean views, seafood-focused Mexican fare, and an immense selection of microbrews. Make sure to get the grilled fish tacos.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Studio Diner",
 				"add1": "4701 Ruffin Rd",
 				"add2": "",
