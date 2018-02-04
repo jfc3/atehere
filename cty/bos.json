@@ -57,6 +57,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Durgin-Park",
+				"add1": "340 N Market St",
+				"add2": "",
+				"cty": "Boston",
+				"stt": "MA",
+				"zpcd": "02109",
+				"phn": "02109",
+				"url": "http://arkrestaurants.com/durgin_park/",
+				"note": "Durgin-Park is a historic eatery serving hearty portions of classic New England fare and a wide range of craft beers. You should order the prime rib.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Little Donkey",
 				"add1": "505 Massachusetts Ave",
 				"add2": "",
