@@ -21,6 +21,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "City Grocery",
+				"add1": "152 Courthouse Square",
+				"add2": "",
+				"cty": "Oxford",
+				"stt": "MS",
+				"zpcd": "38655",
+				"phn": "(662) 232-8080",
+				"url": "https://citygroceryonline.com/city-grocery/",
+				"note": "City Grocery serves fine Southern dining in a historical, 2-story building with exposed brick, pine floors, and an upstairs bar.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Doe's Eat Place",
 				"add1": "502 Nelson St",
 				"add2": "",
