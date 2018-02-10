@@ -21,6 +21,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Country Kitchen",
+				"add1": "61768 Twentynine Palms Highway",
+				"add2": "",
+				"cty": "Joshua Tree",
+				"stt": "CA",
+				"zpcd": "92252",
+				"phn": "(760) 366-8988",
+				"url": "",
+				"note": "Country Kitchen is a homey chain eatery serving breakfast all day and other American comfort fares in a casual space. If you're there for breakfast get a couple of eggs over easy with hashbrowns, toast, and a side of me. For lunch order one of the Cambodian lunch fare noddle dishes or the patty melt.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Emma Jean's Holland Burger Cafe",
 				"add1": "17143 N D St",
 				"add2": "",
