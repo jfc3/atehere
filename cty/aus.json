@@ -307,6 +307,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Wu Chow",
+				"add1": "500 W 5th St",
+				"add2": "IBC Bank Plaza #168",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 476-2469",
+				"url": "https://wuchowaustin.com/",
+				"note": "Wu Chow serves Sichuan cuisine and weekend dim sum brunch in a contemporary space. Think they serve a dim sum brunch on the weekends, but you check first before going. Order the chicken boa which li's like a mini chicken.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
