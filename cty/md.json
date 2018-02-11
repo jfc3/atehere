@@ -75,6 +75,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Caribbean Palace Restaurant",
+				"add1": "7680 New Hampshire Ave",
+				"add2": "Takoma/Langley Crossroads Development Authority",
+				"cty": "Takoma Park",
+				"stt": "MD",
+				"zpcd": "20912",
+				"phn": "(301) 431-1563",
+				"url": "http://thecaribbeanpalace.com/",
+				"note": "Caribbean Palace Restaurant is a pint-size Caribbean take-out counter offering generous servings of roti, jerk chicken, and curry.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Chick and Ruth's",
 				"add1": "165 Main St",
 				"add2": "",
