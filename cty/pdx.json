@@ -399,6 +399,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Pine State Biscuits",
+				"add1": "1100 SE Division St",
+				"add2": "#100",
+				"cty": "Portland",
+				"stt": "OR",
+				"zpcd": "97202",
+				"phn": "(503) 477-6605",
+				"url": "https://www.pinestatebiscuits.com/",
+				"note": "Pine State Biscuits is a casual eatery serving biscuits and gravy, biscuit sandwiches, and other Southern fare in a modern space. Order the Reggie Deluxe Chicken Biscuit sandwich which had fried chicken, bacon, gravy, and cheese with a fried egg on top. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Podnah's Pit Barbecue",
 				"add1": "1625 NE Killingsworth St",
 				"add2": "",
