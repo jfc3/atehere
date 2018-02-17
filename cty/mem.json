@@ -57,6 +57,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Lunchbox Eats",
+				"add1": "288 S 4th St",
+				"add2": "",
+				"cty": "Memphis",
+				"stt": "TN",
+				"zpcd": "38126",
+				"phn": "(901) 526-0820",
+				"url": "http://www.lunchboxeats.com/",
+				"note": "Lunchbox Eats is a laid-back eatery serving sandwiches, comfort food, and desserts in a casual space with patio seating. Order the graduation meatloaf sandwich or turkey sandwich with home made slaw.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Payne's Bar-B-Que",
 				"add1": "1762 Lamar Ave",
 				"add2": "",
