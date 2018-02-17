@@ -19,6 +19,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Scott's BarBQue",
+				"add1": "2734 Hemingway Hwy",
+				"add2": "",
+				"cty": "Hemingway",
+				"stt": "SC",
+				"zpcd": "29554",
+				"phn": "(843) 558-0134",
+				"url": "",
+				"note": "Scott's BarBQue is a longtime BBQ joint offering pit-roasted pork and chicken, plus boiled peanuts, in a rustic old house. If Anthony Bourdain and Sean Brock endorse it, I'm getting there.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
