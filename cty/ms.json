@@ -91,6 +91,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Rusty’s Riverfront Grill",
+				"add1": "901 Washington St",
+				"add2": "",
+				"cty": "Vicksburg",
+				"stt": "MS",
+				"zpcd": "39180",
+				"phn": "(601) 638-2030",
+				"url": "http://www.rustysriverfront.com/",
+				"note": "Rusty’s Riverfront Grill is a lively, family-friendly seafood restaurant and bar in saloon-like digs with warm woods, TVs, and a patio. Order the double fried green tomatoes or the blackened redfish with crayfish cream sauce.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
