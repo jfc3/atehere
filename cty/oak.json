@@ -3,6 +3,24 @@
         "city": "Oakland, CA",
 		"posts": [
             {
+                "name": "Bakesale Bette's",
+				"add1": "5098 Telegraph Ave",
+				"add2": "",
+				"cty": "Oakland",
+				"stt": "CA",
+				"zpcd": "94609",
+				"phn": "(510) 985-1213",
+				"url": "",
+				"note": "Bakesale Bette's is a lunchtime bakery is a popular take-out stop for hefty fried chicken sandwiches and classic desserts. You need to order the fried chicken sandwich with home-made coke slaw.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Tamales Mi Lupita",
 				"add1": "3340 Foothill Blvd",
 				"add2": "",
