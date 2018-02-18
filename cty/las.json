@@ -57,6 +57,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Raku",
+				"add1": "5030 W Spring Mountain Rd",
+				"add2": "#2",
+				"cty": "Las Vegas",
+				"stt": "NV",
+				"zpcd": "89146",
+				"phn": "(702) 367-3511",
+				"url": "http://raku-grill.com/grill/",
+				"note": "Raku is in a cozy room which packs food lovers with creative Japanese small plates, plus a bustling late-night scene. Order some of the izakaya and yakitori dishes along with the fresh tofu with smoked hot sauce.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Tacos El Gordo",
 				"add1": "3049 S Las Vegas Blvd",
 				"add2": "The Gold Key Shops",
