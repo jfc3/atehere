@@ -75,6 +75,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Poole's",
+				"add1": "426 S McDowell St",
+				"add2": "",
+				"cty": "Raleigh",
+				"stt": "NC",
+				"zpcd": "27601",
+				"phn": "(919) 832-4477",
+				"url": "http://ac-restaurants.com/pooles/",
+				"note": "Poole's is a circa-1945 diner with seasonal comfort food, cocktails, and house desserts in a retro-chic setting.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Toot-n-Tell",
 				"add1": "903 W Garner Rd",
 				"add2": "",
