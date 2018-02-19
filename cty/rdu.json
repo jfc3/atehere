@@ -93,6 +93,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Smokey's BBQ Shack",
+				"add1": "10800 Chapel Hill Rd",
+				"add2": "",
+				"cty": "Morrisville",
+				"stt": "NC",
+				"zpcd": "27560",
+				"phn": "(919) 469-1724",
+				"url": "http://www.smokeysshack.com/",
+				"note": "Smokey's BBQ Shack is a no-nonsense spot with platters and sandwiches of BBQ pulled pork, brisket, and more, along with Southern sides.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Toot-n-Tell",
 				"add1": "903 W Garner Rd",
 				"add2": "",
