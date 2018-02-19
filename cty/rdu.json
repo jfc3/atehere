@@ -19,6 +19,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Midtown Grille",
+				"add1": "4421 Six Forks Rd",
+				"add2": "#115,",
+				"cty": "Raleigh",
+				"stt": "NC",
+				"zpcd": "27609",
+				"phn": "(919) 782-9463",
+				"url": "https://www.themidtowngrille.com/",
+				"note": "Midtown Grille is an intimate New American eatery offering a seasonal menu, sizable wine list, and hand-crafted cocktails. If you’re there for brunch you should get the lamb sausage hash.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
