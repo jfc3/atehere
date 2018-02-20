@@ -75,6 +75,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Dante’s Kitchen",
+				"add1": "736 Dante St",
+				"add2": "",
+				"cty": "New Orleans",
+				"stt": "LA",
+				"zpcd": "70118",
+				"phn": "(504) 861-3121",
+				"url": "http://danteskitchen.com/",
+				"note": "Dante’s Kitchen serves local produce which shapes a seasonal menu of modern Louisiana fare served in a quaint cottage setting. Order the brick chicken with a bacon potato cake and a fried egg or the ratatouille.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Kermit's Treme Mother in Law Lounge",
 				"add1": "1500 N Claiborne Ave",
 				"add2": "",
