@@ -127,6 +127,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Wursthall",
+				"add1": "310 Baldwin Ave,",
+				"add2": "",
+				"cty": "San Mateo",
+				"stt": "CA",
+				"zpcd": "94401",
+				"phn": "(650) 931-4282",
+				"url": "http://www.wursthall.com/",
+				"note": "Wursthall, the hotly anticipated restaurant and Biergarten from internet food guru J. Kenji López-Alt. The restaurant is a German/Austrian-style beer hall, serving California takes on classic fare, beer, and craft cocktails. Order the Impossible Döner kebap which is entirely vegan, cooked in a vertical rotisserie on a Nigella seed bun or the Nürnberger Bratwursts.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
