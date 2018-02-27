@@ -327,6 +327,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Mariscos Jalisco",
+				"add1": "3040 E Olympic Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90023",
+				"phn": "(323) 528-6701",
+				"url": "",
+				"note": "Mariscos Jalisco is a no-frills Mexican food truck offering cold seafood dishes, shucked oysters, cocktails, and more. Make sure to order the Taco de Cameron which is a fish taco.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "La Brea Bakery Cafe",
 				"add1": "468 S La Brea Ave",
 				"add2": "",
