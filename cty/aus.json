@@ -39,6 +39,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "The Clay Pit",
+				"add1": "1601 Guadalupe St",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78701",
+				"phn": "(512) 322-5131",
+				"url": "https://www.claypit.com/",
+				"note": "The Clay Pit serves classic and updated dishes with over 100 wine selections, plus a happy hour in a brick-walled setting. Clay Pit is a nationally - acclaimed, high-energy, contemporary Indian restaurant located in the historical 'Bertram building' in beautiful downtown Austin.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Franklins BBQ",
 				"add1": "900 E 11th St",
 				"add2": "",
