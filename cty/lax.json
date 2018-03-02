@@ -507,6 +507,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Mitla Cafe",
+				"add1": "602 N Mt Vernon Ave",
+				"add2": "",
+				"cty": "San Bernardino",
+				"stt": "CA",
+				"zpcd": "92411",
+				"phn": "(909) 888-0460",
+				"url": "http://www.mitlacafesb.com/",
+				"note": "Mitla Cafe is an iconic, family-owned fixture since 1937 presenting Mexican classics in an old-fashioned dining room.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Monti Carlo",
 				"add1": "3514 W 3rd St",
 				"add2": "",
