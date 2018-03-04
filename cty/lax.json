@@ -795,6 +795,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Sqirl",
+				"add1": "720 N Virgil Ave",
+				"add2": "#4",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90029",
+				"phn": "(323) 284-8147",
+				"url": "http://sqirlla.com/",
+				"note": "Sqirl is a hip cafe that features global-inspired breakfast and lunch fare with housemade jams in a minimalist space.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Sunny Spot",
 				"add1": "822 Washington Blvd",
 				"add2": "",
