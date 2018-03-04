@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.18
-* Release Date: 02-19-2018
+* Release Number:  v.0.5.19
+* Release Date: 03-04-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -26,6 +26,9 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Columbus, OH - col
 * Delaware - de
 * Denver, CO - den
+* Florida - fl
+* Frederick, MD - fdk
+* Houston, TX - hou
 * Las Vegas, NV - las
 * Los Angeles, CA - lax
 * Louisville, KY - lou
@@ -83,6 +86,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Houston, TX to the drop down list and created necessary HOU JSON file.
 * Added Raliegh, NC to the drop down list and created necessary RDU JSON file.
 * Added Southern California to the drop down list and created necessary SOCAL JSON file.
 * Updated INDEX.php page not to allow default values for ADD2, CITY, URL, and EATEN.
