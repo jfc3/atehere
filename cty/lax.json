@@ -633,6 +633,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Night and Market",
+				"add1": "9043 Sunset Blvd",
+				"add2": "",
+				"cty": "West Hollywood",
+				"stt": "CA",
+				"zpcd": "90069",
+				"phn": "(310) 275-9724",
+				"url": "http://www.nightmarketsong.com/",
+				"note": "Night and Market is a small, bustling stop for updates on traditional Thai street foods with beer and ice cream sandwiches. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Original Pantry Cafe",
 				"add1": "877 S Figueroa St",
 				"add2": "",
