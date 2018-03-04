@@ -55,6 +55,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Nam Giao Restaurant and Bakery",
+				"add1": "6938 Wilcrest Dr",
+				"add2": "",
+				"cty": "Houston",
+				"stt": "TX",
+				"zpcd": "77072",
+				"phn": "(281) 568-4888",
+				"url": "",
+				"note": "Nam Giao Restaurant and Bakery is a tiny family-run spot specializing in the food of Hue, a province of central Vietnam. From what I saw on David Chang's Netflix show Ugly Delicious you need to order the crystal shrimp dumpling.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
