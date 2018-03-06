@@ -256,6 +256,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Nollie's Cafe",
+				"add1": "1165 Harrison St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98109",
+				"phn": "(206) 402-6724",
+				"url": "https://www.nolliescafe.com/",
+				"note": "Nollie's Cafe is a relaxed neighborhood pit stop for breakfast fare, baked goods, sandwiches, and coffee drinks. You need to order the breakfast sandwiches on a biscuit.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Owl and Thistle",
 				"add1": "808 Post Ave",
 				"add2": "",
