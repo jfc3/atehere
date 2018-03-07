@@ -400,6 +400,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Salare",
+				"add1": "2404 NE 65th St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98115",
+				"phn": "(206) 556-2192",
+				"url": "http://salarerestaurant.com/",
+				"note": "Salare has an eclectic menu featuring nose-to-tail local meats and creative veggie dishes in a contemporary room. You need to order the fried chicken.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Salumi",
 				"add1": "309 3rd Ave S",
 				"add2": "",
