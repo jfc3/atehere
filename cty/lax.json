@@ -147,6 +147,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Canter's Deli",
+				"add1": "419 N Fairfax Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90036",
+				"phn": "(323) 651-2030",
+				"url": "http://www.cantersdeli.com/",
+				"note": "Canter's Deli is a landmark deli offering a huge variety of hearty sandwiches and baked goods around the clock.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Cassell's Hamburgers",
 				"add1": "3600 W 6th St",
 				"add2": "",
