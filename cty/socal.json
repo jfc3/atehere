@@ -145,6 +145,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Swiss Donut",
+				"add1": "555 S Sunrise Way",
+				"add2": "#102",
+				"cty": "Palm Springs",
+				"stt": "CA",
+				"zpcd": "92264",
+				"phn": "(760) 778-3773",
+				"url": "",
+				"note": "The original Swiss Donut's Sunrise Way location in Palm Springs serves as their boutique shop. All offer a great selection of old school crumb, maple, cinnamon, buttermilk, coconut glaze, old-fashion glaze, apple fritters, and chocolate cake. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
