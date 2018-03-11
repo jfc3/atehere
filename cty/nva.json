@@ -255,6 +255,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "El Pollo Rico",
+				"add1": "932 N Kenmore St",
+				"add2": "",
+				"cty": "Arlington",
+				"stt": "VA",
+				"zpcd": "22201",
+				"phn": "(703) 522-3220",
+				"url": "http://www.elpolloricorestaurant.com/",
+				"note": "El Pollo Rico is a spit-roasted Peruvian chicken plus sides like coleslaw served in a casual, counter-service space. Even Anthony Bourdain ate here while in the DC area years ago.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Four Sisters Restaurant",
 				"add1": "8190 Strawberry Lane",
 				"add2": "#1",
