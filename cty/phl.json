@@ -183,6 +183,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "South Philly Barbacoa",
+				"add1": "1149 S 9th St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19147",
+				"phn": "(215) 694-3797",
+				"url": "http://www.southphillybarbacoa.com/",
+				"note": "South Philly Barbacoa serves unassuming Mexican eatery specializing in traditional slow-cooked barbacoa-style tacos and toppings. You need to get the pork and the lamb tacos.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Standard Tap",
 				"add1": "901 N 2nd St",
 				"add2": "",
