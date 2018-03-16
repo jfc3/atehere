@@ -381,6 +381,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Kismet",
+				"add1": "4648 Hollywood Blvd",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90027",
+				"phn": " (323) 409-0404",
+				"url": "http://www.kismetlosangeles.com/",
+				"note": "Kismet is a minimalist communal spot for all-day Mediterranean fare, from breakfast to family-style dinners.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Kogi BBQ",
 				"add1": "12236 W Washington Blvd",
 				"add2": "",
