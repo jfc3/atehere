@@ -435,6 +435,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Langer's Deli and Restaurant",
+				"add1": "704 S Alvarado St",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90057",
+				"phn": "(213) 483-8050",
+				"url": "https://www.langersdeli.com/",
+				"note": "Langer's Deli and Restaurant is an old-fashioned deli serving up hot pastrami sandwiches, and other traditional comfort food since 1947. You need to order the #19.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Leo's Tacos Truck",
 				"add1": "1515 S La Brea Ave",
 				"add2": "",
