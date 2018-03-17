@@ -327,6 +327,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Ramen Tatsu-ya",
+				"add1": "8557 Research Blvd",
+				"add2": "#126",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78758",
+				"phn": "(512) 893-5561",
+				"url": "http://ramen-tatsuya.com/",
+				"note": "Ramen Tatsu-ya is a popular noodle house and bar with funky vibe serving classic ramen with many options for topping. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Torchy's Tacos",
 				"add1": "1311 S 1st St",
 				"add2": "",
