@@ -3,24 +3,6 @@
         "city": "Austin, TX",
 		"posts": [
             {
-                "name": "Amy's Ice Cream - South Congress Ave",
-				"add1": "1301 S Congress Ave",
-				"add2": "",
-				"cty": "Austin",
-				"stt": "TX",
-				"zpcd": "78704",
-				"phn": "(512) 440-7488",
-				"url": "http://amysicecreams.com/",
-				"note": "Amy's Ice Cream is a local chain is serving inventive ice creams, milkshakes, ices and frozen yogurts with clever fixings. They have all kinds of exotic flavors that seem to change all the time. <strong>NOTE</strong>: They have multiple locations.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
-            },
-            {
                 "name": "5000 Burnet",
 				"add1": "5000 Burnet Rd",
 				"add2": "",
@@ -38,6 +20,25 @@
 				"twttr": "ooo",
 				"fcbk": "ppp"
             },
+            {
+                "name": "Amy's Ice Cream - South Congress Ave",
+				"add1": "1301 S Congress Ave",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78704",
+				"phn": "(512) 440-7488",
+				"url": "http://amysicecreams.com/",
+				"note": "Amy's Ice Cream is a local chain is serving inventive ice creams, milkshakes, ices and frozen yogurts with clever fixings. They have all kinds of exotic flavors that seem to change all the time. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+
             {
                 "name": "Café No Sé",
 				"add1": "1603 S Congress Ave",
