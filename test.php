@@ -47,6 +47,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
 		.rest-addr { font-weight: normal;}
 		.vcard { border-bottom: solid 2px #000;}
+		.not-eaten {font-size: .825em; font-weight: bold;}
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
@@ -148,13 +149,14 @@ if (in_array($slct, $locs) && $slct != "") {
 	?>
 		<div class="vcard">
 		<?php if ($post->url != "" && $post->url != "hhh") { ;?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></a></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?></a></h3>
 		<?php } else { ?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span aria-describedby="not-eaten"> *</span>';} ?></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?></h3>
 	    <?php } ?>
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "" && $post->phn != "ggg") { echo "<p class='tel'>".$post->phn."</p>";} ?>
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
+			<p><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span class="not-eaten" aria-describedby="not-eaten">Not eaten yet.</span>';} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 		</div>
     <?php	}	?>
