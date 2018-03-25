@@ -346,6 +346,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Super Cocina",
+				"add1": "3627 University Ave",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92104",
+				"phn": "(619) 584-6244",
+				"url": "http://supercocinasd.com/",
+				"note": "Super Cocina is a no-frills setting for traditional handmade Mexican favorites like empanadas and enchiladas. Look into ordering some of the offal cuts.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Tajima Ramen Bar",
 				"add1": "3739 Sixth Ave",
 				"add2": "",
