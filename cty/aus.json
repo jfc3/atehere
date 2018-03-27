@@ -93,6 +93,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Culver’s",
+				"add1": "2240 W Braker Ln",
+				"add2": "",
+				"cty": "Austin",
+				"stt": "TX",
+				"zpcd": "78758",
+				"phn": "(512) 836-4162",
+				"url": "https://www.culvers.com/",
+				"note": "Culver’s is a fast-food chain specializing in frozen custard and signature burgers made with Midwest beef and dairy. Don't forget to get the butter burger,",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Franklins BBQ",
 				"add1": "900 E 11th St",
 				"add2": "",
