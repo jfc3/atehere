@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.5.20
-* Release Date: 03-25-2018
+* Release Number:  v.0.5.21
+* Release Date: 03-29-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -86,6 +86,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Updated reastaurant paragraph text that I removed the mention of the asterisks was used to denote palces I have not been yet.
 * Removed asterisk from the restaurant's name for places I have not eaten at yet and added the text "Not yet eaten" after the NOTE field and before an image if there is one.
 * Added Houston, TX to the drop down list and created necessary HOU JSON file.
 * Added Raliegh, NC to the drop down list and created necessary RDU JSON file.
