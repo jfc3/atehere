@@ -66,7 +66,7 @@ if (in_array($slct, $locs) && $slct != "") {
 <body>
 <div id="wrap">
 	<div id="hdr" role="banner">
-		<h1><a href="/atehere/index.php">jfciii Ate Here</a></h1>
+		<h1><a href="index.php">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main">
 		<?php
@@ -141,7 +141,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?></h2>
-		<p id="not-eaten">All the restaurants with an asterisk (<strong>*</strong>) next to them are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+		<p>All the restaurants with the text "<strong>Not eaten yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
     <?php
 		foreach ($posts as $post) {
