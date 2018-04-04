@@ -17,7 +17,7 @@ if (in_array($slct, $locs) && $slct != "") {
 <head>
 	<title>Test page for John F Croston III's Ate Here<?php if ($city != "" && $city != "123") { echo " in ".$city;} ?></title>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<style>
 		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select, img { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
 		select, input[type="submit"] { border: solid 1px #000;}
