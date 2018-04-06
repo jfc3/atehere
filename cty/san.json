@@ -57,6 +57,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Carnitas Snack Shack",
+				"add1": "2632 University Ave,",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92104",
+				"phn": "(619) 294-7675",
+				"url": "http://carnitassnackshack.com/",
+				"note": "Carnitas Snack Shack is a counter-service spot revered for its pork sandwiches, craft beer, and local veggies. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "El Puesto",
 				"add1": "789 W Harbor Dr",
 				"add2": "",
