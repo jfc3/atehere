@@ -141,7 +141,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?></h2>
-		<p>All the restaurants with the text "<strong>Not eaten yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+		<p>All the restaurants with the text "<strong>Not eaten here yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
     <?php
 		foreach ($posts as $post) {
@@ -156,7 +156,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.", ".$post->cty.", ".$post->stt.", ".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "" && $post->phn != "ggg") { echo "<p class='tel'>".$post->phn."</p>";} ?>
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
-			<p><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span class="not-eaten" aria-describedby="not-eaten">Not eaten yet.</span>';} ?></p>
+			<p><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span class="not-eaten" aria-describedby="not-eaten">Not eaten here yet.</span>';} ?></p>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 		</div>
     <?php	}	?>
