@@ -75,6 +75,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Draft",
+				"add1": "3105 Ocean Front Walk",
+				"add2": "",
+				"cty": "San Diego",
+				"stt": "CA",
+				"zpcd": "92109",
+				"phn": "(858) 228-9305",
+				"url": "http://www.draftsandiego.com/",
+				"note": "Draft is a sleek but casual American bar and grill which features small plates along with beer on tap and beach views. You should order their bison burger.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "El Puesto",
 				"add1": "789 W Harbor Dr",
 				"add2": "",
