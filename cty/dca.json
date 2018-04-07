@@ -345,6 +345,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Da Hong Pao Restaurant and Bar",
+				"add1": "1409 14th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20005",
+				"phn": "(202) 846-7229",
+				"url": "",
+				"note": "Da Hong Pao Restaurant and Bar is a bright, basic spot offering a big menu of Chinese classics, with dim sum and a full bar. <strong>NOTE</strong>: They serve dim sum every day from 10:00 AM - 3:00 PM.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Daikaya - Izakaya",
 				"add1": "705 6th St NW",
 				"add2": "",
