@@ -93,6 +93,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Elliot’s Oyster House",
+				"add1": "1201 Alaskan Way",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "(206) 623-4340",
+				"url": "http://www.elliottsoysterhouse.com/",
+				"note": "Elliot’s Oyster House is a waterfront restaurant with a bay view known for its selection of oysters and sustainable seafood. You need to order the Salmon Ruben.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Ezell's Famous Chicken",
 				"add1": "501 23rd Ave",
 				"add2": "",
