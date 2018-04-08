@@ -237,6 +237,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Great NY Noodletown",
+				"add1": "28 Bowery",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10013",
+				"phn": "(212) 349-0923",
+				"url": "http://www.greatnynoodletown.net/",
+				"note": "Great NY Noodletown serves salt-baked seafood, handmade noodles, soups & roast meat are served in a spartan setting.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Haandi",
 				"add1": "113 Lexington Ave",
 				"add2": "",
