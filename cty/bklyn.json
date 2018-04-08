@@ -37,6 +37,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Totonno’s",
+				"add1": "1524 Neptune Ave",
+				"add2": "",
+				"cty": "Brooklyn",
+				"stt": "NY",
+				"zpcd": "11224",
+				"phn": "(718) 372-8606",
+				"url": "https://www.totonnosconeyisland.com/",
+				"note": "Totonno’s is a beloved old-school joint furnishing thin-crust coal-oven pizza to Coney Island crowds since 1924.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
