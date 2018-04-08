@@ -21,6 +21,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Busy Bee Cafe",
+				"add1": "810 Martin Luther King Jr Dr NW",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30314",
+				"phn": "(404) 525-9212",
+				"url": "http://www.thebusybeecafe.com/",
+				"note": "Busy Bee Cafe is a circa-1947 downtown classic that still serves traditional soul food at budget prices in a cozy storefront. You need to order the fried chicken.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Callie’s Hot Little Biscuit",
 				"add1": "1004 Virginia Ave NE",
 				"add2": "",
