@@ -39,6 +39,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Cabot’s Ice Cream",
+				"add1": "743 Washington St",
+				"add2": "",
+				"cty": "Newton",
+				"stt": "MA",
+				"zpcd": "02460",
+				"phn": "(617) 964-9200",
+				"url": "http://www.cabots.com/",
+				"note": "Cabot’s Ice Cream is a family-friendly diner with dozens of ice cream flavors and three square meals in a nostalgic setting. Order the peanut butter fluff boat.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Cutty’s",
 				"add1": "284 Washington St",
 				"add2": "",
