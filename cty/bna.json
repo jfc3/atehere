@@ -109,6 +109,24 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Rotier's Restaurant",
+				"add1": "2413 Elliston Pl",
+				"add2": "",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37203",
+				"phn": "(615) 327-9892",
+				"url": "http://www.rotiersrestaurant.com/",
+				"note": "Rotier's Restaurant is an old-fashioned bar and grill known for cheeseburgers on French bread and thick milkshakes. It’s a meat and three places that serve great burgers too.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
         ]
     }
