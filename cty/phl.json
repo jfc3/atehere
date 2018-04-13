@@ -235,8 +235,25 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Umai Umai",
+				"add1": "533 N 22nd St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19130",
+				"phn": "(215) 988-0707",
+				"url": "http://www.umai-umai.com/",
+				"note": "Umai Umai is n inventive sushi, specialty rolls, and hot entrees are offered in contemporary, intimate surroundings.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
             }
-
         ]
     }
 }
