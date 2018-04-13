@@ -75,6 +75,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Central Grocery",
+				"add1": "923 Decatur St",
+				"add2": "",
+				"cty": "New Orleans",
+				"stt": "LA",
+				"zpcd": "70116",
+				"phn": "(504) 523-1620",
+				"url": "http://centralgrocery.com/",
+				"note": "Central Grocery is a small Italian market selling specialty foods and muffuletta sandwiches, which its founder invented.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Dante’s Kitchen",
 				"add1": "736 Dante St",
 				"add2": "",
