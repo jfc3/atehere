@@ -201,6 +201,24 @@
 				"fcbk": "ppp"
             },
             {
+                "name": "Cowbell Kitchen",
+				"add1": "116 E Market St",
+				"add2": "",
+				"cty": "Leesburg",
+				"stt": "VA",
+				"zpcd": "20176",
+				"phn": "(304) 433-7665",
+				"url": "https://www.cowbellkitchen.com/",
+				"note": "Cowbell Kitchen is a farm and local producer-driven food business. They have built strong relationships with like-minded small food businesses, ranging from an 8th generation farmer and beekeeper schooled by her Grandmother to a salad greens genius growing on a historic Charles Washington farm. If you can't make it out to Leesburg, VA, look for them at Virginia, Maryland, and DC farmers markets. Were you should order their smoked bacon, egg, and cheese breakfast sandwich. Don't forget to get some of their home-made ketchup which still looking to buy. Another thing to get is their chocolate chip cookies with sea salt sprinkled on top or a hand pie if they have them.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"prc": "mmm",
+				"fdtyp": "nnn",
+				"twttr": "ooo",
+				"fcbk": "ppp"
+            },
+            {
                 "name": "Dairy Godmother",
 				"add1": "2310 Mt Vernon Ave",
 				"add2": "",
