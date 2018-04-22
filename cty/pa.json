@@ -15,10 +15,15 @@
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/8/7514/16112662450_7e1ef3c0b6_n.jpg",
 				"cptn": "Cheese, mushroom, green pepper omelette, with hash browns, wheat toast, scrapple for $10.04 in Somerset, PA, at the Summit Diner.",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
