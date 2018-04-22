@@ -15,10 +15,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Harris Avenue Cafe",
@@ -33,10 +38,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Good To Go Meat Pies",
@@ -51,10 +61,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Tony's Coffee",
@@ -69,10 +84,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Vashon Island Coffee Roasterie",
@@ -87,10 +107,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Woods Coffee (Boulevard Park)",
@@ -105,10 +130,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
