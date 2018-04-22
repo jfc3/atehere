@@ -15,10 +15,15 @@
 				"eaten": "yes",
 				"photo": "https://c1.staticflickr.com/9/8575/16121431258_9c111d4afc_n.jpg",
 				"cptn": "Cheese omelette, rye toast, and corned beef hash at Big Al's Diner in Cleveland, Ohio",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Crop Bistro & Bar",
@@ -33,10 +38,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Frank's Bratwurst",
@@ -51,10 +61,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Great Lakes Brewing Company",
@@ -69,10 +84,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
 	            "name": "The Greenhouse Tavern",
@@ -87,10 +107,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
 	        },
             {
                 "name": "Happy Dog East",
@@ -105,10 +130,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Hot Sauce Williams",
@@ -123,10 +153,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Lola Bistro",
@@ -141,10 +176,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Sokolowski's University Inn",
@@ -159,10 +199,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Steve's Gyro's",
@@ -177,10 +222,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Slyman's Restaurant",
@@ -195,10 +245,15 @@
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "West Side Market",
@@ -213,10 +268,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "West Side Market Cafe",
@@ -231,10 +291,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
