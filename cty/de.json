@@ -15,10 +15,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Go Fish!",
@@ -33,10 +38,15 @@
 				"eaten": "yes",
 				"photo": "https://c2.staticflickr.com/6/5496/9397745894_3f331dae70_n.jpg",
 				"cptn": "Fish and chips (french fries for the Americans) with a side of curry sauce. Well worth the long drive home from Go Fish in Rehobooth Beach, DE",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             },
             {
                 "name": "Hopkins Farm Creamery",
@@ -51,10 +61,15 @@
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
-				"prc": "mmm",
-				"fdtyp": "nnn",
-				"twttr": "ooo",
-				"fcbk": "ppp"
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
