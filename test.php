@@ -149,7 +149,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	?>
 		<div class="vcard">
 		<?php if ($post->url != "" && $post->url != "hhh") { ;?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url" aria-descrivedby="not-eaten"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr" aria-hidden="true">not eaten here yet</span>';} ?></a></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url" aria-descrivedby="not-eaten"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">not eaten here yet</span>';} ?></a></h3>
 		<?php } else { ?>
 			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">not eaten here yet</span>';} ?></h3>
 	    <?php } ?>
