@@ -1162,6 +1162,29 @@
 				"fdtyp": "nnn",
 				"twttr": "ooo",
 				"fcbk": "ppp"
+            },
+            {
+                "name": "Yuca’s Hut",
+				"add1": "2056 Hillhurst Ave",
+				"add2": "",
+				"cty": "Los Angeles",
+				"stt": "CA",
+				"zpcd": "90027",
+				"phn": "(323) 662-1214",
+				"url": "http://www.yucasla.com/",
+				"note": "Yuca’s Hut is a longtime taco shack lures foodies with Mexican fare, including cochinita pibil, and carnitas burritos. Yuca’s Hut is the only James Beard Award-winning taco stand. Order the tamales or the tacos.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
