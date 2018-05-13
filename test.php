@@ -160,6 +160,8 @@ if (in_array($slct, $locs) && $slct != "") {
 				<p class="not-eaten">Not eaten here yet.</p>
 			<?php	}	?>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
+			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."'></p>";} ?>
+			<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."'></p>";} ?>
 		</div>
     <?php	}	?>
 		<p><a href="#cntnt">Return to Top of Page</a></p>
