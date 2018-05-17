@@ -231,6 +231,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Silver Sands Café",
+				"add1": "937 Locklayer St",
+				"add2": "",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37208",
+				"phn": "(615) 780-9900",
+				"url": "https://www.silversandscafe.com/",
+				"note": "Silver Sands Café is a family owned restaurant that serves some of the best homemade southern style food in the Downtown Nashville area. Popular family recipes have been passed down three generations now, including smothered pork chops, potatoes, and onions, salmon croquettes, fried chicken, mac and cheese, greens, hot water cornbread, and so much more.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
