@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.2
+* Release Number:  v.0.6.3
 * Release Date: 05-25-2018
 
 ## Overview
@@ -24,8 +24,10 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Chicago, IL - chi
 * Cleveland, PA - cle
 * Columbus, OH - col
+* Dallas, TX - dal
 * Delaware - de
 * Denver, CO - den
+* Detroit, MI - det
 * Florida - fl
 * Frederick, MD - fdk
 * Houston, TX - hou
@@ -87,6 +89,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Dallas, TX to the drop down list and created necessary DAL JSON file.
 * Added Detroit, MI to the drop down list and created necessary DET JSON file.
 * Added Miami, FL to the drop down list and created necessary MIA JSON file.
 * Added ability to add two photos and the necessary ALT text for each restaurant. A bit more testing is needed to make sure it doesn't slow the page down to much.
