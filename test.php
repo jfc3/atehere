@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "test", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chs", "chi", "cle", "col", "dca", "de", "den", "det", "fdk", "fl", "hou", "ky", "las", "lax", "lou", "md", "mem", "mi", "mia", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "wa", "wi");
+$locs = array("", "test", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chs", "chi", "cle", "col", "dal", "dca", "de", "den", "det", "fdk", "fl", "hou", "ky", "las", "lax", "lou", "md", "mem", "mi", "mia", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -90,6 +90,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="chi">Chicago, IL</option>
 				<option value="cle">Cleveland, PA</option>
 				<option value="col">Columbus, OH</option>
+				<option value="dal">Dallas, TX</option>
 				<option value="de">Delaware</option>
 				<option value="den">Denver, CO</option>
 				<option value="det">Detroit, MI</option>
