@@ -70,6 +70,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Whistle Britches",
+				"add1": "6110 Frankford Rd",
+				"add2": "",
+				"cty": "Dallas",
+				"stt": "TX",
+				"zpcd": "75252",
+				"phn": "(972) 590-8991",
+				"url": "http://whistlebritcheschicken.com/",
+				"note": "Whistle Britches serves fried chicken and biscuits, meet beer and cocktails at this airy, rustic spot with an expansive patio. You need to order the Hot Jane chicken sandwich.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
