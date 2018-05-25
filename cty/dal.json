@@ -47,6 +47,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "One90 Smoked Meats",
+				"add1": "10240 Northwest Hwy",
+				"add2": "",
+				"cty": "Dallas",
+				"stt": "TX",
+				"zpcd": "75238",
+				"phn": "214) 346-3287",
+				"url": "http://one90smokedmeats.com/",
+				"note": "One90 Smoked Meats is the home to passionate artists, meticulous craftsmen, and innovative nerds. They are all three along with combining the old-school craft of the pit master with a high-tech vacuum seal, where they can serve delectable smoked meats at home in just 10 minutes. You need to order the smoked duck sandwich.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
