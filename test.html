@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Testing aria-describedby for messages about if I have eaten at a location - John F Croston III's Ate Here in Alabama</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<style>
+		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select, img { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
+		select, input[type="submit"] { border: solid 1px #000;}
+		select:focus, select:active, input[type="submit"]:focus, input[type="submit"]:active { outline: solid 2px #000;}
+		body { background: #BEFF9E; color: #000; font-family: Helvetica, Verdana, Arial, sans-serif; line-height: 1;}
+		#wrap { margin: 0 auto;}
+		#hdr { background: #ACC7FF;}
+		#cntnt, #ftr { padding: 1em; background: #fff; border-top: 1px solid #000;}
+		a, h1, h2, h3, strong { font-weight: bold;}
+		h2, h3 { margin: .5em 0;}
+		h1 { font-size: 2em; padding: .25em .5em;}
+		h1 a { text-decoration: none;}
+		h1 a:hover, h1 a:focus, h1 a:active { text-decoration: underline;}
+		h2 { font-size: 1.75em;}
+		h3 { font-size: 1.5em;}
+		a:hover, a:focus, a:active { text-decoration: none;}
+		p { margin: 1em 0; line-height: 1.25em;}
+		#ftr p { margin: .75em 0;}
+		a, a:visited { color: #000;}
+		img { width: 100%;}
+		form { margin: 1em 0;}
+		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
+		label { position: relative; display: block;}
+		select { width: 100%; margin: 0 .5em 0 0;}
+		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
+		.scrn-rdr { position: absolute; left: -10000px; top: auto;}
+		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
+		.rest-addr { font-weight: normal;}
+		.vcard { border-bottom: solid 2px #000;}
+		.not-eaten {font-size: .938em; font-weight: bold;}
+		@media screen and (min-width: 32.5em) {
+			#wrp { width: 100%;}
+			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
+			#cntnt { padding-top: 0;}
+			#hdr, #cntnt { border-bottom: 0;}
+			h2, h3 { padding: .25em 0 0 0;}
+			h1 { font-size: 2.5em; text-align: center; padding: 0;}
+			h2 { font-size: 2em; padding: 0 .5em 0 0;}
+			h3 { font-size: 1.5em;}
+			p { line-height: 1.5em;}
+			label { display: inline;}
+			select { width: 12.5em;}
+		}
+	</style>
+</head>
+<body>
+<div id="wrap">
+	<div id="hdr" role="banner">
+		<h1><a href="index.php">jfciii Ate Here</a></h1>
+	</div>
+	<div id="cntnt" role="main">
+				<form name="RequestForm" method="get" action="index.php">
+			<label for="slct" class="scrn-rdr">Choose a location</label>
+			<select id="slct" name="slct">
+				<option value="xxx">Select a location</option>
+				<option value="al">Alabama</option>
+				<option value="ann">Annapolis, MD</option>
+				<option value="atl">Atlanta, GA</option>
+				<option value="aus">Austin, TX</option>
+				<option value="bal">Baltimore, MD</option>
+				<option value="bos">Boston, MA</option>
+				<option value="bklyn">Brooklyn, NY</option>
+				<option value="buf">Buffalo, NY</option>
+				<option value="ca">California</option>
+				<option value="chs">Charleston, SC</option>
+				<option value="chi">Chicago, IL</option>
+				<option value="cle">Cleveland, PA</option>
+				<option value="col">Columbus, OH</option>
+				<option value="de">Delaware</option>
+				<option value="den">Denver, CO</option>
+				<option value="fl">Florida</option>
+				<option value="fdk">Frederick, MD</option>
+				<option value="hou">Houston, TX</option>
+				<option value="ky">Kentucky</option>
+				<option value="las">Las Vegas, NV</option>
+				<option value="lax">Los Angeles, CA</option>
+				<option value="lou">Louisville, KY</option>
+				<option value="md">Maryland</option>
+				<option value="mem">Memphis, TN</option>
+				<option value="mi">Michigan</option>
+				<option value="ms">Mississippi</option>
+				<option value="bna">Nashville, TN</option>
+				<option value="nj">New Jersey</option>
+				<option value="msy">New Orleans, LA</option>
+				<option value="nyc">New York, NY</option>
+				<option value="nc">North Carolina</option>
+				<option value="nocal">Northern California</option>
+				<option value="nva">Northern Virginia</option>
+				<option value="oak">Oakland, CA</option>
+				<option value="ocnj">Ocean City, NJ</option>
+				<option value="pa">Pennsylvania</option>
+				<option value="phl">Philadelphia, PA</option>
+				<option value="phx">Phoenix, AZ</option>
+				<option value="pdx">Portland, OR</option>
+				<option value="rdu">Raleigh, NC</option>
+				<option value="roc">Rochester, NY</option>
+				<option value="san">San Diego, CA</option>
+				<option value="sfo">San Francisco, CA</option>
+				<option value="sea">Seattle, WA</option>
+				<option value="socal">Southern California</option>
+				<option value="sc">South Carolina</option>
+				<option value="stl">St. Louis, MO</option>
+				<option value="syr">Syracuse, NY</option>
+				<option value="tn">Tennessee</option>
+				<option value="wa">Washington</option>
+				<option value="dca">Washington, DC</option>
+				<option value="wi">Wisconsin</option>
+			</select>
+			<input class="submit" type="submit" value="Submit">
+		</form>
+			<h2>Alabama</h2>
+			<p id"not-eaten">All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<strong id="not-eaten2">Not eaten here yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+			<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
+    		<div class="vcard">
+				<h3 class="fn" id="johnnysrestaurant" tabindex="-1"><a href="http://www.johnnyshomewood.com/" class="url">Asterisk and aria-label<span aria-label="not eaten here yet"> *</span></a></h3>
+				<p><a href="https://www.google.com/maps/place/2902+18th+St+S%2C+Homewood%2C+AL%2C+35209" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address">2902 18th St S</span><br /> <span class="locality">Homewood</span>, <span class="region">AL</span> <span class="postal-code">35209</span></span></a></p>
+				<p class='tel'>(205) 802-2711</p>
+				<p class="note">Johnny's Restaurant is a modern counter serve dishing out traditional Southern eats, including BBQ, plus classic Greek bites. Recommended by John T. Edge.</p>
+				<p class="not-eaten">Not eaten here yet.</p>
+			</div>
+    		<div class="vcard">
+				<h3 class="fn" id="manciantiqueclub" tabindex="-1"><a href="http://www.mancisantiqueclub.com/" class="url" aria-describedby="not-eaten2">STRONG and Link *</a></h3>
+				<p><a href="https://www.google.com/maps/place/1715+Main+St%2C+Daphne%2C+AL%2C+36526" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address">1715 Main St</span><br /> <span class="locality">Daphne</span>, <span class="region">AL</span> <span class="postal-code">36526</span></span></a></p>
+				<p class='tel'>(251) 375-0543</p>
+				<p class="note">Manci Antique Club is an offbeat option with a bar and outdoor seating for po'boys and other Southern-style sandwiches. From what I surmise from their website they have live music some nights. You need to eat the shrimp or seafood po' boy.</p>
+				<p class="not-eaten">Not eaten here yet.</p>
+			</div>
+    		<div class="vcard">
+				<h3 class="fn" id="manciantiqueclub" tabindex="-1"><a href="http://www.mancisantiqueclub.com/" class="url">strong aria-labeledby on asterisk<span aria-labeledby="not-eaten3"> *</span></a></h3>
+				<p><a href="https://www.google.com/maps/place/1715+Main+St%2C+Daphne%2C+AL%2C+36526" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address">1715 Main St</span><br /> <span class="locality">Daphne</span>, <span class="region">AL</span> <span class="postal-code">36526</span></span></a></p>
+				<p class='tel'>(251) 375-0543</p>
+				<p class="note">Manci Antique Club is an offbeat option with a bar and outdoor seating for po'boys and other Southern-style sandwiches. From what I surmise from their website they have live music some nights. You need to eat the shrimp or seafood po' boy.</p>
+				<p id="not-eaten3" class="not-eaten">Not eaten here yet.</p>
+			</div>
+    		<div class="vcard">
+				<h3 class="fn" id="manciantiqueclub" tabindex="-1"><a href="http://www.mancisantiqueclub.com/" class="url"  aria-describedby="not-eaten4">From end note and Link<span> *</span></a></h3>
+				<p><a href="https://www.google.com/maps/place/1715+Main+St%2C+Daphne%2C+AL%2C+36526" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address">1715 Main St</span><br /> <span class="locality">Daphne</span>, <span class="region">AL</span> <span class="postal-code">36526</span></span></a></p>
+				<p class='tel'>(251) 375-0543</p>
+				<p class="note">Manci Antique Club is an offbeat option with a bar and outdoor seating for po'boys and other Southern-style sandwiches. From what I surmise from their website they have live music some nights. You need to eat the shrimp or seafood po' boy.</p>
+				<p id="not-eaten4" class="not-eaten">Not eaten here yet.</p>
+			</div>
+    		<div class="vcard">
+				<h3 class="fn" id="manciantiqueclub" tabindex="-1"><a href="http://www.mancisantiqueclub.com/" class="url">Asterisk and end note<span aria-describedby="not-eaten5"> *</span></a></h3>
+				<p><a href="https://www.google.com/maps/place/1715+Main+St%2C+Daphne%2C+AL%2C+36526" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address">1715 Main St</span><br /> <span class="locality">Daphne</span>, <span class="region">AL</span> <span class="postal-code">36526</span></span></a></p>
+				<p class='tel'>(251) 375-0543</p>
+				<p class="note">Manci Antique Club is an offbeat option with a bar and outdoor seating for po'boys and other Southern-style sandwiches. From what I surmise from their website they have live music some nights. You need to eat the shrimp or seafood po' boy.</p>
+				<p id="not-eaten5" class="not-eaten">Not eaten here yet.</p>
+			</div>
+    		<p><a href="#cntnt">Return to Top of Page</a></p>
+		</div>
+	<div id="ftr" role="contentinfo">
+		<p>&copy; 2016 - 2018 - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com/jfc3">@jfc3</a></p>
+		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from Ate Here - Alabama (al)">Questions?</a> <a href="https://github.com/jfc3/atehere">GitHub</a></p>
+	</div>
+</div>
+<script src="../js/google.js"></script>
+</body>
+</html>
