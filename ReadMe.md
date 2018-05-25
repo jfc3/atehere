@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.1
-* Release Date: 05-19-2018
+* Release Number:  v.0.6.2
+* Release Date: 05-25-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -87,6 +87,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Detroit, MI to the drop down list and created necessary DET JSON file.
 * Added Miami, FL to the drop down list and created necessary MIA JSON file.
 * Added ability to add two photos and the necessary ALT text for each restaurant. A bit more testing is needed to make sure it doesn't slow the page down to much.
 * Changed key-value pair separator in meta element from semicolon to a comma along with changing initial scale from 1.0 to 1 for both the INDEX.php and TEST.php pages.
