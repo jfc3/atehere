@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.4
+* Release Number:  v.0.6.5
 * Release Date: 05-26-2018
 
 ## Overview
@@ -25,6 +25,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Cincinnati, OH - cin
 * Cleveland, PA - cle
 * Columbus, OH - col
+* Connecticut - ct
 * Dallas, TX - dal
 * Delaware - de
 * Denver, CO - den
@@ -90,7 +91,8 @@ Features:
 
 Enhancements with most recent on top:
 
-* Add Cincinnati, OH to the drop down list and created necessary CIN JSON file.
+* Added Connecticut  to the drop down list and created necessary CT JSON file.
+* Added Cincinnati, OH to the drop down list and created necessary CIN JSON file.
 * Added Dallas, TX to the drop down list and created necessary DAL JSON file.
 * Added Detroit, MI to the drop down list and created necessary DET JSON file.
 * Added Miami, FL to the drop down list and created necessary MIA JSON file.
