@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.3
-* Release Date: 05-25-2018
+* Release Number:  v.0.6.4
+* Release Date: 05-26-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -22,6 +22,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Califorani - ca
 * Charleston, SC - chs
 * Chicago, IL - chi
+* Cincinnati, OH - cin
 * Cleveland, PA - cle
 * Columbus, OH - col
 * Dallas, TX - dal
@@ -89,6 +90,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Add Cincinnati, OH to the drop down list and created necessary CIN JSON file.
 * Added Dallas, TX to the drop down list and created necessary DAL JSON file.
 * Added Detroit, MI to the drop down list and created necessary DET JSON file.
 * Added Miami, FL to the drop down list and created necessary MIA JSON file.
