@@ -346,6 +346,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Tupelo Doughnuts",
+				"add1": "2672 Billingsley Rd",
+				"add2": "",
+				"cty": "Columbus",
+				"stt": "OH",
+				"zpcd": "43235",
+				"phn": "(614) 226-2417",
+				"url": "https://tupelodoughnuts.com/",
+				"note": "Tupelo Doughnuts welcomes walk-ins at shop kitchen. So preorder so don’t sell out on you. They are dedicated to being more than a place to punch in and go to work. Tupelo creates a focus on a better life to include involvement in charity each month with a different cause. <strong>NOTE</strong>: They have multiple locations and even two food/doughnut trucks.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
