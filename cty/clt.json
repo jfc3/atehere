@@ -24,6 +24,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Heist Brewery",
+				"add1": "2909 N Davidson St",
+				"add2": "#200",
+				"cty": "Charlotte",
+				"stt": "NC",
+				"zpcd": "28205",
+				"phn": "(704) 375-8260",
+				"url": "https://heistbrewery.com/",
+				"note": "Heist Brewery is an inventive pub fare, craft beers produced on-site, and served in an industrial setting with a patio.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
