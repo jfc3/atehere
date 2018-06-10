@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.5
-* Release Date: 05-26-2018
+* Release Number:  v.0.6.7
+* Release Date: 06-10-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -21,6 +21,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Boston, MA - bos
 * Califorani - ca
 * Charleston, SC - chs
+* Charlotte, NC - clt
 * Chicago, IL - chi
 * Cincinnati, OH - cin
 * Cleveland, PA - cle
@@ -91,6 +92,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Charlotte, NC to the drop down list and created necessary CLT JSON file.
 * Updated necessary "Not eaten here yet" code to the application.
 * Added Connecticut to the drop down list and created necessary CT JSON file.
 * Added Cincinnati, OH to the drop down list and created necessary CIN JSON file.
