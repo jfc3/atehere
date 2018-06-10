@@ -91,7 +91,8 @@ Features:
 
 Enhancements with most recent on top:
 
-* Added Connecticut  to the drop down list and created necessary CT JSON file.
+* Updated necessary "Not eaten here yet" code to the application.
+* Added Connecticut to the drop down list and created necessary CT JSON file.
 * Added Cincinnati, OH to the drop down list and created necessary CIN JSON file.
 * Added Dallas, TX to the drop down list and created necessary DAL JSON file.
 * Added Detroit, MI to the drop down list and created necessary DET JSON file.
