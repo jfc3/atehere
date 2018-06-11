@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.6.7
+* Release Number:  v.0.7.0
 * Release Date: 06-10-2018
 
 ## Overview
@@ -92,6 +92,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Updated code to allow HRS to be displayed after the "Not eaten here yet" text if applicable and before the photos for the TEST.json and the NVA.json files.
 * Added Charlotte, NC to the drop down list and created necessary CLT JSON file.
 * Updated necessary "Not eaten here yet" code to the application.
 * Added Connecticut to the drop down list and created necessary CT JSON file.
