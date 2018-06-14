@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "test", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chs", "chi", "cin", "cle", "col", "clt", "ct", "dal", "dca", "de", "den", "det", "fdk", "fl", "hou", "ky", "las", "lax", "lou", "md", "mem", "mi", "mia", "ms", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "wa", "wi");
+$locs = array("", "test", "al", "ann", "atl", "aus", "bal", "bklyn", "bna", "bos", "buf", "ca", "chs", "chi", "cin", "cle", "col", "clt", "ct", "dal", "dca", "de", "den", "det", "fdk", "fl", "hou", "ky", "las", "lax", "lou", "md", "mem", "mi", "mia", "ms", "msp", "msy", "nc", "nj", "nocal", "nyc","nva", "oak", "ocnj", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -108,6 +108,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="mem">Memphis, TN</option>
 				<option value="mia">Miami, FL</option>
 				<option value="mi">Michigan</option>
+				<option value="msp">Minneapolis–Saint Paul, MN</option>
 				<option value="ms">Mississippi</option>
 				<option value="bna">Nashville, TN</option>
 				<option value="nj">New Jersey</option>
