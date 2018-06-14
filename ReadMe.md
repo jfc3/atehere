@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.0
-* Release Date: 06-10-2018
+* Release Number:  v.0.7.1
+* Release Date: 06-13-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -41,6 +41,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Memphis, TN - mem
 * Miami, FL - mia
 * Michigan - mi
+* Minneapolis–Saint Paul, MN - msp
 * Mississippi - ms
 * New Jersey - nj
 * New Orleans, LA - msy
@@ -92,6 +93,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Minneapolis–Saint Paul, MN to the drop down list and created necessary MSP JSON file.
 * Updated code to allow HRS to be displayed after the "Not eaten here yet" text if applicable and before the photos for the TEST.json and the NVA.json files.
 * Added Charlotte, NC to the drop down list and created necessary CLT JSON file.
 * Updated necessary "Not eaten here yet" code to the application.
