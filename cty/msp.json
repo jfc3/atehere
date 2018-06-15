@@ -93,6 +93,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Surly Brewing Company",
+				"add1": "520 Malcolm Ave SE",
+				"add2": "",
+				"cty": "Robbinsdale",
+				"stt": "MN",
+				"zpcd": "55414",
+				"phn": "(763) 999-4040",
+				"url": "http://surlybrewing.com/",
+				"note": "Surly Brewing Company is a bustling venue with tavern grub and their own microbrews, plus an upstairs eatery with beer pairings and pizza.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
