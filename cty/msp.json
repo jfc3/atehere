@@ -47,6 +47,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Matt's Bar and Grill",
+				"add1": "3500 Cedar Avenue",
+				"add2": "",
+				"cty": "Minneapolis",
+				"stt": "MN",
+				"zpcd": "55407",
+				"phn": "(612) 722-7072",
+				"url": "http://www.mattsbar.com/",
+				"note": "Matt's Bar and Grill is a circa-1954, cash-only beer and burger joint celebrated for its cheese-stuffed patty, the Jucy Lucy.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
