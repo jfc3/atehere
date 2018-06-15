@@ -70,6 +70,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Pig Ate My Pizza",
+				"add1": "4154 W Broadway Ave",
+				"add2": "",
+				"cty": "Robbinsdale",
+				"stt": "MN",
+				"zpcd": "55422",
+				"phn": "(763) 537-7267",
+				"url": "https://www.travailkitchen.com/pigatemypizza/",
+				"note": "Pig Ate My Pizza is a high-energy pizza joint serving imaginative pies and draft beers amid pig-themed decor.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
