@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.2
+* Release Number:  v.0.7.3
 * Release Date: 06-17-2018
 
 ## Overview
@@ -94,6 +94,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Colorado to the drop down list and created necessary CO JSON file alogn with restaurants from both BLDR and DEN JSON files.
 * Added Boulder, CO to the drop down list and created necessary BLDR JSON file.
 * Added Minneapolis–Saint Paul, MN to the drop down list and created necessary MSP JSON file.
 * Updated code to allow HRS to be displayed after the "Not eaten here yet" text if applicable and before the photos for the TEST.json and the NVA.json files.
