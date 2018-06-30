@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.5
-* Release Date: 06-22-2018
+* Release Number:  v.0.7.6
+* Release Date: 06-30-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -96,6 +96,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Created NOTEATEN.php page to use at larger cities to easily see where I haven't eaten at yet.
 * Added Maine to the drop down list and created necessary ME JSON file.
 * Added Virginia to the drop down list and created necessary VA JSON file.
 * Added Colorado to the drop down list and created necessary CO JSON file alogn with restaurants from both BLDR and DEN JSON files.
