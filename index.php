@@ -182,6 +182,5 @@ if (in_array($slct, $locs) && $slct != "") {
 		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from Ate Here<?php if ($slct != "" && $slct != "xxx") { echo " - ".$city." ($slct)";} ?>">Questions?</a> <a href="https://github.com/jfc3/atehere">GitHub</a></p>
 	</div>
 </div>
-<script src="../js/google.js"></script>
 </body>
 </html>
