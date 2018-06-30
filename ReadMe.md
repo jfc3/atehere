@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.6
+* Release Number:  v.0.7.7
 * Release Date: 06-30-2018
 
 ## Overview
@@ -96,6 +96,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Removed Googel Analytics fron the INDEX.php, TEST.php, and NOTEATEN.php pages.
 * Created NOTEATEN.php page to use at larger cities to easily see where I haven't eaten at yet.
 * Added Maine to the drop down list and created necessary ME JSON file.
 * Added Virginia to the drop down list and created necessary VA JSON file.
