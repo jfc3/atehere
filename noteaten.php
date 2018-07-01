@@ -66,14 +66,14 @@ if (in_array($slct, $locs) && $slct != "") {
 <body>
 <div id="wrap">
 	<div id="hdr" role="banner">
-		<h1><a href="index.php">jfciii Ate Here</a></h1>
+		<h1><a href="noteaten.php">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main">
 		<?php
 		if (!in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
 		}	?>
-		<form name="RequestForm" method="get" action="index.php">
+		<form name="RequestForm" method="get" action="noteaten.php">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
 				<option value="xxx">Select a location</option>
