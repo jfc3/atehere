@@ -139,6 +139,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Yardbird Southern Table and Bar",
+				"add1": "1600 Lenox Ave",
+				"add2": "",
+				"cty": "Miami Beach",
+				"stt": "FL",
+				"zpcd": "33139",
+				"phn": "(305) 538-5220",
+				"url": "https://www.runchickenrun.com/location/miami/",
+				"note": "Yardbird Southern Table and Bar is a rustic outpost attracting foodies with inventive farm-to-table Southern comfort food and bourbon bar. You need to order the deviled eggs and the shrimp and grits. <strong>NOTE</strong>: They have other locations around the United States.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
