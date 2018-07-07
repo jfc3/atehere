@@ -139,6 +139,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Yardbird Southern Table and Bar",
+				"add1": "3355 S Las Vegas Blvd",
+				"add2": "The Grand Canal Shoppes",
+				"cty": "Las Vegas",
+				"stt": "NV",
+				"zpcd": "89109",
+				"phn": "(702) 297-6541",
+				"url": "https://www.runchickenrun.com/location/las-vegas/",
+				"note": "Yardbird Southern Table and Bar is a traditional Southern eatery with themed decor, chicken, and waffles, grits and more, plus craft cocktails. You need to order the deviled eggs and the shrimp and grits. <strong>NOTE</strong>: They have other locations around the United States.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
