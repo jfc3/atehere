@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.7
-* Release Date: 06-30-2018
+* Release Number:  v.0.7.9
+* Release Date: 08-04-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -67,6 +67,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * St. Louis, MO - stl
 * Syracuse, NY - syr
 * Tennessee - tn
+* Texas - tx
 * Virginia - va
 * Washington, DC - dca
 * Washington - wa
@@ -96,6 +97,8 @@ Features:
 
 Enhancements with most recent on top:
 
+* Created TX (Texas) JSON file by combining AUS, DAL, and HOU JSON files.
+* Added Texas to the drop down list and created necessary TX JSON file.
 * Removed Googel Analytics fron the INDEX.php, TEST.php, and NOTEATEN.php pages.
 * Created NOTEATEN.php page to use at larger cities to easily see where I haven't eaten at yet.
 * Added Maine to the drop down list and created necessary ME JSON file.
