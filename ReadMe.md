@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.9
-* Release Date: 08-04-2018
+* Release Number:  v.0.7.10
+* Release Date: 08-12-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -97,6 +97,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Updated ReadMe file about URL encoding fix for the INDEX.php, TEST.php, and NOTEATEN.php pages.
 * Created TX (Texas) JSON file by combining AUS, DAL, and HOU JSON files.
 * Added Texas to the drop down list and created necessary TX JSON file.
 * Removed Googel Analytics fron the INDEX.php, TEST.php, and NOTEATEN.php pages.
