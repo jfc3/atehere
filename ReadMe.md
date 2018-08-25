@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.10
-* Release Date: 08-12-2018
+* Release Number:  v.0.7.11
+* Release Date: 08-25-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -71,6 +71,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Virginia - va
 * Washington, DC - dca
 * Washington - wa
+* Wilmington, NC - ilm
 * Wisconsin - wi
 
 If you look in the CTY folder, you will find the full version of the city or location. There is a city.josn file that you can use as a tempalte to create other city files.
@@ -97,6 +98,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Wilmington, NC to the drop down list and created necessary ILM JSON file.
 * Updated ReadMe file about URL encoding fix for the INDEX.php, TEST.php, and NOTEATEN.php pages.
 * Created TX (Texas) JSON file by combining AUS, DAL, and HOU JSON files.
 * Added Texas to the drop down list and created necessary TX JSON file.
