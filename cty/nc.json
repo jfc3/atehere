@@ -185,6 +185,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Sweet n Savory Cafe",
+				"add1": "1611 Pavilion Pl",
+				"add2": "",
+				"cty": "Wilmington",
+				"stt": "NC",
+				"zpcd": "28403",
+				"phn": "(910) 256-0115",
+				"url": "https://www.sweetnsavory.cafe/",
+				"note": "Sweet n Savory Cafe has bright murals adorning this cheery cafe with all-day American eats, an on-site bakery, and outdoor seats. Order the deep-fried French Toast or the meatloaf sandwich with tomato jam and candied bacon.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
