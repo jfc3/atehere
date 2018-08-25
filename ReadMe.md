@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.11
+* Release Number:  v.0.7.12
 * Release Date: 08-25-2018
 
 ## Overview
@@ -98,6 +98,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Updated ReadMe file with Charlotte (CLT) and Raleigh (RDU) information.
 * Added Wilmington, NC to the drop down list and created necessary ILM JSON file.
 * Updated ReadMe file about URL encoding fix for the INDEX.php, TEST.php, and NOTEATEN.php pages.
 * Created TX (Texas) JSON file by combining AUS, DAL, and HOU JSON files.
