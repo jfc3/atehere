@@ -162,6 +162,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Victor's 1959 Cafe",
+				"add1": "3756 Grand Ave S",
+				"add2": "",
+				"cty": "Minneapolis",
+				"stt": "MN",
+				"zpcd": "55409",
+				"phn": "(612) 827-8948",
+				"url": "http://victors1959cafe.com/",
+				"note": "Victor's 1959 Cafe has signatures and doodles of former guests adorning walls at this snug Cuban cafe with patio seating.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
