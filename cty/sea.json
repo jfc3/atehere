@@ -1084,6 +1084,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Westman's Bagel and Coffee",
+				"add1": "1509 E Madison St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98122",
+				"phn": "",
+				"url": "http://www.westmansbagel.com/",
+				"note": "Westman's Bagel and Coffee is a sidewalk cafe stop dishing up fresh bagels, schmears of cream cheese, and coffee. The shop is located on the side of the outside of a building, and it's four or six feet deep and about 20 feet long with a handful of metal stools. From what I could find out on the internet it's 300 sq feet. So more like 15 feet by 20 feet or maybe 12 feet by 25 feet with the cooking/baking part in the back and out of sight.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
