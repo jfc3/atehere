@@ -154,7 +154,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?></h2>
-		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<strong id="not-eaten">Not eaten here yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<strong>Not eaten here yet.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
     <?php
 		foreach ($posts as $post) {
@@ -162,14 +162,14 @@ if (in_array($slct, $locs) && $slct != "") {
 	?>
 		<div class="vcard">
 		<?php if ($post->url != "" && $post->url != "hhh") { ;?>
-			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url" aria-descrivedby="not-eaten"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">not eaten here yet</span>';} ?></a></h3>
+			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">not eaten here yet</span>';} ?></a></h3>
 		<?php } else { ?>
 			<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">not eaten here yet</span>';} ?></h3>
 	    <?php } ?>
 			<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.",".$post->cty.",".$post->stt.",".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 			<?php if ($post->phn != "" && $post->phn != "ggg") { echo "<p class='tel'>".$post->phn."</p>";} ?>
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
-			<p><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<span class="not-eaten" aria-describedby="not-eaten">Not eaten here yet.</span>';} ?></p>
+			<?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<p class="not-eaten">Not eaten here yet.</p>';} ?>
 			<?php if ($post->hrs != "" && $post->hrs != "uuu") { echo "<p>".$post->hrs."</p>";} ?>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."'></p>";} ?>
