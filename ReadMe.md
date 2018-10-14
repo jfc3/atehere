@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.13
-* Release Date: 10-06-2018
+* Release Number:  v.0.7.14
+* Release Date: 10-14-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -17,9 +17,10 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Annapolis, MD - ann
 * Austin, TX - aus
 * Baltimore, MD - bal
-* Buffalo, NY - buf
+* Bellingham, WA - bli
 * Boston, MA - bos
 * Boulder, CO - bldr
+* Buffalo, NY - buf
 * Califorani - ca
 * Charleston, SC - chs
 * Charlotte, NC - clt
@@ -98,6 +99,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Bellingham, WA to the drop down list and created necessary BLI JSON file.
 * Removed aria-descrivedby related code and fixed if statement to add tags inside the echo in the INDEX.php file, NOTEATEN.php, and TEST.php.
 * Updated ReadMe file with Charlotte (CLT) and Raleigh (RDU) information.
 * Added Wilmington, NC to the drop down list and created necessary ILM JSON file.
