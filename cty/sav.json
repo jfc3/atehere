@@ -24,6 +24,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "The Grey Market",
+				"add1": "109 Jefferson St",
+				"add2": "",
+				"cty": "Savannah",
+				"stt": "GA",
+				"zpcd": "31401",
+				"phn": "(912) 201-3924",
+				"url": "https://thegreymkt.com/",
+				"note": "The Grey Market combines a Southern lunch counter and New York City-style bodega — bringing a 'come as you are, for anything you need' spirit to a genre made famous as a site of segregation. The Grey Market will serve Savannahians seafood boudin po’ boys, rare roast beef sandwiches, and a curry chicken salad (inspired by the Grey’s Chicken Country Captain) to-go.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
