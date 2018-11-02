@@ -24,6 +24,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Nervous Dog Coffee Bar",
+				"add1": "1530 W Market St",
+				"add2": "ccc",
+				"cty": "Alron",
+				"stt": "OH",
+				"zpcd": "44313",
+				"phn": "(330) 864-2326",
+				"url": "https://www.nervousdog.com/",
+				"note": "Nervous Dog Coffee Bar is a relaxed coffeehouse serving hot drinks and sandwiches in a casual, quirky atmosphere. It's a great little place to relax, read, and get some work done with comfortable seating.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
