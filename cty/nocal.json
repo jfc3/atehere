@@ -254,6 +254,29 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu"
+            },
+            {
+                "name": "Zoftig Eatery",
+				"add1": "57 Montgomery Dr,",
+				"add2": "",
+				"cty": "Santa Rosa",
+				"stt": "CA",
+				"zpcd": "95404",
+				"phn": "(707) 521-9554",
+				"url": "https://www.zoftigeatery.com/",
+				"note": "The chef and owner Matt Spector of Zoftig Eatery uses his fine-dining background to spice up the menu. Order the Korean Burrito which is packed with marinated, local ground beef, pickled vegetables, kimchi, fresh herbs, avocado, and barbeque sauce. Or order the Maccabi Bowl with is a Mediterranean salad with falafel, etc. Recommended by Diners, Drive-ins, and Dives.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu"
             }
         ]
     }
