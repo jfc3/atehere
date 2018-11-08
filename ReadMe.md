@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.17
-* Release Date: 11-02-2018
+* Release Number:  v.0.7.18
+* Release Date: 11-07-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -56,6 +56,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Northern Virginia - nva
 * Oakland, CA - oak
 * Ocean City, NJ - ocnj
+* Ohio - oh
 * Pennsylvania - pa
 * Philadelphia, PA - phl
 * Phoenix, AZ - phx
@@ -102,6 +103,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Ohio to the drop down list and created necessary OH JSON file.
 * Added Akron, OH to the drop down list and created necessary CAK JSON file.
 * Added Georgia to the drop down list and created necessary GA JSON file.
 * Added Savannah, GA to the drop down list and created necessary SAV JSON file.
