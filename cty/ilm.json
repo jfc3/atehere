@@ -23,7 +23,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Fork N’ Cork",
@@ -46,7 +47,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Something Fishy Seafood",
@@ -69,7 +71,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Sweet n Savory Cafe",
@@ -92,7 +95,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
