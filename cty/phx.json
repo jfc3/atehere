@@ -23,7 +23,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Mrs White's Golden Rule Cafe",
@@ -45,7 +46,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Over Easy",
@@ -68,7 +70,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Tacos Chiwas",
@@ -91,7 +94,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
