@@ -23,7 +23,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Crawfish and Noodles",
@@ -46,7 +47,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Cuchara Restaurant",
@@ -69,7 +71,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Cue’s Burgers and More",
@@ -92,7 +95,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Glazed the Doughnut Cafe",
@@ -115,7 +119,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Irma's Original",
@@ -138,7 +143,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Nam Giao Restaurant and Bakery",
@@ -161,7 +167,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Underbelly",
@@ -184,7 +191,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
