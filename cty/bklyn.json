@@ -23,7 +23,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Hometown Bar-B-Que",
@@ -46,7 +47,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Du's Donuts",
@@ -69,7 +71,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Totonno’s",
@@ -92,7 +95,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
