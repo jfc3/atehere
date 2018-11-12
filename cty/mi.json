@@ -23,7 +23,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Union Woodshop",
@@ -46,7 +47,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu"
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
