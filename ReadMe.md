@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.18
-* Release Date: 11-07-2018
+* Release Number:  v.0.7.19
+* Release Date: 11-17-2018
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -103,6 +103,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added logic to allow recommendations (rcmmnd) to be added to the application in the INDEX.php file, NOTEATEN.php, and TEST.php.
 * Added Ohio to the drop down list and created necessary OH JSON file.
 * Added Akron, OH to the drop down list and created necessary CAK JSON file.
 * Added Georgia to the drop down list and created necessary GA JSON file.
