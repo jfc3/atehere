@@ -121,6 +121,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Nana’s Seafood and Soul",
+				"add1": "176 Line St",
+				"add2": "",
+				"cty": "Charleston",
+				"stt": "SC",
+				"zpcd": "29403",
+				"phn": "(843) 937-0002",
+				"url": "http://www.nanasseafoodsoul.com/",
+				"note": "Nana’s Seafood and Soul is a colorful nook dishing up down-home grub, such as fried whiting, devil crab, and pork chop sandwiches.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
