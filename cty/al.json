@@ -49,6 +49,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Sunset Pointe at Fly Creek Marina",
+				"add1": "831 N Section St",
+				"add2": "",
+				"cty": "Fairhope",
+				"stt": "AL",
+				"zpcd": "36532",
+				"phn": "(251) 990-7766",
+				"url": "http://sunsetpointefairhope.com/",
+				"note": "Sunset Pointe at Fly Creek Marina is a quaint, beachy seafood specialist with outdoor waterfront dining and creative craft cocktails. Order the Eastern Shore Bouillabaisse or the Gulf Snapper Throats (collar).",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Diners, Drive-ins, and Dives"
             }
         ]
     }
