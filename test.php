@@ -47,7 +47,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		.error-msg { color: #f00; font-weight: bold; font-size: 1.5em;}
 		.rest-addr { font-weight: normal;}
 		.vcard { border-bottom: solid 2px #000;}
-		.not-eaten {font-size: .938em; font-weight: bold;}
+		.not-eaten { font-weight: bold;}
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
