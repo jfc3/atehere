@@ -49,6 +49,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Zaytoon Mediterranean",
+				"add1": "940 Elmwood Rd",
+				"add2": "",
+				"cty": "Lansing",
+				"stt": "MI",
+				"zpcd": "48917",
+				"phn": "(517) 203-5728",
+				"url": "https://zaytoongrill.com/",
+				"note": "Zaytoon Mediterranean serves Shawarma, falafel, and other Mediterranean staples round out the menu at this relaxed counter serve. You should order the grape leaves.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Diners, Drive-ins, and Dives"
             }
         ]
     }
