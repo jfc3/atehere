@@ -176,6 +176,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			<p class="note"><?php if ($post->note != "") { echo $post->note;} ?></p>
 			<?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo '<p class="not-eaten">Looking forward to eating here.</p>';} ?>
 			<?php if ($post->hrs != "" && $post->hrs != "uuu") { echo "<p>".$post->hrs."</p>";} ?>
+			<?php if ($post->fdtyp != "" && $post->fdtyp != "rrr") { echo "<p>".$post->fdtyp."</p>";} ?>
 			<?php if ($post->rcmmnd != "" && $post->rcmmnd != "vvv") { echo "<p>Recommended by ".$post->rcmmnd."</p>";} ?>
 			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
 			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."'></p>";} ?>
