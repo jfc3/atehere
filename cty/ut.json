@@ -27,16 +27,16 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "aaa",
-				"add1": "bbb",
-				"add2": "ccc",
-				"cty": "ddd",
-				"stt": "eee",
-				"zpcd": "fff",
-				"phn": "ggg",
-				"url": "hhh",
-				"note": "iii",
-				"eaten": "jjj",
+                "name": "Curry Pizza",
+				"add1": "2927 South 5600 West D",
+				"add2": "",
+				"cty": "West Valley City",
+				"stt": "UT",
+				"zpcd": "84120",
+				"phn": "(801) 890-0415",
+				"url": "http://currypizzautah.com/",
+				"note": "Curry Pizza has been serving Indian food over 10 years and they came up with a twist of creation of curry sauces for pizzas. They opened their first location in a small town called Bicknell (Southern Utah) and it's called Bhindas Curry Pizza Palace.",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
 				"photo2": "mmm",
@@ -48,7 +48,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
             {
                 "name": "aaa",
