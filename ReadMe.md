@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.22
-* Release Date: 01-21-2019
+* Release Number:  v.0.7.23
+* Release Date: 01-22-2019
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -75,6 +75,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Syracuse, NY - syr
 * Tennessee - tn
 * Texas - tx
+* Utah- ut
 * Virginia - va
 * Washington, DC - dca
 * Washington - wa
@@ -105,6 +106,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Utah to the drop down list and created necessary UT JSON file.
 * Added Knoxville to the drop down list and created necessary TYS JSON file.
 * Changed text "Not eaten here yet." to be "Looking forward to eating here." in the INDEX.php, TEST.php, and NOTEATEN.php pages. Now to test in a few different screen readers.
 * Fixed "Not Eaten Here Yet." text in the INDEX.php, TEST.php, and NOTEATEN.php pages.
