@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.25
+* Release Number:  v.0.7.26
 * Release Date: 02-09-2019
 
 ## Overview
@@ -42,6 +42,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Kentucky - ky
 * Knoxville - tys
 * Las Vegas, NV - las
+* Little Rock, AR - lit
 * Los Angeles, CA - lax
 * Louisville, KY - lou
 * Maine - me
@@ -108,6 +109,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Little Rock, AR (LIT) to the drop down list and created necessary LIT JSON file to the INDEX.php, NOTEATEN.php, and TEST.php files.
 * Added Jackson, MS (JAN) to the drop down list and created necessary JAN JSON file to the INDEX.php, NOTEATEN.php, and TEST.php files.
 * Added New York State to the drop down list and created necessary NY JSON file.
 * Added Utah to the drop down list and created necessary UT JSON file.
