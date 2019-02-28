@@ -160,7 +160,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	?>
 		<h2>Welcome</h2>
 		<p>You've found a small website <a href="http://jfciii.com">John F Croston III</a> (<a href="https://twitter.com/jfc3">@jfc3</a>) built to allow myself and others to select a city, state, or location and find restaurants in those places to eat.</p>
-		</p>These are the places I recommend to eat at or ones my friends whose food recommendations I trust, TV shows, blog posts, articles, etc.</p>
+		<p>These are the places I recommend to eat at or ones my friends whose food recommendations I trust, TV shows, blog posts, articles, etc.</p>
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?> - Not Eaten Here Yet</h2>
