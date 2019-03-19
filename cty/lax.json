@@ -893,7 +893,7 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Kogi BBQ",
+                "name": "Kogi BBQ - Alibi Room",
 				"add1": "12236 W Washington Blvd",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -901,8 +901,8 @@
 				"zpcd": "90066",
 				"phn": "",
 				"url": "http://kogibbq.com/",
-				"note": "Kogi BBQ first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget. <strong>NOTE</strong>: They have multiple trucks that move around the city.",
-				"eaten": "no",
+				"note": "Kogi BBQ food truck first rolled out as the little Korean-taco-truck-that-could, peddling $2.00 Korean barbecue tacos on the streets of L.A. Little did they know that within a few short months, they would become an icon of LA street food, a roving symbol of rebellion, independence and the belief that excellent food can be had on a dime budget. <strong>NOTE</strong>: They have multiple trucks that move around the city.",
+				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
 				"photo2": "mmm",
