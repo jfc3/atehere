@@ -73,6 +73,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Vanderwende Farm Creamery",
+				"add1": "4003 Seashore Hwy",
+				"add2": "",
+				"cty": "Greenwood",
+				"stt": "DE",
+				"zpcd": "19950",
+				"phn": "(302) 349-5110",
+				"url": "https://www.vanderwendefarmcreamery.com/",
+				"note": "Vanderwende Farm Creamery's ice cream is handcrafted and made right in Bridgeville Delaware. They only use the best quality ingredients to produce a rich and creamy ice-cream. They offer a wide variety of flavors, so there is sure to be one for you.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
