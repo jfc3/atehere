@@ -99,16 +99,16 @@
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
-                "name": "aaa",
-				"add1": "bbb",
-				"add2": "ccc",
-				"cty": "ddd",
-				"stt": "eee",
-				"zpcd": "fff",
-				"phn": "ggg",
-				"url": "hhh",
-				"note": "iii",
-				"eaten": "jjj",
+                "name": "Taco Morro Loco",
+				"add1": "417 41st St S",
+				"add2": "",
+				"cty": "Birmingham",
+				"stt": "AL",
+				"zpcd": "35222",
+				"phn": "(205) 203-4849",
+				"url": "",
+				"note": "Taco Morro Loco has a taco truck and a brick and mortar. They are cranking out the best of the best in authentic Mexican cuisine. Don’t let the service station exterior scare you away because whether it's tacos, salads, homemade salsa, or nachos piled high, the folks at Taco Morro Loco have got you covered. Make sure to order their chorizo burrito or a carnitas taco with buttermilk tomatillo salsa.",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
 				"photo2": "mmm",
@@ -120,7 +120,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Southern Foodways Alliance"
             }
         ]
     }
