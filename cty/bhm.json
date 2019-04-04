@@ -3,16 +3,16 @@
         "city": "Birmingham, AL",
 		"posts": [
             {
-                "name": "aaa",
-				"add1": "bbb",
-				"add2": "ccc",
-				"cty": "ddd",
-				"stt": "eee",
-				"zpcd": "fff",
-				"phn": "ggg",
-				"url": "hhh",
-				"note": "iii",
-				"eaten": "jjj",
+                "name": "Garage Cafe",
+				"add1": "2304 10th Terrace S",
+				"add2": "",
+				"cty": "Birmingham",
+				"stt": "AL",
+				"zpcd": "35205",
+				"phn": "(205) 322-3220",
+				"url": "",
+				"note": "Garage Cafe leads to a wisteria-vined courtyard surrounded by 1930s era parking garages-cum-antique stalls. It is uniquely Birmingham. LIt's a locals' haunt for bustling conversation, beer, and pub grub in a rustic indoor/outdoor setting. It’s also a short stroll down the hill from one of the Southern Foodways Alliance's favorite Birmingham restaurants, Bottega Cafe.",
+				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
 				"photo2": "mmm",
@@ -24,7 +24,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Southern Foodways Alliance"
             },
             {
                 "name": "Mom’s Basement",
