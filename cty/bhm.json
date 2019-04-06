@@ -145,6 +145,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Southern Foodways Alliance"
+            },
+            {
+                "name": "Tropicaleo",
+				"add1": "4426 4th Ave S",
+				"add2": "",
+				"cty": "Birmingham",
+				"stt": "AL",
+				"zpcd": "35222",
+				"phn": "(205) 643-5956",
+				"url": "http://www.tropicaleo.com/",
+				"note": "Tropicaleo serves fresh Puerto Rican food in a casual restaurant and bar. Puerto Rican restaurant serves authentic flavors made with local ingredients. The restaurant exudes a Puerto Rico vibe with pastel colors, tropical accents, and laid-back island ambiance. Seating can be found indoors and on the outside terrace. There is also a take-out window for pickup orders.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Southern Foodways Alliance"
             }
         ]
     }
