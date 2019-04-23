@@ -433,6 +433,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Southern Foodways Alliance"
+            },
+            {
+                "name": "The Woolworth",
+				"add1": "1006 20th St S",
+				"add2": "",
+				"cty": "Birmingham",
+				"stt": "AL",
+				"zpcd": "35205",
+				"phn": "(205) 518-6311",
+				"url": "https://woolworthbham.com/",
+				"note": "The Woolworth is a recent addition to the 5 Points area. They go for duckpin bowling lanes (smaller balls with no finger holes and no rental shoes required), ping pong tables, foosball, a giant screen multi-arcade game with classics like Ms. Pac Man and Galaga, a bumper pool table, and a full bar.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Southern Foodways Alliance"
             }
         ]
     }
