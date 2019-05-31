@@ -433,6 +433,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Vedge",
+				"add1": "1221 Locust St",
+				"add2": "",
+				"cty": "Philadelphia",
+				"stt": "PA",
+				"zpcd": "19107",
+				"phn": "(215) 320-7500",
+				"url": "https://www.vedgerestaurant.com/",
+				"note": "Vedge serves inventive vegan and vegetarian small plates in a charming old mansion. From their website 'It's a vegetable Restaurant by James Beard-nominated Chefs Rich Landau and Kate Jacoby, Vedge offers an exciting dining experience inspired by seasonal vegetables.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
