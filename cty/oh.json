@@ -169,6 +169,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Tony Packo's Restaurant",
+				"add1": "1902 Front St",
+				"add2": "",
+				"cty": "Toledo",
+				"stt": "OH",
+				"zpcd": "43605",
+				"phn": "(419) 691-6054",
+				"url": "https://www.tonypacko.com/",
+				"note": "Tony Packo's Restaurant is a casual, long-running Hungarian-American spot with signature hot dogs, soups, and classic entrees. The restaurant became famous when it was mentioned in several M*A*S*H episodes and is noted for its signature sandwich. <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Corporal Maxwell Q. Klinger"
             }
         ]
     }
