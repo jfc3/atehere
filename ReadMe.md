@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.28
-* Release Date: 03-31-2019
+* Release Number:  v.0.7.29
+* Release Date: 07-04-2019
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -110,7 +110,7 @@ Features:
 
 Enhancements with most recent on top:
 
-
+* Added META data and rel="me" to the INDEX.php, NOTEATEN.php, and TEST.php pages.
 * Added Birmingham, AL to the drop down list and created necessary BHM JSON file.
 * Changed ending paragraph tag to a start one in the INDEX.php, NOTEATEN.php, and TEST.php pages.
 * Added Little Rock, AR (LIT) to the drop down list and created necessary LIT JSON file to the INDEX.php, NOTEATEN.php, and TEST.php files.
