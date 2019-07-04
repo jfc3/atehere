@@ -18,6 +18,11 @@ if (in_array($slct, $locs) && $slct != "") {
 	<title>Test page for John F Croston III's Ate Here<?php if ($city != "" && $city != "123") { echo " in ".$city;} ?></title>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="<?php if ($city != "" && $city != "123") { echo "Here are the restaurants in ".$city. " area. ";} ?>Ate Here is the creation of John F Croston III who lives in the Washington, DC, area and works in accessibility along with being a lover of food when he travels." />
+	<meta name="author" content="John F Croston III" />
+	<meta name="robots" content="index,follow" />
+	<meta property="og:type" content="article" />
+	<meta property="article:author" content="John F Croston III" />
 	<style>
 		html, body, div, span, h1, h2, h3, p, a, strong, form, label, select, img { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 106.3%; font-family: inherit; vertical-align: baseline;}
 		select, input[type="submit"] { border: solid 1px #000;}
@@ -66,7 +71,7 @@ if (in_array($slct, $locs) && $slct != "") {
 <body>
 <div id="wrap">
 	<div id="hdr" role="banner">
-		<h1><a href="test.php">jfciii Ate Here</a></h1>
+		<h1><a href="test.php" rel="me">jfciii Ate Here</a></h1>
 	</div>
 	<div id="cntnt" role="main">
 		<?php
@@ -195,8 +200,8 @@ if (in_array($slct, $locs) && $slct != "") {
 	<?php	}	?>
 	</div>
 	<div id="ftr" role="contentinfo">
-		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com">jfciii.com</a> / <a href="https://twitter.com/jfc3">@jfc3</a></p>
-		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from Ate Here<?php if ($slct != "" && $slct != "xxx") { echo " - ".$city." ($slct)";} ?>">Questions?</a> <a href="https://github.com/jfc3/atehere">GitHub</a></p>
+		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com" rel="me">jfciii.com</a> / <a href="https://twitter.com/jfc3" rel="me">@jfc3</a></p>
+		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question from Ate Here<?php if ($slct != "" && $slct != "xxx") { echo " - ".$city." ($slct)";} ?>" rel="me">Questions?</a> <a href="https://github.com/jfc3/atehere" rel="me">GitHub</a></p>
 	</div>
 </div>
 </body>
