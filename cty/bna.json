@@ -337,6 +337,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Tailor Nashville",
+				"add1": "1300B 3rd Ave N",
+				"add2": "",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37208",
+				"phn": "",
+				"url": "https://www.tailornashville.com/",
+				"note": "From the Tailor Nashville website, 'Tailor Nashville offers a simple, timeless dining experience that emulates an intimate dinner party in the way it fills both the bodies and souls of its guests. Culinary Creator Vivek Surti honors his heritage through the South Asian American cuisine that is representative of Surti being a first-generation American of Indian descent. At Tailor Nashville, guests are welcomed and enjoy eight to ten dishes that are explained by the chefs with high touch service.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Monday, Tuesday, and Wednesday",
+				"rcmmnd": "Bon Appetit"
             }
         ]
     }
