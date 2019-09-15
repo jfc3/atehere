@@ -42,7 +42,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		p { margin: 1em 0; line-height: 1.25em;}
 		#ftr p { margin: .75em 0;}
 		a, a:visited { color: #000;}
-		img { width: 100%;}
+		img { width: 100%; height: auto;}
 		form { margin: 1em 0;}
 		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
 		label { position: relative; display: block;}
@@ -189,9 +189,9 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php if ($post->hrs != "" && $post->hrs != "uuu") { echo "<p>".$post->hrs."</p>";} ?>
 			<?php if ($post->fdtyp != "" && $post->fdtyp != "rrr") { echo "<p>".$post->fdtyp."</p>";} ?>
 			<?php if ($post->rcmmnd != "" && $post->rcmmnd != "vvv") { echo "<p>Recommended by ".$post->rcmmnd."</p>";} ?>
-			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."'></p>";} ?>
-			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."'></p>";} ?>
-			<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."'></p>";} ?>
+			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."' width='20em' height='15em'></p>";} ?>
+			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."' width='20em' height='15em'></p>";} ?>
+			<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."' width='20em' height='15em'></p>";} ?>
 		</div>
     <?php	}	?>
 		<p><a href="#cntnt">Return to Top of Page</a></p>
