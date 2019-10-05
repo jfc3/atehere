@@ -25,6 +25,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Vienna Coffee House",
+				"add1": "212 College St",
+				"add2": "",
+				"cty": "TN",
+				"stt": "Maryville",
+				"zpcd": "37804",
+				"phn": "(865) 980-8282",
+				"url": "https://viennacoffeehouse.net/",
+				"note": "From the Vienna Coffee House website, 'The Vienna Coffee House opened the doors on October 6th, 2010, with a goal to be THE great neighborhood coffeehouse in Maryville, TN. We serve premier espresso drinks, (Mocha, Latte, traditional Cappuccino) crafted by serious Baristas and freshly roasted specialty coffees from the Vienna Coffee Company Roastery, located in the lower level of the coffee house. We strive to DELIGHT the customer with every visit! In addition to great coffee, we serve up a variety of teas, chai, smoothies, steamers, and lots of fresh baked goods made in house, and other delicious food items.' They have live music from 6:00 PM - 7:30 PM on Friday nights, but make sure to check the schedule.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Platform 1346 (World War II Train Car)"
             }
         ]
     }
