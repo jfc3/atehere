@@ -529,6 +529,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Monday, Tuesday, and Wednesday",
 				"rcmmnd": "Bon Appetit"
+            },
+            {
+                "name": "Waldo's Chicken and Beer",
+				"add1": "1120 4th Ave N",
+				"add2": "Suite 103",
+				"cty": "Nashville",
+				"stt": "TN",
+				"zpcd": "37208",
+				"phn": "(615) 610-3394",
+				"url": "https://waldoschicken.com/",
+				"note": "From Waldo's Chicken and Beer website, 'We try not to take ourselves too seriously. We are, however, very passionate about great food and great service. Waldo’s is simply all about chicken, and we’re cookin’ it up two delicious ways for you: Southern Fried and Fire-Roasted. You can also enjoy our chicken in a variety of ways: On the Bone, On the Bun, In a Basket, or In a Bowl. Toss in some of our homemade sides, any of our eight original sauces, and signature cheese biscuits, and you’ve found yourself a new favorite chicken spot.' Stopped here on a food and history tour of Germantown area and had their mac and cheese, which was spectacular.",
+				"eaten": "yes",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
