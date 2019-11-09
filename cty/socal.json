@@ -361,6 +361,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Wilma and Frieda",
+				"add1": "73575 El Paseo Dr.",
+				"add2": "The Gardens on El Paseo - #2310",
+				"cty": "Palm Desert",
+				"stt": "CA",
+				"zpcd": "92260",
+				"phn": "(760) 773-2807",
+				"url": "https://wilmafrieda.com/",
+				"note": "Wilma and Frieda is a bustling locale offering updated comfort classics for breakfast and brunch in a simple space. The restaurant is named after their two grandmothers, Wilma and Frieda. A quote from the website: 'Wilma was a character known for always wearing cat-eye glasses while Frieda was best known for her amazing ability to make dinner for 20 people in a heartbeat. In their honor, Wilma and Frieda serves comfort food with a twist. We offer all of your favorite dishes from childhood with a grown-up flavor profile in our farmhouse café.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Diners, Drive-ins, and Drives"
             }
         ]
     }
