@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.30
-* Release Date: 09-15-2019
+* Release Number:  v.0.7.31
+* Release Date: 12-05-2019
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -110,6 +110,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Changed IMG WIDTH from 20em to 320 and HEIGHT from 15em to 240 for each photo in the application to help with IMG jankiness when loading.
 * Added height: auto; to IMG in CSS along with width: 20em and height: 15em to each photo.
 * Added META data and rel="me" to the INDEX.php, NOTEATEN.php, and TEST.php pages.
 * Added Birmingham, AL to the drop down list and created necessary BHM JSON file.
