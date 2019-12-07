@@ -191,9 +191,9 @@ if (in_array($slct, $locs) && $slct != "") {
 			<?php if ($post->hrs != "" && $post->hrs != "uuu") { echo "<p>".$post->hrs."</p>";} ?>
 			<?php if ($post->fdtyp != "" && $post->fdtyp != "rrr") { echo "<p>".$post->fdtyp."</p>";} ?>
 			<?php if ($post->rcmmnd != "" && $post->rcmmnd != "vvv") { echo "<p>Recommended by ".$post->rcmmnd."</p>";} ?>
-			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."' width='20em' height='15em'></p>";} ?>
-			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."' width='20em' height='15em'></p>";} ?>
-			<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."' width='20em' height='15em'></p>";} ?>
+			<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."' width='320' height='240'></p>";} ?>
+			<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."' width='320' height='240'></p>";} ?>
+			<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."' width='320' height='240'></p>";} ?>
 		</div>
     <?php	}	?>
 		<p><a href="#cntnt">Return to Top of Page</a></p>
