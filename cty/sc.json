@@ -169,6 +169,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Xiao Bao Biscuit",
+				"add1": "224 Rutledge Ave",
+				"add2": "",
+				"cty": "Charleston",
+				"stt": "SC",
+				"zpcd": "29403",
+				"phn": "ggg",
+				"url": "https://www.xiaobaobiscuit.com/",
+				"note": "Xiao Bao Biscuit is a creative, multicultural Asian cooking, and specialty cocktails in a trendy converted gas station. From their website, 'Select dishes from China, Taiwan, Thailand, and Vietnam prepared locally and inspired by kick-ass grandmothers everywhere. The menu changes seasonally, with rotating daily specials and family-style dinner service.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Sundays",
+				"rcmmnd": "vvv"
             }
         ]
     }
