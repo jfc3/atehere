@@ -144,7 +144,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Here Magazine"
             },
             {
                 "name": "B and H Dairy",
@@ -673,6 +673,30 @@
 				"fcbk": "ttt",
 				"hrs": "24 hours",
 				"rcmmnd": "Comedians in Cars Getting Coffee"
+            },
+            {
+                "name": "Cosme",
+				"add1": "35 E 21st St",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10010",
+				"phn": "(212) 913-9659",
+				"url": "https://www.cosmenyc.com/",
+				"note": "Cosme is a sleek Mexican spot with a big bar for locally sourced share plates, plus tequila and mezcal cocktails. From their website, 'Cosme is a restaurant in New York City’s Flatiron District serving contemporary Mexican-inspired cuisine from Chefs Enrique Olvera and Daniela Soto-Innes, along with business partner Santiago Perez. Dishes are rooted in Mexican flavors and traditions, while also celebrating local and seasonal ingredients from the Hudson Valley and the surrounding region. Cosme’s beverage program focuses on artisanal spirits and mirrors its cuisine, letting the high-quality ingredients shine.' Cosme was ranked number 25 on the 2018 top 50 restaurants in the world, according to 'The World's 50 Best' website.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Here Magazine"
             },
             {
                 "name": "Crif Dogs",
