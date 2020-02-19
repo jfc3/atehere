@@ -171,15 +171,15 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Brook's Sandwich House",
+                "name": "Brooks' Sandwich House",
 				"add1": "2710 N Brevard St",
 				"add2": "",
 				"cty": "Charlotte",
 				"stt": "NC",
 				"zpcd": "28205",
 				"phn": "(704) 375-7808",
-				"url": "http://brookssandwichhouse.com",
-				"note": "Brook's Sandwich House is a tiny roadside stop with a walk-up window serving burgers, chili, and simple sandwiches for 40+ years. You need to order the cheese burger all the way with chili.",
+				"url": "https://brookssandwichhouse.com/",
+				"note": "Brooks' Sandwich House is a tiny roadside stop with a walk-up window serving burgers, chili, and simple sandwiches for 40+ years. They are closed on the weekend. From their website, 'Charlotte’s Best Burger! Come see us. Twins David and Scott Brooks have been running their hamburger and hot dog joint since 1973! And, now the third generation has joined in, to continue the family tradition of great burgers, hot dogs, and chili! Everyone is welcome at BROOKS. Come enjoy the best southern burger with homemade chili recipe created almost 45 years ago. Purchase BROOKS Chili so you can enjoy the same homemade southern taste at home.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -191,7 +191,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Saturday and Sunday",
 				"rcmmnd": "vvv"
             },
             {
