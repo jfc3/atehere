@@ -73,6 +73,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
+            },
+            {
+                "name": "Solly's Grille",
+				"add1": "4629 N Port Washington Rd",
+				"add2": "",
+				"cty": "Milwaukee",
+				"stt": "WI",
+				"zpcd": "53212",
+				"phn": "(414) 332-8808",
+				"url": "https://www.sollysbutterburgers.com/",
+				"note": "Solly's Grille is a casual eatery serving Wisconsin-sourced American fare and their signature butter burgers since 1936. From their website, 'Solly’s Grille, established in 1936 as Solly's Coffee Shop by Kenneth “Solly” Salmon, still remains a family-owned and operated restaurant today. For over 83 years, Solly’s famous signature butter burgers have been a staple for locals in the Milwaukee, WI area. We use high quality 100% sirloin beef (no fillers) delivered FRESH daily from a local butcher. We use only REAL Wisconsin creamery butter. Our French fries, onion rings, and hand-breaded Alaskan Cod are made using only cholesterol-free frying oil. We proudly serve our homemade cherry pies and cherry shakes and malts made with Wisconsin Door County Cherries.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
