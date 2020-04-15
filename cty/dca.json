@@ -2641,6 +2641,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Zeppelin",
+				"add1": "1544 9th St NW",
+				"add2": "",
+				"cty": "Washington",
+				"stt": "DC",
+				"zpcd": "20001",
+				"phn": "(202) 506-1068",
+				"url": "https://www.zeppelindc.com/",
+				"note": "Zeppelin serves sushi and other grilled Japanese fare with sake and cocktails in a dramatic, contemporary space with karaoke. Noticed this place when walking from the Howard University metro stations towards 14th St. to get dim sum. From their website, 'Founded in 2019, Zeppelin Restaurant and Bar serves up sushi and Japanese charcoal-grilled yakitori, while paying homage to the Golden Age of the Great Passenger Airships. Featuring traditional Edomae-style nigiri sushi and Omakase bar by Chef Minoru Ogawa, a Tokyo native who studied under his master-chef father in Japan. Together with partners Adrian Williams, Ari Wilder, and Micah Wilder of Chaplin’s, Zeppelin was born.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
