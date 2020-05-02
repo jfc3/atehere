@@ -1,0 +1,79 @@
+List of cities and states:
+
+- [ ] Akron, OH
+- [ ] Alabama
+- [ ] Annapolis, MD
+- [ ] Atlanta, GA
+- [ ] Austin, TX
+- [ ] Baltimore, MD
+- [ ] Bellingham, WA
+- [ ] Birmingham, AL
+- [ ] Boston, MA
+- [ ] Boulder, CO
+- [ ] Brooklyn, NY
+- [ ] Buffalo, NY
+- [ ] California
+- [ ] Charleston, SC
+- [ ] Charlotte, NC
+- [ ] Chicago, IL
+- [ ] Cincinnati, OH
+- [ ] Cleveland, PA
+- [ ] Colorado
+- [ ] Columbus, OH
+- [ ] Connecticut
+- [ ] Dallas, TX
+- [ ] Delaware
+- [ ] Denver, CO
+- [ ] Detroit, MI
+- [ ] Florida
+- [ ] Frederick, MD
+- [ ] Georgia
+- [ ] Houston, TX
+- [ ] Jackson, MS
+- [ ] Kentucky
+- [ ] Knoxville
+- [ ] Las Vegas, NV
+- [ ] Little Rock AR
+- [ ] Los Angles, CA
+- [ ] Louisville, KY
+- [ ] Maine
+- [ ] Maryland
+- [ ] Memphis, TN
+- [ ] Miami, FL
+- [ ] Michigan
+- [ ] Minneapolis–Saint Paul, MN
+- [ ] Mississippi
+- [ ] Nashville, TN
+- [ ] New Jersey
+- [ ] New Orleans, LA
+- [ ] New York, NY
+- [ ] New York State
+- [ ] North Carolina
+- [ ] Northern California
+- [ ] Northern Virginia
+- [ ] Oakland, CA
+- [ ] Ocean City, NJ
+- [ ] Ohio
+- [ ] Oregon
+- [ ] Pennsylvania
+- [ ] Philadelphia, PA
+- [ ] Phoenix, AZ
+- [ ] Portland, OR
+- [ ] Raleigh, NC
+- [ ] Rochester, NY
+- [ ] San Diego, CA
+- [ ] San Francisco, CA
+- [ ] Savannah, GA
+- [ ] Seattle, WA
+- [ ] Southern California
+- [ ] South Carolina
+- [ ] St Louis, MO
+- [ ] Syracuse, NY
+- [ ] Tennessee
+- [ ] Texas
+- [ ] Utah
+- [ ] Virginia
+- [ ] Washington
+- [ ] Washington, DC
+- [ ] Wilmington, NC
+- [ ] Wisconsin
