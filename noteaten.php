@@ -53,6 +53,9 @@ if (in_array($slct, $locs) && $slct != "") {
 		.rest-addr { font-weight: normal;}
 		.vcard { border-bottom: solid 2px #000;}
 		.not-eaten { font-weight: bold;}
+		.notices { margin-top: .25em; border-top: 5px solid red; border-bottom: 5px solid red;}
+		.notices h2 { font-size: 1.125em;}
+		.notices p { margin: 0 0 .5em 0;}
 		@media screen and (min-width: 32.5em) {
 			#wrp { width: 100%;}
 			#hdr, #cntnt, #ftr { margin: 0 auto; padding: 1em; width: 80%; max-width: 35em; border: 1px solid #000;}
@@ -65,6 +68,7 @@ if (in_array($slct, $locs) && $slct != "") {
 			p { line-height: 1.5em;}
 			label { display: inline;}
 			select { width: 12.5em;}
+			.notices { margin-top: .5em;}
 		}
 	</style>
 </head>
@@ -76,8 +80,13 @@ if (in_array($slct, $locs) && $slct != "") {
 	<div id="cntnt" role="main">
 		<?php
 		if (!in_array($slct, $locs) && $slct != "") {
-			echo "<p class='error-msg'>Please select a city, state, or location.</p>";
-		}	?>
+			echo "<p class='error-msg'>Please make sure to select a city, state, or location from the drop-down list.</p>";
+		}	
+		$filename = 'inc/notices.html';
+		if (file_exists($filename)) {
+			include 'inc/notices.html';
+		}
+		?>
 		<form name="RequestForm" method="get" action="noteaten.php">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
 			<select id="slct" name="slct">
