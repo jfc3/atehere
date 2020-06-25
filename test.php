@@ -184,7 +184,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		<h2><?php echo $city; ?></h2>
 		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<strong>Looking forward to eating here.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
-		<ul>
+		<ul role="list">
     <?php
 		foreach ($posts as $post) {
 			$rest_name = strtolower(preg_replace("/[^A-Za-z0-9]/", "", $post->name)); 
