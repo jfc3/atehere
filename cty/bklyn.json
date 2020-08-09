@@ -483,7 +483,30 @@
 				"hrs": "uuu",
 				"rcmmnd": "Pro Home Cook's (YouTube)"
             },
-
+            {
+                "name": "Las Americas Meat Market",
+				"add1": "4552 46th St,",
+				"add2": "",
+				"cty": "Woodside",
+				"stt": "NY",
+				"zpcd": "11377",
+				"phn": " (718) 937-0553",
+				"url": "hhh",
+				"note": "From the New York Times website 'Las Americas, a carnicería in Sunnyside, Queens, has been serving the meat needs of the Colombian, and greater Latino, communities for nearly 30 years. Las Americas serves an almost impossibly inexpensive menu of trencherman’s fare, prepared with a surprisingly light hand. Unlike plenty of other Colombian kitchens in the city, the cooks at Las Americas don’t hide behind fat and salt.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Pro Home Cooks (YouTube)"
+            },
             {
                 "name": "The Meat Hook",
 				"add1": "397 Graham Ave",
