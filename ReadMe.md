@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.34
-* Release Date: 07-06-2020
+* Release Number:  v.0.7.35
+* Release Date: 08-22-2020
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -16,6 +16,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Akron, OH - cak
 * Alabama - al
 * Annapolis, MD - ann
+* Asheville, NC - avl
 * Austin, TX - aus
 * Baltimore, MD - bal
 * Bellingham, WA - bli
@@ -111,6 +112,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Asheville, NC - (AVL) to the drop down list and created necessary AVL JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Updated the INDEX.php, NOTEATEN.php, and TEST.php pages to now have the restaurants in a UL with a ROLE="LIST". So Safari will tell the user how many restaurants there are on the page.
 * Added CSS and code to allow the adding of application wide messages to the INDEX.php, NOTEATEN.php, and TEST.php pages.
 * Added Oregon (OR) to the drop down list and created necessary OR JSON file to the INDEX.php, NOTEATEN.php, and TEST.php files.
