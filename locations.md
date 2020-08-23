@@ -3,6 +3,7 @@ List of cities and states:
 - [ ] Akron, OH
 - [ ] Alabama
 - [ ] Annapolis, MD
+- [ ] Asheville, NC
 - [ ] Atlanta, GA
 - [ ] Austin, TX
 - [ ] Baltimore, MD
