@@ -985,6 +985,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "White Duck Taco Shop (Downtown)",
+				"add1": "12 Biltmore Ave",
+				"add2": "",
+				"cty": "Asheville",
+				"stt": "NC",
+				"zpcd": "28801",
+				"phn": "(828) 232-9191",
+				"url": "http://whiteducktacoshop.com/",
+				"note": "White Duck Taco Shop (Downtown) is a colorful outpost of a taqueria mini-chain known for its eclectic, ever-changing combinations. From their website, 'he name White Duck Taco Shop originates from a nickname the Chef earned when she frequently got excited and talked too much to the kitchen staff. They called her &ldquo;La Pata Blanca&rdquo; which means White Duck.'  <strong>NOTE</strong>: They multiple locations",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Closed Wednesday"
             }
         ]
     }
