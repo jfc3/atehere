@@ -336,7 +336,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "JAX"
+				"rcmmnd": "Jax"
             },
             {
                 "name": "Schmidt's Sausage Shop",
@@ -361,6 +361,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Stauf's Coffee Roasters",
+				"add1": "421 W State St",
+				"add2": "",
+				"cty": "Columbus",
+				"stt": "OH",
+				"zpcd": "43215",
+				"phn": "(614) 549-0088",
+				"url": "https://www.staufs.com/",
+				"note": "From the Stauf's Coffee Roasters website, 'In 1988, Stauf’s Coffee Roasters began offering specialty coffee to Central Ohio.  From day one, we have been obsessed with the entire process of achieving the finest cup of coffee- from acquiring the best specialty grade green arabica beans available, to roasting exclusively on gas-fired drum roasters.  All of the coffees that we offer are roasted by us, by hand, every day. Our profile method of roasting coffee in small batches allows us to concentrate on the best roast and flavor profile for each varietal and origin. You will not experience coffees of higher quality, consistency, or freshness.  Our coffee is fresh and shipped within 48 hours of roasting.  We are Columbus’ first micro-roaster, and we'll always provide you with the best coffee available.' <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Jax"
             },
             {
                 "name": "Sweet Carrot",
