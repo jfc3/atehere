@@ -49,6 +49,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Tandem Coffee and Bakery",
+				"add1": "742 Congress St",
+				"add2": "",
+				"cty": "Portland",
+				"stt": "ME",
+				"zpcd": "04102",
+				"phn": "(207) 760-4440",
+				"url": "https://www.tandemcoffee.com/",
+				"note": "Tandem Coffee and Bakery is a modern cafe in a converted 1960s gas station serving house-roasted coffees, pastries, and sandwiches. From their website, 'In 2012, after working in coffee in Boston, Martha’s Vineyard, San Francisco, and New York, Will and Kathleen Pratt found a home for Tandem Coffee Roasters in Portland, Maine. The bakery’s food program is headed up by Briana Holt. Will Kathleen and Briana have been friends for almost 20 years. A bakery is something they had been scheming about doing together since they all lived in NYC back in 2011. Once a gas station, then a laundromat, this rad late 60’s building is now a beautiful, bustling cafe. No wifi since 2014!' <strong>NOTE</strong>: They have multiple locations.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
             }
         ]
     }
