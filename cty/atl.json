@@ -553,6 +553,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+			},
+            {
+                "name": "Talat Market",
+				"add1": "112 Ormond St SE",
+				"add2": "",
+				"cty": "Atlanta",
+				"stt": "GA",
+				"zpcd": "30315",
+				"phn": "(404) 257-6255",
+				"url": "https://www.talatmarketatl.com/",
+				"note": "From the Talat Market website, 'Talat Market is located in the Summerhill neighborhood of Atlanta, Georgia. We grew from a pop-up to a brick-and-mortar restaurant because of the amazing support of our community. Co-owners Parnass Savang and Rod Lassiter cook using Thai technique and featuring local Georgia ingredients. &ldquo;Talat&rdquo; means &ldquo;market&rdquo; in Thai. So yes, we’re Market Market.' From the Atlanta Eater website, 'Thai Restaurant Talat Market Debuts in Summerhill, and Joins Atlanta’s Takeout Game. While the pandemic may have changed their grand opening plans, former pop-up chefs Parnass Lim Savang and Rod Lassiter see Talat Market opening for takeout as just another challenge to tackle.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Monday and Tuesday",
+				"rcmmnd": "Southern Foodways Alliance"
             }
 		]
     }
