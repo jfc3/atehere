@@ -99,30 +99,6 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Cheu Noodle Bar",
-				"add1": "255 S 10th St",
-				"add2": "",
-				"cty": "Philadelphia",
-				"stt": "PA",
-				"zpcd": "19107",
-				"phn": "(267) 639-4136",
-				"url": "https://www.cheunoodlebar.com/",
-				"note": "Cheu Noodle Bar is a hip ramen bar with graffiti-covered walls serves noodles and Asian bites plus beer, wine, and cocktails.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
-            },
-            {
                 "name": "Dalessandro's Steaks",
 				"add1": "600 Wendover St",
 				"add2": "",
@@ -298,8 +274,8 @@
 				"stt": "PA",
 				"zpcd": "19125",
 				"phn": "(215) 278-2804",
-				"url": "https://www.nunuphilly.com/",
-				"note": "Nunu cooks what they like to eat — it’s personal, no matter what they put in front of you. Their food is often informed by tradition, but it’s never defined by it. All that they require of your willing mind and a willing stomach. The owners of Nunu also own CHeU Noodle Bar, Bing Bing Dim Sum, and CHeU Fishtown. Alex Hillman recommends the 'Pork Katsu' sandwich and the impossible burger.",
+				"url": "https://www.cheufishtown.com/",
+				"note": "Nunu cooks what they like to eat — it’s personal, no matter what they put in front of you. Their food is often informed by tradition, but it’s never defined by it. All that they require of your willing mind and a willing stomach. The owners of Nunu also own CHeU Noodle Bar, Bing Bing Dim Sum, and CHeU Fishtown. Alex Hillman recommends the 'Pork Katsu' sandwich and the impossible burger. From the Philadelphia Eater website, 'Shawn Darragh and Ben Puchowitz of Cheu and Bing Bing Dim Sum are just about ready to debut Nunu, their small, stylish, very red Japanese bar next door to Cheu Fishtown.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -312,7 +288,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Alex Hillman"
             },
             {
                 "name": "Reading Terminal Market",
