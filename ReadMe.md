@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.37
+* Release Number:  v.0.7.38
 * Release Date: 10-20-2021
 
 ## Overview
@@ -16,6 +16,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Akron, OH - cak
 * Alabama - al
 * Annapolis, MD - ann
+* Arizona - az
 * Arkansas - ar
 * Asheville, NC - avl
 * Austin, TX - aus
@@ -114,6 +115,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Arizona - (AZ) to the drop down list and created necessary AZ JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Tucson, AZ - (TUS) to the drop down list and created necessary TUS JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Arkansas - (AR) to the drop down list and created necessary AR JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Asheville, NC - (AVL) to the drop down list and created necessary AVL JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
