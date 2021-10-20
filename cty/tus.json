@@ -27,15 +27,15 @@
 				"rcmmnd": "Titus Ruscitti"
             },
             {
-                "name": "aaa",
-				"add1": "bbb",
-				"add2": "ccc",
-				"cty": "ddd",
-				"stt": "eee",
-				"zpcd": "fff",
-				"phn": "ggg",
-				"url": "hhh",
-				"note": "iii",
+                "name": "Zemam's Too",
+				"add1": "119 E Speedway Blvd",
+				"add2": "",
+				"cty": "Tucson",
+				"stt": "AZ",
+				"zpcd": "85705",
+				"phn": "(520) 882-4955",
+				"url": "https://www.zemamsrestaurants.com/",
+				"note": "Zemam's is a family-owned, BYOB Ethiopian restaurant in a cozy converted house. You need to order the Doro Watt, a traditional chicken dish slowly cooked on the bone in a rich, spicy berbere sauce served with a hard-boiled egg (egg included on full order only). From the Phoenix Eater website, 'Zemam’s began as a five-seat restaurant almost 30 years ago. While the original Broadway location is temporarily closed, the secondary Speedway location still offers the icon’s Ethiopian cuisine with dishes such as beef simmered in spicy berbere sauce and spiced cauliflower roasted with peppers and garbanzo flour.'",
 				"eaten": "jjj",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -48,7 +48,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Diners, Drive-ins, and Drives"
             }
         ]
     }
