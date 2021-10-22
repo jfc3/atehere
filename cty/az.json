@@ -195,14 +195,14 @@
             },
             {
                 "name": "Tacos Chiwas",
-				"add1": "1923 E McDowell Rd",
+				"add1": "127 W Main St",
 				"add2": "",
-				"cty": "Phoenix",
+				"cty": "Mesa",
 				"stt": "AZ",
-				"zpcd": "85006",
+				"zpcd": "85201",
 				"phn": "(602) 358-8830",
 				"url": "https://www.tacoschiwas.com/",
-				"note": "Tacos Chiwas is a family owned restaurant focused on providing quality, excellent service, and preparing fresh food from recipes that have been passed down through generations. Order the rajas gordita which is the holy matrimony of steam and spice, a pliable pillow of puffed dough with a creamy core of beans, cheese and chiles that warms your fingers, burns your lips and buckles your knees with its disarmingly tender texture or the smoked beef cheek Barbacoa Tacos and the smoked brisket Deshebrada Roja Gorditas. ",
+				"note": "Tacos Chiwas is a family owned restaurant focused on providing quality, excellent service, and preparing fresh food from recipes that have been passed down through generations. Order the rajas gordita which is the holy matrimony of steam and spice, a pliable pillow of puffed dough with a creamy core of beans, cheese and chiles that warms your fingers, burns your lips and buckles your knees with its disarmingly tender texture or the smoked beef cheek Barbacoa Tacos and the smoked brisket Deshebrada Roja Gorditas. From the Tacos Chiwas website, 'We are a family-owned restaurant focused on providing quality, excellent service and preparing fresh food from recipes that have been passed down through generations.' From the Phonix Eater website, 'Nadia Holguin and Armando Hernandez’s Chihuahuan-style specialties extend far beyond the taco despite their restaurant’s name. Fluffy gorditas enrobe picadillo, and shredded beef and burritos are stark, packed with little more than Al Pastor or Lengua, featuring tortillas shaped from freshly milled grains. At the downtown Mesa location, you can also post up at a bar and sip drinks.' <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -214,8 +214,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"hrs": "Closed Monday",
+				"rcmmnd": "Proof Bread (YouTube)"
             },
             {
                 "name": "Zemam's Too",
