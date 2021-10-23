@@ -75,30 +75,6 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "aaa",
-				"add1": "bbb",
-				"add2": "ccc",
-				"cty": "ddd",
-				"stt": "eee",
-				"zpcd": "fff",
-				"phn": "ggg",
-				"url": "hhh",
-				"note": "iii",
-				"eaten": "jjj",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
-            },
-            {
                 "name": "Traders Point Creamery",
 				"add1": "9101 Moore Rd",
 				"add2": "",
@@ -121,6 +97,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Monday",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Working Man's Friend",
+				"add1": "234 N Belmont Ave",
+				"add2": "",
+				"cty": "Indianapolis",
+				"stt": "IN",
+				"zpcd": "46222",
+				"phn": "(317) 636-2067",
+				"url": "",
+				"note": "Working Man's Friend is a bustling diner featuring giant burgers and other casual grub, along with cocktails in an old-school space. The Burger Show recommends ordering their burger. From the Indy Star website, 'If you draw a line right down the center of Illinois, from north to south, there’s this line of incredible hamburger spots that make this lacy edged burger. But there’s a bunch in Indiana. One is The Workingman’s Friend (Indianapolis). Workingman’s Friend makes that same patty. It’s a very specific process where they smash the patty, and then they push the edges out super thin, so the edges become almost like a beef candy; it’s like this really cool chewy beef. It’s concentrated beef and salt and flavor.'",
+				"eaten": "jjj",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Sunday and Monday",
+				"rcmmnd": "Burger Show (YouTube)"
             }
         ]
     }
