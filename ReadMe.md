@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.38
-* Release Date: 10-20-2021
+* Release Number:  v.0.7.39
+* Release Date: 10-23-2021
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -42,6 +42,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Frederick, MD - fdk
 * Georgia - ga
 * Houston, TX - hou
+* Indiana - IN
 * Jackson, MS - jan
 * Kentucky - ky
 * Knoxville - tys
@@ -115,6 +116,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Indiana - (IN) to the drop down list and created necessary IN JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Arizona - (AZ) to the drop down list and created necessary AZ JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Tucson, AZ - (TUS) to the drop down list and created necessary TUS JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Arkansas - (AR) to the drop down list and created necessary AR JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
