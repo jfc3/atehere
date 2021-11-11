@@ -314,7 +314,30 @@
 				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "Matt May"
             },
-
+            {
+                "name": "Kamonegi",
+				"add1": "1054 N 39th St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 632-0185",
+				"url": "https://www.kamonegiseattle.com/",
+				"note": "From the Eater website about Kamonegi, 'Exceptional new restaurants sometimes rouse an old question: In cooking, where’s the line between art and craft? The fine points certainly blur at Kamonegi, where Mutsuko Soma, who learned how to make soba from her grandmother, does so entirely from scratch. She starts by grinding buckwheat (usually grown locally) to make the flour for the noodles over which she labors daily. These strands, at once taut and delicate, are practically sentient in their freshness. Begin first with tempura, nearly equal to the soba, with unorthodox but brilliant combinations like broccolini accented with Parmesan and miso-anchovy aioli. The soba comes in three variations: cold with a cold dipping sauce, hot in broth, and as “shrimpcado bukkake,” an intricate noodle bowl that includes shrimp tempura, avocado, and grated radish. I ordered all of them; the server returned and very politely said, “The chef wants to make sure there’s enough soba for every customer. Could you please choose two out of the three options?” I didn’t balk, and I passed on the cold version. I wouldn’t want a soul to miss out on Soma’s masterwork.'",
+				"eaten": "nno",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Sunday and Monday",
+				"rcmmnd": "Eater's 18 Best New Restaurants in America - 2018"
+            },
             {
                 "name": "Kidd Valley",
 				"add1": "5502 25th Ave NE",
