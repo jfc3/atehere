@@ -412,30 +412,6 @@
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
-                "name": "Ollie Irene",
-				"add1": "75 Church St,",
-				"add2": "",
-				"cty": "Mountain Brook",
-				"stt": "AL",
-				"zpcd": "35213",
-				"phn": "(205) 769-6034",
-				"url": "https://www.ollieirene.com/",
-				"note": "Ollie Irene is a cozy, vibrant bistro pairing creative seasonal dishes with handcrafted cocktails and beer. Order the catfish with tasso ham, lemon, and a scallion butter sauce with the fries.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "Southern Foodways Alliance"
-            },
-            {
                 "name": "The Ovenbird",
 				"add1": "2810 3rd Ave S",
 				"add2": "#200",
@@ -444,7 +420,7 @@
 				"zpcd": "35233",
 				"phn": "(205) 957-6686",
 				"url": "https://www.ovenbirdrestaurant.com/",
-				"note": "OvenBird is Chris and Idie Hastings live fire, casual restaurant. Their menu focuses on the amazing seasonal southern ingredients they know and love in a small plate format that takes inspiration from the live fire traditions of Spain, Portugal, Uruguay, Argentina, and of course the American South. Andrew Zimmern recommends ordering The Boudin Rouge.",
+				"note": "From their website, 'OvenBird is Chris and Idie Hastings’ live fire, casual restaurant located in Birmingham’s Market District at Pepper Place. Our menu focuses on the amazing seasonal southern ingredients we know and love that takes inspiration from the live-fire traditions of Spain, Portugal, Uruguay, Argentina and, of course, the American South.' Andrew Zimmern recommends ordering The Boudin Rouge.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -456,7 +432,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday, onday, and Tuesday",
 				"rcmmnd": "Andrew Zimmern"
             },
             {
@@ -504,7 +480,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -564,7 +540,7 @@
 				"zpcd": "35205",
 				"phn": "(205) 582-9993",
 				"url": "https://www.tbonescheesesteaks.com/",
-				"note": "T-Bones Authentic Philly Style Cheesesteaks and Hoagies sandwiches are served on genuine Amoroso rolls straight from Philly. The thing that makes us unique is that we are a cheesesteak shop first. Anthony “T-Bone” Crawford griddles cheesesteaks and fries Cajun fries.",
+				"note": "T-Bones Authentic Philly Style Cheesesteaks and Hoagies sandwiches are served on genuine Amoroso rolls straight from Philly. The thing that makes us unique is that we are a cheesesteak shop first. Anthony “T-Bone” Crawford griddles cheesesteaks and fries Cajun fries. From their website, 'Our sandwiches are served on genuine Amoroso rolls straight from Philly! The thing that makes us unique is that we are a cheesesteak shop first! People are always hollering about where is the Cheez Whiz, cheesesteaks have been around long before Cheez Whiz. Cheez Whiz is garbage!'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -576,7 +552,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -600,7 +576,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Clsoed Sunday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -612,7 +588,7 @@
 				"zpcd": "35222",
 				"phn": "(205) 643-5956",
 				"url": "http://www.tropicaleo.com/",
-				"note": "Tropicaleo serves fresh Puerto Rican food in a casual restaurant and bar. Puerto Rican restaurant serves authentic flavors made with local ingredients. The restaurant exudes a Puerto Rico vibe with pastel colors, tropical accents, and laid-back island ambiance. Seating can be found indoors and on the outside terrace. There is also a take-out window for pickup orders.",
+				"note": "Tropicaleo serves fresh Puerto Rican food in a casual restaurant and bar. Puerto Rican restaurant serves authentic flavors made with local ingredients. The restaurant exudes a Puerto Rico vibe with pastel colors, tropical accents, and laid-back island ambiance. Seating can be found indoors and on the outside terrace. There is also a take-out window for pickup orders. From their website, 'Well, the Alabama tropics, of course! Home to the best food and drinks your palate has ever experienced. grab a Cuban sandwich, piña colada, and relax in our ginormous and amazing patio, as you forget the troubles of the day and feel yourself be freed into a world of colorful art and amazing music, nothing but tropical vibes.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -624,7 +600,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "Southern Foodways Alliance"
             }
         ]
