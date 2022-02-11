@@ -444,7 +444,7 @@
 				"zpcd": "21231",
 				"phn": "(410) 327-0445",
 				"url": "https://www.oneeyedmikes.com/",
-				"note": "One-Eyed Mike's is a local gastropub is located in a historic former tavern with a hand-carved bar, tin ceiling, and courtyard. If they have cioppino which is a seafood stew if it's on special you need to order it.",
+				"note": "One-Eyed Mike’s is a local gastropub is located in a historic former tavern with a hand-carved bar, tin ceiling, and courtyard. If they have cioppino, a seafood stew, you need to order it if it's on special. From their website, ‘Part of the old school charm of One-Eyed Mike’s is that it’s not located among the other taverns and restaurants in the heart of Fell’s Point. It stands alone, located just off the beaten path on a cozy block of Bond St. It’s a place where the locals frequent and refers to as their own. At One-Eyed Mike’s, we’ve created an atmosphere where “you’re a stranger here but once.”’",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -468,7 +468,7 @@
 				"zpcd": "21231",
 				"phn": "(410) 675-7077",
 				"url": "https://www.sipandbite.com/",
-				"note": "Sip and Bite has been a local landmark since 1948 and is known for its crab cakes, and diner fare served 24 hours a day seven days a week, along with their beer and wine selection.",
+				"note": "Sip and Bite has been a local landmark since 1948 and is known for its crab cakes, and diner fare served seven days a week, along with their beer and wine selection. From their website, 'Sip & Bite is most famous for crabcakes and serving hearty breakfasts all day and night at prices that keep our guests and friends coming back for more. Whether it is for breakfast, lunch, dinner, drinks with Happy Hour prices all day, or the amazing Crab Cakes, the portions are always fresh and plentiful. For over 70 years, we have made our crab cakes with the same tried-and-true recipe which includes quality crabmeat, just the right spices and our legendary technique in preparation.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -480,8 +480,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "24 Hours",
-				"rcmmnd": "vvv"
+				"hrs": "uuu",
+				"rcmmnd": "Diners, Drive-Ins and Dives"
             },
             {
                 "name": "The Smoking Swine",
@@ -504,7 +504,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday, Tuesday, Wednesday, and Thursday",
 				"rcmmnd": "Diners, Drive-in, and Dives"
             },
             {
@@ -516,7 +516,7 @@
 				"zpcd": "21211",
 				"phn": "(410) 889-1885",
 				"url": "https://www.taharkabrothers.com/",
-				"note": "Taharka Brothers Ice Cream products can be found at restaurants, shops, and its seasonal truck, which can be spotted at area events. People especially like the pistachio, salty caramel, and butter-pecan ice cream, but they love the company’s creativity with other flavors of which you should order the roasted strawberry or the vanilla fudge mint.",
+				"note": "Taharka Brothers Ice Cream products can be found at restaurants, shops, and their seasonal food truck, which can be spotted at area events. People especially like the pistachio, salty caramel, and butter-pecan ice cream. Still, they love the company’s creativity with other flavors, of which you should order the roasted strawberry or the vanilla fudge mint. From their website, ‘Well known for serving up classic flavors along with a constantly evolving roster of delightful, small-batch flavors beloved in Baltimore, Taharka Brothers’ award-winning ice cream lineup includes favorites like Honey Graham, Mintflix and Chillz, Key Lime Pie, and Caramel Crunch. Taharka Brothers are widely known for our unique social mission, focused on creating an impactful, profitable business managed and operated by young adults from some of Baltimore’s most troubled neighborhoods. Our menu features rotating seasonal and one-time flavors inspired by local happenings and a handful of “collaborations’’ with other local small businesses throughout the year!’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -528,7 +528,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "TEDxMidAtlantic"
             },
             {
@@ -552,7 +552,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Saturday, Sunday, Monday, and Tuesday",
 				"rcmmnd": "vvv"
             }
         ]
