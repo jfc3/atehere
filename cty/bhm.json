@@ -3,30 +3,6 @@
         "city": "Birmingham, AL",
 		"posts": [
             {
-                "name": "The Atomic Lounge",
-				"add1": "2113 1st Ave N",
-				"add2": "",
-				"cty": "Birmingham",
-				"stt": "AL",
-				"zpcd": "35203",
-				"phn": "(205) 983-7887",
-				"url": "http://www.theatomiclounge.com/",
-				"note": "The Atomic Lounge is a kitschy watering hole with a cool vibe offering creative cocktails, themed rooms, and costumes to wear. From their website, 'Feizal Valli and Rachael Roberts are two ridiculous people who met in 2013 and got married three years later. As longtime fans of mid-century modern design and owners of several full body costumes, they decided to marry the two ideas to their love of craft cocktails and dive bars. The result is The Atomic Lounge. It's a labor of love they hope you'll enjoy.'",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "John T. Edge"
-            },
-            {
                 "name": "Big Bad Breakfast",
 				"add1": "5361 US-280",
 				"add2": "",
@@ -35,7 +11,7 @@
 				"zpcd": "35242",
 				"phn": "(205) 490-7568",
 				"url": "https://bigbadbreakfast.com/locations/birmingham-alabama/",
-				"note": "Big Bad Breakfast serves waffles, biscuits, and other hearty daytime eats are served up in a bright, contemporary space. The brainchild of James Beard award-winning chef John Currence, Big Bad Breakfast gives the proper respect to “the most important meal of the day.” Alton Brown recommends the Cathead breakfast, which is a chicken biscuit with crispy fried chicken, cheddar cheese, and sausage gravy. <strong>NOTE</strong>: they have multiple locations.",
+				"note": "Big Bad Breakfast serves waffles, biscuits, and other hearty daytime eats are served up in a bright, contemporary space. The brainchild of James Beard award-winning chef John Currence, Big Bad Breakfast gives the proper respect to “the most important meal of the day.” Alton Brown recommends the Cathead breakfast, which is a chicken biscuit with crispy fried chicken, cheddar cheese, and sausage gravy. From their website, 'One visit will guarantee you never look at a breakfast plate the same again. Whether it’s the house-cured Tabasco/Brown Sugar Bacon, crispy southern fried chicken, McEwen and Sons grits, or the Anson Mills Steel Cut Oatmeal, you’ll be talking about coming back before you’ve left the table. And don’t forget… we serve lunch too.' <strong>NOTE</strong>: they have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -59,7 +35,7 @@
 				"zpcd": "35205",
 				"phn": "(205) 939-1000",
 				"url": "https://bottegarestaurant.com/",
-				"note": "Bottega Cafe is a relaxed cafe offering fine Italian fare, seasonal specialties plus wine in a historic setting. Cafe Bottega is Frank and Pardis Stitt’s relaxed spot where you can come for lunch and stay for dinner with a menu celebrating the warm spirit of Italian cuisine while honoring the purest seasonal ingredients of the American South.",
+				"note": "Bottega Cafe is a relaxed cafe offering fine Italian fare, seasonal specialties, plus wine in a historical setting. Cafe Bottega is Frank and Pardis Stitt’s relaxed spot where you can come for lunch and stay for dinner with a menu celebrating the warm spirit of Italian cuisine while honoring the purest seasonal ingredients of the American South. From their website, ‘Bottega features flavors inspired by the wine bars and trattorias of Italy–from Venice to Palermo. The best aperitifs, wines, beers, cocktails, savory bites, and sublime desserts are offered in a warm and sophisticated atmosphere. Italy inspires the cuisine, carefully crafted by linking ingredients from the American South with artisanal producers from the Italian countryside.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -71,7 +47,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -83,7 +59,7 @@
 				"zpcd": "35203",
 				"phn": "(205) 322-1282",
 				"url": "https://www.cafedupont.net/",
-				"note": "Cafe Dupont, around the corner, serves a lovely rabbit gumbo in a white-table-clothed room in a historical building. The chef prepares regional ingredients with a modern Southern spin in a historic, brick-walled bistro.",
+				"note": "Cafe Dupont, around the corner, serves a lovely rabbit gumbo in a white-table-clothed room in a historical building. The chef prepares regional ingredients with a modern Southern spin in a historic, brick-walled bistro. From their website, 'The menu, which changes daily, reflects a fresh perspective on regional ingredients. Classic cooking styles paired with locally grown ingredients create contemporary flavors and signature dishes, such as Fried Oysters & Okra with Cayenne Butter Sauce, Seared Sea Scallops with Goat Cheese Souffle, and Classic Beignets with Home-grown Strawberry Preserves. Café Dupont is a strong supporter of the &ldquo;slow food&rdquo; movement, which seeks to encourage the enjoyment of regional produce and traditional foods, which are often grown organically.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -95,7 +71,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -107,7 +83,7 @@
 				"zpcd": "35203",
 				"phn": "(205) 868-3737",
 				"url": "https://www.elbarriobirmingham.com/",
-				"note": "El Barrio Restaurante Y Bar is an inventive, sophisticated setting for modern Mexican cuisine and spirits amid bold art and rich woods. Try the green pozole it tastes like a Hispanic pho. They also make the best salads in town.",
+				"note": "El Barrio Restaurante Y Bar is an inventive, sophisticated setting for modern Mexican cuisine and spirits amid bold art and rich woods. Make sure to try their green pozole; it tastes like a Hispanic pho. I read they also make the best salads in town. From their website, 'Multi-regional Mexican-inspired cuisine prepared with seasonally sourced produce, Gulf seafood, and humanely farm-raised meats.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -119,7 +95,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -167,7 +143,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday, Tuesday, and Wednesday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -179,7 +155,7 @@
 				"zpcd": "35209",
 				"phn": "(205) 945-1465",
 				"url": "http://www.greatwallbirmingham.com/",
-				"note": "Great Wall Chinese Restaurant serves Chinese classics, plus Asian fare like hibachi eats and pad Thai, served amid red booths and lanterns. At this 30-plus-year old restaurant, the secret menu is the passkey to braised pork belly with smoked mushrooms or the “stir-fried cheese thing” with fermented black beans and chili peppers.",
+				"note": "Great Wall Chinese Restaurant serves Chinese classics, plus Asian fare like hibachi eats and pad Thai, served amid red booths and lanterns. The secret menu at this 30-plus-year old restaurant is the passkey to braised pork belly with smoked mushrooms or the “stir-fried cheese thing” with fermented black beans and chili peppers. From their website, ‘Great Wall Chinese Restaurant is a Chinese cuisine restaurant located in Birmingham, AL. Our menu has a variety of selections for every customer to choose from with reasonable prices. Whether you are looking for the most authentic and tasty Chinese flavored dishes to ignite your tastebuds or something delicate and healthy to satisfy your stomach, China Cafe would always be your wise choice of dining!’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
