@@ -203,7 +203,7 @@
 				"zpcd": "35203",
 				"phn": "(205) 251-3875",
 				"url": "https://www.greenacres-cafe.com/",
-				"note": "Green Acres Cafe serves fried chicken, and fried green tomatoes are served up at this old-school cafe with counter service and founded in 1958 by Charles Gratton. Get a catfish plate, slathered with mustard and battered with cornmeal. Order it with the works, and that gets you slathers of ketchup, mustard and hot sauce on top.",
+				"note": "Green Acres Cafe serves fried chicken, and fried green tomatoes are served up at this old-school cafe with counter service and founded in 1958 by Charles Gratton. Get a catfish plate slathered with mustard and battered with cornmeal. Order it with the works, and that gets you slathers of ketchup, mustard, and hot sauce on top. From their website, 'Greg Gratton is carrying on a family tradition. In 1958, his father Charles took his life savings and opened the Green Acres Cafe in Birmingham. After decades of success in one location, his father considered investing in a major fast-food chain franchise. But Greg, understanding the value of history and food that Green acres offered, convinced his father to begin his own franchise. After doing all the research and paperwork himself, Greg opened the first Green Acres franchise in 1994. Now, 13 years later, there are 5 locations. The restaurant is well known for their fried chicken wings, pork chops sandwiches, and fried green tomatoes.' <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -251,7 +251,7 @@
 				"zpcd": "35209",
 				"phn": "(205) 623-1017",
 				"url": "https://www.herodoughnutsandbuns.com/",
-				"note": "HHero Doughnuts is a brick-and-mortar iteration of a popular pop-up dishing out donuts and burgers until sold out. Owner Wil Drake makes a crazy great apple fritter along with a chicken sandwich that’s as crispy as the fritter. They have fresh, seasonally flavored brioche doughnuts made daily using seasonal and locally sourced ingredients when available — delicious hamburgers on our brioche buns for lunch along with housemade frozen custard. From their website, 'Started from a pop-up. Now we're here. Early mornings, loading a van, setting up a farmer’s market tent in the cold, heat, rain, and sun. The first Hero Doughnuts outpost was a shared commercial kitchen where founder Will Drake’s 2-day process of making brioche-style yeast doughnuts started. Fresh fruit cooked down and mixed into glazes and fillings, topped with crunchy nuts, streusel, chocolate and sprinkles became the expression of joy that customers feel when they taste our doughnuts. What started as a “pop-up” grew into a market stall where folks liked up, and the doughnuts sold out regularly. It became evident that doughnuts matter--they bring people together, spark joy and satisfy our cravings with more than just sugar.' <strong>NOTE</strong>: They have multiple locations.",
+				"note": "Hero Doughnuts is a brick-and-mortar iteration of a popular pop-up dishing out donuts and burgers until sold out. Owner Wil Drake makes a crazy great apple fritter along with a chicken sandwich that’s as crispy as the fritter. They have fresh, seasonally flavored brioche doughnuts made daily using seasonal and locally sourced ingredients when available — delicious hamburgers on our brioche buns for lunch along with housemade frozen custard. From their website, 'Started from a pop-up. Now we're here. Early mornings, loading a van, setting up a farmer’s market tent in the cold, heat, rain, and sun. The first Hero Doughnuts outpost was a shared commercial kitchen where founder Will Drake’s 2-day process of making brioche-style yeast doughnuts started. Fresh fruit cooked down and mixed into glazes and fillings, topped with crunchy nuts, streusel, chocolate and sprinkles became the expression of joy that customers feel when they taste our doughnuts. What started as a “pop-up” grew into a market stall where folks liked up, and the doughnuts sold out regularly. It became evident that doughnuts matter--they bring people together, spark joy and satisfy our cravings with more than just sugar.' <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -420,7 +420,7 @@
 				"zpcd": "35233",
 				"phn": "(205) 957-6686",
 				"url": "https://www.ovenbirdrestaurant.com/",
-				"note": "From their website, 'OvenBird is Chris and Idie Hastings’ live fire, casual restaurant located in Birmingham’s Market District at Pepper Place. Our menu focuses on the amazing seasonal southern ingredients we know and love that takes inspiration from the live-fire traditions of Spain, Portugal, Uruguay, Argentina and, of course, the American South.' Andrew Zimmern recommends ordering The Boudin Rouge.",
+				"note": "From their website, 'OvenBird is Chris and Idie Hastings’ live fire, casual restaurant located in Birmingham’s Market District at Pepper Place. Our menu focuses on the amazing seasonal southern ingredients we know and love that takes inspiration from the live-fire traditions of Spain, Portugal, Uruguay, Argentina and, of course, the American South. We have worked closely with some of Alabama's finest craftsmen and leaders in design to create a variety of amazing vignettes for you to enjoy a great meal with your friends, family, or colleagues. We look forward to telling their stories which remind us of how fortunate we are to live in a place like Alabama that celebrates our Southern Makers.' Andrew Zimmern recommends ordering The Boudin Rouge.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -432,7 +432,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Sunday, onday, and Tuesday",
+				"hrs": "Closed Sunday, Monday, and Tuesday",
 				"rcmmnd": "Andrew Zimmern"
             },
             {
@@ -504,7 +504,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
@@ -576,7 +576,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Clsoed Sunday",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "Southern Foodways Alliance"
             },
             {
