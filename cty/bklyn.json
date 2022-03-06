@@ -580,30 +580,6 @@
 				"rcmmnd": "Andy from Bon Appetit (YouTube)"
             },
             {
-                "name": "Totonno’s",
-				"add1": "1524 Neptune Ave",
-				"add2": "",
-				"cty": "Brooklyn",
-				"stt": "NY",
-				"zpcd": "11224",
-				"phn": "(718) 372-8606",
-				"url": "https://www.totonnosconeyisland.com/",
-				"note": "Totonno’s is a beloved old-school joint furnishing thin-crust coal-oven pizza to Coney Island crowds since 1924.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "Ugly Delicious and Somebody Feed Phil"
-            },
-            {
                 "name": "Vinegar Hill House",
 				"add1": "72 Hudson Ave",
 				"add2": "",
@@ -624,7 +600,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "Pro Home Cook's (YouTube)"
             }
         ]
