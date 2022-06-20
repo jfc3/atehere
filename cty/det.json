@@ -11,7 +11,7 @@
 				"zpcd": "48126",
 				"phn": "(313) 551-3027",
 				"url": "",
-				"note": "Kings Bakery specializes in Mediterranean gourmet flatbreads and sandwiches. They are known for our phenomenal shawarmas and Manou-wiches(cheese bread sandwiches).",
+				"note": "Kings Bakery specializes in Mediterranean gourmet flatbreads and sandwiches. They are known for our phenomenal shawarmas and Manou-wiches(cheese bread sandwiches). From the Detroit Eater website, 'The bakery is known as the “home of the manouwich,” a Middle Eastern cheese pie made into a rolled sandwich that was recently featured in an episode of Ugly Delicious on Netflix. There are long lines for the manouwich, which comes in 17 varieties; the traditional maneesh comes in 44 options. The 55-seat bakery, which opened in 2013, is undoubtedly busiest during Ramadan. “We always have a line,” chef and co-owner Hassan Houssaiky says.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -27,30 +27,6 @@
 				"rcmmnd": "David Chang's Netflix show Ugly Delicious"
             },
             {
-                "name": "Ochre Bakery",
-				"add1": "4884 Grand River Ave",
-				"add2": "",
-				"cty": "Detroit",
-				"stt": "MI",
-				"zpcd": "48208",
-				"phn": "(313) 686-5694",
-				"url": "https://www.ochrebakery.com/",
-				"note": "From the Ochre Bakery website, 'Ochre is a bakery and cafe born out of Astro Coffee in Corktown, Detroit. Built around a love of food -- and sharing it with the people around us -- our food is wholesome, simple, fresh and nourishing. The menu is inspired by the seasons and the bounty of our local farmers. We are driven by a commitment to quality and sustainability, and we believe that the best quality bread and pastries (and everything else we make) begin with the best quality ingredients. We are committed to using organic and local products as much as we can for the health of our community and the planet.'",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Monday",
-				"rcmmnd": "Bon Appetit"
-            },
-            {
                 "name": "Rose's Fine Food",
 				"add1": "10551 E Jefferson Ave",
 				"add2": "",
@@ -59,7 +35,7 @@
 				"zpcd": "48214",
 				"phn": "(313) 822-2729",
 				"url": "https://www.rosesfinefood.com/",
-				"note": "Rose's Fine Food serves down-home American fare, and housemade desserts served in vintage-diner environs with counter seating. Need to order the Chi Chi fried rice with fried eggs. Chi Chi is pickled kimchi.",
+				"note": "Rose's Fine Food serves down-home American fare, and housemade desserts served in vintage-diner environs with counter seating. Need to order the Chi Chi fried rice with fried eggs. Chi Chi is pickled kimchi. From their website, 'The vision for  Roses Fine Food and Wine is to restore nourishment to the inclusive, welcoming atmosphere of diners and to offer full flavor homemade food with a modern business model that nods to diner’s democratic beginnings.' From the Detroit Eater website, 'Charming East Jefferson restaurant Rose’s Fine Food puts a fresh, seasonal twist on the diner genre with options like buckwheat pancakes, beans and greens, and potato doughnuts. As a bonus, many of the dishes are vegan and gluten-free but don’t skimp on flavor. Currently, Rose’s has curbside carryout only with online ordering. There is a patio in the parking lot. Customers can purchase items like egg sandwiches and maple doughnuts online as well as cakes, cold brew coffee, and canned rosé.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -95,7 +71,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Friday and Saturday",
+				"hrs": "Closed Saturday",
 				"rcmmnd": "David Chang's Netflix show Ugly Delicious"
             },
             {
@@ -119,7 +95,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Sunday and Monday",
+				"hrs": "Closed Monday, Tuesday, and Wednesday",
 				"rcmmnd": "Bon Appetit"
             }
         ]
