@@ -3,7 +3,7 @@
         "city": "Maryland",
 		"posts": [
             {
-                "name": "Baltimore Farmers' Market and Bazaar",
+                "name": "Baltimore Farmers' Market",
 				"add1": "E Saratoga St and Holliday St",
 				"add2": "",
 				"cty": "Baltimore",
@@ -438,7 +438,7 @@
             {
                 "name": "Gary’s Grilled Turkey Burgers & Sauces",
 				"add1": "E Saratoga St and Holliday St",
-				"add2": "Baltimore Farmers' Market and Bazaar",
+				"add2": "Baltimore Farmers' Market",
 				"cty": "Baltimore",
 				"stt": "MD",
 				"zpcd": "21202",
@@ -726,7 +726,7 @@
             {
                 "name": "The Mushroom Stand",
 				"add1": "E Saratoga St and Holliday St",
-				"add2": "Baltimore Farmers' Market and Bazaar",
+				"add2": "Baltimore Farmers' Market",
 				"cty": "Baltimore",
 				"stt": "MD",
 				"zpcd": "21202",
