@@ -203,7 +203,7 @@
 				"zpcd": "77072",
 				"phn": "(281) 568-4888",
 				"url": "",
-				"note": "Nam Giao Restaurant and Bakery is a tiny family-run spot specializing in the food of Hue, a province of central Vietnam. From what I saw on David Chang's Netflix show Ugly Delicious you need to order the crystal shrimp dumpling.",
+				"note": "Nam Giao Restaurant and Bakery is a tiny family-run spot specializing in the food of Hue, a province of central Vietnam. From what I saw on David Chang’s Netflix show Ugly Delicious you need to order the crystal shrimp dumpling. From the Houston Eater website, ‘A highlight from David Chang’s Houston episode of Ugly Delicious, this modest family-run restaurant specializes in Central Vietnamese cuisine. People fall head over heels for the adorable steamed rice cake saucers called Banh Beo Chen and the chewy glutinous shrimp dumplings (Banh Quai Vac). Regional specialties like bun bo hue (spicy lemongrass beef noodle soup) and Mi Quang (turmeric noodles with pork and shrimp) are also solid.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -215,32 +215,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Thursday",
 				"rcmmnd": "David Chang's Netflix show Ugly Delicious"
-            },
-            {
-                "name": "Underbelly",
-				"add1": "1100 Westheimer Rd",
-				"add2": "",
-				"cty": "Houston",
-				"stt": "TX",
-				"zpcd": "77006",
-				"phn": "(713) 528-9800",
-				"url": "http://www.underbellyhouston.com/",
-				"note": "Underbelly is an upscale eatery and on-site butcher shop dedicated to all things pork which features a wine bar.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
             }
         ]
     }
