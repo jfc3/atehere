@@ -23,7 +23,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Tuesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -95,11 +95,11 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday, Monday, and Tuesday",
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Richy Kreme Do-Nuts",
+                "name": "Richy Kreme Donuts",
 				"add1": "2601 E Broadway Ave",
 				"add2": "",
 				"cty": "TN",
@@ -107,7 +107,7 @@
 				"zpcd": "37804",
 				"phn": "(865) 983-2580",
 				"url": "hhh",
-				"note": "From the Richy Kreme Do-Nuts website, 'In 1939 Marion Richardson moved to Blount County with his family. Prior to that, he and his brother were operating a doughnut franchise in Virginia. Saying he had a flour blend that would make a better doughnut, Mr. Richardson went back into the business. In 1948, Marion Richardson began serving doughnuts at a shop on Old Knoxville Highway across from Eagleton Ball Park. Richy Kreme Do-Nuts has become a Blount County tradition ever since.' When you are there, you need to eat one of their apple fritters along with a white cream-filled donut.",
+				"note": "From the Richy Kreme Donuts website, 'In 1939 Marion Richardson moved to Blount County with his family. Prior to that, he and his brother were operating a doughnut franchise in Virginia. Saying he had a flour blend that would make a better doughnut, Mr. Richardson went back into the business. In 1948, Marion Richardson began serving doughnuts at a shop on Old Knoxville Highway across from Eagleton Ball Park. Richy Kreme Donuts become a Blount County tradition ever since.' When you are there, you need to eat one of their apple fritters along with a white cream-filled donut.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -119,7 +119,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "Platform 1346 (World War II Train Car)"
             },
             {
@@ -143,7 +143,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "Platform 1346 (World War II Train Car)"
             }
         ]
