@@ -120,7 +120,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "UUU",
+				"hrs": "uuu",
 				"rcmmnd": "vvv"
             },
             {
@@ -372,7 +372,7 @@
 				"zpcd": "21214",
 				"phn": "(410) 254-2376",
 				"url": "http://www.maggiesfarmmd.com/",
-				"note": "Maggie's Farm is an intimate bar and restaurant showcasing thoughtfully sourced, globally inspired provisions and cocktails.",
+				"note": "Maggie's Farm is an intimate bar and restaurant showcasing thoughtfully sourced, globally inspired provisions and cocktails. From their website, 'is committed to supporting local farms, businesses, and charities. We currently source from Kohl Family Farm, TUSCARORA ORGANIC CO-OP, Andy's Eggs and Poultry, Roseda Farms, Zeke's coffee, our garden, and more. We strive to provide quality service and product in a comfortable space. We might not be the best. But we hope we're your favorite.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -384,7 +384,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -396,7 +396,7 @@
 				"zpcd": "21210",
 				"phn": "(410) 889-5272",
 				"url": "https://www.missshirleys.com/",
-				"note": "Miss Shirley’s Cafe is a brunch cafe boasting local ingredients, and they have outdoor seating plus a pancake-of-the-month special. From their website, 'is committed to supporting local farms, businesses, and charities. We currently source from Kohl Family Farm,  TUSCARORA ORGANIC CO-OP, Andy's Eggs & Poultry, Roseda Farms, Zeke's coffee, our garden, and more. We strive to provide quality service and product in a comfortable space. We might not be the best. But we hope we're your favorite.' <strong>NOTE</strong>: They have multiple locations.",
+				"note": "Miss Shirley’s Cafe is a brunch cafe boasting local ingredients, and they have outdoor seating plus a pancake-of-the-month special. From their website, 'Miss Shirley's Cafe offers guests an upscale-casual and exceptional award-winning culinary experience for all-day breakfast, brunch and lunch. Our specialties are rooted in Southern fundamentals and the abundance of fresh ingredients from Maryland. We pride ourselves in beautifully presented plates, prompt and professional service, as well as clean, comfortable and well-maintained premises for our guests.' <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -530,30 +530,6 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Monday",
 				"rcmmnd": "TEDxMidAtlantic"
-            },
-            {
-                "name": "Woodberry Kitchen",
-				"add1": "2010 Clipper Park Rd",
-				"add2": "",
-				"cty": "Baltimore",
-				"stt": "MD",
-				"zpcd": "21211",
-				"phn": "(410) 464-8000",
-				"url": "https://www.woodberrykitchen.com/",
-				"note": "Woodberry Kitchen is an old factory turned hip, a rustic-chic place for refined New American fare with a farm-to-table bent.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Saturday, Sunday, Monday, and Tuesday",
-				"rcmmnd": "vvv"
             }
         ]
     }
