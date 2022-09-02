@@ -647,7 +647,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "vvv"
             },
             {
@@ -769,30 +769,6 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
-            },
-            {
-                "name": "Lunchbox Eats",
-				"add1": "288 S 4th St",
-				"add2": "",
-				"cty": "Memphis",
-				"stt": "TN",
-				"zpcd": "38126",
-				"phn": "(901) 526-0820",
-				"url": "",
-				"note": "Lunchbox Eats is a laid-back eatery serving sandwiches, comfort food, and desserts in a casual space with patio seating. Order the graduation meatloaf sandwich or turkey sandwich with home made slaw.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
             },
             {
                 "name": "Martin’s Bar-B-Que Joint",
