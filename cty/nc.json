@@ -155,7 +155,7 @@
 				"zpcd": "27701",
 				"phn": "(919) 683-1058",
 				"url": "https://beyucaffe.com/",
-				"note": "Beyú Caffè is an upbeat, bohemian hangout offering coffee, all-day American fare, a full bar, live jazz, and free WiFi. The restaurant’s distinguishing feature is its business model, as a brunch spot by day and jazz club by night; inside, musicians rub arms with young professionals working up the street. Its menu features classic Southern comfort food alongside vegan sandwiches.",
+				"note": "Beyú Caffè is an upbeat, bohemian hangout offering coffee, all-day American fare, a full bar, live jazz, and free WiFi. The restaurant’s distinguishing feature is its business model, as a brunch spot by day and jazz club by night; inside, musicians rub arms with young professionals working up the street. Its menu features classic Southern comfort food alongside vegan sandwiches. From their website, ‘Since 2009, Beyu Caffe has been rooted in a love for coffee, community, and bringing people together in a place where they can simply be themselves. Known for its soulful sophistication and mellow vibes, the downtown Durham location is a local institution - a place to have a power breakfast meeting, buckle down and finally work on your business idea, catch up over brunch with friends, or enjoy live music.’ <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -167,32 +167,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "vvv"
-            },
-            {
-                "name": "BimBeriBon",
-				"add1": "697 Haywood Rd",
-				"add2": "",
-				"cty": "Asheville",
-				"stt": "NC",
-				"zpcd": "28806",
-				"phn": "(828) 505-0328",
-				"url": "https://bimberibon.com/",
-				"note": "BimBeriBon is a gluten-free menu of global bites, and the superfood-enhanced fare is served in a light-filled space. From their website, 'We believe that real food is joy. Everything we make in our kitchen and bakery uses only “real, feelgood food,” which means we use no gluten and no refined sugars, but we absolutely use delicious flavors and ingredients. We welcome meat-eaters, vegans, vegetarians, and everyone in between to come enjoy the nourishment and joy that real food can bring to the table. Living life starts with food—all day, every day; it’s our energetic fuel. But beyond being functional, the experience of eating feels good. However, how we feel afterward is the real test of truly good food.' Jason from the Sow the Land YouTube channel recommends the vegan cakes and pastries.",
-				"eaten": "jjj",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Monday, Tuesday, Wednesday, and Thursday",
-				"rcmmnd": "Jason - Sow the Land (YouTube)"
             },
             {
                 "name": "Biscuit Head",
@@ -215,8 +191,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "Close at 2:00 PM"
+				"hrs": "Close at 2:00 PM",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Brewery Bhavana",
