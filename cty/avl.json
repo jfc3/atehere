@@ -27,30 +27,6 @@
 				"rcmmnd": "New York Times"
             },
             {
-                "name": "BimBeriBon",
-				"add1": "697 Haywood Rd",
-				"add2": "",
-				"cty": "Asheville",
-				"stt": "NC",
-				"zpcd": "28806",
-				"phn": "(828) 505-0328",
-				"url": "https://bimberibon.com/",
-				"note": "BimBeriBon is a gluten-free menu of global bites, and the superfood-enhanced fare is served in a light-filled space. From their website, 'We believe that real food is joy. Everything we make in our kitchen and bakery uses only “real, feelgood food,” which means we use no gluten and no refined sugars, but we absolutely use delicious flavors and ingredients. We welcome meat-eaters, vegans, vegetarians, and everyone in between to come enjoy the nourishment and joy that real food can bring to the table. Living life starts with food—all day, every day; it’s our energetic fuel. But beyond being functional, the experience of eating feels good. However, how we feel afterward is the real test of truly good food.' Jason from the Sow the Land YouTube channel recommends the vegan cakes and pastries.",
-				"eaten": "jjj",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Monday, Tuesday, Wednesday, and Thursday",
-				"rcmmnd": "Jason - Sow the Land (YouTube)"
-            },
-            {
                 "name": "Biscuit Head",
 				"add1": "417 Biltmore Ave",
 				"add2": "#4f",
@@ -71,8 +47,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "Close at 2:00 PM"
+				"hrs": "Close at 2:00 PM",
+				"rcmmnd": "vvv"
             },
             {
                 "name": "Buxton Hall Barbecue",
