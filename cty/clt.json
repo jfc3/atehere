@@ -169,6 +169,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "South 21 Drive In",
+				"add1": "3101 E Independence Blvd",
+				"add2": "",
+				"cty": "Charlotte",
+				"stt": "NC",
+				"zpcd": "28205",
+				"phn": "(704) 377-4509",
+				"url": "https://south21drivein.net/",
+				"note": "South 21 Drive In is an old, drive-in stop for classic American comfort food with curb service since 1955. You need to order yourself a Super Boy. From the Food Network website, 'Since 1955, South 21 Drive-In has been serving more than 20,000 meals a month to Charlotte, N.C., locals; so Guy had to check them out. He's glad he did for their classic American burgers and shakes, including the Super Boy, a signature double burger with scratch-made chili and tangy slaw. They recommend ordering  the Super Boy (Burger with Two Patties, Coleslaw and Chili), Fish O Burger, Onion Rings, and Golden Southern Fried Chicken.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Sunday and Monday",
+				"rcmmnd": "vvv"
             }
         ]
     }
