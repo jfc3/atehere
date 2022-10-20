@@ -187,7 +187,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?></h2>
-		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<strong>Looking forward to eating here.</strong>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
+		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<span id="lfteh"><strong>Looking forward to eating here.</strong></span>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
 		<p id="ggl-mps"><strong>Note</strong>: All restaurant addresses link to Google maps.</p>
 		<ul role="list">
     <?php
@@ -197,9 +197,9 @@ if (in_array($slct, $locs) && $slct != "") {
 			<li>
 				<div class="vcard">
 				<?php if ($post->url != "" && $post->url != "hhh") { ;?>
-					<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">Looking forward to eating here.</span>';} ?></a></h3>
+					<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' <span aria-labelledby="lfteh">*</span>';} ?></a></h3>
 				<?php } else { ?>
-					<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">Looking forward to eating here.</span>';} ?></h3>
+					<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' <span aria-labelledby="lfteh">*</span>';} ?></h3>
 			    <?php } ?>
 					<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.",".$post->cty.",".$post->stt.",".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 					<?php if ($post->phn != "" && $post->phn != "ggg") { echo "<p class='tel'>".$post->phn."</p>";} ?>
