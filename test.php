@@ -200,7 +200,7 @@ if (in_array($slct, $locs) && $slct != "") {
 						<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1">
 							<a href="<?php echo $post->url; ?>" class="url"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' <span aria-labelledby="lfteh">*</span>';} ?></a></h3>
 					<?php } else { ?>
-						<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' * <span class="scrn-rdr">Looking forward to eating here.</span>';} ?></h3>
+						<h3 class="fn" id="<?php echo $rest_name; ?>" tabindex="-1"><?php echo $post->name; ?><?php if ($post->eaten != "yes" && $post->eaten != "jjj") { echo ' <span aria-labelledby="lfteh">*</span>';} ?></h3>
 				    <?php } ?>
 						<p><a href="https://www.google.com/maps/place/<?php echo urlencode($post->add1.",".$post->cty.",".$post->stt.",".$post->zpcd); ?>" class="rest-addr" aria-describedby="ggl-mps"><span class="adr"><span class="street-address"><?php echo $post->add1; ?></span><br /><?php if ($post->add2 != "" && $post->add2 != "ccc") { echo '<span class="extended-address">'.$post->add2."</span><br />";} ?> <span class="locality"><?php echo $post->cty; ?></span>, <span class="region"><?php echo $post->stt; ?></span> <span class="postal-code"><?php echo $post->zpcd; ?></span></span></a></p>
 						<?php if ($post->phn != "" && $post->phn != "ggg") { echo "<p class='tel'>".$post->phn."</p>";} ?>
