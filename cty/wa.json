@@ -1155,6 +1155,30 @@
 				"rcmmnd": "vvv"
             },
             {
+                "name": "Pam’s Kitchen",
+				"add1": "1715 N 45th St",
+				"add2": "",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98103",
+				"phn": "(206) 696-7010",
+				"url": "https://pams-kitchen.com/",
+				"note": "Pam’s Kitchen relaxed Trinidadian-Caribbean eatery serving jerk chicken and curries, plus juices and cocktails. You need to order the curry goat, Spicy Jerk Chicken and Pelau which is similar to jambalaya or Dahlpuri, an unleavened bread stuffed with yellow split peas, then rolled up and cooked to order on the flattop. From the Seattle Eater website, ‘Curried goat, jerk chicken, callaloo, fried plantains — the Trinidadian cuisine at Pam’s is rich, spicy, earthy, and decadent. The location is one of the biggest dining rooms in Wallingford, where previous restaurants have struggled to fill seats. It’s still kicking over two years into the pandemic.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Monday, Tuesday, and Wednesday",
+				"rcmmnd": "Diners, Drive-ins, and Dives"
+            },
+            {
                 "name": "Paseo (Fremont)",
 				"add1": "4225 Fremont Ave N",
 				"add2": "",
@@ -1175,7 +1199,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday",
+				"hrs": "uuu",
 				"rcmmnd": "Matt May"
             },
             {
