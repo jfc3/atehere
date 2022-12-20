@@ -221,7 +221,7 @@ if (in_array($slct, $locs) && $slct != "") {
 	</div>
 	<div id="ftr" role="contentinfo">
 		<p>&copy; 2016 - <?php echo date('Y'); ?> - Created by <a href="http://jfciii.com" rel="me">jfciii.com</a> / <a href="https://twitter.com/jfc3" rel="me">@jfc3</a></p>
-		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question%20from%20Gotta%20Eat%20Here<?php if ($slct != "" && $slct != "xxx") { echo " - ".$city." ($slct)";} ?>" rel="me">Questions?</a> <a href="https://github.com/jfc3/atehere" rel="me">GitHub</a></p>
+		<p><a href="mailto:jfc3atehere@jfciii.com?subject=Question%20from%20jfc3%20Ate%20Here<?php if ($slct != "" && $slct != "xxx") { echo "%20-%20".$city."%20($slct)";} ?>" rel="me">Questions?</a> <a href="https://github.com/jfc3/atehere" rel="me">GitHub</a></p>
 	</div>
 </div>
 </body>
