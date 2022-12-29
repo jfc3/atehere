@@ -215,7 +215,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Sunday, Monday, Tuesday, and Wednesday",
+				"hrs": "Closed Sunday, Monday, and Tuesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -239,7 +239,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Sundays",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "vvv"
             }
         ]
