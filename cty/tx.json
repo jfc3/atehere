@@ -539,7 +539,7 @@
 				"zpcd": "76574",
 				"phn": "(512) 352-6206",
 				"url": "https://www.louiemuellerbarbecue.com/",
-				"note": "Louie Mueller Barbecue is a classic barbecue joint serving ribs, sausage, brisket, poultry, and steaks in airy, rustic space. You need to order the beef brisket or any of the three homemade sausages. Here's a quote from their website: 'Louie Mueller Barbecue has been described as a 'cathedral of smoke' due to producing the finest BBQ in Texas since opening its doors in 1949.'",
+				"note": "Louie Mueller Barbecue is a classic barbecue joint serving ribs, sausage, brisket, poultry, and steaks in airy, rustic space. You need to order the beef brisket or any of the three homemade sausages. From their website: 'Louie Mueller Barbecue has been described as a 'cathedral of smoke' due to producing the finest BBQ in Texas since opening its doors in 1949. Founder Louie Mueller handed over the reins to his son Bobby in 1974, who ran the smoker for over three decades before his son (third generation owner/pitmaster) Wayne Mueller took control in 2007.  It was also around this time that the Central Texas BBQ restaurant was honored by the James Beard Foundation with an American Classics award, an honor given only to our nation's most beloved and best regional restaurants. While the menu may have changed slightly from the early days of the BBQ restaurant, the attention to detail and dedication to producing the best BBQ in Texas (and let’s face it, the world) remains the same. Just as it was then, you'll find a Mueller behind the counter and the highest quality Texas BBQ served on your tray.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -551,7 +551,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday, Monday, and Tuesday",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
             {
@@ -563,7 +563,7 @@
 				"zpcd": "78701",
 				"phn": "(512) 236-9599",
 				"url": "https://moonshinegrill.com/",
-				"note": "Moonshine Patio Bar and Grill is a contemporary comfort food and cocktails in a historic home with a patio. I have never been wrong ordering their pork chop dinner and a side of cornbread.",
+				"note": "Moonshine Patio Bar and Grill is a contemporary comfort food and cocktails in a historic home with a patio. I have never been wrong ordering their pork chop dinner and a side of cornbread. From their website, 'Moonshine Patio Bar and Grill takes you back to a simpler time. Comfortable and familiar, relaxed and easygoing, moonshine greets guests like family. Serving up great cooking with an innovative take on classic american comfort food, moonshine's menu satisfies even the big city tastes.'",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -587,7 +587,7 @@
 				"zpcd": "77072",
 				"phn": "(281) 568-4888",
 				"url": "",
-				"note": "Nam Giao Restaurant and Bakery is a tiny family-run spot specializing in the food of Hue, a province of central Vietnam. From what I saw on David Chang's Netflix show Ugly Delicious you need to order the crystal shrimp dumpling.",
+				"note": "Nam Giao Restaurant and Bakery is a tiny family-run spot specializing in the food of Hue, a province of central Vietnam. From what I saw on David Chang’s Netflix show Ugly Delicious you need to order the crystal shrimp dumpling. From the Houston Eater website, ‘A highlight from David Chang’s Houston episode of Ugly Delicious, this modest family-run restaurant specializes in Central Vietnamese cuisine. People fall head over heels for the adorable steamed rice cake saucers called Banh Beo Chen and the chewy glutinous shrimp dumplings (Banh Quai Vac). Regional specialties like bun bo hue (spicy lemongrass beef noodle soup) and Mi Quang (turmeric noodles with pork and shrimp) are also solid.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -599,8 +599,8 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"hrs": "Closed Thursday",
+				"rcmmnd": "Recommended by David Chang's Netflix show Ugly Delicious"
             },
             {
                 "name": "Nervous Charlie's",
