@@ -479,7 +479,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Saturday and Sunday",
 				"rcmmnd": "vvv"
             },
             {
@@ -491,7 +491,7 @@
 				"zpcd": "99352",
 				"phn": "(509) 946-9460",
 				"url": "",
-				"note": "The Folder Pizza Pie serves stuffed Italian specialties like calzone and stromboli. Chef Dale Leikam wraps savory and sweet toppings into his signature pizza dough. For dessert, you need to order the apple doughboy. From the Food Network website, 'The Folder Pie is the place to go for stuffed Italian specialties like calzone and stromboli. Chef Dale Leikam wraps savory and sweet toppings into his signature pizza dough. &ldquo;it’s funky I’ll find it, and you might be getting the freaky-funky award,&rdquo; said Guy after trying Chef Dale's wild and delicious creations.'",
+				"note": "The Folded Pizza Pie serves stuffed Italian specialties like calzone and stromboli. Chef Dale Leikam wraps savory and sweet toppings into his signature pizza dough. For dessert, you need to order the apple doughboy. From the Food Network website, 'The Folder Pie is the place to go for stuffed Italian specialties like calzone and stromboli. Chef Dale Leikam wraps savory and sweet toppings into his signature pizza dough. &ldquo;it’s funky I’ll find it, and you might be getting the freaky-funky award,&rdquo; said Guy after trying Chef Dale's wild and delicious creations.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -503,11 +503,11 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
             {
-                "name": "Frost Me Sweet",
+                "name": "Frost Me Sweet Bakery and Bistro",
 				"add1": "710 The Pkwy",
 				"add2": "",
 				"cty": "Richland",
@@ -515,7 +515,7 @@
 				"zpcd": "99352",
 				"phn": "(509) 420-4704",
 				"url": "https://www.frostmesweetbakeryandbistro.com/",
-				"note": "Frost Me Sweet is a neighborhood bakery/bistro with select sandwiches and mains, along with gourmet cupcakes in diverse flavors and other baked goods.",
+				"note": "Frost Me Sweet Bakery and Bistro is a neighborhood bakery/bistro with select sandwiches and mains, along with gourmet cupcakes in diverse flavors and other baked goods. From their website, 'A Chef and a Baker fell in love and combined their 20+ years of restaurant experience and love for food to build Frost Me Sweet Bakery and Bistro. Frost Me Sweet is a sit-down dining Bistro combined with a gloriously delicious dessert Bakery, sure to satisfy your need for the sweet and savory. We do custom cakes for any occasion, including weddings. Our Bistro entrees and baked treats are made from scratch daily. We offer gluten-free and vegan options every day.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -659,7 +659,7 @@
 				"zpcd": "98247",
 				"phn": "(360) 966-2400",
 				"url": "https://hollysmeatpies.com/",
-				"note": "From Holly’s Meat Pies website, 'Holly’s Meat Pies honors the tradition of the Cornish Pasty by using only the best ingredients to provide you with a tasty farm-to-table meal. Our focus on locally sourced, sustainably raised meats and vegetables shows in every bite.'",
+				"note": "From Holly’s Meat Pies website, 'Our artisan hand pies honor the tradition of the Cornish Pasty. We use only the best ingredients to provide you with a tasty farm-to-table meal. Our focus on locally sourced, sustainably raised meats and vegetables shows in every bite. Our pasties come in a variety of flavors to satisfy everyone at your table.'",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -671,7 +671,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
             {
@@ -719,7 +719,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday, Tuesday, Wednesday",
+				"hrs": "Closed Monday, Tuesday, Wednesday, and Thursday",
 				"rcmmnd": "vvv"
             },
             {
