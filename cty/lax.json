@@ -316,7 +316,7 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Bludso's Bar & Que",
+                "name": "Bludso's Bar and Que",
 				"add1": "609 N La Brea Ave",
 				"add2": "",
 				"cty": "Los Angeles",
@@ -408,7 +408,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "vvv"
             },
             {
@@ -420,7 +420,7 @@
 				"zpcd": "90291",
 				"phn": "(310) 981-3004",
 				"url": "https://www.thebutchersdaughter.com/",
-				"note": "he Butcher's Daughter is a bright, bleached-wood outpost offering vegetarian (mostly vegan) fare, and juices in a relaxed space. I'm not a big eggs Benedict person but enjoyed their Avocado Eggs Benedict with hash browns and a side of Impossible Burger maple and sage pork sausage. Even saw film producer Brian Grazer and his wife there. From their website, ‘The Butcher’s Daughter is a plant-based restaurant, cafe, juice bar, and “vegetable slaughterhouse.” We treat fruits and vegetables as a butcher would meat: We chop, fillet, and carve fresh produce into healthy vegetarian dishes and press them into pretty juices.’ <strong>NOTE</strong>: They have multiple locations.",
+				"note": "The Butcher's Daughter is a bright, bleached-wood outpost offering vegetarian (mostly vegan) fare, and juices in a relaxed space. I'm not a big eggs Benedict person but enjoyed their Avocado Eggs Benedict with hash browns and a side of Impossible Burger maple and sage pork sausage. Even saw film producer Brian Grazer and his wife there. From their website, ‘The Butcher’s Daughter is a plant-based restaurant, cafe, juice bar, and “vegetable slaughterhouse.” We treat fruits and vegetables as a butcher would meat: We chop, fillet, and carve fresh produce into healthy vegetarian dishes and press them into pretty juices.’ <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -444,7 +444,7 @@
 				"zpcd": "90291",
 				"phn": "(424) 231-8000",
 				"url": "https://cafegratitude.com/",
-				"note": "Cafe Gratitude uses locally sourced, organic vegan food and drinks served in a bright, spacious cafe with patio seating. From their website, 'Café Gratitude is our expression of a world of plenty. Our food and people are a celebration of our aliveness. We select the finest ingredients to honor the earth and ourselves, as we are one and the same. We support local farmers, sustainable and regenerative agriculture, and environmentally friendly products. Our food is prepared with love. We invite you to step inside and enjoy being someone that chooses: loving your life, adoring yourself, accepting the world, being generous and grateful every day, and experiencing being provided for.'",
+				"note": "Cafe Gratitude uses locally sourced, organic vegan food and drinks served in a bright, spacious cafe with patio seating. From their website, 'Cafe Gratitude is our expression of a world of plenty. Our food and people are a celebration of our aliveness. We select the finest ingredients to honor the earth and ourselves, as we are one and the same. We support local farmers, sustainable and regenerative agriculture, and environmentally friendly products. Our food is prepared with love. We invite you to step inside and enjoy being someone that chooses: loving your life, adoring yourself, accepting the world, being generous and grateful every day, and experiencing being provided for.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -528,7 +528,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -829,7 +829,7 @@
 				"zpcd": "90247",
 				"phn": "(310) 532-0820",
 				"url": "https://gardenabowlcoffeeshop.com/",
-				"note": "From the LA Weekly magazine website about Gardena Bowl Coffee Shop's food, 'If this type of cuisine is new to you, I recommend diving in head-first. Get the signature dish the restaurant calls the Hawaiian Royal: rice, eggs, green onions, chashu, Portuguese sausage, and teriyaki sauce. You'll know within two bites if you're into Hawaiian food.'",
+				"note": "From the LA Weekly magazine website about Gardena Bowl Coffee Shop's food, 'If this type of cuisine is new to you, I recommend diving in head-first. Get the signature dish the restaurant calls the Hawaiian Royal: rice, eggs, green onions, chashu, Portuguese sausage, and teriyaki sauce. You'll know within two bites if you're into Hawaiian food.' From the Los Angles EAter website, ‘The longtime Gardena Bowl coffee shop has been a neighborhood destination for breakfast foods and Hawaiian-inflected dishes like wonton saimin and a Royal fried rice plate topped with roast pork. It’s only open for takeout.’ From the Los Angles EAter website, ‘The longtime Gardena Bowl coffee shop has been a neighborhood destination for breakfast foods and Hawaiian-inflected dishes like wonton saimin and a Royal fried rice plate topped with roast pork. It’s only open for takeout.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -961,7 +961,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "vvv"
             },
             {
@@ -1086,7 +1086,7 @@
             },
             {
                 "name": "Homeboy Bakery Grill",
-				"add1": "130 W. Bruno St",
+				"add1": "130 Bruno St",
 				"add2": "",
 				"cty": "Los Angeles",
 				"stt": "CA",
@@ -1110,7 +1110,7 @@
             },
             {
                 "name": "Homegirl Cafe",
-				"add1": "130 W. Bruno St",
+				"add1": "130 Bruno St",
 				"add2": "",
 				"cty": "Los Angeles",
 				"stt": "CA",
@@ -1345,7 +1345,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday",
 				"rcmmnd": "Casey Neistat"
             },
             {
@@ -1493,30 +1493,6 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Konbi",
-				"add1": "1463 Sunset Blvd",
-				"add2": "",
-				"cty": "Los Angeles",
-				"stt": "CA",
-				"zpcd": "90026",
-				"phn": "(213) 278-0007",
-				"url": "https://www.konbi.co/",
-				"note": "Konbi serves Katsu or Japanese egg salad sandwiches and select French pastries. From the LA Times website, 'The eggplant katsu sandwich at Konbi in Echo Park has the demure looks of a high society English tea sandwich: crustless slices of springy white bread, tidily filled with fried eggplant and finely shredded cabbage. One bite, however, and the illusion of primness fades: The eggplant, marinated overnight in a burnt onion dashi before it is panko-breaded and deep-fried, delivers a dense, savory wallop. Its meaty quality is amplified by a thin scrim of sweet-savory Bull-Dog tonkatsu sauce, a beloved Japanese condiment that lands somewhere between A.1. and Worcestershire. The dish seesaws between flavors, never quite landing on one. It’s a complicated and delicious feat, more technically challenging than it appears at first glance.'",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Monday and Tuesday",
-				"rcmmnd": "Bon Appetit"
-            },
-            {
                 "name": "LA Farmers' Market",
 				"add1": "6333 W 3rd St",
 				"add2": "",
@@ -1609,7 +1585,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday",
+				"hrs": "Closed Sunday",
 				"rcmmnd": "vvv"
             },
             {
