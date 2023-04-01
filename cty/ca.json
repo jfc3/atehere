@@ -3073,7 +3073,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday, Tuesday, Wednesday, and Thursday",
+				"hrs": "uuu",
 				"rcmmnd": "Eater's 18 Best New Restaurants in America - 2018"
             },
             {
@@ -3269,30 +3269,6 @@
 				"rcmmnd": "vvv"
             },
             {
-                "name": "Monte Carlo Bar",
-				"add1": "3514 W 3rd St",
-				"add2": "",
-				"cty": "Los Angeles",
-				"stt": "CA",
-				"zpcd": "90020",
-				"phn": "",
-				"url": "",
-				"note": "Monte Carlo Bar is a dive bar in Koreatown.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "Closed Monday and Tuesday",
-				"rcmmnd": "vvv"
-            },
-            {
                 "name": "Moo Creamery",
 				"add1": "4885 Truxtun Ave,",
 				"add2": "",
@@ -3389,30 +3365,6 @@
 				"rcmmnd": "Snook"
             },
             {
-                "name": "Nate'n Al Delicatessen",
-				"add1": "414 N Beverly Dr",
-				"add2": "",
-				"cty": "Beverly Hills",
-				"stt": "CA",
-				"zpcd": "90210",
-				"phn": "(310) 274-0101",
-				"url": "https://www.natenals.com/",
-				"note": "Nate'n Al Delicatessen is a bustling, landmark Jewish deli with a casual vibe featuring house rye, corned beef, and pastrami. From their website, 'Nate'n Al proudly features only the finest Corned Beef, Brisket, Hamburgers, Stuffed Cabbage and Short Ribs. Our Nova Salmon is a wild smoked salmon, and our finest smoked fish products are flown in from New York, with the exception of our Barbecued Cod and Belly Lox.'",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "Comedians in Cars Getting Coffee"
-            },
-            {
                 "name": "Natural Sisters Cafe",
 				"add1": "61695 Twentynine Palms Highway",
 				"add2": "",
@@ -3505,7 +3457,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday",
+				"hrs": "Closed Wednesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -3661,7 +3613,7 @@
 				"zpcd": "90247",
 				"phn": "(310) 532-9348",
 				"url": "",
-				"note": "Otafuku Noodle House ks a compact, low-key sushi spot dishing tempura, Japanese entrees, and housemade noodles. From the LA Weekly magazine website, 'What makes Otafuku stand out from other soba spots is the quality of its noodles, all made from flour imported from Japan. The restaurant serves three distinct sobas. First, and most basic, is zaru soba, a light brown noodle made from a mix of buckwheat flour. Next is the unique seiro soba, a white noodle made from flour refined from the first milling. Chewy yet silken, with the slightly earthy flavor of buckwheat, these are the Rolls-Royce of the noodle world.'",
+				"note": "Otafuku Noodle House is a compact, low-key sushi spot dishing tempura, Japanese entrees, and housemade noodles. From the LA Weekly magazine website, 'What makes Otafuku stand out from other soba spots is the quality of its noodles, all made from flour imported from Japan. The restaurant serves three distinct sobas. First, and most basic, is zaru soba, a light brown noodle made from a mix of buckwheat flour. Next is the unique seiro soba, a white noodle made from flour refined from the first milling. Chewy yet silken, with the slightly earthy flavor of buckwheat, these are the Rolls-Royce of the noodle world.'",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -4009,7 +3961,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday and Tuesday",
+				"hrs": "uuu",
 				"rcmmnd": "vvv"
             },
             {
@@ -4083,30 +4035,6 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Adam Savage"
-            },
-            {
-                "name": "Road to Seoul",
-				"add1": "1230 S Western Ave",
-				"add2": "",
-				"cty": "Los Angeles",
-				"stt": "CA",
-				"zpcd": "90006",
-				"phn": "(323) 731-9292",
-				"url": "",
-				"note": "Road to Seoul's diners dig into all-you-can-eat Korean BBQ from sirloin to squid amid simple surroundings.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
             },
             {
                 "name": "Rockin' Baja Lobster - Old Town",
