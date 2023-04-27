@@ -2957,7 +2957,6 @@
 				"rcmmnd": "J. Kenji López-Alt"
             },
             {
-            {
                 "name": "Parkside Diner",
 				"add1": "4353 Culver Rd",
 				"add2": "",
@@ -3303,6 +3302,30 @@
 				"phn": "(212) 475-4880 ext. 2",
 				"url": "https://www.russanddaughterscafe.com/",
 				"note": "Russ and Daughters Cafe comes from the legendary shop comes this retro, full-service outpost serving Jewish comfort food. It's a sit-down branch of the century-old Russ and Daughters appetizing business. From the New York City Eater website, 'For the better part of the last 100 years, the only way to get a bagel at Russ and Daughters was to wait in line — out the door and around the corner. Today, this New York institution has two additional locations, each with a slightly different focus, at the Brooklyn Navy Yard and on Orchard Street. Their bagels and bialys are soft and chewy but sturdy enough to hold their own against toppings like cream cheese, smoked fish, or pastrami-cured salmon.'",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Sadelle's",
+				"add1": "463 W Broadway",
+				"add2": "",
+				"cty": "New York",
+				"stt": "NY",
+				"zpcd": "10012",
+				"phn": "(212) 776-4926",
+				"url": "https://www.sadelles.com/",
+				"note": "Sadelle’s is a New York brunch institution located in the heart of Soho. Serving the best bagels in New York City, Sadelle’s offers quintessential classics like sliced-to-order salmon and sturgeon, chopped salads, and other New York classics in an updated, fun yet refined fashion. The young lady at the table next to me at Jonathan Waxman’s Barbuto said to order the French Toast. From the New York City Eater website, ‘Bagels, lox, and a schmear get theatrically updated at Major Food Group’s very expensive take on a (very un-kosher) Jewish appetizing joint. Seed-crusted bagels are stacked tall on wooden dowels for the dramatically plated spreads of salmon, sable, sturgeon, and whitefish salad. There’s an entire caviar section, available with scrambled eggs, latkes, lobster benedict, or as a supplement to any dish. Other options include sticky buns or egg scrambles and sandwiches incorporating smoked salmon and salami.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
