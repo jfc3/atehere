@@ -3,30 +3,6 @@
         "city": "Northern Virginia",
 		"posts": [
             {
-                "name": "29 Diner",
-				"add1": "10536 Fairfax Blvd",
-				"add2": "",
-				"cty": "Fairfax",
-				"stt": "VA",
-				"zpcd": "22030",
-				"phn": "(703) 352-0029",
-				"url": "",
-				"note": "29 Diner is an old-school 1940s-era diner serving up comfort food faves like cheeseburgers and fountain sodas. Great breakfast place. The cheese omelette with home fries and toast with a side of scrapple works for me.",
-				"eaten": "yes",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
-            },
-            {
                 "name": "A&J",
 				"add1": "4316 Markham St",
 				"add2": "",
@@ -83,7 +59,7 @@
 				"zpcd": "22202",
 				"phn": "ggg",
 				"url": "http://bageluprising.com/",
-				"note": "If you're looking for Bagel Uprising, you need to walk down what looks like a driveway/alley to get to them. Look for the mural on the wall. When you're there see if they have goat cream cheese which I loved when they did a pop-up a few years ago at Dairy godmother one winter. From the Bagel Uprising website, 'We use only five ingredients: flour, yeast, salt, malt, and brown sugar. Like traditional bagels, Bagel Uprising bagels aren’t huge: no 800-calorie monsters the size of a hubcap. And no fancy flavors, either.'",
+				"note": "If you're looking for Bagel Uprising, you need to walk down what looks like a driveway/alley to get to them. Look for the mural on the wall. When you're there see if they have goat cream cheese which I loved when they did a pop-up a few years ago at Dairy godmother one winter. From the Bagel Uprising website, 'We use only five ingredients: flour, yeast, salt, malt, and brown sugar. Like traditional bagels, Bagel Uprising bagels aren’t huge: no 800-calorie monsters the size of a hubcap. And no fancy flavors, either. The Uprising began in the fall of 2015 in response to a distressing lack of authentic (i.e., boiled and baked) bagels in our neighborhood of Del Ray in Alexandria. Over time, and with feedback from carb-loving family and friends, we came up with a recipe that does a pretty good job. (And because we know you’re wondering: No. The secret is not the water.) When we made our debut at the Four Mile Run Farmer’s Market, we made the bagels in our home kitchen. The first week we brought 100 bagels; the next week, a few more, then even more. Our house was covered in seeds, so it was fun — and a relief — to do two local pop-ups with actual commercial kitchens, followed by a stint in a local restaurant. In 2019 we were thrilled to open our permanent home right in the heart of Del Ray.’",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -95,7 +71,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Tuesday",
 				"rcmmnd": "vvv"
             },
             {
