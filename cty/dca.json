@@ -935,34 +935,10 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Monday",
+				"hrs": "Closed Sunday and Monday",
 				"rcmmnd": "Joe Yanon book Cool Beans"
             },
-            {
-                "name": "Farmbird",
-				"add1": "625 H St NE",
-				"add2": "",
-				"cty": "Washington",
-				"stt": "DC",
-				"zpcd": "20002",
-				"phn": "202) 506-6778",
-				"url": "http://www.farmbird.com/",
-				"note": "Farmbird is a chic counter-serve for boldly flavored chicken plates or sandwiches and farm-fresh sides. Farmbird wants to change the way that people think about chicken. By combining the rare pleasure of a perfectly roasted chicken with the bold flavors.",
-				"eaten": "no",
-				"photo": "kkk",
-				"cptn": "lll",
-				"photo2": "mmm",
-				"cptn2": "nnn",
-				"photo3": "ooo",
-				"cptn3": "ppp",
-				"prc": "qqq",
-				"fdtyp": "rrr",
-				"twttr": "sss",
-				"fcbk": "ttt",
-				"hrs": "uuu",
-				"rcmmnd": "vvv"
-            },
-            {
+             {
                 "name": "Fish In the Hood",
 				"add1": "3601 Georgia Ave NW",
 				"add2": "",
@@ -983,7 +959,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "Closed Sunday and Monday",
+				"hrs": "Closed Sunday, Monday, and Tuesday",
 				"rcmmnd": "vvv"
             },
             {
@@ -995,7 +971,7 @@
 				"zpcd": "20009",
 				"phn": "(202) 265-1586",
 				"url": "http://floridaavenuegrill.com/",
-				"note": "The Florida Avenue Grill has been open since 1944. It's a no-frills diner slinging large portions of down-home Southern classics. When it Ate there, I ordered the smothered pork chops with two sides which were the mashed potatoes, okra, and tomatoes along with an additional side of collards. The pork was so tender the meat came off the bone with a fork. There was enough food I took half home for a second meal.",
+				"note": "The Florida Avenue Grill has been open since 1944. It's a no-frills diner slinging large portions of down-home Southern classics. When I ate there, I ordered the smothered pork chops with two sides which were the mashed potatoes, okra, and tomatoes along with an additional side of collards. The pork was so tender the meat came off the bone with a fork. There was enough food I took half home for a second meal. From the Washington, DC Eater website, 'The Florida Avenue Grill calls itself the &ldquo;oldest soul food restaurant in the world.&rdquo; It’s also a greasy spoon where it's worth saddling up to the bar. It’s the kind of place where it's customary to order a half-smoke as a side.'",
 				"eaten": "yes",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -1007,7 +983,7 @@
 				"fdtyp": "rrr",
 				"twttr": "sss",
 				"fcbk": "ttt",
-				"hrs": "uuu",
+				"hrs": "Closed Monday, Tuesday, Wednesday, and Thrusday",
 				"rcmmnd": "vvv"
             },
             {
