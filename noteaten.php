@@ -1,6 +1,6 @@
 <?php
 $slct = strtolower(htmlspecialchars($_GET['slct']));
-$locs = array("", "al", "ann", "ar", "atl", "aus", "avl", "az", "bal", "bhm", "bklyn", "bldr", "bli", "bna", "bos", "buf", "ca", "cak", "chs", "chi", "cin", "cle", "co", "col", "clt", "ct", "dal", "dca", "de", "den", "det", "fdk", "fl", "ga", "hou", "ilm", "in", "jan", "ky", "las", "lax", "lit", "lou", "md", "me", "mem", "mi", "mia", "ms", "msp", "msy", "nc", "nj", "nocal", "nyc", "ny", "nva", "oak", "ocnj", "oh", "or", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sav", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "tus", "tx", "tys", "ut", "va", "wa", "wi");
+$locs = array("", "al", "ann", "ar", "atl", "aus", "avl", "az", "bal", "bhm", "bklyn", "bldr", "bli", "bna", "bos", "buf", "ca", "cak", "chs", "chi", "cin", "cle", "co", "col", "clt", "ct", "dal", "dca", "de", "den", "det", "fdk", "fl", "ga", "hou", "ilm", "in", "jan", "ky", "las", "lax", "lit", "lou", "md", "me", "mem", "mi", "mia", "ms", "msp", "msy", "nc", "nj", "nocal", "nyc", "ny", "nva", "oak", "ocnj", "oh", "or", "pa", "phl","pdx", "phx", "rdu", "roc", "san", "sav", "sc", "sea", "sfo", "socal", "stl", "syr", "tn", "tus", "tx", "tys", "ut", "va", "vt", "wa", "wi");
 if (in_array($slct, $locs) && $slct != "") {
 	// copy file content into a string var
 	$json_file = file_get_contents('./cty/'.$slct.'.json');
@@ -146,7 +146,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="nyc">New York, NY</option>
 				<option value="ny">New York State</option>
 				<option value="nc">North Carolina</option>
-				<option value="nocal">Northern California</option>
+				<option value="nocal">N<a href="noteaten.php" id="" title="noteaten">noteaten</a>orthern California</option>
 				<option value="nva">Northern Virginia</option>
 				<option value="oak">Oakland, CA</option>
 				<option value="ocnj">Ocean City, NJ</option>
@@ -170,6 +170,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="tx">Texas</option>
 				<option value="tus">Tucson, AZ</option>
 				<option value="ut">Utah</option>
+				<option value="vt">Vermont</option>
 				<option value="va">Virginia</option>
 				<option value="wa">Washington</option>
 				<option value="dca">Washington, DC</option>
