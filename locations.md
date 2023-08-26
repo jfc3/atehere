@@ -30,6 +30,7 @@ List of cities and states:
 - [ ] Frederick, MD
 - [ ] Georgia
 - [ ] Houston, TX
+- [ ] Indiana
 - [ ] Jackson, MS
 - [ ] Kentucky
 - [ ] Knoxville
@@ -72,7 +73,9 @@ List of cities and states:
 - [ ] Syracuse, NY
 - [ ] Tennessee
 - [ ] Texas
+- [ ] Tucson, AZ
 - [ ] Utah
+- [ ] Vermont
 - [ ] Virginia
 - [ ] Washington
 - [ ] Washington, DC
