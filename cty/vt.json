@@ -3,6 +3,30 @@
         "city": "Vermont",
 		"posts": [
             {
+                "name": "Butter Bar and Kitchen",
+				"add1": "1127 North Ave",
+				"add2": "Suite 20",
+				"cty": "Burlington",
+				"stt": "VT",
+				"zpcd": "05408",
+				"phn": "(802) 862-4300",
+				"url": "https://www.buttervt.com/",
+				"note": "From their website, ‘See you soon at Butter! The New North End’s Neighborhood Bar and Kitchen. Enjoy our gastropub menu, from smashburgers to salads and fried chicken, delicious desserts, and a kid’s menu. Order from the bar for local brews and cocktails featuring spirits of Vermont’s distilleries.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Monday and Tuesday",
+				"rcmmnd": "Eric Wright"
+            },
+            {
                 "name": "Kingdom Table",
 				"add1": "397 Railroad St",
 				"add2": "Street Level",
@@ -97,6 +121,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Gold Shaw Farm (YouTube)"
+            },
+            {
+                "name": "Vermont Smoke and Cure",
+				"add1": "10516 Rte 116",
+				"add2": "ccc",
+				"cty": "Hinesburg",
+				"stt": "VT",
+				"zpcd": "05461",
+				"phn": "(802) 482-4666",
+				"url": "https://store.vermontsmokeandcure.com/",
+				"note": "From their website, ‘We are a proud, rural smokehouse in Hinesburg, Vermont. Nestled between the Green Mountains and the Champlain Valley, our small team of dedicated employees makes delicious meat sticks in small batches. We select only premium cuts of beef, pork, or turkey and use only natural hickory or maple hardwood chips. We balance time, temperature, and humidity to craft perfectly cooked, tender products with a touch of smoky flavor in each bite.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Saturday and Sunday",
+				"rcmmnd": "J. Kenji López-Alt"
             }
         ]
     }
