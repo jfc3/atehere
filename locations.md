@@ -29,6 +29,7 @@ List of cities and states:
 - [ ] Florida
 - [ ] Frederick, MD
 - [ ] Georgia
+- [ ] Greenville, SC
 - [ ] Houston, TX
 - [ ] Indiana
 - [ ] Jackson, MS

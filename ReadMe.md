@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.42
-* Release Date: 08-26-2023
+* Release Number:  v.0.7.43
+* Release Date: 09-01-2023
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -41,6 +41,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Florida - fl
 * Frederick, MD - fdk
 * Georgia - ga
+* Greenville, SC - gsp
 * Houston, TX - hou
 * Indiana - IN
 * Jackson, MS - jan
@@ -117,6 +118,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Greenville, SC to the drop down list and created necessary GSP JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Vermont - (VT) to the drop down list and created necessary VT JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Remove closing slash in the META tags, along with fixing the MAILTO text and encoding the spaces in the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Updated code to use aria-labelledby for restaurants not eaten at yet in the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
