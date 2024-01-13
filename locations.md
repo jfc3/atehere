@@ -16,6 +16,7 @@ List of cities and states:
 - [ ] California
 - [ ] Charleston, SC
 - [ ] Charlotte, NC
+- [ ] Chattanooga, TN
 - [ ] Chicago, IL
 - [ ] Cincinnati, OH
 - [ ] Cleveland, PA
