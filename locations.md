@@ -19,7 +19,7 @@ List of cities and states:
 - [ ] Chattanooga, TN
 - [ ] Chicago, IL
 - [ ] Cincinnati, OH
-- [ ] Cleveland, PA
+- [ ] Cleveland, OH
 - [ ] Colorado
 - [ ] Columbus, OH
 - [ ] Connecticut
