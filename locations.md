@@ -35,7 +35,7 @@ List of cities and states:
 - [ ] Indiana
 - [ ] Jackson, MS
 - [ ] Kentucky
-- [ ] Knoxville
+- [ ] Knoxville,TN
 - [ ] Las Vegas, NV
 - [ ] Little Rock AR
 - [ ] Los Angles, CA
