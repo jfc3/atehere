@@ -1,85 +1,87 @@
 List of cities and states:
 
-- [ ] Akron, OH
-- [ ] Alabama
-- [ ] Annapolis, MD
-- [ ] Asheville, NC
-- [ ] Atlanta, GA
-- [ ] Austin, TX
-- [ ] Baltimore, MD
-- [ ] Bellingham, WA
-- [ ] Birmingham, AL
-- [ ] Boston, MA
-- [ ] Boulder, CO
-- [ ] Brooklyn, NY
-- [ ] Buffalo, NY
-- [ ] California
-- [ ] Charleston, SC
-- [ ] Charlotte, NC
-- [ ] Chattanooga, TN
-- [ ] Chicago, IL
-- [ ] Cincinnati, OH
-- [ ] Cleveland, OH
-- [ ] Colorado
-- [ ] Columbus, OH
-- [ ] Connecticut
-- [ ] Dallas, TX
-- [ ] Delaware
-- [ ] Denver, CO
-- [ ] Detroit, MI
-- [ ] Florida
-- [ ] Frederick, MD
-- [ ] Georgia
-- [ ] Greenville, SC
-- [ ] Houston, TX
-- [ ] Indiana
-- [ ] Jackson, MS
-- [ ] Kentucky
-- [ ] Knoxville,TN
-- [ ] Las Vegas, NV
-- [ ] Little Rock AR
-- [ ] Los Angles, CA
-- [ ] Louisville, KY
-- [ ] Maine
-- [ ] Maryland
-- [ ] Memphis, TN
-- [ ] Miami, FL
-- [ ] Michigan
-- [ ] Minneapolis–Saint Paul, MN
-- [ ] Mississippi
-- [ ] Nashville, TN
-- [ ] New Jersey
-- [ ] New Orleans, LA
-- [ ] New York, NY
-- [ ] New York State
-- [ ] North Carolina
-- [ ] Northern California
-- [ ] Northern Virginia
-- [ ] Oakland, CA
-- [ ] Ocean City, NJ
-- [ ] Ohio
-- [ ] Oregon
-- [ ] Pennsylvania
-- [ ] Philadelphia, PA
-- [ ] Phoenix, AZ
-- [ ] Portland, OR
-- [ ] Raleigh, NC
-- [ ] Rochester, NY
-- [ ] San Diego, CA
-- [ ] San Francisco, CA
-- [ ] Savannah, GA
-- [ ] Seattle, WA
-- [ ] Southern California
-- [ ] South Carolina
-- [ ] St Louis, MO
-- [ ] Syracuse, NY
-- [ ] Tennessee
-- [ ] Texas
-- [ ] Tucson, AZ
-- [ ] Utah
-- [ ] Vermont
-- [ ] Virginia
-- [ ] Washington
-- [ ] Washington, DC
-- [ ] Wilmington, NC
-- [ ] Wisconsin
+- [ ] Akron, OH - CAK
+- [ ] Alabama - AL
+- [ ] Annapolis, MD - ANN
+- [ ] Arizona - AZ
+- [ ] Arkansas - AR
+- [ ] Asheville, NC - AVL
+- [ ] Atlanta, GA - ATL
+- [ ] Austin, TX - AUS
+- [ ] Baltimore, MD - BAL
+- [ ] Bellingham, WA - BLI
+- [ ] Birmingham, AL - BHM
+- [ ] Boston, MA - BOS
+- [ ] Boulder, CO - BLDR
+- [ ] Brooklyn, NY - BKLYN
+- [ ] Buffalo, NY - BUF
+- [ ] California - CA
+- [ ] Charleston, SC - CHS
+- [ ] Charlotte, NC - CLT
+- [ ] Chattanooga, TN - CHA
+- [ ] Chicago, IL - CHI
+- [ ] Cincinnati, OH - CHI
+- [ ] Cleveland, OH - LCE
+- [ ] Colorado - CO
+- [ ] Columbus, OH - COL
+- [ ] Connecticut - CT
+- [ ] Dallas, TX - DAL
+- [ ] Delaware -DE
+- [ ] Denver, CO -DEN
+- [ ] Detroit, MI - DET
+- [ ] Florida - FL
+- [ ] Frederick, MD - FDK
+- [ ] Georgia - GA
+- [ ] Greenville, SC GSP
+- [ ] Houston, TX - HOU
+- [ ] Indiana - IN
+- [ ] Jackson, MS - JAN
+- [ ] Kentucky - KY
+- [ ] Knoxville,TN - TYS
+- [ ] Las Vegas, NV - LAS
+- [ ] Little Rock AR - LIT
+- [ ] Los Angles, CA LAX
+- [ ] Louisville, KY - LOU
+- [ ] Maine - ME
+- [ ] Maryland - MD
+- [ ] Memphis, TN - MEM
+- [ ] Miami, FL - MIA
+- [ ] Michigan - MI
+- [ ] Minneapolis–Saint Paul, MN - MSP
+- [ ] Mississippi - MS
+- [ ] Nashville, TN - BNA
+- [ ] New Jersey - NJ
+- [ ] New Orleans, LA - MSY
+- [ ] New York, NY - NYC
+- [ ] New York State - NY
+- [ ] North Carolina - NC
+- [ ] Northern California - NOCAL
+- [ ] Northern Virginia -NVA
+- [ ] Oakland, CA - OAK
+- [ ] Ocean City, NJ - OCNJ
+- [ ] Ohio - OH
+- [ ] Oregon - OR
+- [ ] Pennsylvania - PA
+- [ ] Philadelphia, PA - PHL
+- [ ] Phoenix, AZ - PHX
+- [ ] Portland, OR - PDX
+- [ ] Raleigh, NC -RDU
+- [ ] Rochester, NY - ROC
+- [ ] San Diego, CA -SAN
+- [ ] San Francisco, CA - SFO
+- [ ] Savannah, GA - SAV
+- [ ] Seattle, WA - SEA
+- [ ] Southern California - SOCAL
+- [ ] South Carolina - SC
+- [ ] St Louis, MO - STL
+- [ ] Syracuse, NY - SYR
+- [ ] Tennessee - TN
+- [ ] Texas - TX
+- [ ] Tucson, AZ - TUS
+- [ ] Utah - UT
+- [ ] Vermont -VT
+- [ ] Virginia - VA
+- [ ] Washington -WA
+- [ ] Washington, DC - DCA
+- [ ] Wilmington, NC - ILM
+- [ ] Wisconsin - WI
