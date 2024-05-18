@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.44
-* Release Date: 01-13-2024
+* Release Number:  v.0.7.45
+* Release Date: 051-18-2024
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -119,6 +119,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Loading="lazy" the the images in the INDEX.php, NOTEATEN.php, and TEST.php files. 
 * Added Chattanooga, TN to the drop down list and created necessary CHA JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Greenville, SC to the drop down list and created necessary GSP JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Vermont - (VT) to the drop down list and created necessary VT JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
