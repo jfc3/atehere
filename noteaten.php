@@ -148,7 +148,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="nyc">New York, NY</option>
 				<option value="ny">New York State</option>
 				<option value="nc">North Carolina</option>
-				<option value="nocal">N<a href="noteaten.php" id="" title="noteaten">noteaten</a>orthern California</option>
+				<option value="nocal">Northern California</option>
 				<option value="nva">Northern Virginia</option>
 				<option value="oak">Oakland, CA</option>
 				<option value="ocnj">Ocean City, NJ</option>
@@ -212,9 +212,9 @@ if (in_array($slct, $locs) && $slct != "") {
 					<?php if ($post->hrs != "" && $post->hrs != "uuu") { echo "<p>".$post->hrs."</p>";} ?>
 					<?php if ($post->fdtyp != "" && $post->fdtyp != "rrr") { echo "<p>".$post->fdtyp."</p>";} ?>
 					<?php if ($post->rcmmnd != "" && $post->rcmmnd != "vvv") { echo "<p>Recommended by ".$post->rcmmnd."</p>";} ?>
-					<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."' width='320' height='240'></p>";} ?>
-					<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."' width='320' height='240'></p>";} ?>
-					<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."' width='320' height='240'></p>";} ?>
+					<?php if ($post->photo != "kkk" || $post->cptn != "lll") { echo "<p><img src='".$post->photo."' alt='".$post->cptn."' width='320' height='240' loading='lazy'></p>";} ?>
+					<?php if ($post->photo2 != "mmm" || $post->cptn2 != "nnn") { echo "<p><img src='".$post->photo2."' alt='".$post->cptn2."' width='320' height='240' loading='lazy'></p>";} ?>
+					<?php if ($post->photo3 != "ooo" || $post->cptn3 != "ppp") { echo "<p><img src='".$post->photo3."' alt='".$post->cptn3."' width='320' height='240' loading='lazy'></p>";} ?>
 				</div>
 			</li>
     <?php	}	}	?>
