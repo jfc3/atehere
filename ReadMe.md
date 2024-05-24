@@ -1,8 +1,8 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.45
-* Release Date: 051-18-2024
+* Release Number:  v.0.7.46
+* Release Date: 05-24-2024
 
 ## Overview
 This project of [John F Croston III's](http://jfciii.com) - ([@jfc3](https://twitter.com/jfc3)) allows people to select a city, state, or nearby location to see what restaurants I have eaten at and ones I want too (look for asterisks). These are the places I recommend you eat at when in those locations and find restaurants I recommend.
@@ -69,6 +69,7 @@ This project uses hand-coded JSON files of cities, states, and nearby locations,
 * Oakland, CA - oak
 * Ocean City, NJ - ocnj
 * Ohio - oh
+* Omaha, NE - oma
 * Oregon - or
 * Pennsylvania - pa
 * Philadelphia, PA - phl
@@ -119,6 +120,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added Omaha, NE to the drop down list and created necessary OMA JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Loading="lazy" the the images in the INDEX.php, NOTEATEN.php, and TEST.php files. 
 * Added Chattanooga, TN to the drop down list and created necessary CHA JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Greenville, SC to the drop down list and created necessary GSP JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.

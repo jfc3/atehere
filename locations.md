@@ -60,6 +60,7 @@ List of cities and states:
 - [ ] Oakland, CA - OAK
 - [ ] Ocean City, NJ - OCNJ
 - [ ] Ohio - OH
+- [ ] Omaha, NE  - NE
 - [ ] Oregon - OR
 - [ ] Pennsylvania - PA
 - [ ] Philadelphia, PA - PHL
