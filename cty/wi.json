@@ -49,6 +49,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Schulz's Restaurant",
+				"add1": "1644 Calumet Dr",
+				"add2": "ccc",
+				"cty": "Sheboygan",
+				"stt": "WI",
+				"zpcd": "53081",
+				"phn": "(920) 452-1880",
+				"url": "https://www.schulzsrestaurant.com/",
+				"note": "Old-school eatery serving sausage sandwiches and other American staples for breakfast, lunch, and dinner. From their website, 'The first  Schulz's Restaurant opened its doors in 1953. It was owned and operated by Edward and Margaret Schulz. It was a small family restaurant that served charcoal-grilled sandwiches, just like the restaurant today. Their children, Ron and Lavonne, helped with whatever they could. Ron bought the restaurant from his father in 1967 and built the current building just blocks away from the original restaurant. The charcoal grill  continued.' Titus recommends ordering the Double-Brat burger (charcoal grilled).In this document, what looks to be heading level three (h3) or heading level four (h4) is not in the TAG tree, as you can see from the image below.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Sunday",
+				"rcmmnd": "Titus Ruscitti"
             }
         ]
     }
