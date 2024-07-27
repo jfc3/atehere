@@ -827,7 +827,7 @@
 				"zpcd": "98101",
 				"phn": "(206) 682-6780",
 				"url": "https://www.meesum.com/",
-				"note": "Mee Sum Pastry is a no-frills food stand offering buns, pastries and other Chinese grub in digs by the Pike Place Market. From their website, ‘Mee Sum Pastry is the perfect spot to satisfy your Taiwanese food cravings. Mee Sum Pastry and Cafe started out in 2007 as a small, locally-owned bubble tea shop. Since then, the shop has grown into a restaurant cafe that boasts over 100 different meals and appetizers, with hundreds more bubble teas to choose from. From classic Taiwanese dishes like the Deluxe Pork Belly Sauce Over Rice to daring new fusions like the Baked Spaghetti with Pork Chop, our chefs serve nothing but the very best with the freshest ingredients.’",
+				"note": "Mee Sum Pastry is a no-frills food stand offering buns, pastries and other Chinese grub in digs by the Pike Place Market. From their website, ‘Mee Sum Pastry is the perfect spot to satisfy your Taiwanese food cravings. Mee Sum Pastry and Cafe started out in 2007 as a small, locally-owned bubble tea shop. Since then, the shop has grown into a restaurant cafe that boasts over 100 different meals and appetizers, with hundreds more bubble teas to choose from. From classic Taiwanese dishes like the Deluxe Pork Belly Sauce Over Rice to daring new fusions like the Baked Spaghetti with Pork Chop, our chefs serve nothing but the very best with the freshest ingredients.’ <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -840,7 +840,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "Let's Be Us (YouTube)"
             },
             {
                 "name": "Melrose Market",
@@ -1225,6 +1225,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "vvv"
+            },
+            {
+                "name": "Rachel's Ginger Beer - Pike Place",
+				"add1": "1530 Post Alley",
+				"add2": "ccc",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98101",
+				"phn": "ggg",
+				"url": "https://rachelsgingerbeer.com/pages/pike-place-market",
+				"note": "The flagship shop located at Pike Place Market sells handcrafted ginger beer in a range of flavors. From their website, ‘Rachel’s Ginger Beer (RGB) is made in Seattle using fresh water, lemons, pure cane sugar, and ginger. We believe in this brew, and we’re pretty sure that you will, too. Our ginger beer got its start at the local Seattle farmer’s markets. In the summer of 2013, we opened our flagship store in Seattle’s historic Pike Place Market. Stop by and have a Moscow Mule made with your favorite  ginger beer flavor, enjoy an RGB ice cream float, or pick up a growler from our selection of seasonal flavors. Simple ingredients are key. Fresh lemons, strong roots, organic cane sugar, and good water are brought together and brewed to taste here in Seattle. Partnering with several local farms we’ve befriended through Seattle Farmers markets, we brew with care and attention to detail, offering our original recipe, a standing selection of popular favorite flavors, and rotating seasonal varietals.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Let's Be Us (YouTube)"
             },
             {
                 "name": "Rainier Restaurant and BBQ",
