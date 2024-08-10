@@ -395,7 +395,7 @@
 				"zpcd": "98105",
 				"phn": "(206) 632-5125",
 				"url": "https://www.ddir.com/",
-				"note": "Dick's Drive-In has been open since 1954 and is the original of a chain dishing out burgers, fries, and hand-dipped shakes along with being open late. From their website, 'Setting the standard for the best fast food in Seattle was precisely the intent of the three partners who started Dick’s. &ldquo;Our goal,&rdquo; says Dick Spady, the last surviving partner, &ldquo;was simply to serve fresh, high-quality food at low prices with instant service.&rdquo;' <strong>NOTE</strong>: They have multiple locations.",
+				"note": "Part of an old-school chain of fast-food spots offering burgers, fries, and hand-dipped shakes. From their website, ‘Seattle residents were delighted! Dick’s food was fresh, the service was speedy, and the bill affordable. Setting the standard for the best fast food in Seattle was precisely the intent of the three partners who started Dick’s. “Our goal,” says Dick Spady, the last surviving partner, “was simply to serve fresh, high-quality food at low prices with instant service.” Unlike most of Dick’s competitors, however, Dick’s early success didn’t convince the partners to turn the business into another national franchise. “My partners and I were family men,” says Spady, “not traveling types. We were in this for the long haul, that’s for sure, but not as a franchise. We wanted to keep our growth within the Seattle area.”’ <strong>NOTE</strong>: They have multiple locations.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -408,7 +408,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "vvv"
+				"rcmmnd": "J. Kenji Lopez-Alt"
             },
             {
                 "name": "Din Tai Fung",
@@ -1299,15 +1299,15 @@
 				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
             {
-                "name": "Paseo (Fremont)",
+                "name": "Paseo - Fremont",
 				"add1": "4225 Fremont Ave N",
 				"add2": "",
 				"cty": "Seattle",
 				"stt": "WA",
 				"zpcd": "98103",
 				"phn": "(206) 545-7440",
-				"url": "https://www.paseo.com/",
-				"note": "Paseo (Fremont) is counter-service Caribbean joint serving sandwiches and entrees in a simple setting. From their website, 'You don't have to go to NYC or LA to find a great sandwich. Last year, Thrillist included Paseo on their list of the 31 best sandwich shops in the USA. Why, because all of our bodacious sandwiches and platters are bursting with Caribbean flavors and made only with locally sourced ingredients right here in Seattle. The Paseo Caribbean Roast is a legendary and beloved Seattle sandwich. Bursting with intense flavors, the Caribbean Roast harmonizes juicy roasted pulled pork shoulder, aioli, cilantro, romaine, jalapeños, and caramelized onions.' <strong>NOTE</strong>: They have multiple locations.",
+				"url": "https://www.paseo.com",
+				"note": "Counter-serve Caribbean joint offering sandwiches and entrees in a simple setting. From their website, ‘Paseo is a famous restaurant and tiki bar with locations in Washington State’s Fremont, SoDo, and  Issaquah neighborhoods. We have a passion for creating artisan dishes inspired by Latin and Caribbean flavors with the freshest local ingredients. The Food Network featured Paseo as the 2nd Best Sandwich  Shop in America, and Paseo has twice ranked in Yelp’s Top 100 Places to  Eat in America. Paseo has over 8,000 reviews and a nearly perfect rating across all platforms.’ From the Seattle Eater website, ‘When Paseo’s original owners left (eventually founding Un Bien), there was a massive hole in the spot where hordes of hungry lunch-goers would line up every day. Fortunately, the shop reopened under new management with only slight alterations. While the ingredients and recipes may be a tad askew, the sandwiches that made Paseo a household name are still epic. For the carb-conscious, the restaurant — in expansion mode — also  features plates of salad, rice, corn, and protein of choice, like  roasted chicken or scallops seared with olive oil.’ Kenji recommends ordering the Caribbean Pork sandwich.",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -1320,7 +1320,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "Matt May"
+				"rcmmnd": "Matt May and J. Kenji Lopez-Alt"
             },
             {
                 "name": "Pasta Casalinga",
@@ -1731,6 +1731,30 @@
 				"rcmmnd": "vvv"
             },
             {
+                "name": "Skalka",
+				"add1": "77 Spring St",
+				"add2": "ccc",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": "(206) 408-8169",
+				"url": "https://www.skalkaseattle.com/",
+				"note": "From their website, ‘Skalka restaurant was started in  Seattle Downtown in late 2019 by two immigrants from Georgia and Russia who were on a mission to prove that authentic Eastern-European food should taste delicious and look phenomenal. How important is it to start your day with a delicious breakfast? Get filled with happy thoughts and good vibes. Dive into the fresh hot bread and cheese, topped with an egg yolk, to feel the comfort of homemade breakfast. Skalka is the place where you can be introduced to something new that you’ve never tried before and will love to experience more. We keep our menu simple: a variety of authentic Georgian Khachapuri with a breakfast twist. Beautifully paired combo of melty cheese with fillings – your next food experience that you’ll never forget! Rip off the crust, scoop that bread into buttery cheese, pop the egg yolk, and mix it with the filling. Enjoy the deliciousness of the rich, surprisingly good combination on top of the fresh hot bread. Remember its name. It’s called Khachapuri. The breakfast that makes your mouth water.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "J. Kenji Lopez-Alt"
+            },
+            {
                 "name": "Smarty Pants",
 				"add1": "6017 Airport Way S",
 				"add2": "",
@@ -1801,6 +1825,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Tuesday and Wednesday",
 				"rcmmnd": "Let’s Be Us (YouTube)"
+            },
+            {
+                "name": "Stumbletown - Ballard",
+				"add1": "6256 3rd Ave NW",
+				"add2": "ccc",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98107",
+				"phn": "(206) 453-8307",
+				"url": "https://stumbletownballard.com/",
+				"note": "From their website, ‘Our Italian-inspired sandwiches are made with carefully selected cured meats and cheeses, on a heated ciabatta roll from Sea Wolf Bakery in Seattle. We make our own spreads from high-quality ingredients. Cured meats are very rich and flavorful, so portion sizes average about one ounce. If you’d like a meatier sandwich, we can add more for $3.’ From the Seattle Eater website, ‘Opened in late 2021, Stumbletown is named after the strip of 65th Avenue Northwest where people used to “stumble” for predawn drinks or coffee. There’s a small  beer and wine selection here, but you come to Stumbletown for the “Italian-inspired” sandwiches, hand-held symphonies of cured meat,  sun-dried tomato spread, hot or sweet peppers, and arugula, all on warm  bread from Sea Wolf bakery.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "J. Kenji Lopez-Alt"
             },
             {
                 "name": "Sushi Kappo Tamura",
