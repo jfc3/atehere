@@ -68,6 +68,7 @@ List of cities and states:
 - [ ] Portland, OR - PDX
 - [ ] Raleigh, NC -RDU
 - [ ] Rochester, NY - ROC
+- [ ] San Antonio, TX -SAT
 - [ ] San Diego, CA -SAN
 - [ ] San Francisco, CA - SFO
 - [ ] Savannah, GA - SAV
