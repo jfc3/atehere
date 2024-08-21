@@ -626,6 +626,31 @@
 				"hrs": "uuu",
 				"rcmmnd": "Diners, Drive-ins, and Dives"
             },
+
+            {
+                "name": "Fuji Bakery - ID/King St",
+				"add1": "526 S King St",
+				"add2": "#2834",
+				"cty": "Seattle",
+				"stt": "WA",
+				"zpcd": "98104",
+				"phn": "(206) 623-4050",
+				"url": "https://www.fujibakeryinc.com/",
+				"note": "Branch of a bakery chain with Japanese and French treats made from carefully sourced ingredients. From their website, “Fuji Bakery is a local artisan Japanese French bakery located in the heart of Seattle, Washington, where inspiration and passion are our motivations. We opened our doors in June 2009 to give the greater Seattle area just what it had been missing — a Japanese artisan bakery dedicated to providing its customers with the highest quality in ingredients, taste, and presentation. From additive-free yeast cultivated in-house to Bourbon vanilla beans and Griottines imported from France, we pay attention to every detail of the baking process. Our commitment to producing healthy, fresh baked goods makes Fuji Bakery a unique stop in Seattle, not only for those wanting a taste of Japan but for anyone wanting to give their taste buds a treat. Come visit us at one of our many locations.”",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Let's Be Us (YouTube)"
+            },
             {
                 "name": "General Porpoise Doughnuts",
 				"add1": "1020 E Union St",
