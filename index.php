@@ -112,6 +112,7 @@ if (in_array($slct, $locs) && $slct != "") {
 				<option value="chs">Charleston, SC</option>
 				<option value="clt">Charlotte, NC</option>
 				<option value="cha">Chattanooga, TN</option>
+				<option value="chi">Chicago, IL</option>
 				<option value="cin">Cincinnati, OH</option>
 				<option value="cle">Cleveland, OH</option>
 				<option value="co">Colorado</option>
