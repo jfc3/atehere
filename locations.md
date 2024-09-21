@@ -56,7 +56,7 @@ List of cities and states:
 - [ ] New York State - NY
 - [ ] North Carolina - NC
 - [ ] Northern California - NOCAL
-- [ ] Northern Virginia -NVA
+- [ ] Northern Virginia - NVA
 - [ ] Oakland, CA - OAK
 - [ ] Ocean City, NJ - OCNJ
 - [ ] Ohio - OH
@@ -66,7 +66,8 @@ List of cities and states:
 - [ ] Philadelphia, PA - PHL
 - [ ] Phoenix, AZ - PHX
 - [ ] Portland, OR - PDX
-- [ ] Raleigh, NC -RDU
+- [ ] Raleigh, NC - RDU
+- [ ] Richmond, VA - RIC
 - [ ] Rochester, NY - ROC
 - [ ] San Antonio, TX -SAT
 - [ ] San Diego, CA -SAN
@@ -81,9 +82,9 @@ List of cities and states:
 - [ ] Texas - TX
 - [ ] Tucson, AZ - TUS
 - [ ] Utah - UT
-- [ ] Vermont -VT
+- [ ] Vermont - VT
 - [ ] Virginia - VA
-- [ ] Washington -WA
+- [ ] Washington - WA
 - [ ] Washington, DC - DCA
 - [ ] Wilmington, NC - ILM
 - [ ] Wisconsin - WI
