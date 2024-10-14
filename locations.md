@@ -34,6 +34,7 @@ List of cities and states:
 - [ ] Georgia - GA
 - [ ] Greenville, SC GSP
 - [ ] Houston, TX - HOU
+- [ ] Illinois  - IL
 - [ ] Indiana - IN
 - [ ] Jackson, MS - JAN
 - [ ] Kentucky - KY
