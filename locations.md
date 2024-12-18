@@ -61,7 +61,7 @@ List of cities and states:
 - [ ] Oakland, CA - OAK
 - [ ] Ocean City, NJ - OCNJ
 - [ ] Ohio - OH
-- [ ] Omaha, NE  - NE
+- [ ] Omaha, NE  - OMA
 - [ ] Oregon - OR
 - [ ] Pennsylvania - PA
 - [ ] Philadelphia, PA - PHL
