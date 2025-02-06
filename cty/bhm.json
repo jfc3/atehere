@@ -482,6 +482,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Sunday",
 				"rcmmnd": "Southern Foodways Alliance"
+            },
+            {
+                "name": "Yo' Mama's",
+				"add1": "2024 4th Ave N",
+				"add2": "ccc",
+				"cty": "Birmingham",
+				"stt": "AL",
+				"zpcd": "35203",
+				"phn": "(205) 957-6545",
+				"url": "https://www.yomamasrestaurant.com/",
+				"note": "Counter-serve spot-making chicken, waffles, and other Southern eats for breakfast and lunch. From their website, ‘Yo’ Mama’s started as Jazzy Fish and Chicken down at the famous Seabreeze Jazz Festival in Destin and Panama City, Florida, in 2007. Each year, it was the most popular vendor, with a fast-moving and seemingly endless line serving an average of 600 plates a day. Jazzy Fish and Chicken eventually became a restaurant reality, starting in downtown Birmingham, Alabama, as Yo’ Mama’s Restaurant, serving fresh meals made from scratch. Come by and enjoy our great food, great atmosphere, and friendly staff!’ Fresh, Fried, and Crispy recommend the skillet-fried pork chops with gluten-free flour and spices, along with macaroni and cheese, greens, etc. Don’t forget the twice-fried mashed potatoes.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Saturday and Sunday",
+				"rcmmnd": "Fresh, Fried, and Crispy (Netflix)"
             }
         ]
     }
