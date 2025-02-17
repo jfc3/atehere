@@ -21,7 +21,7 @@ List of cities and states:
 - [ ] Chattanooga, TN - CHA
 - [ ] Chicago, IL - CHI
 - [ ] Cincinnati, OH - CHI
-- [ ] Cleveland, OH - LCE
+- [ ] Cleveland, OH - CLE
 - [ ] Colorado - CO
 - [ ] Columbus, OH - COL
 - [ ] Connecticut - CT
