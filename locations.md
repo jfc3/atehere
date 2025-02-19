@@ -20,19 +20,19 @@ List of cities and states:
 - [ ] Charlotte, NC - CLT
 - [ ] Chattanooga, TN - CHA
 - [ ] Chicago, IL - CHI
-- [ ] Cincinnati, OH - CHI
+- [ ] Cincinnati, OH - CIN
 - [ ] Cleveland, OH - CLE
 - [ ] Colorado - CO
 - [ ] Columbus, OH - COL
 - [ ] Connecticut - CT
 - [ ] Dallas, TX - DAL
-- [ ] Delaware -DE
-- [ ] Denver, CO -DEN
+- [ ] Delaware - DE
+- [ ] Denver, CO - DEN
 - [ ] Detroit, MI - DET
 - [ ] Florida - FL
 - [ ] Frederick, MD - FDK
 - [ ] Georgia - GA
-- [ ] Greenville, SC GSP
+- [ ] Greenville, SC - GSP
 - [ ] Houston, TX - HOU
 - [ ] Illinois  - IL
 - [ ] Indiana - IN
@@ -41,7 +41,7 @@ List of cities and states:
 - [ ] Knoxville,TN - TYS
 - [ ] Las Vegas, NV - LAS
 - [ ] Little Rock AR - LIT
-- [ ] Los Angles, CA LAX
+- [ ] Los Angles, CA - LAX
 - [ ] Louisville, KY - LOU
 - [ ] Maine - ME
 - [ ] Maryland - MD
@@ -61,7 +61,7 @@ List of cities and states:
 - [ ] Oakland, CA - OAK
 - [ ] Ocean City, NJ - OCNJ
 - [ ] Ohio - OH
-- [ ] Omaha, NE  - OMA
+- [ ] Omaha, NE - OMA
 - [ ] Oregon - OR
 - [ ] Pennsylvania - PA
 - [ ] Philadelphia, PA - PHL
@@ -70,8 +70,8 @@ List of cities and states:
 - [ ] Raleigh, NC - RDU
 - [ ] Richmond, VA - RIC
 - [ ] Rochester, NY - ROC
-- [ ] San Antonio, TX -SAT
-- [ ] San Diego, CA -SAN
+- [ ] San Antonio, TX - SAT
+- [ ] San Diego, CA - SAN
 - [ ] San Francisco, CA - SFO
 - [ ] Savannah, GA - SAV
 - [ ] Seattle, WA - SEA
