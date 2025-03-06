@@ -46,7 +46,7 @@ if (in_array($slct, $locs) && $slct != "") {
 		a, a:visited { color: #000;}
 		img { width: 100%; height: auto;}
 		form { margin: 1em 0;}
-		label, select, input[type="submit"] { padding: .25em 0; font-size: 1.375em;}
+		label, select, input[type="submit"] { padding: .25em; font-size: 1.375em;}
 		label { position: relative; display: block;}
 		select { width: 100%; margin: 0 .5em 0 0;}
 		input[type="submit"] { font-size: 1em; font-weight: bold; padding: .5em; background: #BEFF9E; margin: .75em 0 .25em 0;}
@@ -85,9 +85,11 @@ if (in_array($slct, $locs) && $slct != "") {
 			echo "<p class='error-msg'>Please make sure to select a city, state, or location from the drop-down list.</p>";
 		}	
 		$filename = 'inc/notices.html';
+/*
 		if (file_exists($filename)) {
 			include 'inc/notices.html';
 		}
+*/
 		?>
 		<form name="RequestForm" method="get" action="index.php">
 			<label for="slct" class="scrn-rdr">Choose a location</label>
