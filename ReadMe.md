@@ -1,7 +1,7 @@
 # John F Croston III Ate Here - Release Notes
 
 * John F Croston III Ate Here
-* Release Number:  v.0.7.51
+* Release Number:  v.0.7.52
 * Release Date: 03-06-2025
 
 ## Overview
@@ -122,6 +122,7 @@ Features:
 
 Enhancements with most recent on top:
 
+* Added color: #000; to the SELECT and INPUT SUBMIT to fix issues with iOS browser.
 * Commented out the logic to add global messages to save the bandwidth of the commented-out message in the file and fixed the Search box spacing.
 * Added Illinois to the drop down list and created necessary IL JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
 * Added Richmond, VA to the drop down list and created necessary RIC JSON file to the INDEX.php, NOTEATEN.php, TEST.php, and TEST.html files.
