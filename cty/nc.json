@@ -292,14 +292,14 @@
             },
             {
                 "name": "Chai Pani Asheville",
-				"add1": "22 Battery Park Ave,",
+				"add1": "32 Banks Ave",
 				"add2": "",
 				"cty": "Asheville",
 				"stt": "NC",
 				"zpcd": "28801",
 				"phn": "(828) 254-4003",
 				"url": "https://www.chaipani.com/asheville",
-				"note": "Chai Pani Asheville serves Indian chaat (street snacks) plus homestyle platters (thalis) in a funky, laid-back space. From their website. 'Indian street food from four-time James Beard nominated chef Meherwan Irani. Chai Pani literally means “tea and water.” It's slang in India for going out for a cup of tea, a tasty bite, a snack, or “a little something.” In Downtown Asheville (and now in Downtown Decatur), it means innovative, fun, affordable, and delicious Indian cuisine. We'd go so far as to say it's “mindblasting.” Some of the best food of any country is its street food, and Chai Pani features chaat - crunchy, spicy, sweet, tangy, brightly flavored Indian street snacks. And because there's nothing more comforting and delicious in any culture than a home cooked meal, Chai Pani also brings you thalis - traditional family meals highlighting India's amazing culinary diversity.'",
+				"note": "From their website, ‘Chai Pani literally means “tea and water.” It’s slang in India for going out for a cup of tea, a tasty bite, a snack, or “a little something.” In Downtown Asheville and Downtown Decatur, it means innovative, fun, affordable, and delicious Indian cuisine. Some of the best food of any country is its street food, and Chai Pani features chaat - crunchy, spicy, sweet, tangy, brightly flavored Indian street snacks. And because there’s nothing more comforting and delicious in any culture than a home-cooked meal, Chai Pani also brings you thalis, traditional family meals highlighting India’s amazing culinary diversity. Our mission is to serve awesome, affordable food that’s made with love and care.’ From the Carolina Eater website, ‘After winning the 2022 James Beard Award for Outstanding Restaurant, chef Meherwan Irani’s lighthearted homage to Indian street food outgrew the tiny downtown space where it earned its reputation, and in May, moved to much larger digs in the old Buxton Hall Barbecue location on Asheville’s South Slope. The move has allowed the restaurant to expand its menu as well as its signature buoyantly colorful decor and joyful Bollywood verve. Menu favorites like the kale pakoras and lime-kissed matchstick okra fries remain alongside new additions, including crispy sabudana vada tots and Bihari steak kebab. Chai Pani still doesn’t take reservations, but on weekends, guests can wait for their table with a grand view of the dining room from the upstairs cocktail and pani puri bar.’",
 				"eaten": "no",
 				"photo": "kkk",
 				"cptn": "lll",
@@ -312,7 +312,7 @@
 				"twttr": "sss",
 				"fcbk": "ttt",
 				"hrs": "uuu",
-				"rcmmnd": "New York Times"
+				"rcmmnd": "New York Times and Chef Vivian Howard (PBS - Somewhere South - YouTube)"
             },
             {
                 "name": "Cocoa Cinnamon",
@@ -1225,6 +1225,30 @@
 				"fcbk": "ttt",
 				"hrs": "Closed Monday and Tuesday",
 				"rcmmnd": "Diner, Drive-ins, and Dives"
+            },
+            {
+                "name": "Taqueria Munoz",
+				"add1": "1438 Patton Ave",
+				"add2": "ccc",
+				"cty": "Asheville",
+				"stt": "NC",
+				"zpcd": "28806",
+				"phn": "(828) 412-3331",
+				"url": "https://taqueriamunoz.com/",
+				"note": "From the Carolina’s Eater website, ‘No place in Asheville feels more like a roadside stop on a dusty Mexican highway than Taqueria Muñoz. This largely unadorned strip mall spot puts out truly authentic tacos. Here, it’s all about the meat — tongue, marinated pork, and cheek are the headliners — served alone on tortillas that can be dressed up at a salsa bar. The hot sauce is not to be messed with, especially for gringos. With its flagship location in an unassuming West Asheville strip mall space and a new second shop in an old Huddle House south of Biltmore Village, Taqueria Muñoz is regarded as a local culinary treasure for its lush and flavorful sopes, tortas, tacos, burritos, tamales, and more. The dominant language is Spanish, the dining experience is no-frills, the portions are hearty, and the prices are pleasantly affordable. Most dishes feature choices of pork pastor, carnitas, steak asada, chicharron, Cabeza, and tongue, but vegetarians don’t have to settle for rice and beans — additional options include spinach and mushrooms, huitlacoche, nopales, and squash blossoms.’ Berm Peak recommends ordering the carnitas torta with tomatoes, lettuce, poblanos, melted cheese, etc. Next time, he plans to get tacos.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Berm Peak (YouTube)"
             },
             {
                 "name": "White Duck Taco Shop (Downtown)",
