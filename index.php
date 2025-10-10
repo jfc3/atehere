@@ -191,9 +191,9 @@ if (in_array($slct, $locs) && $slct != "") {
 		if (!in_array($slct, $locs) || $slct == "") {
 	?>
 		<h2>Welcome</h2>
-		<p>You've found a small website <a href="http://jfciii.com">John F Croston III</a> (<a href="https://twitter.com/jfc3">@jfc3</a>) built to allow myself and others to select a city, state, or location and find restaurants in those places to eat.</p>
-		<p>These are the places I recommend to eat at or ones my friends whose food recommendations I trust, TV shows, blog posts, articles, etc.</p>
-		<p>In the future, I'm planning on creating and application that people can keep track places they want to eat when the travel.</p>
+		<p>You've found a small website <a href="http://jfciii.com">John F Croston III</a> (<a href="https://twitter.com/jfc3">@jfc3</a>) built to allow me and others to select a city, state, or location and find restaurants in those places to eat.</p>
+		<p>These are the places I recommend eating at, or friends whose food recommendations I trust, TV shows, blog posts, articles, etc.</p>
+		<p>In the future, I'm planning on creating an application that people can use to keep track of places they want to eat when they travel.</p>
 	<?php } else { ?>
 		<h2><?php echo $city; ?></h2>
 		<p>All the restaurants with an asterisk (<strong>*</strong>) after the name and the text "<span id="lfteh"><strong>Looking forward to eating here.</strong></span>" at the end of the note are places I would like to visit that friends, blog posts, articles, TV shows, etc. recommend I eat.</p>
