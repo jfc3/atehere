@@ -3,6 +3,30 @@
         "city": "Connecticut",
 		"posts": [
             {
+                "name": "Blackie's Hot Dog Stand",
+				"add1": "2200 Waterbury Rd",
+				"add2": "ccc",
+				"cty": "Cheshire",
+				"stt": "CT",
+				"zpcd": "06410",
+				"phn": "(203) 699-1819",
+				"url": "https://blackieshotdogs.com/",
+				"note": "From their website, ’It’s all about the dog and pepper relish. We’ve been a popular family-owned spot since 1928, and we’ve been serving our signature hot dogs and burgers fresh daily since then. Our famous homemade Hot Pepper Relish has delighted travelers and families, and many have tried to copy the secret family recipe – but there’s nothing like it anywhere! Take a ride down to Blackie’s, or order your relish online! Over the years, little has changed; we serve our signature hot dogs and burgers made fresh daily with our Homemade Pepper Relish. The menu is simple, and all you need to know is how many to order: one, two, or 3 and a cheese (translation: 3 Hot dogs and one Cheeseburger!). For over 90 years, we have been making our homemade Hot Pepper Relish (Not Too Hot–Just Right), which has become quite famous. The famous Blackie’s relish is a secret family recipe. Many will tell you the relish is not like other relishes; rather than being sweet, it is a spicy, pepper relish (Note: no pickles are harmed in the making of Blackie’s relish). Many have attempted to duplicate the recipe, and some have even come close, but there is only one Blackie’s Relish.’ Titus tweeted ‘Day 15: Hot Dog with brown mustard and the house special pepper relish at Blackie’s Hot Dog Stand (Cheshire, CT). Natural casing special blend wieners (beef/pork) made by Martin Rosol’s are fried then crisped further on a flattop. Since 1928.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Friday",
+				"rcmmnd": "Titus Ruscitti"
+            },
+            {
                 "name": "Frank Pepe Pizzeria Napoletana",
 				"add1": "157 Wooster St",
 				"add2": "",
@@ -145,6 +169,30 @@
 				"fcbk": "ttt",
 				"hrs": "uuu",
 				"rcmmnd": "Frank Pinello ( Govney - YouTube)"
+            },
+            {
+                "name": "Ted's Restaurant",
+				"add1": "1046 Broad St",
+				"add2": "ccc",
+				"cty": "Meriden",
+				"stt": "CT",
+				"zpcd": "06450",
+				"phn": "(203) 237-6660",
+				"url": "https://tedsrestaurant.com/",
+				"note": "From their website, ‘Serving world famous steamed cheeseburgers for over 65 Years. Come experience the one-of-a-kind flavor of our steamed cheeseburgers made fresh and customized just for you! Ted’s Restaurant has been a Connecticut staple for over 65 years! More than a restaurant, we’re a friendly neighbor that prides ourselves on a family-friendly atmosphere. So bring in your family and friends and share in the Ted’s experience.’ From the Easer website, ‘WHAT: The home of the central Connecticut steamer, aka a steamed cheeseburger, made with pizzazz by this snug little shack since 1959. WHY: Individual patties of ground beef and blocks of cheddar cheese are put in separate metal trays inside of a steam cabinet, where they are vapor-cooked. The result is a burger that’s unconscionably juicy, its cheese a pearlescent mass just viscous enough to seep into every crevice of the meat below. It’s maximum umami per bite.’ Binging with Babish and the Burger Show recommend ordering the steamed burger.",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "uuu",
+				"rcmmnd": "Binging with Babish and the Burger Show"
             }
         ]
     }
