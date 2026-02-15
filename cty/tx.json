@@ -1491,7 +1491,30 @@
 				"hrs": "uuu",
 				"rcmmnd": "vvv"
             },
-
+            {
+                "name": "Panther City BBQ",
+				"add1": "201 E Hattie St",
+				"add2": "ccc",
+				"cty": "Fort Worth",
+				"stt": "TX",
+				"zpcd": "76104",
+				"phn": "(682) 250-4464",
+				"url": "https://www.panthercitybbq.com/",
+				"note": "From their website, ‘Panther City BBQ (the name is an homage to Fort Worth’s &ldquo;Panther City&rdquo; nickname) started serving barbecue out of the food truck in January after Republic Street Bar, which owns the truck, announced it was up for grabs when another barbecue vendor called it quits. &ldquo;It was a bad time of year to open a food truck, &rdquo; Magallanes says, but he felt like they needed to jump on the opportunity. He, along with his partner, Ernest Morales, had found success on the competition circuit and as part-time barbecue vendors, but this is their first permanent spot. Some barbecue nostalgia comes with the site, which is where Heim BBQ launched its flourishing business—Panther City BBQ even includes a Heim homage on the menu.’",
+				"eaten": "no",
+				"photo": "kkk",
+				"cptn": "lll",
+				"photo2": "mmm",
+				"cptn2": "nnn",
+				"photo3": "ooo",
+				"cptn3": "ppp",
+				"prc": "qqq",
+				"fdtyp": "rrr",
+				"twttr": "sss",
+				"fcbk": "ttt",
+				"hrs": "Closed Monday and Tuesday",
+				"rcmmnd": "Texas Monthly Magazine"
+            },
             {
                 "name": "Paperboy",
 				"add1": "1203 E 11th St",
